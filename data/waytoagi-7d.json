@@ -1,55 +1,25 @@
 {
-  "generated_at": "2026-02-24T05:09:00.237542Z",
+  "generated_at": "2026-02-24T06:35:39.132356Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-02-23",
-  "count_today": 8,
+  "latest_date": "2026-02-24",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-02-23",
-      "title": "这款超实用的Claude Code插件Claudeception，堪称AI办公效率神器！它能自动学习你工作习惯，将写作流程、文件管理、问题排查等习惯转化为精准匹配的Skill，后续无需重复指令，AI就能贴合你的工作风格。而且它还有严格的质量筛选，只留存可复用的有效经验，虽然是慢热型工具，但使用2-3周后便能大幅节省沟通时间。本篇文章分享了详细的安装步骤、避坑指南和使用技巧，对Claude Code重度用户、有固定工作流程的人而言，不容错过！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-23",
-      "title": "这份OpenClaw零代码实战教程，通过Shell封装实现Codex CLI零轮询运行，可以告别等待与重复命令；再搭配Git驱动的自动化审计流程，代码推送后即可由Agent团队自动审查、修复并发送通知。追求高效、自动化开发流程的人快来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-23",
-      "title": "这个大模型评测打破了传统榜单总分导向的弊端！XSCT Bench平台以场景化为核心，靠六大科学评分策略保障结果精准，还独创了多场景推荐指数，让不同需求都能找到适配模型。平台可以直观对比模型真实输出，精准区分模型能力短板与Prompt问题，还提供了多维度可视化分析，为大家高效选出高性价比、贴合业务场景的模型大幅节省试错成本，快来一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-23",
-      "title": "开发者AlexFinn靠OpenClaw月入超万美元的实战指南来了！这篇内容揭秘其本地部署的核心优势与5分钟快速上手方案，教你打造24/7工作的专属数字员工。从建立工作关系、反向提示的核心思维，到搭建每日简报、任务控制中心的落地玩法，再到安全使用规则，全维度拆解高效用法，帮你解锁主动工作、自我改进的AI生产力。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-23",
-      "title": "作者这篇深度解析带你读懂Awesome OpenClaw Skills生态的核心逻辑！项目从5705个技能中严苛筛选出3002个优质项，以质量、安全为先清退近半数内容，规避金融风险、剔除恶意与重复技能。28个分类覆盖AI大模型、开发工具、Agent社交等多领域。文中还按开发者、创意工作者等不同人群给出了专属导航建议，是快速把握AI Agent生态全貌、找准开发与应用方向的关键参考。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-23",
-      "title": "OpenAI Codex负责人的深度访谈，带你拆解AI编码与Agent时代的核心趋势。Codex半年实现20倍增长，OpenAI内部已实现AI主导代码编写，工程师工作模式彻底转向“委托式”协作。综合来看，AGI发展的核心瓶颈在人机交互而非模型，通用Agent或将主导市场。此外，AI时代的主动性、品味与质量才是稀缺能力！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-23",
-      "title": "AetherViz Master 依托 Gemini 3.1 把零代码 3D 互动教学变成现实。只需输入知识点，几秒就能自动生成可交互网页，覆盖多学科并智能切换 2D/3D 渲染，集成公式、测验、参数调节等完整教学能力。它让抽象知识变成立体可操作的体验，真正把学习从被动接收变成主动探索，为教育工具带来体验级革新！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-23",
-      "title": "AI Agent正在重构SaaS行业，2026年初软件板块蒸发2万亿市值，传统SaaS的界面、工作流等护城河被系统性瓦解，按座位收费模式彻底失效。这篇文章拆解了旧壁垒崩塌的核心原因，明晰新护城河的四大核心维度，带你揭秘SaaS分裂为AI-Infra、垂直AI、Agent SaaS三大新物种的行业趋势，更给出投资者、企业、创业者的专属战略行动指南。",
+      "date": "2026-02-24",
+      "title": "非技术向AI学习指南来啦！不用懂编程或算法，就能快速上手AI。作者甲木围绕五大学习心法，从工具选择、场景切入、提示词沟通等入门技巧，到Skills封装、Workflow搭建、Vibe Coding等进阶玩法，再到OpenClaw等热门Agent工具实操，层层递进。更涵盖一手信息源、资本风向与职业发展建议，帮非技术人群（职场人、学生、创业者等）避开学习误区，从新手成长为高效使用者，轻松让AI赋能工作生活。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 38,
   "updates_7d": [
+    {
+      "date": "2026-02-24",
+      "title": "非技术向AI学习指南来啦！不用懂编程或算法，就能快速上手AI。作者甲木围绕五大学习心法，从工具选择、场景切入、提示词沟通等入门技巧，到Skills封装、Workflow搭建、Vibe Coding等进阶玩法，再到OpenClaw等热门Agent工具实操，层层递进。更涵盖一手信息源、资本风向与职业发展建议，帮非技术人群（职场人、学生、创业者等）避开学习误区，从新手成长为高效使用者，轻松让AI赋能工作生活。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-02-23",
       "title": "这款超实用的Claude Code插件Claudeception，堪称AI办公效率神器！它能自动学习你工作习惯，将写作流程、文件管理、问题排查等习惯转化为精准匹配的Skill，后续无需重复指令，AI就能贴合你的工作风格。而且它还有严格的质量筛选，只留存可复用的有效经验，虽然是慢热型工具，但使用2-3周后便能大幅节省沟通时间。本篇文章分享了详细的安装步骤、避坑指南和使用技巧，对Claude Code重度用户、有固定工作流程的人而言，不容错过！",
