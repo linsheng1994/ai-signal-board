@@ -1,23 +1,33 @@
 {
-  "generated_at": "2026-02-24T06:35:39.132356Z",
+  "generated_at": "2026-02-24T07:51:15.966061Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-02-24",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
     {
       "date": "2026-02-24",
       "title": "非技术向AI学习指南来啦！不用懂编程或算法，就能快速上手AI。作者甲木围绕五大学习心法，从工具选择、场景切入、提示词沟通等入门技巧，到Skills封装、Workflow搭建、Vibe Coding等进阶玩法，再到OpenClaw等热门Agent工具实操，层层递进。更涵盖一手信息源、资本风向与职业发展建议，帮非技术人群（职场人、学生、创业者等）避开学习误区，从新手成长为高效使用者，轻松让AI赋能工作生活。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "作者避开复杂公式，把 SFT、RLHF 等核心方向，PPO、DPO 等算法，以及 LoRA、Adapter 等参数微调工具讲得明明白白。从预训练与后训练的关联，到调参逻辑、范围选择，再到蒸馏、量化等降本增效场景，层层拆解核心知识点，帮非技术读者搭建完整认知框架，搞懂专业术语背后的逻辑，快速掌握大模型后训练的核心！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 39,
   "updates_7d": [
     {
       "date": "2026-02-24",
       "title": "非技术向AI学习指南来啦！不用懂编程或算法，就能快速上手AI。作者甲木围绕五大学习心法，从工具选择、场景切入、提示词沟通等入门技巧，到Skills封装、Workflow搭建、Vibe Coding等进阶玩法，再到OpenClaw等热门Agent工具实操，层层递进。更涵盖一手信息源、资本风向与职业发展建议，帮非技术人群（职场人、学生、创业者等）避开学习误区，从新手成长为高效使用者，轻松让AI赋能工作生活。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "作者避开复杂公式，把 SFT、RLHF 等核心方向，PPO、DPO 等算法，以及 LoRA、Adapter 等参数微调工具讲得明明白白。从预训练与后训练的关联，到调参逻辑、范围选择，再到蒸馏、量化等降本增效场景，层层拆解核心知识点，帮非技术读者搭建完整认知框架，搞懂专业术语背后的逻辑，快速掌握大模型后训练的核心！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
