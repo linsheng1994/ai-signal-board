@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T08:51:10.195061Z",
+  "generated_at": "2026-02-24T09:54:06.607789Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-02-24",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-02-24",
@@ -16,9 +16,14 @@
       "date": "2026-02-24",
       "title": "作者避开复杂公式，把 SFT、RLHF 等核心方向，PPO、DPO 等算法，以及 LoRA、Adapter 等参数微调工具讲得明明白白。从预训练与后训练的关联，到调参逻辑、范围选择，再到蒸馏、量化等降本增效场景，层层拆解核心知识点，帮非技术读者搭建完整认知框架，搞懂专业术语背后的逻辑，快速掌握大模型后训练的核心！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "专为Claude Code用户打造的开源配置同步神器来啦！claude-config-sync完美解决了多设备配置不同步、换机重装插件技能的痛点，而且支持选择性同步技能、插件等内容，还默认屏蔽敏感文件。5分钟即可完成初始化，更有自动监听、备份管理等实用功能，全平台兼容且开源免费，彻底告别配置管理的繁琐操作！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 40,
   "updates_7d": [
     {
       "date": "2026-02-24",
@@ -28,6 +33,11 @@
     {
       "date": "2026-02-24",
       "title": "作者避开复杂公式，把 SFT、RLHF 等核心方向，PPO、DPO 等算法，以及 LoRA、Adapter 等参数微调工具讲得明明白白。从预训练与后训练的关联，到调参逻辑、范围选择，再到蒸馏、量化等降本增效场景，层层拆解核心知识点，帮非技术读者搭建完整认知框架，搞懂专业术语背后的逻辑，快速掌握大模型后训练的核心！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "专为Claude Code用户打造的开源配置同步神器来啦！claude-config-sync完美解决了多设备配置不同步、换机重装插件技能的痛点，而且支持选择性同步技能、插件等内容，还默认屏蔽敏感文件。5分钟即可完成初始化，更有自动监听、备份管理等实用功能，全平台兼容且开源免费，彻底告别配置管理的繁琐操作！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
