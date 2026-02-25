@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-02-25T11:40:38.851200Z",
+  "generated_at": "2026-02-25T13:06:51.792353Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-02-25",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
+    {
+      "date": "2026-02-25",
+      "title": "OpenClaw的正确形态从不是独立App，而是嵌入Telegram等常用聊天工具，以多专业Agent分工协作的模式运作，搭配总管调度与统一记忆，主动汇报替代被动指令，大幅提升交互价值。当前跨Agent记忆共享是最大短板，却也是创业者的黄金赛道。看懂这套架构逻辑，或许你也能提前布局Agent协同的下一波红利。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-02-25",
       "title": "LuxReal是群核科技基于3D技术所打造的AI内容创作工具，支持 AI 短剧与商品视频双场景创作，兼顾高效 Agent 模式与精细 Canvas 模式。目前仅有英文版但支持中文输入，只需上传图片+简单描述，就能一键生成剧本、分镜与成片，风格、比例、清晰度可自由定制，是视频创作者和电商从业者的高效生产力神器。",
@@ -18,8 +23,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 39,
   "updates_7d": [
+    {
+      "date": "2026-02-25",
+      "title": "OpenClaw的正确形态从不是独立App，而是嵌入Telegram等常用聊天工具，以多专业Agent分工协作的模式运作，搭配总管调度与统一记忆，主动汇报替代被动指令，大幅提升交互价值。当前跨Agent记忆共享是最大短板，却也是创业者的黄金赛道。看懂这套架构逻辑，或许你也能提前布局Agent协同的下一波红利。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-02-25",
       "title": "LuxReal是群核科技基于3D技术所打造的AI内容创作工具，支持 AI 短剧与商品视频双场景创作，兼顾高效 Agent 模式与精细 Canvas 模式。目前仅有英文版但支持中文输入，只需上传图片+简单描述，就能一键生成剧本、分镜与成片，风格、比例、清晰度可自由定制，是视频创作者和电商从业者的高效生产力神器。",
