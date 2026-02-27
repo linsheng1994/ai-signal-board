@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-02-27T15:59:36.906441Z",
+  "generated_at": "2026-02-27T16:52:05.811710Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-02-27",
-  "count_today": 6,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-02-27",
       "title": "饼干哥哥这篇OpenClaw架构拆解以第一性原理为纲，从抓取100个独立站的实战需求出发，推演出了五层核心架构：从通道适配器统一异构数据，到网关服务器避免并发崩溃，再到智能体运行器注入工具定义，靠代理执行循环突破反爬，最后通过响应路径实现结果触达与审计。看懂了OpenClaw的结构和运行逻辑，才能让它真正嵌入业务流程，解锁更多实用玩法。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-27",
+      "title": "这份OpenClaw实战应用案例合集覆盖社交、生产力、开发运维、学习、金融等真实场景，从自动摘要、个人CRM、多智能体团队到自愈服务器，提供了大量可直接复用的用法，帮你找到AI真正改善生活与工作的切入点。快来一起高效把OpenClaw用起来！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -38,11 +43,16 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 42,
+  "count_7d": 40,
   "updates_7d": [
     {
       "date": "2026-02-27",
       "title": "饼干哥哥这篇OpenClaw架构拆解以第一性原理为纲，从抓取100个独立站的实战需求出发，推演出了五层核心架构：从通道适配器统一异构数据，到网关服务器避免并发崩溃，再到智能体运行器注入工具定义，靠代理执行循环突破反爬，最后通过响应路径实现结果触达与审计。看懂了OpenClaw的结构和运行逻辑，才能让它真正嵌入业务流程，解锁更多实用玩法。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-27",
+      "title": "这份OpenClaw实战应用案例合集覆盖社交、生产力、开发运维、学习、金融等真实场景，从自动摘要、个人CRM、多智能体团队到自愈服务器，提供了大量可直接复用的用法，帮你找到AI真正改善生活与工作的切入点。快来一起高效把OpenClaw用起来！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -233,21 +243,6 @@
     {
       "date": "2026-02-22",
       "title": "Claude Code重磅更新！官方原生内置Git Worktree，解决了多 Agent 并行开发的痛点！此前社区手动搭建 worktree 不仅操作繁琐，还存在 subagent 不兼容、Agent 感知异常等问题，如今仅需一个 --worktree 参数，就能实现自动创建隔离目录、subagent 原生适配，桌面版还可以一键开启。搭配指定参数就能让多 Agent 全自动并行工作，完美适配多功能开发、批量代码迁移等场景，与 Agent Teams 形成高效配合，让并行编码零冲突更高效！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-21",
-      "title": "OpenClaw 实操干货来袭！Matthew Berman靠它用一台MacBook、零代码搭建的十大落地用例，一人就撑起小公司中台工作。从30分钟搞定定制化CRM、会议行动项自动追踪，到多Agent商业顾问团、AI自查的安全委员会，还有视频选题流水线、过敏原排查的食物日记等，各模块数据互通形成飞轮效应。更有完善的定时任务、备份更新体系，搭配多重安全防护和基建技巧！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-21",
-      "title": "Notion CEO伊万·赵的访谈直击AI Agent时代核心趋势，为企业和SaaS行业奉上转型干货！Notion即将推出企业级Custom Agents，可以高效处理重复工作、节省大量工时，伊万本人也已经用Agent接管邮件等工作，但在AI提效方面目前是碎片化的，暂未替代完整岗位。Notion 正从按席位收费转向按用量收费，坚持数据开放、模型中立的战略，还将推出独立 Agent 聊天应用，其 IPO 也锚定这一全新商业模式跑通，更提出产品若无法被 Agent 使用则未来堪忧，为 SaaS 行业指明转型方向。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-21",
-      "title": "Google Gemini 3预训练负责人首次揭秘模型研发核心逻辑，带来满满前沿干货！Gemini 3的突破性提升，靠的是百人大团队的多维度改进合力，而非单纯算力堆砌，其混合专家架构更是实现了计算与参数的分离。行业正从“数据无限”转向“数据有限”的范式，合成数据需谨慎使用。此外负责人还分享了长上下文、注意力机制等预训练前沿方向，以及研究型工程、全技术栈理解的 AI 人才核心素养，快来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
