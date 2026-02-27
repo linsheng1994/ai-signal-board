@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-02-27T14:09:10.447065Z",
+  "generated_at": "2026-02-27T15:06:31.468288Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-02-27",
-  "count_today": 2,
+  "count_today": 4,
   "updates_today": [
+    {
+      "date": "2026-02-27",
+      "title": "这份Agent记忆系统指南，带你打破“超长上下文=记忆”的认知误区！记忆系统的关键在于“写入-检索-老化-治理”闭环，这样才能让Agent跨会话也稳定工作、持续成长。工程化落地的关键在四层架构，需要建设好写入治理、检索精度、老化机制等核心能力。不管是搭建个人助手还是企业落地Agent，或许都能从这篇文章中找到实施思路！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-27",
+      "title": "DeepSeek发布了一篇新论文 ，揭示了一个令人意外的发现： 智能体推理的性能瓶颈，根本不在GPU算力，而在存储I/O带宽的分配不合理 。新发布的 DualPath 技术盘活了闲置资源，无需额外的硬件成本就可以把推理性能拉满1.87倍。用资源调度替代硬件堆叠，是应对超长上下文、多轮交互场景的全新尝试，快来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-02-27",
       "title": "Anthropic CEO Dario的深度访谈来啦！这位从生物学家转型的AI领军者，坦诚分享了从OpenAI出走并创立Anthropic的核心原因，还揭秘了曾暂缓Claude发布的抉择。此次访谈直击AI权力集中、工作替代、创业机会等核心议题，给出了一些实用方向，或许你也能从中get实用指引。",
@@ -18,8 +28,18 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 40,
   "updates_7d": [
+    {
+      "date": "2026-02-27",
+      "title": "这份Agent记忆系统指南，带你打破“超长上下文=记忆”的认知误区！记忆系统的关键在于“写入-检索-老化-治理”闭环，这样才能让Agent跨会话也稳定工作、持续成长。工程化落地的关键在四层架构，需要建设好写入治理、检索精度、老化机制等核心能力。不管是搭建个人助手还是企业落地Agent，或许都能从这篇文章中找到实施思路！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-27",
+      "title": "DeepSeek发布了一篇新论文 ，揭示了一个令人意外的发现： 智能体推理的性能瓶颈，根本不在GPU算力，而在存储I/O带宽的分配不合理 。新发布的 DualPath 技术盘活了闲置资源，无需额外的硬件成本就可以把推理性能拉满1.87倍。用资源调度替代硬件堆叠，是应对超长上下文、多轮交互场景的全新尝试，快来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-02-27",
       "title": "Anthropic CEO Dario的深度访谈来啦！这位从生物学家转型的AI领军者，坦诚分享了从OpenAI出走并创立Anthropic的核心原因，还揭秘了曾暂缓Claude发布的抉择。此次访谈直击AI权力集中、工作替代、创业机会等核心议题，给出了一些实用方向，或许你也能从中get实用指引。",
