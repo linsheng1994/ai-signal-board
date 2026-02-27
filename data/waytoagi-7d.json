@@ -1,20 +1,30 @@
 {
-  "generated_at": "2026-02-27T07:49:07.494829Z",
+  "generated_at": "2026-02-27T08:41:50.121341Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-02-27",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
+    {
+      "date": "2026-02-27",
+      "title": "Anthropic CEO Dario的深度访谈来啦！这位从生物学家转型的AI领军者，坦诚分享了从OpenAI出走并创立Anthropic的核心原因，还揭秘了曾暂缓Claude发布的抉择。此次访谈直击AI权力集中、工作替代、创业机会等核心议题，给出了一些实用方向，或许你也能从中get实用指引。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-02-27",
       "title": "AI编码革命下，Harness Engineering已成为工程师的核心能力！OpenAI靠它让Codex 5个月生成百万行代码，LangChain仅调优harness就实现了Agent跑分26%的飞跃。它破解了LLM无状态与复杂任务有状态的核心矛盾，涵盖上下文、工具、工作流三大维度，还总结了OpenAI渐进式披露、Anthropic状态外部化等四大实战方案。用工程化约束AI的概率性输出，或许是未来 AI 落地生产的核心护城河！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 38,
   "updates_7d": [
+    {
+      "date": "2026-02-27",
+      "title": "Anthropic CEO Dario的深度访谈来啦！这位从生物学家转型的AI领军者，坦诚分享了从OpenAI出走并创立Anthropic的核心原因，还揭秘了曾暂缓Claude发布的抉择。此次访谈直击AI权力集中、工作替代、创业机会等核心议题，给出了一些实用方向，或许你也能从中get实用指引。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-02-27",
       "title": "AI编码革命下，Harness Engineering已成为工程师的核心能力！OpenAI靠它让Codex 5个月生成百万行代码，LangChain仅调优harness就实现了Agent跑分26%的飞跃。它破解了LLM无状态与复杂任务有状态的核心矛盾，涵盖上下文、工具、工作流三大维度，还总结了OpenAI渐进式披露、Anthropic状态外部化等四大实战方案。用工程化约束AI的概率性输出，或许是未来 AI 落地生产的核心护城河！",
