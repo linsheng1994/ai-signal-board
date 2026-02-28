@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T16:27:54.763682Z",
+  "generated_at": "2026-02-28T16:51:09.003386Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-02-28",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-02-28",
@@ -31,9 +31,14 @@
       "date": "2026-02-28",
       "title": "OpenClaw作者单日627次代码提交的背后，藏着AI时代开发的核心密码！这不是人力极限操作，而是AI自动化流水线的功劳——从发现问题、写代码、跑测试，到重构优化、自动提交，全流程自主闭环，最快11秒完成一次迭代，深夜也能持续工作。关键就是以自动化测试为基础，让AI自主迭代，这样人们仅仅需要定目标、划边界就可以了。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-28",
+      "title": "Claude Code 新版自动记忆功能上线，解决了跨会话遗忘痛点，但也暴露出Token消耗高、无法同步、难以管理等问题。作者自研的三层记忆系统完美补位，通过Hook脚本实现知识自动提取、结构化存储与精准加载，支持记忆过期管理、团队共享与Token可控，与官方方案形成“AI智能发现+结构化管理”的黄金组合。文中附带实测对比、避坑指南与一键安装脚本，实战价值拉满。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 40,
   "updates_7d": [
     {
       "date": "2026-02-28",
@@ -58,6 +63,11 @@
     {
       "date": "2026-02-28",
       "title": "OpenClaw作者单日627次代码提交的背后，藏着AI时代开发的核心密码！这不是人力极限操作，而是AI自动化流水线的功劳——从发现问题、写代码、跑测试，到重构优化、自动提交，全流程自主闭环，最快11秒完成一次迭代，深夜也能持续工作。关键就是以自动化测试为基础，让AI自主迭代，这样人们仅仅需要定目标、划边界就可以了。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-28",
+      "title": "Claude Code 新版自动记忆功能上线，解决了跨会话遗忘痛点，但也暴露出Token消耗高、无法同步、难以管理等问题。作者自研的三层记忆系统完美补位，通过Hook脚本实现知识自动提取、结构化存储与精准加载，支持记忆过期管理、团队共享与Token可控，与官方方案形成“AI智能发现+结构化管理”的黄金组合。文中附带实测对比、避坑指南与一键安装脚本，实战价值拉满。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
