@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T08:31:02.023645Z",
+  "generated_at": "2026-02-28T09:27:37.480013Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-02-28",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-02-28",
@@ -14,15 +14,25 @@
     },
     {
       "date": "2026-02-28",
+      "title": "全美第一门把 AI 贯穿整个软件开发流程的大学课程来了！主讲人Mihail Eric直击AI时代开发痛点，点出初级开发者正遇裁员、毕业生激增、AI替代的三重困境。从循序渐进管理Agent、打造测试完善、文档自洽的Agent友好代码库，到品味藏在开发最后一公里，更颠覆认知指出新人的“无知无畏”是掌握AI工具的超能力。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-28",
       "title": "OpenClaw作者单日627次代码提交的背后，藏着AI时代开发的核心密码！这不是人力极限操作，而是AI自动化流水线的功劳——从发现问题、写代码、跑测试，到重构优化、自动提交，全流程自主闭环，最快11秒完成一次迭代，深夜也能持续工作。关键就是以自动化测试为基础，让AI自主迭代，这样人们仅仅需要定目标、划边界就可以了。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 42,
+  "count_7d": 43,
   "updates_7d": [
     {
       "date": "2026-02-28",
       "title": "这篇Claude Code进阶指南打破“聊天式用AI”的误区，带你从底层解锁其“操作系统”的核心能力。从CLAUDE.md六层记忆体系定项目规则，到Token优化、模型路由降本，再到Plan Mode、双AI互审保质量，还有Skills+Hooks自动化流程，以及并行开发提效率，全是可直接落地的硬核技巧。或许你也能从中找到全新用法！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-28",
+      "title": "全美第一门把 AI 贯穿整个软件开发流程的大学课程来了！主讲人Mihail Eric直击AI时代开发痛点，点出初级开发者正遇裁员、毕业生激增、AI替代的三重困境。从循序渐进管理Agent、打造测试完善、文档自洽的Agent友好代码库，到品味藏在开发最后一公里，更颠覆认知指出新人的“无知无畏”是掌握AI工具的超能力。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
