@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T17:12:17.168391Z",
+  "generated_at": "2026-03-02T18:04:19.382496Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-02",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-03-02",
@@ -24,6 +24,11 @@
     },
     {
       "date": "2026-03-02",
+      "title": "作者终于肝完了龙虾（OpenClaw）实现seedance2.0视频一键生成。本文将结合实战案例，介绍完整使用方法和心路历程，让大家感受下龙虾的强大！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-02",
       "title": "作者带来超易懂的Transformer硬核科普，不用啃复杂公式，就能吃透ChatGPT、豆包等所有大模型的底层核心。本篇文章带你从RNN的串行低效、长文本记忆短板切入，用大白话+实例拆解自注意力、QKV、多头注意力等关键概念，讲清Transformer并行计算、精准捕捉上下文的逻辑，还解析了编码器-解码器的完整架构。读懂它，就能真正理解AI的运行底层，打破对大模型的认知迷雾！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
@@ -33,7 +38,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 40,
+  "count_7d": 41,
   "updates_7d": [
     {
       "date": "2026-03-02",
@@ -48,6 +53,11 @@
     {
       "date": "2026-03-02",
       "title": "我们每次发送给openclaw的提示词都是什么？如果你想了解系统提示词，或者想对系统提示词进行瘦身，那么这篇文章或者工具一点可以帮到你！拒绝脑补！作者通过自研代码，把 OpenClaw 发给模型的所有底牌扒给你看， 希望对你有所启发，也能助你更深入了解openclaw ，以及其提示词的构造，为后续优化作为参考！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-02",
+      "title": "作者终于肝完了龙虾（OpenClaw）实现seedance2.0视频一键生成。本文将结合实战案例，介绍完整使用方法和心路历程，让大家感受下龙虾的强大！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
