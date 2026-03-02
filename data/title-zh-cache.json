@@ -2343,5 +2343,7 @@
   "Qualcomm’s new chip is geared toward wearable AI gadgets": "高通的新芯片面向可穿戴人工智能设备",
   "An interactive intro to Elliptic Curve Cryptography": "椭圆曲线密码学的交互式介绍",
   "The inner workings of TCP zero-copy": "TCP零拷贝的内部工作原理",
-  "64-bit Hurd support added to GNU Guix": "GNU Guix 中添加了 64 位 Hurd 支持"
+  "64-bit Hurd support added to GNU Guix": "GNU Guix 中添加了 64 位 Hurd 支持",
+  "Sabela: A Reactive Haskell Notebook": "Sabela：反应式 Haskell 笔记本",
+  "Show HN: Omni – Open-source workplace search and chat, built on Postgres": "Show HN：Omni – 基于 Postgres 构建的开源工作场所搜索和聊天"
 }
