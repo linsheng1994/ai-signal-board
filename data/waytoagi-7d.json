@@ -1,23 +1,43 @@
 {
-  "generated_at": "2026-03-03T07:42:54.407739Z",
+  "generated_at": "2026-03-03T08:42:21.319017Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-03",
-  "count_today": 1,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-03-03",
       "title": "通义实验室语音团队正式发布两款支持 FreeStyle 指令生成 的模型 Fun-CosyVoice3.5 与 Fun-AudioGen-VD 。 无论是 精细控制声音表达 ，还是 从零设计音色与场景 ，都可以通过自然语言指令直接生成。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-03",
+      "title": "当你亲眼看到一个agent在接入了公司数据以后，做出了人类团队两三个月都没搭出来的决策体系， 你会意识到，team agent已经能用了，而且效果远超预期。这篇文章带你一起探索： 当龙虾从单兵进入team， 到底需要什么样的 基础设施？ 市面上有哪些 技术路线 在竞争？ 以及——为什么我认为 飞书是这一轮里最大的赢家。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-03",
+      "title": "Jenny Wen是Claude的设计负责人，目前主导Claude Co-work的设计工作。而加入Anthropic 之前，她是Figma的设计总监 ，主导了FigJam和Slides两个产品从概念到发布的全过程。更早之前在Dropbox、Square和Shopify做设计。这期 Lenny's Podcast 聊了五件大事：传统设计流程为什么走到了尽头、在 AI 实验室做设计是什么感受、AI 会不会取代人类的品味和判断力、Co-work是怎么做出来的、以及现在招什么样的设计师。快来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 42,
+  "count_7d": 44,
   "updates_7d": [
     {
       "date": "2026-03-03",
       "title": "通义实验室语音团队正式发布两款支持 FreeStyle 指令生成 的模型 Fun-CosyVoice3.5 与 Fun-AudioGen-VD 。 无论是 精细控制声音表达 ，还是 从零设计音色与场景 ，都可以通过自然语言指令直接生成。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-03",
+      "title": "当你亲眼看到一个agent在接入了公司数据以后，做出了人类团队两三个月都没搭出来的决策体系， 你会意识到，team agent已经能用了，而且效果远超预期。这篇文章带你一起探索： 当龙虾从单兵进入team， 到底需要什么样的 基础设施？ 市面上有哪些 技术路线 在竞争？ 以及——为什么我认为 飞书是这一轮里最大的赢家。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-03",
+      "title": "Jenny Wen是Claude的设计负责人，目前主导Claude Co-work的设计工作。而加入Anthropic 之前，她是Figma的设计总监 ，主导了FigJam和Slides两个产品从概念到发布的全过程。更早之前在Dropbox、Square和Shopify做设计。这期 Lenny's Podcast 聊了五件大事：传统设计流程为什么走到了尽头、在 AI 实验室做设计是什么感受、AI 会不会取代人类的品味和判断力、Co-work是怎么做出来的、以及现在招什么样的设计师。快来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
