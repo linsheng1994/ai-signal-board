@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-03-03T15:12:51.223683Z",
+  "generated_at": "2026-03-03T16:06:55.057992Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-03",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-03-03",
       "title": "通义实验室语音团队正式发布两款支持 FreeStyle 指令生成 的模型 Fun-CosyVoice3.5 与 Fun-AudioGen-VD 。 无论是 精细控制声音表达 ，还是 从零设计音色与场景 ，都可以通过自然语言指令直接生成。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-03",
+      "title": "用OpenClaw辅助跨境业务，却卡在公众号、小红书这些平台拿不到内容？这篇文章是作者实测的真实踩坑笔记，专门解决最头疼的内容抓取与信息获取难题。覆盖Reddit、Amazon、TikTok 等10个跨境电商高频场景 ，从配置、调用到避坑一次性讲透，帮你省下大量试错时间与Token成本，真正把OpenClaw变成跨境运营的高效利器。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -23,11 +28,16 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 44,
+  "count_7d": 39,
   "updates_7d": [
     {
       "date": "2026-03-03",
       "title": "通义实验室语音团队正式发布两款支持 FreeStyle 指令生成 的模型 Fun-CosyVoice3.5 与 Fun-AudioGen-VD 。 无论是 精细控制声音表达 ，还是 从零设计音色与场景 ，都可以通过自然语言指令直接生成。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-03",
+      "title": "用OpenClaw辅助跨境业务，却卡在公众号、小红书这些平台拿不到内容？这篇文章是作者实测的真实踩坑笔记，专门解决最头疼的内容抓取与信息获取难题。覆盖Reddit、Amazon、TikTok 等10个跨境电商高频场景 ，从配置、调用到避坑一次性讲透，帮你省下大量试错时间与Token成本，真正把OpenClaw变成跨境运营的高效利器。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -213,36 +223,6 @@
     {
       "date": "2026-02-26",
       "title": "Claude Code新出的Remote Control功能太香了！手机就能远程操控电脑端AI编程，不用迁移代码和环境，出门也能让AI自主干活，还能实时查看进度、手机审批操作，而且多设备同步+语音指令超便捷。作者这篇三步就能上手的教程，还分享了全局开启、防止断连等5个提效技巧以及常见bug的解决办法。虽然功能还在打磨，但让AI干活的时间变成你的自由时间，效率拉满！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-25",
-      "title": "本篇文章带你拆解OpenClaw的核心技术架构，让AI助手不再神秘！它依靠定时任务、心跳机制与Soul人格文件，从被动工具变成能主动干活的智能体。00 后开发者来新璐现场手搓了一个极简版本，还实现了AI自动拨打FaceTime、智能下播等名场面，趣味性与实用性拉满。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-25",
-      "title": "OpenClaw的正确形态从不是独立App，而是嵌入Telegram等常用聊天工具，以多专业Agent分工协作的模式运作，搭配总管调度与统一记忆，主动汇报替代被动指令，大幅提升交互价值。当前跨Agent记忆共享是最大短板，却也是创业者的黄金赛道。看懂这套架构逻辑，或许你也能提前布局Agent协同的下一波红利。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-25",
-      "title": "LuxReal是群核科技基于3D技术所打造的AI内容创作工具，支持 AI 短剧与商品视频双场景创作，兼顾高效 Agent 模式与精细 Canvas 模式。目前仅有英文版但支持中文输入，只需上传图片+简单描述，就能一键生成剧本、分镜与成片，风格、比例、清晰度可自由定制，是视频创作者和电商从业者的高效生产力神器。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-25",
-      "title": "AI交互迎来OS级革新！这篇框架以ConversationUI为核心，将Agent、工具甚至硬件都化为平等角色，通过群聊模式实现灵活协作——可自主主导任务分配，也能切换自动模式让不同角色自主协同。不同角色还支持跨群流转上下文、主动推送消息。这种操作彻底打破了当前AI工具的使用局限，为C端AI产品落地提供了全新路径。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-25",
-      "title": "2026年AI已迈入 Agent 时代的全新阶段！顶尖模型已经具备专家级能力与自主判断力，能长时间独立完成复杂任务。Agent可本地运行调用全量数据，通过MCP协议连接各类服务，借助Skills快速解锁专业技能，甚至能操作图形界面、联动物理载体。多智能体协作更打破效率瓶颈，组队并行工作还能沉淀经验持续进化。臧师傅这篇文章把2026年初AI领域到底发生了哪些变化，一层一层拆给你看！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-25",
-      "title": "2026年AI发展狂飙，agent从单打独斗升级为智能协作，多模态创作门槛骤降，各行业都在变革。作者直击个人破局关键：无论大厂、初创还是创业，都要扎进高浓度AI领域，掌握Build能力等核心技能，打破岗位边界。AI浪潮远比移动互联网迅猛，与其焦虑迷茫，不如搭建专属认知框架，找准自己的生态位。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
