@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-03-05T16:10:10.569057Z",
+  "generated_at": "2026-03-05T18:26:46.661182Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-05",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
+    {
+      "date": "2026-03-05",
+      "title": "远程操控Claude Code不用愁！藏师傅这组开源工具让交互更灵活、开发更高效。CodePilot桌面端可以适配全平台，不仅是Claude Code可视化客户端，还支持IM远程连接、多Agent分屏等，而且安全性优于OpenClaw。普通用户可直接安装Claude-to-IM-skill技能，快速接入Telegram、Discord、飞书，实现远程聊天、流式预览与权限控制。开发者则可以借助Claude-to-IM库，通过4个接口快速集成多平台IM远程控制能力，省去重复开发成本，快来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-03-05",
       "title": "这份人文工作者专属AI指南超实用！作者不讲速成技巧，而是带你把AI变成可控工作台，守住可追溯、可操纵、愿署名三大底线分享了十余条实战原则，从拆解任务、多模型对比，到先工业化再AI化、批量生成筛选，破解AI幻觉等让你主导创作方向，AI承接执行工作，既保证了人文研究的严谨与品味，又靠标准化流程大幅提效。",
@@ -33,8 +38,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 40,
   "updates_7d": [
+    {
+      "date": "2026-03-05",
+      "title": "远程操控Claude Code不用愁！藏师傅这组开源工具让交互更灵活、开发更高效。CodePilot桌面端可以适配全平台，不仅是Claude Code可视化客户端，还支持IM远程连接、多Agent分屏等，而且安全性优于OpenClaw。普通用户可直接安装Claude-to-IM-skill技能，快速接入Telegram、Discord、飞书，实现远程聊天、流式预览与权限控制。开发者则可以借助Claude-to-IM库，通过4个接口快速集成多平台IM远程控制能力，省去重复开发成本，快来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-03-05",
       "title": "这份人文工作者专属AI指南超实用！作者不讲速成技巧，而是带你把AI变成可控工作台，守住可追溯、可操纵、愿署名三大底线分享了十余条实战原则，从拆解任务、多模型对比，到先工业化再AI化、批量生成筛选，破解AI幻觉等让你主导创作方向，AI承接执行工作，既保证了人文研究的严谨与品味，又靠标准化流程大幅提效。",
