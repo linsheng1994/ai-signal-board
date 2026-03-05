@@ -2938,5 +2938,11 @@
   "Senate fails to block US involvement in Iran war": "参议院未能阻止美国卷入伊朗战争",
   "NRC issues first commercial reactor construction approval in 10 years [pdf]": "NRC 颁发 10 年来首个商业反应堆建设批准 [pdf]",
   "A Knock on the Window and a Glimpse of America's Surveillance Future": "敲开窗户，一睹美国监控的未来",
-  "Factory Logic": "工厂逻辑"
+  "Factory Logic": "工厂逻辑",
+  "Sources: OpenAI topped $25B in annualized revenue by end-February, up from $21.4B at end-2025; it annualizes by multiplying the last four weeks' revenue by 12 (Sri Muppidi/The Information)": "资料来源：截至 2 月底，OpenAI 的年化收入突破 250 亿美元，高于 2025 年底的 21.4 亿美元；它通过将过去四个星期的收入乘以 12 进行年度化（Sri Muppidi/The Information）",
+  "Apple Music introduces Transparency Tags, a metadata system for music distributors and labels to disclose AI-generated creative elements like artwork or lyrics (Murray Stassen/Music Business Worldwide)": "Apple Music 推出了 Transparency Tags，这是一种元数据系统，供音乐发行商和唱片公司公开 AI 生成的创意元素，例如艺术作品或歌词（Murray Stassen/Music Business Worldwide）",
+  "Microsoft releases Phi-4-reasoning-vision-15B, a 15B-parameter open-weight model it says matches larger systems while using far less compute and training data (Michael Nuñez/VentureBeat)": "微软发布了 Phi-4-reasoning-vision-15B，这是一个 15B 参数开放权重模型，据称可以匹配更大的系统，同时使用更少的计算和训练数据（Michael Nuñez/VentureBeat）",
+  "What Python's asyncio primitives get wrong about shared state": "Python 的 asyncio 原语在共享状态方面存在哪些错误",
+  "Blogosphere – a directory of independent blogs and personal websites": "Blogosphere – 独立博客和个人网站的目录",
+  "You need to rewrite your CLI for AI agents": "您需要为 AI 代理重写 CLI"
 }
