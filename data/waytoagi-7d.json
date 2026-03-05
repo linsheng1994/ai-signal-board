@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T07:42:32.973770Z",
+  "generated_at": "2026-03-05T08:42:42.318272Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-05",
-  "count_today": 3,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-03-05",
@@ -19,11 +19,21 @@
     },
     {
       "date": "2026-03-05",
+      "title": "在 macOS 上安装 OpenClaw，很多人都会遇到安全、环境冲突、操作复杂的问题。作者对比了 Docker、Python 虚拟环境、Node 虚拟环境三种主流方案，最终选定最稳定、无冲突、适配性最强的 Node 虚拟环境方案，并把完整流程封装成 TRAE 技能。新手不用懂命令行、不用折腾环境配置，只需和 TRAE 聊天式交互，就能轻松完成安装。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-05",
       "title": "Google官方推出了Workspace CLI 工具！刚上线就星标暴涨，它将 Drive、Gmail、日历等所有 Workspace API 封装成命令行指令，输出全是结构化的JSON，Agent 可以直接解析调用。而且支持实时同步 API 更新，无需等版本迭代，还能通过命令行、MCP Server、Skills 三种方式接入 Agent。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "Anthropic 最近在自家的教育平台 Anthropic Academy 上线了一门免费课程叫 Claude 101，总共 13 节课，从最基础的\"Claude 是什么\"一路讲到企业搜索、深度研究、自定义技能，覆盖了一个普通用户上手 Claude 需要知道的几乎所有东西。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 44,
+  "count_7d": 46,
   "updates_7d": [
     {
       "date": "2026-03-05",
@@ -37,7 +47,17 @@
     },
     {
       "date": "2026-03-05",
+      "title": "在 macOS 上安装 OpenClaw，很多人都会遇到安全、环境冲突、操作复杂的问题。作者对比了 Docker、Python 虚拟环境、Node 虚拟环境三种主流方案，最终选定最稳定、无冲突、适配性最强的 Node 虚拟环境方案，并把完整流程封装成 TRAE 技能。新手不用懂命令行、不用折腾环境配置，只需和 TRAE 聊天式交互，就能轻松完成安装。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-05",
       "title": "Google官方推出了Workspace CLI 工具！刚上线就星标暴涨，它将 Drive、Gmail、日历等所有 Workspace API 封装成命令行指令，输出全是结构化的JSON，Agent 可以直接解析调用。而且支持实时同步 API 更新，无需等版本迭代，还能通过命令行、MCP Server、Skills 三种方式接入 Agent。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "Anthropic 最近在自家的教育平台 Anthropic Academy 上线了一门免费课程叫 Claude 101，总共 13 节课，从最基础的\"Claude 是什么\"一路讲到企业搜索、深度研究、自定义技能，覆盖了一个普通用户上手 Claude 需要知道的几乎所有东西。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
