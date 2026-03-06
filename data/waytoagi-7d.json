@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T06:51:56.830524Z",
+  "generated_at": "2026-03-06T07:38:52.127541Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-06",
-  "count_today": 2,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-03-06",
@@ -14,11 +14,21 @@
     },
     {
       "date": "2026-03-06",
+      "title": "云服务器没有图形界面，浏览器操作难以实现？OpenClaw两大浏览器模式完美破解，相比容易被封禁的传统爬虫、不稳定的Playwright，OpenClaw复用真实登录状态，没有自动化特征，风控规避能力拉满。个人资料模式可以适配24小时无人值守与敏感操作，扩展模式适合临时复用已有登录状态。文章还附带云服务器桌面环境配置、模式部署教程，无需复杂操作，远程指挥就可以实现稳定的网页自动化！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-06",
       "title": "一条播客链接丢进去，自动下载、转写、搜索补充资料、提炼知识框架、生成4K信息图、发到飞书群。全程不用动手，从音频到知识图大约3分钟。这篇文章就是这条全自动流水线的完整搭建教程，代码全给你，踩过的坑也全告诉你。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-06",
+      "title": "OpenAI 重磅发布GPT-5.4 ！此次将代码、通用推理、原生 Computer Use 三大能力融为一体，1M tokens 上下文窗口 + 128K 最大输出，事实准确性再次升级，单条声明出错概率比前代低 33%。用户可以通过截图或代码操控桌面与浏览器，轻松完成邮件发送、表单填写等复杂任务，API 集成门槛也大幅降低。另外还同步推出了ChatGPT for Excel插件，投行建模得分达 87.3%！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 42,
+  "count_7d": 44,
   "updates_7d": [
     {
       "date": "2026-03-06",
@@ -27,7 +37,17 @@
     },
     {
       "date": "2026-03-06",
+      "title": "云服务器没有图形界面，浏览器操作难以实现？OpenClaw两大浏览器模式完美破解，相比容易被封禁的传统爬虫、不稳定的Playwright，OpenClaw复用真实登录状态，没有自动化特征，风控规避能力拉满。个人资料模式可以适配24小时无人值守与敏感操作，扩展模式适合临时复用已有登录状态。文章还附带云服务器桌面环境配置、模式部署教程，无需复杂操作，远程指挥就可以实现稳定的网页自动化！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-06",
       "title": "一条播客链接丢进去，自动下载、转写、搜索补充资料、提炼知识框架、生成4K信息图、发到飞书群。全程不用动手，从音频到知识图大约3分钟。这篇文章就是这条全自动流水线的完整搭建教程，代码全给你，踩过的坑也全告诉你。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-06",
+      "title": "OpenAI 重磅发布GPT-5.4 ！此次将代码、通用推理、原生 Computer Use 三大能力融为一体，1M tokens 上下文窗口 + 128K 最大输出，事实准确性再次升级，单条声明出错概率比前代低 33%。用户可以通过截图或代码操控桌面与浏览器，轻松完成邮件发送、表单填写等复杂任务，API 集成门槛也大幅降低。另外还同步推出了ChatGPT for Excel插件，投行建模得分达 87.3%！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
