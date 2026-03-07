@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T14:49:50.155084Z",
+  "generated_at": "2026-03-07T15:24:58.921655Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-07",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-03-07",
@@ -19,6 +19,11 @@
     },
     {
       "date": "2026-03-07",
+      "title": "想让AI翻译既高效又精准？宝玉老师耗时两年打磨的翻译Skill来啦！跳出传统提示词翻译的局限，靠Agent可以实现全流程自动化，解决长文本分块、术语不一致、隐喻翻译生硬等痛点。而且还支持快速、普通、精细三种模式，满足不同质量要求。通过文件化存储所有中间产物，并行翻译来提升效率，还能个性化配置目标语言、风格与术语表。小龙虾和Claude Code都可以直接安装，快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-07",
       "title": "大模型的底层逻辑到底是什么？大模型依托Transformer架构实现上下文理解与高效训练，文本经BPE拆分为token才会被模型识别，而优质的训练语料则靠FineWeb八步流程进行打磨，从URL筛选、文本提取到去重、隐私移除，层层清洗保障数据质量。其实AI的回应并非源于“智能”，而是统计学上模仿人类专家标注的结果，本质是基于训练数据预测下一个token。作者这篇内容带你跳出表象，真正看懂大模型的工作本质，快速建立对LLM的清晰认知。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
@@ -28,7 +33,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 44,
+  "count_7d": 45,
   "updates_7d": [
     {
       "date": "2026-03-07",
@@ -38,6 +43,11 @@
     {
       "date": "2026-03-07",
       "title": "本篇文章清晰拆解了Skills的定义、历史与生态格局，还提供了具体安装方式、跨平台使用指南，详解了含有144个Skills的营销技能库，覆盖SEO、广告营销、页面搭建等场景。同时作者还给出一些推广技巧，帮你快速掌握这套体系，让AI Agent成为可落地、可管控的生产力工具!",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-07",
+      "title": "想让AI翻译既高效又精准？宝玉老师耗时两年打磨的翻译Skill来啦！跳出传统提示词翻译的局限，靠Agent可以实现全流程自动化，解决长文本分块、术语不一致、隐喻翻译生硬等痛点。而且还支持快速、普通、精细三种模式，满足不同质量要求。通过文件化存储所有中间产物，并行翻译来提升效率，还能个性化配置目标语言、风格与术语表。小龙虾和Claude Code都可以直接安装，快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
