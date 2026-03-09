@@ -1,20 +1,40 @@
 {
-  "generated_at": "2026-03-09T05:42:21.534502Z",
+  "generated_at": "2026-03-09T07:03:22.497287Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-09",
-  "count_today": 1,
+  "count_today": 3,
   "updates_today": [
+    {
+      "date": "2026-03-09",
+      "title": "装好OpenClaw却用着不顺手？小互这篇配置指南帮你把“闲置龙虾”打造成专属助手！这篇文章的所有配置，你都可以通过跟小龙虾聊天来完成。你不需要自己去一个个的找文件、改配置，你也找不到。你跟小龙虾的关系，应该是老板和助理的关系，甚至是主人和奴隶的关系😁：你只需要说\"我要什么效果\"，它来搞定怎么实现。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-09",
+      "title": "前段时间作者分享了电商评论深度分析的n8n工作流，当时说要把这个工作流升级成 Skill。今天，终于把这个坑填上了。专为电商场景设计的 AI 评论洞察分析工具—Review Analyzer Skill，已经发布并开源在GitHub上了。目前 1.0 版本仅支持在 Claude Code 中运行，下个版本会支持 openclaw、opencode 等更多平台。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-03-09",
       "title": "云舒花了一周时间拆解OpenClaw的源码，带你一起搞清楚：它到底怎么让AI做到 7×24 小时运行的。今天这篇文章跟大家聊聊：OpenClaw为什么能火、它的核心架构是什么、以及3个长期判断。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 41,
   "updates_7d": [
+    {
+      "date": "2026-03-09",
+      "title": "装好OpenClaw却用着不顺手？小互这篇配置指南帮你把“闲置龙虾”打造成专属助手！这篇文章的所有配置，你都可以通过跟小龙虾聊天来完成。你不需要自己去一个个的找文件、改配置，你也找不到。你跟小龙虾的关系，应该是老板和助理的关系，甚至是主人和奴隶的关系😁：你只需要说\"我要什么效果\"，它来搞定怎么实现。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-09",
+      "title": "前段时间作者分享了电商评论深度分析的n8n工作流，当时说要把这个工作流升级成 Skill。今天，终于把这个坑填上了。专为电商场景设计的 AI 评论洞察分析工具—Review Analyzer Skill，已经发布并开源在GitHub上了。目前 1.0 版本仅支持在 Claude Code 中运行，下个版本会支持 openclaw、opencode 等更多平台。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-03-09",
       "title": "云舒花了一周时间拆解OpenClaw的源码，带你一起搞清楚：它到底怎么让AI做到 7×24 小时运行的。今天这篇文章跟大家聊聊：OpenClaw为什么能火、它的核心架构是什么、以及3个长期判断。",
