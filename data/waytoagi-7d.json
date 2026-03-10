@@ -1,45 +1,35 @@
 {
-  "generated_at": "2026-03-10T07:41:20.960410Z",
+  "generated_at": "2026-03-10T08:43:26.136902Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-03-09",
-  "count_today": 6,
+  "latest_date": "2026-03-10",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-03-09",
-      "title": "这篇文章带你拆解learn-claude-code项目，去了解如何从零开始，构建一个Agent。从 50 行核心代码讲起，一步步揭示 Claude Code 等编程智能体的真实运行逻辑：以Bash为基础工具、循环执行为核心，再逐步叠加专业工具、显式任务清单、上下文隔离与记忆压缩、持久化任务看板，最终进化到多 Agent 后台并行、文件通信、团队协作与自治团队。",
+      "date": "2026-03-10",
+      "title": "用Claude Code干活却翻车？作者在让AI整理文件夹时，遭遇环境不兼容、重复踩坑、Token白白消耗等问题。原来顶级AI也有思维定式，还会遗漏模糊规则。核心解法是“三层架构”：前置核心铁律定死必执行要求，索引机制让AI精准匹配工具避坑指南，经验库动态记录最优方案。这套方法既解决翻车难题，又能省Token提效，让AI乖乖干活、不重复踩坑，快来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-09",
-      "title": "近期AI音乐行业多款实用工具扎堆亮相：MiniMax Music 2.5+解锁跨风格高保真纯音乐生成，Aiode推出合规授权AI鼓手，Cryo Mix的Nova AI让专业混音成本大大降低，Moises邀请知名歌手掌舵，明确AI是创作“画笔”而非“代笔”。而在合规方面，Apple Music强制AI内容加上透明标签。同时，多篇新论文聚焦技术优化与评估标准，为行业铺路。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-09",
-      "title": "装好OpenClaw却用着不顺手？小互这篇配置指南帮你把“闲置龙虾”打造成专属助手！这篇文章的所有配置，你都可以通过跟小龙虾聊天来完成。你不需要自己去一个个的找文件、改配置，你也找不到。你跟小龙虾的关系，应该是老板和助理的关系，甚至是主人和奴隶的关系😁：你只需要说\"我要什么效果\"，它来搞定怎么实现。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-09",
-      "title": "最近腾讯也携 Qclaw 入局 “养虾” 热潮，但工具价值的核心在于使用者思维：大多数人仅仅把它当作高级待办，而真正的价值在于搭建自动化工作流。作者这篇文章从熟练对话AI，到解放重复劳动，再到用Agent设计流程、组建虚拟团队给出了清晰进化路径。只有掌握这种驾驭能力，才能以一己之力撬动团队级产出！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-09",
-      "title": "前段时间作者分享了电商评论深度分析的n8n工作流，当时说要把这个工作流升级成 Skill。今天，终于把这个坑填上了。专为电商场景设计的 AI 评论洞察分析工具—Review Analyzer Skill，已经发布并开源在GitHub上了。目前 1.0 版本仅支持在 Claude Code 中运行，下个版本会支持 openclaw、opencode 等更多平台。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-09",
-      "title": "云舒花了一周时间拆解OpenClaw的源码，带你一起搞清楚：它到底怎么让AI做到 7×24 小时运行的。今天这篇文章跟大家聊聊：OpenClaw为什么能火、它的核心架构是什么、以及3个长期判断。",
+      "date": "2026-03-10",
+      "title": "很多人可能安装了很多Claude Code Skills却不会用。作者以小程序开发为例，分享了一套极简的Skills组合：用头脑风暴Skill理清产品定位，专业UI Skill输出高质量设计，规划Skill梳理项目里程碑，测试驱动Skill保障代码稳定，最后还能沉淀专属Skill。快来一起让AI真正适配开发全流程，提升从原型到落地的效率！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 39,
   "updates_7d": [
+    {
+      "date": "2026-03-10",
+      "title": "用Claude Code干活却翻车？作者在让AI整理文件夹时，遭遇环境不兼容、重复踩坑、Token白白消耗等问题。原来顶级AI也有思维定式，还会遗漏模糊规则。核心解法是“三层架构”：前置核心铁律定死必执行要求，索引机制让AI精准匹配工具避坑指南，经验库动态记录最优方案。这套方法既解决翻车难题，又能省Token提效，让AI乖乖干活、不重复踩坑，快来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-10",
+      "title": "很多人可能安装了很多Claude Code Skills却不会用。作者以小程序开发为例，分享了一套极简的Skills组合：用头脑风暴Skill理清产品定位，专业UI Skill输出高质量设计，规划Skill梳理项目里程碑，测试驱动Skill保障代码稳定，最后还能沉淀专属Skill。快来一起让AI真正适配开发全流程，提升从原型到落地的效率！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-03-09",
       "title": "这篇文章带你拆解learn-claude-code项目，去了解如何从零开始，构建一个Agent。从 50 行核心代码讲起，一步步揭示 Claude Code 等编程智能体的真实运行逻辑：以Bash为基础工具、循环执行为核心，再逐步叠加专业工具、显式任务清单、上下文隔离与记忆压缩、持久化任务看板，最终进化到多 Agent 后台并行、文件通信、团队协作与自治团队。",
