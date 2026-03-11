@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T21:34:46.229012Z",
+  "generated_at": "2026-03-11T22:27:57.053852Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-11",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-03-11",
@@ -31,9 +31,14 @@
       "date": "2026-03-11",
       "title": "Google DeepMind 今天发了Gemini Embedding 2 ，第一个原生全模态 embedding 模型 。文本 、 图片 、 视频 、 音频 、 文档（比如 PDF） ，首次编码进同一个向量空间。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "AI编程正在颠覆传统软件研发，改写工程、产品、设计三大岗位的生存逻辑。以往PRD驱动的流水线模式正在被打破，行业瓶颈从开发转向评审与把关。未来职场或许只分两类人：能用AI快速落地想法的建设者与具备顶级系统思维的评审者。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 38,
   "updates_7d": [
     {
       "date": "2026-03-11",
@@ -58,6 +63,11 @@
     {
       "date": "2026-03-11",
       "title": "Google DeepMind 今天发了Gemini Embedding 2 ，第一个原生全模态 embedding 模型 。文本 、 图片 、 视频 、 音频 、 文档（比如 PDF） ，首次编码进同一个向量空间。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "AI编程正在颠覆传统软件研发，改写工程、产品、设计三大岗位的生存逻辑。以往PRD驱动的流水线模式正在被打破，行业瓶颈从开发转向评审与把关。未来职场或许只分两类人：能用AI快速落地想法的建设者与具备顶级系统思维的评审者。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
