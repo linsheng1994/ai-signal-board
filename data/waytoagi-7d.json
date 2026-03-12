@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T09:43:37.598731Z",
+  "generated_at": "2026-03-12T10:40:03.628156Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-12",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-03-12",
@@ -16,9 +16,14 @@
       "date": "2026-03-12",
       "title": "分布式系统的故障排查困难？这篇文章结合阿里云、微信等真实故障案例，点出行业致命盲点：追踪系统不能依赖业务组件、需要平衡埋点成本与价值、避免链路断链。用OpenTelemetry、SkyWalking等工具，靠合理采样控制成本，可以提前预警故障。未来，追踪会走向监管、AI 辅助分析、公共基础设施化，看懂这篇，你就看懂了云原生时代架构与风控的真正命脉。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "企业的营收增长陷入停滞？你的 GTM（Go-to-market）团队其实并不缺人手，而是缺乏“系统化”的工程思维。Clay 是近两年增速最快的 AI 营销自动化独角兽之一，凭借 AI 驱动的 GTM 与销售自动化能力快速崛起，最新估值达 31 亿美元。本文由 Clay 的联合创始人 Varun Anand 亲述，深度拆解了由他们率先定义的先锋角色——“ GTM 工程师 ”。手把手教你如何寻找、评估以及在组织中部署这群能带来超级杠杆的破局者。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 40,
+  "count_7d": 41,
   "updates_7d": [
     {
       "date": "2026-03-12",
@@ -28,6 +33,11 @@
     {
       "date": "2026-03-12",
       "title": "分布式系统的故障排查困难？这篇文章结合阿里云、微信等真实故障案例，点出行业致命盲点：追踪系统不能依赖业务组件、需要平衡埋点成本与价值、避免链路断链。用OpenTelemetry、SkyWalking等工具，靠合理采样控制成本，可以提前预警故障。未来，追踪会走向监管、AI 辅助分析、公共基础设施化，看懂这篇，你就看懂了云原生时代架构与风控的真正命脉。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "企业的营收增长陷入停滞？你的 GTM（Go-to-market）团队其实并不缺人手，而是缺乏“系统化”的工程思维。Clay 是近两年增速最快的 AI 营销自动化独角兽之一，凭借 AI 驱动的 GTM 与销售自动化能力快速崛起，最新估值达 31 亿美元。本文由 Clay 的联合创始人 Varun Anand 亲述，深度拆解了由他们率先定义的先锋角色——“ GTM 工程师 ”。手把手教你如何寻找、评估以及在组织中部署这群能带来超级杠杆的破局者。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
