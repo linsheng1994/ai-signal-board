@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T07:46:56.282384Z",
+  "generated_at": "2026-03-13T08:40:52.054016Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-13",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-03-13",
@@ -21,9 +21,14 @@
       "date": "2026-03-13",
       "title": "大公司是如何规模化落地AI研发的呢？Uber的实战方案很有参考价值！它搭建了四层智能体系统，靠MCP网关、Agent Builder、Minion等工具打通全流程，用Code Inbox、uReview解决AI时代代码审查的痛点。如今84%的Uber开发者用智能体编程，65-72%代码由AI生成，Claude Code使用率三月翻倍，工程师每周平均省4小时。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-13",
+      "title": "今天这篇文章源于最近半年深度使用 Claude Code、两个账号每月 40 刀氪金换来的一些踩坑经验，希望能给大伙一些输入。这篇文章想和大伙聊聊这几个事：Claude Code 底层怎么运作、上下文为什么会乱以及怎么治理、Skills 和 Hooks 应该怎么设计、Subagents 的正确用法、Prompt Caching 的架构影响，以及怎么写一个真正有用的 CLAUDE.md。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 41,
+  "count_7d": 42,
   "updates_7d": [
     {
       "date": "2026-03-13",
@@ -38,6 +43,11 @@
     {
       "date": "2026-03-13",
       "title": "大公司是如何规模化落地AI研发的呢？Uber的实战方案很有参考价值！它搭建了四层智能体系统，靠MCP网关、Agent Builder、Minion等工具打通全流程，用Code Inbox、uReview解决AI时代代码审查的痛点。如今84%的Uber开发者用智能体编程，65-72%代码由AI生成，Claude Code使用率三月翻倍，工程师每周平均省4小时。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-13",
+      "title": "今天这篇文章源于最近半年深度使用 Claude Code、两个账号每月 40 刀氪金换来的一些踩坑经验，希望能给大伙一些输入。这篇文章想和大伙聊聊这几个事：Claude Code 底层怎么运作、上下文为什么会乱以及怎么治理、Skills 和 Hooks 应该怎么设计、Subagents 的正确用法、Prompt Caching 的架构影响，以及怎么写一个真正有用的 CLAUDE.md。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
