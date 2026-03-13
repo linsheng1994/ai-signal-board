@@ -1,23 +1,43 @@
 {
-  "generated_at": "2026-03-13T06:55:36.356370Z",
+  "generated_at": "2026-03-13T07:46:56.282384Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-13",
-  "count_today": 1,
+  "count_today": 3,
   "updates_today": [
+    {
+      "date": "2026-03-13",
+      "title": "最近发现好多刚入坑的小伙伴在部署OpenClaw的时候，第一步就卡住了——配置大模型API。今天专门给同样卡在这关的你写个秒懂教程，手把手带你过这关！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-03-13",
       "title": "如果文本提取的准确度，这一步做不准，后面再强的分析、检索、生成，基本都白费。作者用同一套测试样本, 让 DeepSeek-OCR-2、PaddleOCR-VL-1.5、GLM-OCR 三个模型，跑了表格、扫描件、手写体、数学公式 四个场景的多轮实测。快来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-13",
+      "title": "大公司是如何规模化落地AI研发的呢？Uber的实战方案很有参考价值！它搭建了四层智能体系统，靠MCP网关、Agent Builder、Minion等工具打通全流程，用Code Inbox、uReview解决AI时代代码审查的痛点。如今84%的Uber开发者用智能体编程，65-72%代码由AI生成，Claude Code使用率三月翻倍，工程师每周平均省4小时。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 41,
   "updates_7d": [
     {
       "date": "2026-03-13",
+      "title": "最近发现好多刚入坑的小伙伴在部署OpenClaw的时候，第一步就卡住了——配置大模型API。今天专门给同样卡在这关的你写个秒懂教程，手把手带你过这关！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-13",
       "title": "如果文本提取的准确度，这一步做不准，后面再强的分析、检索、生成，基本都白费。作者用同一套测试样本, 让 DeepSeek-OCR-2、PaddleOCR-VL-1.5、GLM-OCR 三个模型，跑了表格、扫描件、手写体、数学公式 四个场景的多轮实测。快来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-13",
+      "title": "大公司是如何规模化落地AI研发的呢？Uber的实战方案很有参考价值！它搭建了四层智能体系统，靠MCP网关、Agent Builder、Minion等工具打通全流程，用Code Inbox、uReview解决AI时代代码审查的痛点。如今84%的Uber开发者用智能体编程，65-72%代码由AI生成，Claude Code使用率三月翻倍，工程师每周平均省4小时。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
