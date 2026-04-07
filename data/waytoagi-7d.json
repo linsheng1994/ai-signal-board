@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T14:52:41.742200Z",
+  "generated_at": "2026-04-07T16:10:36.879440Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -18,7 +18,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 33,
   "updates_7d": [
     {
       "date": "2026-04-07",
@@ -183,31 +183,6 @@
     {
       "date": "2026-04-02",
       "title": "Claude Code 的完整源码被意外泄露，作者让Claude自己读自己的源码，做了一个精美PDF排版Skill，最终产出了一份超过 10 万字、覆盖 30+ 章节的深度技术报告。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-01",
-      "title": "这份手册是作者和Claude Code一起写的。对，用CC写CC教程，它自己教你怎么用它。信息来源主要是Anthropic官方文档、Claude Code之父Boris Cherny的分享、吴恩达的Claude Code课程，再加上我自己用CC做了十几个产品踩过的坑。我用CC大半年了，每个月给Anthropic付200多美金（含税），烧过数十亿tokens，该踩的坑基本都踩了一遍。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-01",
-      "title": "Claude Code 的完整源码泄漏后 有人说\"44个隐藏feature flag\"。小互翻完源码的实际数字是87个。让我们来一同看看这背后隐藏了哪些未上线的功能！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-01",
-      "title": "Anthropic 这种量级的公司，他们会怎么设计 AI Agent？看完源码才发现，这不是“Prompt 工程”那么简单，而是 缓存架构 + 自我进化记忆 + 多模式编排 的完整基础设施。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-01",
-      "title": "Agent = Model + Harness。 模型提供智能，Harness 让智能变得有用。这不是一个新概念，但它正在成为 2026 年 AI 工程领域最核心的共识。本文将从\"裸模型的四个硬伤\"出发，逐一拆解 Harness 的六大组件——文件系统、Bash + 沙箱、记忆（AGENTS.md）、Web Search + MCP、上下文工程、编排 + Hooks——带你看清 AI Agent 真正的竞争壁垒，不在模型层，而在 Harness 层。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-01",
-      "title": "3月份，是OpenClaw制霸的一个月，各家主要以推出各种Claw为主，大模型这一块，超大尺寸的模型，基本上各家都是发布，但没更新，比如， 智谱的GLM5-Turbo模型 、 千问的Qwen3.5-Omni-Plus模型 、MiniMax的M2.7模型、 小米的MiMo-V2-Pro模型 等等。不过盘点下来，还是开源了不少模型，Qwen开源了3.5系列的小模型、美团开源了全模态和定理模型、腾讯开源了视觉&音频模型、小红书开源了OCR&图像编辑模型。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
