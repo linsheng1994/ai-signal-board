@@ -1,45 +1,55 @@
 {
-  "generated_at": "2026-04-08T07:21:30.525088Z",
+  "generated_at": "2026-04-09T16:01:32.673007Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-04-07",
-  "count_today": 6,
+  "latest_date": "2026-04-09",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-04-07",
-      "title": "如果你平时用飞书写内容，然后复制粘贴到公众号后台，一定会遇到这些头疼的问题：飞书里的图片要一张张下载再上传、表格复制过去格式全乱、代码块没有高亮，显示成纯文本、排版和预览时看到的效果不一致。这篇文章介绍一个开源工具，可以把飞书文档一键转成微信公众号草稿，图片自动上传，格式完整保留。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-07",
-      "title": "在这篇文章里，我们会通过逐块拆解的方式学习 Transformer 架构，理解每个组件的作用、它们如何协同工作，以及为什么这种架构支撑了每一个现代大语言模型（LLM）。当我们听到 “Transformer” 这个词时，它听起来很复杂。但别担心。如果我们把它拆成各个独立的部分来看，每一个部分其实都很简单。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-07",
-      "title": "关于 AI 中持续学习的大多数讨论都聚焦于一件事：更新模型权重。但对于 AI 智能体来说，学习可以发生在三个不同层次上：模型、harness 和上下文。理解这三者的区别，会改变你构建可随时间持续改进系统的思路。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-07",
-      "title": "一篇深入解析，讲清 Anthropic、OpenAI、Perplexity 和 LangChain 实际上在构建什么。涵盖编排循环、工具、记忆、上下文管理，以及其他一切能把一个无状态 LLM 变成有能力的 agent 的部分。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-07",
-      "title": "Amol Avasare是Anthropic的增长负责人。在他之前，他在MasterClass和Mercury做过增长，做过创始人，做过投资银行家。这一期他和Lenny聊的，是在史无前例的增速下，Anthropic的增长团队实际上在干什么，哪些传统打法彻底失效了，以及工程师生产力爆炸后PM和设计师的真实处境。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-07",
-      "title": "AI编程常常会因为缺乏治而理在复杂项目中频繁出错。Meta_Kim则以“元”为核心，搭建了一个AI协作治理框架，通过规范分工、阶段管控与验证闭环，让AI开发更严谨可靠。框架支持多平台配置同步，自带经验沉淀与风险回滚机制，前期配置后可大幅降低重复试错成本。对从事跨文件、多模块工程开发的AI使用者而言，这套开源方案可以有效提升交付质量，帮你从无序调试走向标准化治理，快来试试。",
+      "date": "2026-04-09",
+      "title": "Anthropic 今天发了一个新产品，叫 Claude Managed Agents 。一句话概括：你告诉 Anthropic 你想要什么样的 AI 智能体，它帮你在云端跑起来， 基础设施全包，按用量收费 。Sentry 用它几周就上线了自动修 bug 的全流程，Rakuten 一周部署一个专项智能体。然而之前这些事需要一整个工程师团队干几个月。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 31,
   "updates_7d": [
+    {
+      "date": "2026-04-09",
+      "title": "Anthropic 今天发了一个新产品，叫 Claude Managed Agents 。一句话概括：你告诉 Anthropic 你想要什么样的 AI 智能体，它帮你在云端跑起来， 基础设施全包，按用量收费 。Sentry 用它几周就上线了自动修 bug 的全流程，Rakuten 一周部署一个专项智能体。然而之前这些事需要一整个工程师团队干几个月。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "贝叶斯定理是概率论和机器学习中的一个核心思想。它告诉你，当你看到新数据之后，应该如何更新自己的判断。在这篇文章里，会把整个内容一块一块拆开来讲。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "当下AI智能体开发普遍陷入局部优化误区，作者借鉴贝尔实验室系统工程思想，指出软件工程本质就是系统工程。构建可用的Agent软件需要打通智能体、数据、安全、界面、基础设施五层架构，摒弃零散工具堆砌，从整体视角实现协同设计。文中结合了开源项目Dash的实操演示，提供了可落地的架构方案，可以快速搭建稳定可靠的生产级智能体系统，快来借鉴一下！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "今天凌晨，Meta 发布了全新的大模型 Muse Spark ，已上线到 Meta 旗下的各类产品。Muse Spark 是一个原生多模态推理模型 ，支持工具调用 、 视觉推理链（visual chain of thought） 和多Agent协同。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "Hannah Stulberg 是DoorDash的PM，前Google APM，她在 Claude Code上已经投入超过1500个小时，而且至今仍在每天改进自己的工作流。这期Aakash Gupta的播客里，她把自己的「Team OS」完整拆解给了所有人——一个让 PM 一个人撑起 20 人团队的共享知识库系统。如果你是 PM、工程师或设计师，正在思考如何用 AI 真正放大自己的工作效率，这篇文章值得认真读完。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "Anthropic 发布了 Claude Mythos Preview 。这是一个通用前沿模型，定位在 Opus 之上，是 Claude 产品线的全新最高层级。Anthropic 同时宣布，Mythos Preview 不会公开发布，只向 12 家核心合作方和 40 余家关键基础设施组织开放，让我们来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "AI圈正掀起Hermes Agent热潮，或许将复刻OpenClaw的FOMO现象。本篇文章清晰展现了它与OpenClaw的核心区别：Hermes轻量化易上手，以智能体为核心，具备独有的技能自我进化与经验沉淀能力，运行透明稳定，更适合个人打造专属协作智能体。同时还解读了迅猛上涨的市场数据与发展趋势，配套中英文文档，帮你精准判断到底哪款工具更适配自身需求，来抓住新一轮 Agent 风口。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-07",
       "title": "如果你平时用飞书写内容，然后复制粘贴到公众号后台，一定会遇到这些头疼的问题：飞书里的图片要一张张下载再上传、表格复制过去格式全乱、代码块没有高亮，显示成纯文本、排版和预览时看到的效果不一致。这篇文章介绍一个开源工具，可以把飞书文档一键转成微信公众号草稿，图片自动上传，格式完整保留。",
@@ -158,71 +168,6 @@
     {
       "date": "2026-04-04",
       "title": "Jenny Wen ，Anthropic 的设计负责人，Cowork 的设计主导者。她最近上了一期播客，完整展示了自己怎么用 Cowork 干活，还讲了 Cowork 的真实诞生过程，以及产品界面经历了多少次推翻重来。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "更可控 、 更全能 的 视频创作大模型 Wan2.7-Video 全新上线。除了“生成”，本次升级更是聚焦在 “创作” 全链路，覆盖 生成、编辑、复刻、重塑、驱动、续写、参考 …… 一个更低使用门槛、真正能导擅演、服务于创作者的视频创作套件，来了！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "或许你也经常看到很多推荐GitHub项目的文章，这篇文章帮助小白可以熟练上手GitHub，先从最简单的搜索开始。作者主要分享了GitHub项目信息的四种搜索方式，以及GitHub中都有什么信息。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Mo Gawdat在谷歌X担任首席商务官超过十年，主导过上百个前沿科技项目的商业化探索。在这期对话里，他从七个维度拆解了未来就业市场的走向并给出了四条异常清醒的个人准备建议。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Claude 平台团队技术人员 Lance Martin 分享了团队在构建应用时应该采用的三个核心模式。这些模式能帮助你的应用跟上 Claude 智能进化的步伐，同时兼顾延迟和系统成本。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "2026 年第一季度，OpenAI、Cursor 和 Anthropic 先后发布了各自在 agent-first 软件开发上的实践报告。三篇文章都被归入同一个术语：harness engineering。但仔细读下来，它们讲的几乎是三件完全不同的事。这篇文章提供了一个统一框架来理清这些讨论。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "2026 年来看大模型效果真正拉开差距的地方，慢慢不再是预训练本身了，而在它更后面的那一大段：后训练、评测、奖励、Agent 训练、蒸馏，每一个步骤都在影响用户实际感受效果。你发现某个模型突然变强了，背后可能是这几块一起优化到位了，而非单一因素导致。本篇文章就按大模型训练链路顺序来讲，非专业背景的人也能读得懂。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-02",
-      "title": "都说OpenAI和Anthropic是死对头，但是上周OpenAI悄悄发布了一个东西，叫 codex-plugin-cc （OpenAI Codex的Claude Code官方插件），专门给在用Claude Code的人装的。它可以让你在Claude Code工作流里，直接调用Codex干活。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-02",
-      "title": "本篇文章将从智能体框架、多智能体协同调度、智能体循环机制、工具调用、子智能体协作这几个方面一步步带你搭建出你的第一个真正意义上的AI Agent！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-02",
-      "title": "一年来给企业做AI场景咨询，最常被问的就是\"我们公司到底哪里能用AI\"。不同行业、不同规模的企业，虽然业务千差万别，但\"找AI场景\"的方法论是通用的。所以作者的团队就把这套方法论产品化，做成了一个AI Agent可以自动执行的Skill。并且已经开源，快来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-02",
-      "title": "skill-creator 是一个“教 AI 如何写好技能说明书”的工具，也是创建技能时最关键的一环。旧版只是教你写说明书，而新版不仅教你怎么写，还会帮你考核、打分、纠正问题，直到你写出一份真正好用的说明书为止。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-02",
-      "title": "OpenAI总裁访谈背后，藏着这家巨头的真实焦虑与战略赌局。砍掉Sora不只是技术聚焦，更是止损巨额烧钱与用户流失；即将推出的Super App想要整合聊天、编程与浏览器能力，意图打造统一 AI 入口，却直面微软与Anthropic的夹击。OpenAI 又将会如何应对？让我们来一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-02",
-      "title": "Google DeepMind 发布了新一代开源模型 Gemma 4：以 30B 左右的参数，逼近其他头部开源模型！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-02",
-      "title": "Claude Code 的完整源码被意外泄露，作者让Claude自己读自己的源码，做了一个精美PDF排版Skill，最终产出了一份超过 10 万字、覆盖 30+ 章节的深度技术报告。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
