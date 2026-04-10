@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T16:52:53.213965Z",
+  "generated_at": "2026-04-10T17:49:39.913581Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-10",
-  "count_today": 3,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-04-10",
@@ -14,7 +14,17 @@
     },
     {
       "date": "2026-04-10",
+      "title": "款Hermes Agent彻底打破常规，自带学习循环，可以在执行任务中自主沉淀、优化专属技能，还可以自动搜索安装能力，越用越强。本篇文章带来Windows系统完整部署教程，从环境配置、模型接入到飞书集成一步到位，而且汇总了高频坑点的解决方案与常用指令。快来跟着一步步上手操作试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-10",
       "title": "最近两周，从「同事.skill」开始，各种诸如乔布斯、老板、前任甚至赛博算命的蒸馏人格系列铺天盖地。但剥开表象会发现一个现象 ：这波热潮里的绝大多数项目，仅仅发挥了 Skill 10% 的能力——本质上只是把一段角色 Prompt 存成了文件。本文不是教你做「同事.skill」那种角色扮演玩具。 如果你想把 Skill 做成 持续运转的系统 ——像搭乐高一样拼装 Agent 的能力边界，这篇文章正是为你准备的。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "子木做了一个 seo-audit-skill — 给它一个 URL，它就能跑出针对这个页面，一份结构化的报告 ，并告诉你在SEO方面哪里有问题、为什么有问题、怎么改。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -23,7 +33,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 35,
   "updates_7d": [
     {
       "date": "2026-04-10",
@@ -32,7 +42,17 @@
     },
     {
       "date": "2026-04-10",
+      "title": "款Hermes Agent彻底打破常规，自带学习循环，可以在执行任务中自主沉淀、优化专属技能，还可以自动搜索安装能力，越用越强。本篇文章带来Windows系统完整部署教程，从环境配置、模型接入到飞书集成一步到位，而且汇总了高频坑点的解决方案与常用指令。快来跟着一步步上手操作试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-10",
       "title": "最近两周，从「同事.skill」开始，各种诸如乔布斯、老板、前任甚至赛博算命的蒸馏人格系列铺天盖地。但剥开表象会发现一个现象 ：这波热潮里的绝大多数项目，仅仅发挥了 Skill 10% 的能力——本质上只是把一段角色 Prompt 存成了文件。本文不是教你做「同事.skill」那种角色扮演玩具。 如果你想把 Skill 做成 持续运转的系统 ——像搭乐高一样拼装 Agent 的能力边界，这篇文章正是为你准备的。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "子木做了一个 seo-audit-skill — 给它一个 URL，它就能跑出针对这个页面，一份结构化的报告 ，并告诉你在SEO方面哪里有问题、为什么有问题、怎么改。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
