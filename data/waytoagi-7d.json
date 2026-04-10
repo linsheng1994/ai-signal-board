@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-04-10T17:49:39.913581Z",
+  "generated_at": "2026-04-10T18:54:45.585663Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-10",
-  "count_today": 5,
+  "count_today": 7,
   "updates_today": [
+    {
+      "date": "2026-04-10",
+      "title": "面对 Claude 额度受限的困扰，本文分享了4 套 Claude Code 与 NotebookLM 的高效集成工作流，可以绕过额度限制，把重量级的文档分析卸载到 Google 那边去做。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-10",
       "title": "这份Hermes Agent实用指南，集齐了日常使用中最能提升效率与体验的硬核技巧。不管你是新手还是进阶玩家，或许都能从中解锁一些高效好用的隐藏玩法。",
@@ -15,6 +20,11 @@
     {
       "date": "2026-04-10",
       "title": "款Hermes Agent彻底打破常规，自带学习循环，可以在执行任务中自主沉淀、优化专属技能，还可以自动搜索安装能力，越用越强。本篇文章带来Windows系统完整部署教程，从环境配置、模型接入到飞书集成一步到位，而且汇总了高频坑点的解决方案与常用指令。快来跟着一步步上手操作试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "本文通过上手实践操作Hermes Agent ，给出了安装Hermes 后建议先尝试的十项功能，内容非常丰富，纯手敲，经过源码review和实验验证。 并通过尝试，也总结了Hermes 的八大亮点，都在文中了，欢迎阅读交流～",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -33,8 +43,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 37,
   "updates_7d": [
+    {
+      "date": "2026-04-10",
+      "title": "面对 Claude 额度受限的困扰，本文分享了4 套 Claude Code 与 NotebookLM 的高效集成工作流，可以绕过额度限制，把重量级的文档分析卸载到 Google 那边去做。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-10",
       "title": "这份Hermes Agent实用指南，集齐了日常使用中最能提升效率与体验的硬核技巧。不管你是新手还是进阶玩家，或许都能从中解锁一些高效好用的隐藏玩法。",
@@ -43,6 +58,11 @@
     {
       "date": "2026-04-10",
       "title": "款Hermes Agent彻底打破常规，自带学习循环，可以在执行任务中自主沉淀、优化专属技能，还可以自动搜索安装能力，越用越强。本篇文章带来Windows系统完整部署教程，从环境配置、模型接入到飞书集成一步到位，而且汇总了高频坑点的解决方案与常用指令。快来跟着一步步上手操作试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "本文通过上手实践操作Hermes Agent ，给出了安装Hermes 后建议先尝试的十项功能，内容非常丰富，纯手敲，经过源码review和实验验证。 并通过尝试，也总结了Hermes 的八大亮点，都在文中了，欢迎阅读交流～",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
