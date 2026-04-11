@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-04-11T15:34:58.035551Z",
+  "generated_at": "2026-04-11T16:38:13.617293Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-11",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-04-11",
       "title": "这篇Anthropic官方博客揭秘了Claude Code的工具设计心法，为Agent开发者提供了极具参考价值的架构思路。文中通过多次迭代案例，展现了从低效方案到结构化工具、从待办清单到任务协作的演进逻辑。读懂这套设计哲学，你也可以避开工具冗余的陷阱，打造更高效、更适配模型的智能体系统。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "多数人的知识笔记最终都会烂尾，核心问题是维护成本远高于记录成本。Karpathy带来AI驱动的知识库新解法，借助Obsidian与Claude Code，只需简单三步即可搭建三层结构Wiki，AI自动完成内容拆分、概念页面生成与双向链接构建，还能定期体检修复过时信息与断链问题。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -23,11 +28,16 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 40,
+  "count_7d": 35,
   "updates_7d": [
     {
       "date": "2026-04-11",
       "title": "这篇Anthropic官方博客揭秘了Claude Code的工具设计心法，为Agent开发者提供了极具参考价值的架构思路。文中通过多次迭代案例，展现了从低效方案到结构化工具、从待办清单到任务协作的演进逻辑。读懂这套设计哲学，你也可以避开工具冗余的陷阱，打造更高效、更适配模型的智能体系统。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "多数人的知识笔记最终都会烂尾，核心问题是维护成本远高于记录成本。Karpathy带来AI驱动的知识库新解法，借助Obsidian与Claude Code，只需简单三步即可搭建三层结构Wiki，AI自动完成内容拆分、概念页面生成与双向链接构建，还能定期体检修复过时信息与断链问题。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -193,36 +203,6 @@
     {
       "date": "2026-04-06",
       "title": "AI圈每天都在冒新名词——LLM、token、context、prompts、tool、mcp、agents、agent skill... 你真的能准确说出每个概念的确切含义吗？这是一篇从工程视角出发的硬核解析，没有虚头巴脑的商业概念，只有最底层的技术真相。 看完这篇，你对AI的理解将上升一个台阶 。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-05",
-      "title": "这篇文章里，作者写了自己为什么离开传统制造，为什么会被 AI 这股浪潮推着往前走，也写了这半年里我是怎么靠一个个项目、一点点实践，把自己从原来的工作惯性里拽出来，最后真正拿到一份 AI 产品经理的工作。那篇文章更像一段转型复盘，讲的是选择、冒险、试错和跃迁。如果你也想转型AI产品经理，值得一看！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-05",
-      "title": "这篇文章和大家聊聊编程智能体（Coding Agent）和 Agent harness（智能体 Harness）的整体设计。它们到底是什么？怎么工作的？在实际应用中，各个部件又是如何协同配合的？",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-05",
-      "title": "本周AI精选论文覆盖模型安全、Agent架构、成本与效率等核心突破，极具实战与研究价值。Claude被证实存在情绪向量，为安全对齐提供新方向；AI Agent陷阱揭示网络攻击新形态，风险与责任亟待明确。多Agent异步协作、自组织架构大幅提升工程效率，Harness自动化优化与编码Agent替代长上下文，显著降低落地成本。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-05",
-      "title": "在规划和启动 SEO 时，对 SEO 做得不错的竞争网站有明确、详细的洞察是非常重要的。一方面，你以为你很懂客户，但你可能 不懂搜索用户在搜索什么，以及其背后的搜索意图 。另一方面，每个新站都应当做 SEO 竞争性分析，最起码能了解 SEO 流量渠道能不能做？现阶段该不该做？这篇文章分享了寻找并了解你的 SEO 竞争对手的方法。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-05",
-      "title": "Marc Andreessen 是少数几个亲历了互联网、移动端、云计算三次浪潮、且不只是\"见证\"了它们的人——他联合创立了 Netscape，写出了第一个商业浏览器，此后与 Ben Horowitz 共同创立 a16z，成为硅谷最有影响力的风险基金之一。这期对话是目前市面上最有密度、最少废话的一次一手回答，不容错过！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-05",
-      "title": "Dazhuang Skill Creator 基于 Claude Code 官方 skill-creator，但并不只是改几句提示词。作者把自己对提示词架构、Skill 架构，以及 CLI 工具运行机制的理解重新整合进去，对整体工作流、结构分层、bundled resources 和可维护性做了一次完整重构，整个 skill.md 非常轻量量，基本上只有规则和工作流程，优化起来像以前写提示词一样简单。快来安装试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
