@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T17:32:13.967992Z",
+  "generated_at": "2026-04-11T18:46:36.106225Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-11",
-  "count_today": 6,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-04-11",
@@ -15,6 +15,11 @@
     {
       "date": "2026-04-11",
       "title": "多数人的知识笔记最终都会烂尾，核心问题是维护成本远高于记录成本。Karpathy带来AI驱动的知识库新解法，借助Obsidian与Claude Code，只需简单三步即可搭建三层结构Wiki，AI自动完成内容拆分、概念页面生成与双向链接构建，还能定期体检修复过时信息与断链问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "在终端里设置 shell aliases 已经自然到几乎成了每个开发者的肌肉记忆。某个命令只要你用得足够频繁，你就会给它起个 alias。但在 Claude Code prompts 这件事上，开发者通常会完全跳过这一步。作者整理了10 个在工作流里最有用的commands，让我们来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -38,7 +43,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 38,
   "updates_7d": [
     {
       "date": "2026-04-11",
@@ -48,6 +53,11 @@
     {
       "date": "2026-04-11",
       "title": "多数人的知识笔记最终都会烂尾，核心问题是维护成本远高于记录成本。Karpathy带来AI驱动的知识库新解法，借助Obsidian与Claude Code，只需简单三步即可搭建三层结构Wiki，AI自动完成内容拆分、概念页面生成与双向链接构建，还能定期体检修复过时信息与断链问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "在终端里设置 shell aliases 已经自然到几乎成了每个开发者的肌肉记忆。某个命令只要你用得足够频繁，你就会给它起个 alias。但在 Claude Code prompts 这件事上，开发者通常会完全跳过这一步。作者整理了10 个在工作流里最有用的commands，让我们来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
