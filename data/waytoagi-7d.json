@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T15:05:05.836825Z",
+  "generated_at": "2026-04-12T16:00:06.102118Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -43,7 +43,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 32,
   "updates_7d": [
     {
       "date": "2026-04-11",
@@ -203,36 +203,6 @@
     {
       "date": "2026-04-07",
       "title": "AI编程常常会因为缺乏治而理在复杂项目中频繁出错。Meta_Kim则以“元”为核心，搭建了一个AI协作治理框架，通过规范分工、阶段管控与验证闭环，让AI开发更严谨可靠。框架支持多平台配置同步，自带经验沉淀与风险回滚机制，前期配置后可大幅降低重复试错成本。对从事跨文件、多模块工程开发的AI使用者而言，这套开源方案可以有效提升交付质量，帮你从无序调试走向标准化治理，快来试试。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "重度使用Claude Code与AutoClaw的用户，常常会被多设备配置无法同步困扰。本文分享一套实用同步方案，借助Git仓库与符号链接，实现两台设备上的技能、工作流、代理配置实时互通，再配合定时任务自动同步。全文步骤详细、零基础可操作，还贴心标注避坑要点。配置完成后可随时随地调用完整工作流，大幅提升移动办公效率。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "本周AI音乐领域技术与合规迎来新变化。阿里Qwen3.5-Omni实现音视频直接编程，ElevenMusic入局对标主流平台，海绵音乐、ProducerAI同步升级创作体验。与此同时，版权争议持续升级，美国权威机构质疑AI训练合理使用，TikTok上线技术严控变调侵权。但独立音乐人频遭AI声纹克隆与恶意版权勒索。快来一同查看AI音乐行业最新动态。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "Philip Johnston ， StarCloud 创始人兼 CEO ，全球首个实现太空数据中心在轨运行的创业者，深耕航天与算力基础设施。 Sonya Huang 、 Pat Grady ，科技领域资深主持人。这期对话则聚焦太空数据中心的技术、成本、规模化与商业未来。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "OpenAI Codex 团队的 产品规格文档只有 10 个要点 。不是说每个功能的文档只有 10 个要点，而是整个产品的 spec 就这么多。 设计师写的代码量超过了六个月前工程师写的 。50 到 100 人的团队，直到最近才有了第二个产品经理。来让我们看看他们是如何用自己的产品构建产品！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "Jyothi Nookula 在 AI 领域工作了 13.5 年，持有 12 项 AI 专利，先后担任 Amazon SageMaker、Meta PyTorch、Netflix 开发者平台的 AI 产品总监。这期播客是一堂公开的 AI 产品经理速成课：不是职场鸡汤，是从岗位结构、技术选型、Agent 架构到三家大厂 PM 文化的真实拆解。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "AI圈每天都在冒新名词——LLM、token、context、prompts、tool、mcp、agents、agent skill... 你真的能准确说出每个概念的确切含义吗？这是一篇从工程视角出发的硬核解析，没有虚头巴脑的商业概念，只有最底层的技术真相。 看完这篇，你对AI的理解将上升一个台阶 。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
