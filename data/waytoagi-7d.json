@@ -1,45 +1,35 @@
 {
-  "generated_at": "2026-04-13T10:13:58.233088Z",
+  "generated_at": "2026-04-13T11:50:25.611813Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-04-12",
-  "count_today": 6,
+  "latest_date": "2026-04-13",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-04-12",
-      "title": "这份AI Agentic Skills 设计清单可以帮你让AI能力持续迭代，实现远超常规提示词的百倍效能提升。",
+      "date": "2026-04-13",
+      "title": "面对AI带来的职场焦虑，这篇文章跳出简单的历史类比，给出更现实的判断。AI替代速度更快、覆盖更广，而且还在瓦解传统学徒培养体系。岗位存亡取决于“人+AI”与纯AI的ROI对比。未来就业将持续两极分化，中级岗位不断被挤压，但AI也会激活海量长尾需求，创造全新机会。对普通人而言，真正的出路不是恐慌，而是尽快掌握AI工具，向高价值、高创造力方向升级，抓住新一轮结构性机遇。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-12",
-      "title": "我们常常看到，有些团队在挑选模式时，只顾着选听起来“高大上”的，却忽略了到底适不适合手头的问题。我们的建议是： 从最简单的、能跑通的模式开始，观察它在哪里会遇到瓶颈，然后再逐步升级。 今天这篇文章，我们就来拆解五种常见模式的运作原理和局限性",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-12",
-      "title": "对话式大语言模型的长期记忆问题至今仍未得到解决。理想状态是：模型能够记住你之前说过的话，并随着时间推移从中提炼出意义。不只是回忆，而是理解、叙事，是那种能让一段对话在数月甚至数年间都显得连续且不断累积的记忆。本篇文章就带大家一起深度拆解下为什么 LLM 的长期记忆仍然是一个未解决的问题？",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-12",
-      "title": "OpenAI 刚刚发了一份13页的政策文件，探讨AGI时代的产业政策应该如何设立。这份文件本身值得从业者们读一遍。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-12",
-      "title": "Felix是Anthropic工程主管，负责Claude Co-Work产品线。在加入Anthropic之前，他在Microsoft参与了Electron框架和VS Code的早期开发，后又先后在Slack、Stripe、Notion从事核心产品工程。2026年初，他带领团队用10天冲刺上线了Co-Work——一个让非技术用户也能调用AI Agent完成复杂任务的产品。在这期对话中，Felix分享了从内部接触前沿模型的震撼，到执行力免费时代工程师定位的深度思考。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-12",
-      "title": "Eric Schmidt是前 Google/Alphabet 掌门人、Relativity Space（火箭公司）董事长兼 CEO、美国国防部创新委员会主席、Schmidt Futures 等慈善机构创始人。Peter H. Diamandis为XPRIZE 创始人、奇点大学联合创始人、Abundance发起人、太空与指数级技术先锋。David Blundin是数据挖掘与 AI 早期先锋、连续创业者、风险投资人、XPRIZE 创新委员会成员。这场深度对话，拆解了AI时代的核心走向，内容覆盖AGI进展、地缘格局、安全治理与未来科技方向！",
+      "date": "2026-04-13",
+      "title": "Aaron Levie是Box的联合创始人兼CEO。Box是全球最大的企业内容管理云平台之一，服务超过十万家企业客户，其中不乏通用电气、AstraZeneca 这样的巨头。这一期他坐进了 a16z 的播客，和两位主持人聊的话题核心只有一个：当 AI Agent 的时代真正来临，企业软件会走向何处？",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 40,
   "updates_7d": [
+    {
+      "date": "2026-04-13",
+      "title": "面对AI带来的职场焦虑，这篇文章跳出简单的历史类比，给出更现实的判断。AI替代速度更快、覆盖更广，而且还在瓦解传统学徒培养体系。岗位存亡取决于“人+AI”与纯AI的ROI对比。未来就业将持续两极分化，中级岗位不断被挤压，但AI也会激活海量长尾需求，创造全新机会。对普通人而言，真正的出路不是恐慌，而是尽快掌握AI工具，向高价值、高创造力方向升级，抓住新一轮结构性机遇。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "Aaron Levie是Box的联合创始人兼CEO。Box是全球最大的企业内容管理云平台之一，服务超过十万家企业客户，其中不乏通用电气、AstraZeneca 这样的巨头。这一期他坐进了 a16z 的播客，和两位主持人聊的话题核心只有一个：当 AI Agent 的时代真正来临，企业软件会走向何处？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-12",
       "title": "这份AI Agentic Skills 设计清单可以帮你让AI能力持续迭代，实现远超常规提示词的百倍效能提升。",
