@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T16:42:19.219763Z",
+  "generated_at": "2026-04-13T18:01:47.993532Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-13",
-  "count_today": 3,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-04-13",
@@ -19,11 +19,31 @@
     },
     {
       "date": "2026-04-13",
+      "title": "卡兹克自己三年前还在金融行业的时候，研究公司和行业用的方法论，然后后面AI来了，各种各样的深度研究也出来了，他自己又把这套方法论稍微迭代了一下，封装成了给很多AI的深度研究功能用的Prompt，能适用于研究任何东西，或许对你也同样适用，快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "做Agent产品翻车的根因，几乎从来不是模型不够聪明，而是产品经理还在用做SaaS的脑子做Agent。这篇文章不讲Prompt技巧，不讲框架选型，只讲一件事：做Agent产品的时候，你脑子里那张\"产品地图\"，到底应该长什么样。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "LLM、Token、Context、Prompt、Tool、MCP、Agent、Agent Skill、Harness……随便拎一个出来，很多人其实说不太清它到底指的是什么。更扎心的是， 你以为你懂了，但一深入追问，发现全是模糊的。这篇文章，作者从最底层的工程视角出发，把AI的核心概念一个个拆开讲透。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-13",
       "title": "Aaron Levie是Box的联合创始人兼CEO。Box是全球最大的企业内容管理云平台之一，服务超过十万家企业客户，其中不乏通用电气、AstraZeneca 这样的巨头。这一期他坐进了 a16z 的播客，和两位主持人聊的话题核心只有一个：当 AI Agent 的时代真正来临，企业软件会走向何处？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "2026年最值得学习的AI技能是什么？毫无疑问是Skill。无论是Claude Code，还是龙虾、爱马仕，几乎所有的Agent，如果想把事情干得又快又好，都越来越依赖Skills。今天这篇文章，作者带大家从入门到精通，彻底搞懂Skills ——理解skill，成为skill，超越skill。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 39,
   "updates_7d": [
     {
       "date": "2026-04-13",
@@ -37,7 +57,27 @@
     },
     {
       "date": "2026-04-13",
+      "title": "卡兹克自己三年前还在金融行业的时候，研究公司和行业用的方法论，然后后面AI来了，各种各样的深度研究也出来了，他自己又把这套方法论稍微迭代了一下，封装成了给很多AI的深度研究功能用的Prompt，能适用于研究任何东西，或许对你也同样适用，快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "做Agent产品翻车的根因，几乎从来不是模型不够聪明，而是产品经理还在用做SaaS的脑子做Agent。这篇文章不讲Prompt技巧，不讲框架选型，只讲一件事：做Agent产品的时候，你脑子里那张\"产品地图\"，到底应该长什么样。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "LLM、Token、Context、Prompt、Tool、MCP、Agent、Agent Skill、Harness……随便拎一个出来，很多人其实说不太清它到底指的是什么。更扎心的是， 你以为你懂了，但一深入追问，发现全是模糊的。这篇文章，作者从最底层的工程视角出发，把AI的核心概念一个个拆开讲透。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-13",
       "title": "Aaron Levie是Box的联合创始人兼CEO。Box是全球最大的企业内容管理云平台之一，服务超过十万家企业客户，其中不乏通用电气、AstraZeneca 这样的巨头。这一期他坐进了 a16z 的播客，和两位主持人聊的话题核心只有一个：当 AI Agent 的时代真正来临，企业软件会走向何处？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "2026年最值得学习的AI技能是什么？毫无疑问是Skill。无论是Claude Code，还是龙虾、爱马仕，几乎所有的Agent，如果想把事情干得又快又好，都越来越依赖Skills。今天这篇文章，作者带大家从入门到精通，彻底搞懂Skills ——理解skill，成为skill，超越skill。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
