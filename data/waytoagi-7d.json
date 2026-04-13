@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T15:02:56.524700Z",
+  "generated_at": "2026-04-13T16:42:19.219763Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-13",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-04-13",
@@ -14,15 +14,25 @@
     },
     {
       "date": "2026-04-13",
+      "title": "本周精选AI论文合集聚焦架构革新与效能突破。Meta提出神经计算机重构计算体系，微软多项研究大幅优化模型内存与推理效率，斯坦福则打破多智能体更强的固有认知。内容还覆盖Coding Agent原子化技能、海量技能库检索瓶颈、医疗模型升级等关键议题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-13",
       "title": "Aaron Levie是Box的联合创始人兼CEO。Box是全球最大的企业内容管理云平台之一，服务超过十万家企业客户，其中不乏通用电气、AstraZeneca 这样的巨头。这一期他坐进了 a16z 的播客，和两位主持人聊的话题核心只有一个：当 AI Agent 的时代真正来临，企业软件会走向何处？",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 40,
+  "count_7d": 35,
   "updates_7d": [
     {
       "date": "2026-04-13",
       "title": "面对AI带来的职场焦虑，这篇文章跳出简单的历史类比，给出更现实的判断。AI替代速度更快、覆盖更广，而且还在瓦解传统学徒培养体系。岗位存亡取决于“人+AI”与纯AI的ROI对比。未来就业将持续两极分化，中级岗位不断被挤压，但AI也会激活海量长尾需求，创造全新机会。对普通人而言，真正的出路不是恐慌，而是尽快掌握AI工具，向高价值、高创造力方向升级，抓住新一轮结构性机遇。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "本周精选AI论文合集聚焦架构革新与效能突破。Meta提出神经计算机重构计算体系，微软多项研究大幅优化模型内存与推理效率，斯坦福则打破多智能体更强的固有认知。内容还覆盖Coding Agent原子化技能、海量技能库检索瓶颈、医疗模型升级等关键议题。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -188,36 +198,6 @@
     {
       "date": "2026-04-08",
       "title": "AI圈正掀起Hermes Agent热潮，或许将复刻OpenClaw的FOMO现象。本篇文章清晰展现了它与OpenClaw的核心区别：Hermes轻量化易上手，以智能体为核心，具备独有的技能自我进化与经验沉淀能力，运行透明稳定，更适合个人打造专属协作智能体。同时还解读了迅猛上涨的市场数据与发展趋势，配套中英文文档，帮你精准判断到底哪款工具更适配自身需求，来抓住新一轮 Agent 风口。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-07",
-      "title": "如果你平时用飞书写内容，然后复制粘贴到公众号后台，一定会遇到这些头疼的问题：飞书里的图片要一张张下载再上传、表格复制过去格式全乱、代码块没有高亮，显示成纯文本、排版和预览时看到的效果不一致。这篇文章介绍一个开源工具，可以把飞书文档一键转成微信公众号草稿，图片自动上传，格式完整保留。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-07",
-      "title": "在这篇文章里，我们会通过逐块拆解的方式学习 Transformer 架构，理解每个组件的作用、它们如何协同工作，以及为什么这种架构支撑了每一个现代大语言模型（LLM）。当我们听到 “Transformer” 这个词时，它听起来很复杂。但别担心。如果我们把它拆成各个独立的部分来看，每一个部分其实都很简单。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-07",
-      "title": "关于 AI 中持续学习的大多数讨论都聚焦于一件事：更新模型权重。但对于 AI 智能体来说，学习可以发生在三个不同层次上：模型、harness 和上下文。理解这三者的区别，会改变你构建可随时间持续改进系统的思路。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-07",
-      "title": "一篇深入解析，讲清 Anthropic、OpenAI、Perplexity 和 LangChain 实际上在构建什么。涵盖编排循环、工具、记忆、上下文管理，以及其他一切能把一个无状态 LLM 变成有能力的 agent 的部分。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-07",
-      "title": "Amol Avasare是Anthropic的增长负责人。在他之前，他在MasterClass和Mercury做过增长，做过创始人，做过投资银行家。这一期他和Lenny聊的，是在史无前例的增速下，Anthropic的增长团队实际上在干什么，哪些传统打法彻底失效了，以及工程师生产力爆炸后PM和设计师的真实处境。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-07",
-      "title": "AI编程常常会因为缺乏治而理在复杂项目中频繁出错。Meta_Kim则以“元”为核心，搭建了一个AI协作治理框架，通过规范分工、阶段管控与验证闭环，让AI开发更严谨可靠。框架支持多平台配置同步，自带经验沉淀与风险回滚机制，前期配置后可大幅降低重复试错成本。对从事跨文件、多模块工程开发的AI使用者而言，这套开源方案可以有效提升交付质量，帮你从无序调试走向标准化治理，快来试试。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
