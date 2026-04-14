@@ -1,50 +1,45 @@
 {
-  "generated_at": "2026-04-14T15:20:10.198796Z",
+  "generated_at": "2026-04-14T16:41:06.417502Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-04-13",
-  "count_today": 7,
+  "latest_date": "2026-04-14",
+  "count_today": 3,
   "updates_today": [
     {
-      "date": "2026-04-13",
-      "title": "面对AI带来的职场焦虑，这篇文章跳出简单的历史类比，给出更现实的判断。AI替代速度更快、覆盖更广，而且还在瓦解传统学徒培养体系。岗位存亡取决于“人+AI”与纯AI的ROI对比。未来就业将持续两极分化，中级岗位不断被挤压，但AI也会激活海量长尾需求，创造全新机会。对普通人而言，真正的出路不是恐慌，而是尽快掌握AI工具，向高价值、高创造力方向升级，抓住新一轮结构性机遇。",
+      "date": "2026-04-14",
+      "title": "本周AI音乐领域动态密集：ACE-Step 1.5 XL开源4B参数模型，兼顾质量与速度；Adobe推出VidTune，以视觉缩略图实现情绪化配乐。版权格局持续博弈，Suno与环球、索尼谈判僵持，Udio则联手Kobalt布局正版声音克隆与二创。产品端亮点频出，MiniMax Music 2.6升级音质并上线翻唱与Agent功能，TME推出智能练琴应用Pulu。Controlla与Mureka达成合作，共建合规无侵权风险的AI音乐底层生态。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-13",
-      "title": "本周精选AI论文合集聚焦架构革新与效能突破。Meta提出神经计算机重构计算体系，微软多项研究大幅优化模型内存与推理效率，斯坦福则打破多智能体更强的固有认知。内容还覆盖Coding Agent原子化技能、海量技能库检索瓶颈、医疗模型升级等关键议题。",
+      "date": "2026-04-14",
+      "title": "「斯坦福 AI 指数报告 2026」发布，423 页，9 个章节。与2025版 相比，今年新增了两个独立章节： AI 与科学 、 AI 与医疗 ，同时新增了 AI 主权分析框架和生成式 AI 的消费者价值估算。让我们来一起一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-13",
-      "title": "卡兹克自己三年前还在金融行业的时候，研究公司和行业用的方法论，然后后面AI来了，各种各样的深度研究也出来了，他自己又把这套方法论稍微迭代了一下，封装成了给很多AI的深度研究功能用的Prompt，能适用于研究任何东西，或许对你也同样适用，快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-13",
-      "title": "做Agent产品翻车的根因，几乎从来不是模型不够聪明，而是产品经理还在用做SaaS的脑子做Agent。这篇文章不讲Prompt技巧，不讲框架选型，只讲一件事：做Agent产品的时候，你脑子里那张\"产品地图\"，到底应该长什么样。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-13",
-      "title": "LLM、Token、Context、Prompt、Tool、MCP、Agent、Agent Skill、Harness……随便拎一个出来，很多人其实说不太清它到底指的是什么。更扎心的是， 你以为你懂了，但一深入追问，发现全是模糊的。这篇文章，作者从最底层的工程视角出发，把AI的核心概念一个个拆开讲透。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-13",
-      "title": "Aaron Levie是Box的联合创始人兼CEO。Box是全球最大的企业内容管理云平台之一，服务超过十万家企业客户，其中不乏通用电气、AstraZeneca 这样的巨头。这一期他坐进了 a16z 的播客，和两位主持人聊的话题核心只有一个：当 AI Agent 的时代真正来临，企业软件会走向何处？",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-13",
-      "title": "2026年最值得学习的AI技能是什么？毫无疑问是Skill。无论是Claude Code，还是龙虾、爱马仕，几乎所有的Agent，如果想把事情干得又快又好，都越来越依赖Skills。今天这篇文章，作者带大家从入门到精通，彻底搞懂Skills ——理解skill，成为skill，超越skill。",
+      "date": "2026-04-14",
+      "title": "AI First并不是简单的叠加工具，而是以软件工程为底座来重构全流程。真正的“AI 优先” (AI-first)，意味着你要基于“AI 是主力构建者”这一核心假设，彻底重新设计你的流程、架构和组织。 你要停止问“AI 能怎么帮助我们的工程师？”，转而问“我们该如何重构一切，让 AI 去做构建工作，而工程师只负责指引方向和判断好坏？”",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 36,
   "updates_7d": [
+    {
+      "date": "2026-04-14",
+      "title": "本周AI音乐领域动态密集：ACE-Step 1.5 XL开源4B参数模型，兼顾质量与速度；Adobe推出VidTune，以视觉缩略图实现情绪化配乐。版权格局持续博弈，Suno与环球、索尼谈判僵持，Udio则联手Kobalt布局正版声音克隆与二创。产品端亮点频出，MiniMax Music 2.6升级音质并上线翻唱与Agent功能，TME推出智能练琴应用Pulu。Controlla与Mureka达成合作，共建合规无侵权风险的AI音乐底层生态。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-14",
+      "title": "「斯坦福 AI 指数报告 2026」发布，423 页，9 个章节。与2025版 相比，今年新增了两个独立章节： AI 与科学 、 AI 与医疗 ，同时新增了 AI 主权分析框架和生成式 AI 的消费者价值估算。让我们来一起一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-14",
+      "title": "AI First并不是简单的叠加工具，而是以软件工程为底座来重构全流程。真正的“AI 优先” (AI-first)，意味着你要基于“AI 是主力构建者”这一核心假设，彻底重新设计你的流程、架构和组织。 你要停止问“AI 能怎么帮助我们的工程师？”，转而问“我们该如何重构一切，让 AI 去做构建工作，而工程师只负责指引方向和判断好坏？”",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-13",
       "title": "面对AI带来的职场焦虑，这篇文章跳出简单的历史类比，给出更现实的判断。AI替代速度更快、覆盖更广，而且还在瓦解传统学徒培养体系。岗位存亡取决于“人+AI”与纯AI的ROI对比。未来就业将持续两极分化，中级岗位不断被挤压，但AI也会激活海量长尾需求，创造全新机会。对普通人而言，真正的出路不是恐慌，而是尽快掌握AI工具，向高价值、高创造力方向升级，抓住新一轮结构性机遇。",
@@ -208,36 +203,6 @@
     {
       "date": "2026-04-09",
       "title": "Anthropic 今天发了一个新产品，叫 Claude Managed Agents 。一句话概括：你告诉 Anthropic 你想要什么样的 AI 智能体，它帮你在云端跑起来， 基础设施全包，按用量收费 。Sentry 用它几周就上线了自动修 bug 的全流程，Rakuten 一周部署一个专项智能体。然而之前这些事需要一整个工程师团队干几个月。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-08",
-      "title": "贝叶斯定理是概率论和机器学习中的一个核心思想。它告诉你，当你看到新数据之后，应该如何更新自己的判断。在这篇文章里，会把整个内容一块一块拆开来讲。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-08",
-      "title": "当下AI智能体开发普遍陷入局部优化误区，作者借鉴贝尔实验室系统工程思想，指出软件工程本质就是系统工程。构建可用的Agent软件需要打通智能体、数据、安全、界面、基础设施五层架构，摒弃零散工具堆砌，从整体视角实现协同设计。文中结合了开源项目Dash的实操演示，提供了可落地的架构方案，可以快速搭建稳定可靠的生产级智能体系统，快来借鉴一下！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-08",
-      "title": "今天凌晨，Meta 发布了全新的大模型 Muse Spark ，已上线到 Meta 旗下的各类产品。Muse Spark 是一个原生多模态推理模型 ，支持工具调用 、 视觉推理链（visual chain of thought） 和多Agent协同。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-08",
-      "title": "Hannah Stulberg 是DoorDash的PM，前Google APM，她在 Claude Code上已经投入超过1500个小时，而且至今仍在每天改进自己的工作流。这期Aakash Gupta的播客里，她把自己的「Team OS」完整拆解给了所有人——一个让 PM 一个人撑起 20 人团队的共享知识库系统。如果你是 PM、工程师或设计师，正在思考如何用 AI 真正放大自己的工作效率，这篇文章值得认真读完。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-08",
-      "title": "Anthropic 发布了 Claude Mythos Preview 。这是一个通用前沿模型，定位在 Opus 之上，是 Claude 产品线的全新最高层级。Anthropic 同时宣布，Mythos Preview 不会公开发布，只向 12 家核心合作方和 40 余家关键基础设施组织开放，让我们来一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-08",
-      "title": "AI圈正掀起Hermes Agent热潮，或许将复刻OpenClaw的FOMO现象。本篇文章清晰展现了它与OpenClaw的核心区别：Hermes轻量化易上手，以智能体为核心，具备独有的技能自我进化与经验沉淀能力，运行透明稳定，更适合个人打造专属协作智能体。同时还解读了迅猛上涨的市场数据与发展趋势，配套中英文文档，帮你精准判断到底哪款工具更适配自身需求，来抓住新一轮 Agent 风口。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
