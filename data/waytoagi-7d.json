@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T16:41:06.417502Z",
+  "generated_at": "2026-04-14T18:05:23.691709Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-14",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-04-14",
@@ -19,11 +19,16 @@
     },
     {
       "date": "2026-04-14",
+      "title": "Claude Code更新了Auto Mode（自动模式）。上线三周了，还在用 claude --dangerously-skip-permissions 的朋友可以都切换成 claude --permission-mode auto 了，不至于闭着眼把权限全批了，执行到高风险动作还是提醒的。作者这次一口气整理了这段时间觉得最有用的十个命令和技巧，全分享出来，快来看看都有什么！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-14",
       "title": "AI First并不是简单的叠加工具，而是以软件工程为底座来重构全流程。真正的“AI 优先” (AI-first)，意味着你要基于“AI 是主力构建者”这一核心假设，彻底重新设计你的流程、架构和组织。 你要停止问“AI 能怎么帮助我们的工程师？”，转而问“我们该如何重构一切，让 AI 去做构建工作，而工程师只负责指引方向和判断好坏？”",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-04-14",
@@ -33,6 +38,11 @@
     {
       "date": "2026-04-14",
       "title": "「斯坦福 AI 指数报告 2026」发布，423 页，9 个章节。与2025版 相比，今年新增了两个独立章节： AI 与科学 、 AI 与医疗 ，同时新增了 AI 主权分析框架和生成式 AI 的消费者价值估算。让我们来一起一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-14",
+      "title": "Claude Code更新了Auto Mode（自动模式）。上线三周了，还在用 claude --dangerously-skip-permissions 的朋友可以都切换成 claude --permission-mode auto 了，不至于闭着眼把权限全批了，执行到高风险动作还是提醒的。作者这次一口气整理了这段时间觉得最有用的十个命令和技巧，全分享出来，快来看看都有什么！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
