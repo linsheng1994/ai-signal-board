@@ -1,20 +1,30 @@
 {
-  "generated_at": "2026-04-15T10:42:04.699956Z",
+  "generated_at": "2026-04-15T11:56:02.467371Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-15",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
+    {
+      "date": "2026-04-15",
+      "title": "前两天 Hermes上还只能飞书聊天，但缺少文件管理权限，玩法少了很多，现在飞书CLI官宣支持Hermes了！你可以照着这篇保姆级教程做，抢先一步把 Hermes 接进飞书并进化为功能权限齐全的完全体飞书CLI！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-15",
       "title": "你有没有这种感觉：用AI生成的视频，画质明明很好，人物也很精致，但总觉得少了点什么。看起来更像一张\"动起来的海报\"，而不是一段真正的影像。差的那个东西，叫运镜。小歪整理了AI视频镜头语言提示词大全，手把手教你写提示词！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 41,
+  "count_7d": 42,
   "updates_7d": [
+    {
+      "date": "2026-04-15",
+      "title": "前两天 Hermes上还只能飞书聊天，但缺少文件管理权限，玩法少了很多，现在飞书CLI官宣支持Hermes了！你可以照着这篇保姆级教程做，抢先一步把 Hermes 接进飞书并进化为功能权限齐全的完全体飞书CLI！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-15",
       "title": "你有没有这种感觉：用AI生成的视频，画质明明很好，人物也很精致，但总觉得少了点什么。看起来更像一张\"动起来的海报\"，而不是一段真正的影像。差的那个东西，叫运镜。小歪整理了AI视频镜头语言提示词大全，手把手教你写提示词！",
