@@ -1,50 +1,25 @@
 {
-  "generated_at": "2026-04-15T09:04:01.910186Z",
+  "generated_at": "2026-04-15T10:42:04.699956Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-04-14",
-  "count_today": 7,
+  "latest_date": "2026-04-15",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-04-14",
-      "title": "本篇文章从第一性原理出发解析智能体记忆：从Python列表、Markdown文件，到向量检索、图向量混合架构，最终形成一套简洁易用的开源完整解决方案。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-14",
-      "title": "本周AI音乐领域动态密集：ACE-Step 1.5 XL开源4B参数模型，兼顾质量与速度；Adobe推出VidTune，以视觉缩略图实现情绪化配乐。版权格局持续博弈，Suno与环球、索尼谈判僵持，Udio则联手Kobalt布局正版声音克隆与二创。产品端亮点频出，MiniMax Music 2.6升级音质并上线翻唱与Agent功能，TME推出智能练琴应用Pulu。Controlla与Mureka达成合作，共建合规无侵权风险的AI音乐底层生态。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-14",
-      "title": "「斯坦福 AI 指数报告 2026」发布，423 页，9 个章节。与2025版 相比，今年新增了两个独立章节： AI 与科学 、 AI 与医疗 ，同时新增了 AI 主权分析框架和生成式 AI 的消费者价值估算。让我们来一起一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-14",
-      "title": "Claude Code更新了Auto Mode（自动模式）。上线三周了，还在用 claude --dangerously-skip-permissions 的朋友可以都切换成 claude --permission-mode auto 了，不至于闭着眼把权限全批了，执行到高风险动作还是提醒的。作者这次一口气整理了这段时间觉得最有用的十个命令和技巧，全分享出来，快来看看都有什么！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-14",
-      "title": "AI 自动化，正在悄悄成为整个 AI 领域里 ROI 最高的一项技能。问题在于，大多数进入这个领域的人，都会以同样的方式卡住。有人第一天就打开 Python 教程，第二周就撞墙，此后再也不碰无代码工具。有人迷失在 8 小时的 YouTube 教程里，却从来没有为真实业务搭出过一个真正的工作流。这份指南的目标，是给你一条实用的 6 个月路线图。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-14",
-      "title": "AI First并不是简单的叠加工具，而是以软件工程为底座来重构全流程。真正的“AI 优先” (AI-first)，意味着你要基于“AI 是主力构建者”这一核心假设，彻底重新设计你的流程、架构和组织。 你要停止问“AI 能怎么帮助我们的工程师？”，转而问“我们该如何重构一切，让 AI 去做构建工作，而工程师只负责指引方向和判断好坏？”",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-14",
-      "title": "4月8日，AGI HORIZON Tokyo 2026 圆满落幕了！上午七场演讲，让我们来看看嘉宾们都分享了哪些精彩内容！",
+      "date": "2026-04-15",
+      "title": "你有没有这种感觉：用AI生成的视频，画质明明很好，人物也很精致，但总觉得少了点什么。看起来更像一张\"动起来的海报\"，而不是一段真正的影像。差的那个东西，叫运镜。小歪整理了AI视频镜头语言提示词大全，手把手教你写提示词！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 40,
+  "count_7d": 41,
   "updates_7d": [
+    {
+      "date": "2026-04-15",
+      "title": "你有没有这种感觉：用AI生成的视频，画质明明很好，人物也很精致，但总觉得少了点什么。看起来更像一张\"动起来的海报\"，而不是一段真正的影像。差的那个东西，叫运镜。小歪整理了AI视频镜头语言提示词大全，手把手教你写提示词！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-14",
       "title": "本篇文章从第一性原理出发解析智能体记忆：从Python列表、Markdown文件，到向量检索、图向量混合架构，最终形成一套简洁易用的开源完整解决方案。",
