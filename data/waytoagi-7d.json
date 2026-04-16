@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T14:07:11.076763Z",
+  "generated_at": "2026-04-16T16:04:58.876993Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-16",
-  "count_today": 2,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-04-16",
@@ -16,9 +16,19 @@
       "date": "2026-04-16",
       "title": "成峰最近把他的剪辑 Agent 的字幕功能重做了一遍。跑一条指令，剪映首页多出一个新草稿。双击打开，字幕全在时间轴上，花字和入场动画都已经配好了。字幕准确率 95%，有口播稿能到 99%。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "一位14年经验的首席工程师，在同一个8万行代码 的真实项目里， 同时用 Claude Code 和 Codex 干了 120 个小时 ，然后写了一份对比报告。他不是凑周末写个 demo，是实打实的生产环境协同开发。最后发现AI 的工程素养，比生成速度重要一万倍。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "Phil Carter，独立增长顾问、天使投资人，过去在Quizlet负责增长产品，也长期服务消费类订阅公司。这期对话他把问题拆得非常具体：产品怎么在第一分钟抓住用户，增长团队怎么把这种价值送到更多人面前，最后又该怎样用试用、分层和算力成本把收入真正留下来。不容错过！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 43,
+  "count_7d": 38,
   "updates_7d": [
     {
       "date": "2026-04-16",
@@ -28,6 +38,16 @@
     {
       "date": "2026-04-16",
       "title": "成峰最近把他的剪辑 Agent 的字幕功能重做了一遍。跑一条指令，剪映首页多出一个新草稿。双击打开，字幕全在时间轴上，花字和入场动画都已经配好了。字幕准确率 95%，有口播稿能到 99%。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "一位14年经验的首席工程师，在同一个8万行代码 的真实项目里， 同时用 Claude Code 和 Codex 干了 120 个小时 ，然后写了一份对比报告。他不是凑周末写个 demo，是实打实的生产环境协同开发。最后发现AI 的工程素养，比生成速度重要一万倍。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "Phil Carter，独立增长顾问、天使投资人，过去在Quizlet负责增长产品，也长期服务消费类订阅公司。这期对话他把问题拆得非常具体：产品怎么在第一分钟抓住用户，增长团队怎么把这种价值送到更多人面前，最后又该怎样用试用、分层和算力成本把收入真正留下来。不容错过！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -198,41 +218,6 @@
     {
       "date": "2026-04-11",
       "title": "Hermes Agent 宣布原生支持个人微信了。微信扫码即可连接，私聊群聊都支持。图片、视频、文件、语音消息全覆盖，长轮询直连，不需要公网 IP。作者速速整理了上手教程，前后不到5分钟，很丝滑～",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-10",
-      "title": "面对 Claude 额度受限的困扰，本文分享了4 套 Claude Code 与 NotebookLM 的高效集成工作流，可以绕过额度限制，把重量级的文档分析卸载到 Google 那边去做。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-10",
-      "title": "这份Hermes Agent实用指南，集齐了日常使用中最能提升效率与体验的硬核技巧。不管你是新手还是进阶玩家，或许都能从中解锁一些高效好用的隐藏玩法。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-10",
-      "title": "款Hermes Agent彻底打破常规，自带学习循环，可以在执行任务中自主沉淀、优化专属技能，还可以自动搜索安装能力，越用越强。本篇文章带来Windows系统完整部署教程，从环境配置、模型接入到飞书集成一步到位，而且汇总了高频坑点的解决方案与常用指令。快来跟着一步步上手操作试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-10",
-      "title": "本文通过上手实践操作Hermes Agent ，给出了安装Hermes 后建议先尝试的十项功能，内容非常丰富，纯手敲，经过源码review和实验验证。 并通过尝试，也总结了Hermes 的八大亮点，都在文中了，欢迎阅读交流～",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-10",
-      "title": "最近两周，从「同事.skill」开始，各种诸如乔布斯、老板、前任甚至赛博算命的蒸馏人格系列铺天盖地。但剥开表象会发现一个现象 ：这波热潮里的绝大多数项目，仅仅发挥了 Skill 10% 的能力——本质上只是把一段角色 Prompt 存成了文件。本文不是教你做「同事.skill」那种角色扮演玩具。 如果你想把 Skill 做成 持续运转的系统 ——像搭乐高一样拼装 Agent 的能力边界，这篇文章正是为你准备的。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-10",
-      "title": "子木做了一个 seo-audit-skill — 给它一个 URL，它就能跑出针对这个页面，一份结构化的报告 ，并告诉你在SEO方面哪里有问题、为什么有问题、怎么改。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-10",
-      "title": "OiiOii 是全球首个动画创作Agent。用户通过自然语言对话，就能快速生成一张精美的插图、制作几秒的惊艳短视频，或者创作一段完整的剧情动画短片。这篇使用手册将带你快速熟悉平台的核心功能，开启你的 AI 创作之旅！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
