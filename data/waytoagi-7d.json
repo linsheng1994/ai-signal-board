@@ -1,50 +1,35 @@
 {
-  "generated_at": "2026-04-16T07:48:16.604820Z",
+  "generated_at": "2026-04-16T09:20:32.355547Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-04-15",
-  "count_today": 7,
+  "latest_date": "2026-04-16",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-04-15",
-      "title": "这篇文章给你一套双层系统，让你运行的每一个 AI Agent 都变得更聪明。20 分钟搭建，每天自动变强，完全开源。",
+      "date": "2026-04-16",
+      "title": "摆脱单一AI的思维局限，云舒从代码多子Agent校验中获得灵感，打造出多视角深度分析Skill。通过十位精英视角独立研判，精准戳破复盘过多、产出不足的盲区，在增长、产品、内容等方向给出破局建议，最终确立兴趣驱动的创作模式。这套方法能有效打破认知茧房，现在已经开源可直接安装，快来试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-15",
-      "title": "同样质量的一篇文章，用传统方式（打开 AI 对话框来回改 Prompt）大概需要120-240分钟 。用我接下来要讲的这条管线，25-40分钟 ，而且我自己动手的时间不超过15分钟。省下来的时间不是偷懒——是把时间从 \"和 AI 拉扯\" 转移到了 \"注入我的判断\" 上。这篇文章和大家分享下 如何用最近很火的Cli来把审美变成可执行的内容生产线！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-15",
-      "title": "前两天 Hermes上还只能飞书聊天，但缺少文件管理权限，玩法少了很多，现在飞书CLI官宣支持Hermes了！你可以照着这篇保姆级教程做，抢先一步把 Hermes 接进飞书并进化为功能权限齐全的完全体飞书CLI！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-15",
-      "title": "你有没有这种感觉：用AI生成的视频，画质明明很好，人物也很精致，但总觉得少了点什么。看起来更像一张\"动起来的海报\"，而不是一段真正的影像。差的那个东西，叫运镜。小歪整理了AI视频镜头语言提示词大全，手把手教你写提示词！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-15",
-      "title": "作者这篇文章分享一个方案：用 Claude Code+飞书 CLI+CC-Connect，实现龙虾同等能力，而且更可控、更放心。简单说就是：你在飞书发消息 → CC-Connect 把消息转给本地 CC → CC 执行任务 → 通过飞书 CLI 把结果发回飞书。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-15",
-      "title": "Michael Livi 在Adobe负责产品、设计与业务战略，管理多个团队，每天在十几个会议之间高速切换。他不会写代码，也没有技术背景，但最近几个月用 Claude Code 搭建了一套完整的\"AI 参谋长\"系统——帮他消化会议纪要、管理团队上下文、规划每日优先级、甚至代写策略文档。这期对话里，他把搭建过程、文件结构和使用心得全部摊开讲了一遍。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-15",
-      "title": "Hermes agent也可能有万字的系统提示词，看岚叔带你完整拆解。同时教你一招降低50% tokens 的小妙招～",
+      "date": "2026-04-16",
+      "title": "成峰最近把他的剪辑 Agent 的字幕功能重做了一遍。跑一条指令，剪映首页多出一个新草稿。双击打开，字幕全在时间轴上，花字和入场动画都已经配好了。字幕准确率 95%，有口播稿能到 99%。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 41,
+  "count_7d": 43,
   "updates_7d": [
+    {
+      "date": "2026-04-16",
+      "title": "摆脱单一AI的思维局限，云舒从代码多子Agent校验中获得灵感，打造出多视角深度分析Skill。通过十位精英视角独立研判，精准戳破复盘过多、产出不足的盲区，在增长、产品、内容等方向给出破局建议，最终确立兴趣驱动的创作模式。这套方法能有效打破认知茧房，现在已经开源可直接安装，快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "成峰最近把他的剪辑 Agent 的字幕功能重做了一遍。跑一条指令，剪映首页多出一个新草稿。双击打开，字幕全在时间轴上，花字和入场动画都已经配好了。字幕准确率 95%，有口播稿能到 99%。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-15",
       "title": "这篇文章给你一套双层系统，让你运行的每一个 AI Agent 都变得更聪明。20 分钟搭建，每天自动变强，完全开源。",
