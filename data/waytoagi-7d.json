@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-04-18T16:01:26.165024Z",
+  "generated_at": "2026-04-18T17:05:43.240385Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-04-17",
-  "count_today": 6,
+  "latest_date": "2026-04-18",
+  "count_today": 3,
   "updates_today": [
     {
-      "date": "2026-04-17",
-      "title": "这份AI入门手册面向仅用过通用对话产品、对Agent认知模糊的新手，可以帮你告别碎片化学习，系统搭建AI实用能力。这份文档阶梯式学习设计非常清晰，落地性极强，小白用户也可以快速实现从会聊天到会用AI解决实际问题的蜕变，快来试试！",
+      "date": "2026-04-18",
+      "title": "阿里推出世界模型HappyOyster（快乐生蚝），支持一句话生成可漫游、可导演、可创造、可分享的交互式 3D 世界。用户能用 WASD 自由探索，生成中实时改剧情与镜头，还可以保存分享二创，实现从 “看视频” 到 “进世界” 的体验跃迁。目前处于内测阶段，来看看大聪明的全面测评与解读。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-17",
-      "title": "无论你用 Claude Code、Hermes、OpenClaw 还是其他 Agent，Skill 都是让 AI 干得又快又好的关键。但问题是：散落各处的教程太多，系统的学习路径太少。今天，WaytoAGI × 黄叔联合推荐这份《Claude Agent Skills 蓝皮书》。五篇二十章，从\"Skill 是给普通人最好的礼物\"讲起，到 Agent Team、自动进化收尾，覆盖完整学习曲线。搭配 WaytoAGI 知识库里持续更新的实战案例，理论和实操一站搞定。",
+      "date": "2026-04-18",
+      "title": "Notion 的 Sarah Sachs 和 Simon Last。前者负责 Notion 的核心 AI 能力与基础设施，后者长期站在原型和 agent harness 的最前线。Notion要做的，并不是给文档软件外挂一个会聊天的助手，而是把企业记录工作、协作工作、检索工作、推进工作的底层系统，一点点改造成既能给人用，也能给 Agent 用。如果你正在做 AI 产品、企业软件，或者正在琢磨 MCP、Eval、检索和工作流自动化，这期对话的信息密度非常高。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-17",
-      "title": "OpenCLI把复杂网页操作变成极简命令，一行指令就能秒查热榜、搜爆款、导数据，大幅提升信息获取效率。依托后台服务与浏览器插件联动，可以覆盖知乎、小红书、GitHub等数十平台，既能支撑内容创作者快速找选题，也适合程序员高效查项目。本篇指南，小白也能快速上手，彻底告别繁琐手动操作。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-17",
-      "title": "OpenAI推出生命科学专用模型GPT-Rosalind，聚焦生物推理、科研流程、工具调用与实验设计，可以大幅缩短药物研发前期耗时。而且还同步开放了免费科研插件，可以接入50+数据库，普通用户就可以使用。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-17",
-      "title": "Claude 为什么会被感知成“有灵魂”的产品，普通人到底怎样才算真正接住了模型能力，以及下一代 AI 产品会不会不再只是一个聊天框。带着这些疑问，一起走进本期对话的深度解读。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-17",
-      "title": "ChatGPT 带着它的新图片模型来了，文字精细度和知识储备达到了新的高度。各类 IP 了如指掌，做广告海报、国内媒体截图都极其逼真，这些大家应该也都见识过了。真人图效果比较吃提示词，想要效果好可以给更多细节描述。阿真带着超全测评来了，快来看看！",
+      "date": "2026-04-18",
+      "title": "Hermes Agent 是当前最前沿的开源 AI 智能体框架之一，其最大亮点是具备 “自我进化”能力，相比OpenClaw，Hermes Agent 得到了更精细的优化，而Hermes Agent没有对windows原生支持，经过两天的踩坑，终于跑出来两个能够在Windows中部署Hermes Agent的方式，以下是部署的两个教程。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 36,
   "updates_7d": [
+    {
+      "date": "2026-04-18",
+      "title": "阿里推出世界模型HappyOyster（快乐生蚝），支持一句话生成可漫游、可导演、可创造、可分享的交互式 3D 世界。用户能用 WASD 自由探索，生成中实时改剧情与镜头，还可以保存分享二创，实现从 “看视频” 到 “进世界” 的体验跃迁。目前处于内测阶段，来看看大聪明的全面测评与解读。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "Notion 的 Sarah Sachs 和 Simon Last。前者负责 Notion 的核心 AI 能力与基础设施，后者长期站在原型和 agent harness 的最前线。Notion要做的，并不是给文档软件外挂一个会聊天的助手，而是把企业记录工作、协作工作、检索工作、推进工作的底层系统，一点点改造成既能给人用，也能给 Agent 用。如果你正在做 AI 产品、企业软件，或者正在琢磨 MCP、Eval、检索和工作流自动化，这期对话的信息密度非常高。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "Hermes Agent 是当前最前沿的开源 AI 智能体框架之一，其最大亮点是具备 “自我进化”能力，相比OpenClaw，Hermes Agent 得到了更精细的优化，而Hermes Agent没有对windows原生支持，经过两天的踩坑，终于跑出来两个能够在Windows中部署Hermes Agent的方式，以下是部署的两个教程。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-17",
       "title": "这份AI入门手册面向仅用过通用对话产品、对Agent认知模糊的新手，可以帮你告别碎片化学习，系统搭建AI实用能力。这份文档阶梯式学习设计非常清晰，落地性极强，小白用户也可以快速实现从会聊天到会用AI解决实际问题的蜕变，快来试试！",
