@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-04-18T17:05:43.240385Z",
+  "generated_at": "2026-04-18T18:01:52.989395Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-18",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-04-18",
       "title": "阿里推出世界模型HappyOyster（快乐生蚝），支持一句话生成可漫游、可导演、可创造、可分享的交互式 3D 世界。用户能用 WASD 自由探索，生成中实时改剧情与镜头，还可以保存分享二创，实现从 “看视频” 到 “进世界” 的体验跃迁。目前处于内测阶段，来看看大聪明的全面测评与解读。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "我们在制作AI视频的时候， 转场 这东西，很容易被忽略。很多新手写AI视频提示词，压根没想过\"这条视频和下一条之间怎么接\"，生成完了才发现拼不上。其实，不同方式的转场呈现的情绪和视觉效果是完全不一样的。小歪分享了6大类19种技巧+通用模板直接套用，快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -23,11 +28,16 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-04-18",
       "title": "阿里推出世界模型HappyOyster（快乐生蚝），支持一句话生成可漫游、可导演、可创造、可分享的交互式 3D 世界。用户能用 WASD 自由探索，生成中实时改剧情与镜头，还可以保存分享二创，实现从 “看视频” 到 “进世界” 的体验跃迁。目前处于内测阶段，来看看大聪明的全面测评与解读。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "我们在制作AI视频的时候， 转场 这东西，很容易被忽略。很多新手写AI视频提示词，压根没想过\"这条视频和下一条之间怎么接\"，生成完了才发现拼不上。其实，不同方式的转场呈现的情绪和视觉效果是完全不一样的。小歪分享了6大类19种技巧+通用模板直接套用，快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
