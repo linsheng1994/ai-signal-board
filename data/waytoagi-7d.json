@@ -1,40 +1,55 @@
 {
-  "generated_at": "2026-04-19T15:06:17.135982Z",
+  "generated_at": "2026-04-19T16:01:40.121619Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-04-18",
-  "count_today": 5,
+  "latest_date": "2026-04-19",
+  "count_today": 4,
   "updates_today": [
     {
-      "date": "2026-04-18",
-      "title": "阿里推出世界模型HappyOyster（快乐生蚝），支持一句话生成可漫游、可导演、可创造、可分享的交互式 3D 世界。用户能用 WASD 自由探索，生成中实时改剧情与镜头，还可以保存分享二创，实现从 “看视频” 到 “进世界” 的体验跃迁。目前处于内测阶段，来看看大聪明的全面测评与解读。",
+      "date": "2026-04-19",
+      "title": "这篇文章将深度揭秘Anthropic、OpenAI、Perplexity和LangChain到底在捣鼓什么。 编排循环 (orchestration loop) 、 工具 (tools) 、 记忆 (memory) 、 上下文管理 (context management) ——凡是你能想到的、能把一个无状态的大语言模型 (LLM) 变成靠谱智能体 (agent) 的玩意儿，今天一次性说透。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-18",
-      "title": "我们在制作AI视频的时候， 转场 这东西，很容易被忽略。很多新手写AI视频提示词，压根没想过\"这条视频和下一条之间怎么接\"，生成完了才发现拼不上。其实，不同方式的转场呈现的情绪和视觉效果是完全不一样的。小歪分享了6大类19种技巧+通用模板直接套用，快来上手试试！",
+      "date": "2026-04-19",
+      "title": "如果你做的是 AI 产品、B2B 软件、增长或者产品策略，这期内容值得读，不是因为它在讲“营销技巧”，而是因为它讨论了一个更底层的变化：未来替你发现信息、比较产品、形成偏好的，越来越不是人，而是Agent。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-18",
-      "title": "我们可以蒸馏一个人，为什么不蒸馏他花了大量时间写的书呢？书是一个人花了大量时间沉淀下来的深度思考，是他反复推敲，实战沉淀下来的精华。蒸馏大佬们写的书，你能拿到他们的方法论，那是真正可落地的验证过的经验。于是我决定干一件事： 做一个能蒸馏任何书的 skill，然后让Agent帮我们把这些知识用起来！于是 仓颉.Skill 就这么诞生了",
+      "date": "2026-04-19",
+      "title": "Hermes Agent独创的P链协议，打破了AI会话遗忘困境，让跨天、跨平台的连续协作成为现实。依托会话血缘链与全文检索，AI能完整追溯历史对话、自动沉淀经验技能，还能智能压缩上下文，高效又省Token。相比传统框架与RAG，AI从一次性工具升级为懂你的长期协作伙伴，大幅提升了复杂任务的执行效率。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-18",
-      "title": "Notion 的 Sarah Sachs 和 Simon Last。前者负责 Notion 的核心 AI 能力与基础设施，后者长期站在原型和 agent harness 的最前线。Notion要做的，并不是给文档软件外挂一个会聊天的助手，而是把企业记录工作、协作工作、检索工作、推进工作的底层系统，一点点改造成既能给人用，也能给 Agent 用。如果你正在做 AI 产品、企业软件，或者正在琢磨 MCP、Eval、检索和工作流自动化，这期对话的信息密度非常高。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-18",
-      "title": "Hermes Agent 是当前最前沿的开源 AI 智能体框架之一，其最大亮点是具备 “自我进化”能力，相比OpenClaw，Hermes Agent 得到了更精细的优化，而Hermes Agent没有对windows原生支持，经过两天的踩坑，终于跑出来两个能够在Windows中部署Hermes Agent的方式，以下是部署的两个教程。",
+      "date": "2026-04-19",
+      "title": "Claude Design依托原生代码结构，可以与开发很好地无缝协同，重构设计工作流。未来工具或许将分化为代码原生与纯创意探索两条路径，对设计师、产品团队而言，这不仅是工具更迭，更是效率与工作流的彻底升级！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 35,
   "updates_7d": [
+    {
+      "date": "2026-04-19",
+      "title": "这篇文章将深度揭秘Anthropic、OpenAI、Perplexity和LangChain到底在捣鼓什么。 编排循环 (orchestration loop) 、 工具 (tools) 、 记忆 (memory) 、 上下文管理 (context management) ——凡是你能想到的、能把一个无状态的大语言模型 (LLM) 变成靠谱智能体 (agent) 的玩意儿，今天一次性说透。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-19",
+      "title": "如果你做的是 AI 产品、B2B 软件、增长或者产品策略，这期内容值得读，不是因为它在讲“营销技巧”，而是因为它讨论了一个更底层的变化：未来替你发现信息、比较产品、形成偏好的，越来越不是人，而是Agent。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-19",
+      "title": "Hermes Agent独创的P链协议，打破了AI会话遗忘困境，让跨天、跨平台的连续协作成为现实。依托会话血缘链与全文检索，AI能完整追溯历史对话、自动沉淀经验技能，还能智能压缩上下文，高效又省Token。相比传统框架与RAG，AI从一次性工具升级为懂你的长期协作伙伴，大幅提升了复杂任务的执行效率。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-19",
+      "title": "Claude Design依托原生代码结构，可以与开发很好地无缝协同，重构设计工作流。未来工具或许将分化为代码原生与纯创意探索两条路径，对设计师、产品团队而言，这不仅是工具更迭，更是效率与工作流的彻底升级！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-18",
       "title": "阿里推出世界模型HappyOyster（快乐生蚝），支持一句话生成可漫游、可导演、可创造、可分享的交互式 3D 世界。用户能用 WASD 自由探索，生成中实时改剧情与镜头，还可以保存分享二创，实现从 “看视频” 到 “进世界” 的体验跃迁。目前处于内测阶段，来看看大聪明的全面测评与解读。",
@@ -188,41 +203,6 @@
     {
       "date": "2026-04-14",
       "title": "4月8日，AGI HORIZON Tokyo 2026 圆满落幕了！上午七场演讲，让我们来看看嘉宾们都分享了哪些精彩内容！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-13",
-      "title": "面对AI带来的职场焦虑，这篇文章跳出简单的历史类比，给出更现实的判断。AI替代速度更快、覆盖更广，而且还在瓦解传统学徒培养体系。岗位存亡取决于“人+AI”与纯AI的ROI对比。未来就业将持续两极分化，中级岗位不断被挤压，但AI也会激活海量长尾需求，创造全新机会。对普通人而言，真正的出路不是恐慌，而是尽快掌握AI工具，向高价值、高创造力方向升级，抓住新一轮结构性机遇。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-13",
-      "title": "本周精选AI论文合集聚焦架构革新与效能突破。Meta提出神经计算机重构计算体系，微软多项研究大幅优化模型内存与推理效率，斯坦福则打破多智能体更强的固有认知。内容还覆盖Coding Agent原子化技能、海量技能库检索瓶颈、医疗模型升级等关键议题。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-13",
-      "title": "卡兹克自己三年前还在金融行业的时候，研究公司和行业用的方法论，然后后面AI来了，各种各样的深度研究也出来了，他自己又把这套方法论稍微迭代了一下，封装成了给很多AI的深度研究功能用的Prompt，能适用于研究任何东西，或许对你也同样适用，快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-13",
-      "title": "做Agent产品翻车的根因，几乎从来不是模型不够聪明，而是产品经理还在用做SaaS的脑子做Agent。这篇文章不讲Prompt技巧，不讲框架选型，只讲一件事：做Agent产品的时候，你脑子里那张\"产品地图\"，到底应该长什么样。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-13",
-      "title": "LLM、Token、Context、Prompt、Tool、MCP、Agent、Agent Skill、Harness……随便拎一个出来，很多人其实说不太清它到底指的是什么。更扎心的是， 你以为你懂了，但一深入追问，发现全是模糊的。这篇文章，作者从最底层的工程视角出发，把AI的核心概念一个个拆开讲透。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-13",
-      "title": "Aaron Levie是Box的联合创始人兼CEO。Box是全球最大的企业内容管理云平台之一，服务超过十万家企业客户，其中不乏通用电气、AstraZeneca 这样的巨头。这一期他坐进了 a16z 的播客，和两位主持人聊的话题核心只有一个：当 AI Agent 的时代真正来临，企业软件会走向何处？",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-13",
-      "title": "2026年最值得学习的AI技能是什么？毫无疑问是Skill。无论是Claude Code，还是龙虾、爱马仕，几乎所有的Agent，如果想把事情干得又快又好，都越来越依赖Skills。今天这篇文章，作者带大家从入门到精通，彻底搞懂Skills ——理解skill，成为skill，超越skill。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
