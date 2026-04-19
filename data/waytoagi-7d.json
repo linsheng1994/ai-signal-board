@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-04-19T16:01:40.121619Z",
+  "generated_at": "2026-04-19T17:05:50.557217Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-19",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-04-19",
       "title": "这篇文章将深度揭秘Anthropic、OpenAI、Perplexity和LangChain到底在捣鼓什么。 编排循环 (orchestration loop) 、 工具 (tools) 、 记忆 (memory) 、 上下文管理 (context management) ——凡是你能想到的、能把一个无状态的大语言模型 (LLM) 变成靠谱智能体 (agent) 的玩意儿，今天一次性说透。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-19",
+      "title": "本周AI论文精选汇聚十大前沿突破，直指Agent科研、长时程协作、产业评测等核心方向。从全自动AI科研团队高效攻克对齐难题，到文件驱动的长时程研究框架，再到贴合真实生产的Agent评测体系，同时覆盖高性能开源模型、记忆迁移、日志自动诊断等落地技术，清晰展现了AI Agent从实验室走向产业的关键进化，极具参考与落地价值。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -28,11 +33,16 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 36,
   "updates_7d": [
     {
       "date": "2026-04-19",
       "title": "这篇文章将深度揭秘Anthropic、OpenAI、Perplexity和LangChain到底在捣鼓什么。 编排循环 (orchestration loop) 、 工具 (tools) 、 记忆 (memory) 、 上下文管理 (context management) ——凡是你能想到的、能把一个无状态的大语言模型 (LLM) 变成靠谱智能体 (agent) 的玩意儿，今天一次性说透。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-19",
+      "title": "本周AI论文精选汇聚十大前沿突破，直指Agent科研、长时程协作、产业评测等核心方向。从全自动AI科研团队高效攻克对齐难题，到文件驱动的长时程研究框架，再到贴合真实生产的Agent评测体系，同时覆盖高性能开源模型、记忆迁移、日志自动诊断等落地技术，清晰展现了AI Agent从实验室走向产业的关键进化，极具参考与落地价值。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
