@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-04-19T17:05:50.557217Z",
+  "generated_at": "2026-04-19T18:02:20.176395Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-19",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
+    {
+      "date": "2026-04-19",
+      "title": "长时程Agent工作流中，固定的超长系统提示词在多轮对话里会被重复计算，会产生大量无价值token消耗。Prompt caching正是破解这一浪费的关键方案，能显著降低使用成本。但如果你想把它真正用好，就得先理解它在底层到底是怎么工作的，让我们来一起一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-19",
       "title": "这篇文章将深度揭秘Anthropic、OpenAI、Perplexity和LangChain到底在捣鼓什么。 编排循环 (orchestration loop) 、 工具 (tools) 、 记忆 (memory) 、 上下文管理 (context management) ——凡是你能想到的、能把一个无状态的大语言模型 (LLM) 变成靠谱智能体 (agent) 的玩意儿，今天一次性说透。",
@@ -33,8 +38,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
+    {
+      "date": "2026-04-19",
+      "title": "长时程Agent工作流中，固定的超长系统提示词在多轮对话里会被重复计算，会产生大量无价值token消耗。Prompt caching正是破解这一浪费的关键方案，能显著降低使用成本。但如果你想把它真正用好，就得先理解它在底层到底是怎么工作的，让我们来一起一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-19",
       "title": "这篇文章将深度揭秘Anthropic、OpenAI、Perplexity和LangChain到底在捣鼓什么。 编排循环 (orchestration loop) 、 工具 (tools) 、 记忆 (memory) 、 上下文管理 (context management) ——凡是你能想到的、能把一个无状态的大语言模型 (LLM) 变成靠谱智能体 (agent) 的玩意儿，今天一次性说透。",
