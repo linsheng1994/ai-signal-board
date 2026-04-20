@@ -1,45 +1,35 @@
 {
-  "generated_at": "2026-04-20T08:09:03.151861Z",
+  "generated_at": "2026-04-20T10:15:17.204148Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-04-19",
-  "count_today": 6,
+  "latest_date": "2026-04-20",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-04-19",
-      "title": "长时程Agent工作流中，固定的超长系统提示词在多轮对话里会被重复计算，会产生大量无价值token消耗。Prompt caching正是破解这一浪费的关键方案，能显著降低使用成本。但如果你想把它真正用好，就得先理解它在底层到底是怎么工作的，让我们来一起一探究竟！",
+      "date": "2026-04-20",
+      "title": "本周AI音乐资讯聚焦技术革新与行业争议。英伟达开源AF-Next实现超长音频解析，多项工具升级音频分离、哼唱生歌与AI重混能力；Splice分成模式引发版权争议，伯克利AI课程遭受抗议。与此同时Spotify推进AI音乐标签，多篇论文夯实了多模态生成与理解技术。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-19",
-      "title": "这篇文章将深度揭秘Anthropic、OpenAI、Perplexity和LangChain到底在捣鼓什么。 编排循环 (orchestration loop) 、 工具 (tools) 、 记忆 (memory) 、 上下文管理 (context management) ——凡是你能想到的、能把一个无状态的大语言模型 (LLM) 变成靠谱智能体 (agent) 的玩意儿，今天一次性说透。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-19",
-      "title": "本周AI论文精选汇聚十大前沿突破，直指Agent科研、长时程协作、产业评测等核心方向。从全自动AI科研团队高效攻克对齐难题，到文件驱动的长时程研究框架，再到贴合真实生产的Agent评测体系，同时覆盖高性能开源模型、记忆迁移、日志自动诊断等落地技术，清晰展现了AI Agent从实验室走向产业的关键进化，极具参考与落地价值。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-19",
-      "title": "如果你做的是 AI 产品、B2B 软件、增长或者产品策略，这期内容值得读，不是因为它在讲“营销技巧”，而是因为它讨论了一个更底层的变化：未来替你发现信息、比较产品、形成偏好的，越来越不是人，而是Agent。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-19",
-      "title": "Hermes Agent独创的P链协议，打破了AI会话遗忘困境，让跨天、跨平台的连续协作成为现实。依托会话血缘链与全文检索，AI能完整追溯历史对话、自动沉淀经验技能，还能智能压缩上下文，高效又省Token。相比传统框架与RAG，AI从一次性工具升级为懂你的长期协作伙伴，大幅提升了复杂任务的执行效率。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-19",
-      "title": "Claude Design依托原生代码结构，可以与开发很好地无缝协同，重构设计工作流。未来工具或许将分化为代码原生与纯创意探索两条路径，对设计师、产品团队而言，这不仅是工具更迭，更是效率与工作流的彻底升级！",
+      "date": "2026-04-20",
+      "title": "卡兹克这份Claude Code小白教程专为国内用户打造，无需魔法和海外账号即可上手，覆盖Mac与Windows双系统完整安装流程，还能通过CC Switch灵活接入GLM等国产模型。文章中详细讲解了启动方式、目录规范，还提供了精简实用的CLAUDE.md模板，可以帮你建立高效的AI协作约束。快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 39,
   "updates_7d": [
+    {
+      "date": "2026-04-20",
+      "title": "本周AI音乐资讯聚焦技术革新与行业争议。英伟达开源AF-Next实现超长音频解析，多项工具升级音频分离、哼唱生歌与AI重混能力；Splice分成模式引发版权争议，伯克利AI课程遭受抗议。与此同时Spotify推进AI音乐标签，多篇论文夯实了多模态生成与理解技术。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-20",
+      "title": "卡兹克这份Claude Code小白教程专为国内用户打造，无需魔法和海外账号即可上手，覆盖Mac与Windows双系统完整安装流程，还能通过CC Switch灵活接入GLM等国产模型。文章中详细讲解了启动方式、目录规范，还提供了精简实用的CLAUDE.md模板，可以帮你建立高效的AI协作约束。快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-19",
       "title": "长时程Agent工作流中，固定的超长系统提示词在多轮对话里会被重复计算，会产生大量无价值token消耗。Prompt caching正是破解这一浪费的关键方案，能显著降低使用成本。但如果你想把它真正用好，就得先理解它在底层到底是怎么工作的，让我们来一起一探究竟！",
