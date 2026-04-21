@@ -1,15 +1,25 @@
 {
-  "generated_at": "2026-04-21T17:34:01.737130Z",
+  "generated_at": "2026-04-21T19:13:23.477211Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-21",
-  "count_today": 3,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-04-21",
+      "title": "这篇超详细的Hermes部署教程，手把手带你用云主机+Kimi K2.6搭建高效AI Agent。从环境配置、一键安装、飞书机器人对接，到飞书 CLI 与 Kimi Code 陪跑 Agent 设置，轻松完成整套环境搭建。此外，作者还分享了多 Agent 创建、皮肤切换、全自动模式、记忆管理等实用技巧，快跟着一步步操作试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-21",
       "title": "花叔依托 Claude Design 精髓重构了工作流，打造了一个适配终端的设计 Skill。在终端一句话即可完成 PPT、可交互原型、动画等设计产出。还支持多风格并行生成，成本与效率远超传统工具。这篇文章讲三件事：为什么做这个skill、它能做什么（带一堆案例）、以及它和Claude Design的差异在哪里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "本文将深入介绍 GitHub 官方的 Spec-Kit、社区热门的 OpenSpec 以及跨平台方法论工具 Superpowers 三个 AI 编程辅助工具，从安装配置到实战使用，再到三者协同的最佳实践，带你全面掌握 AI 驱动的规范化开发新范式。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -23,11 +33,21 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 34,
   "updates_7d": [
     {
       "date": "2026-04-21",
+      "title": "这篇超详细的Hermes部署教程，手把手带你用云主机+Kimi K2.6搭建高效AI Agent。从环境配置、一键安装、飞书机器人对接，到飞书 CLI 与 Kimi Code 陪跑 Agent 设置，轻松完成整套环境搭建。此外，作者还分享了多 Agent 创建、皮肤切换、全自动模式、记忆管理等实用技巧，快跟着一步步操作试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-21",
       "title": "花叔依托 Claude Design 精髓重构了工作流，打造了一个适配终端的设计 Skill。在终端一句话即可完成 PPT、可交互原型、动画等设计产出。还支持多风格并行生成，成本与效率远超传统工具。这篇文章讲三件事：为什么做这个skill、它能做什么（带一堆案例）、以及它和Claude Design的差异在哪里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "本文将深入介绍 GitHub 官方的 Spec-Kit、社区热门的 OpenSpec 以及跨平台方法论工具 Superpowers 三个 AI 编程辅助工具，从安装配置到实战使用，再到三者协同的最佳实践，带你全面掌握 AI 驱动的规范化开发新范式。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
