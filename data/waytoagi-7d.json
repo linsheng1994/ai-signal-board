@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T15:42:12.117416Z",
+  "generated_at": "2026-04-26T16:43:21.253166Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -38,7 +38,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 26,
+  "count_7d": 20,
   "updates_7d": [
     {
       "date": "2026-04-24",
@@ -138,36 +138,6 @@
     {
       "date": "2026-04-21",
       "title": "GPT-Image-2已经全量上线，在中文排版、复杂版式与长图文呈现上实现了跨越式升级。短短几句提示词，就能一键生成杂志封面、信息长图、复古海报、UI界面、古风印刷品等专业级内容，风格迁移精准、细节质感拉满。作者实测了五十张作品，覆盖实用设计与趣味创作，快来看看效果如何！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-20",
-      "title": "本周AI音乐资讯聚焦技术革新与行业争议。英伟达开源AF-Next实现超长音频解析，多项工具升级音频分离、哼唱生歌与AI重混能力；Splice分成模式引发版权争议，伯克利AI课程遭受抗议。与此同时Spotify推进AI音乐标签，多篇论文夯实了多模态生成与理解技术。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-20",
-      "title": "小歪这篇文章深度拆解了Claude Design的系统提示词，提炼出7条高效Prompt核心法则，从专家角色精准定义、杜绝幻觉编造，到细化禁用项摆脱AI腔，再到引导AI反问、提供多维度方案与可调参数。搭配真实对比案例，可直接迁移到写作、设计等各类场景，大幅减少无效返工，降低沟通成本，让AI输出更贴合需求。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-20",
-      "title": "卡兹克这份Claude Code小白教程专为国内用户打造，无需魔法和海外账号即可上手，覆盖Mac与Windows双系统完整安装流程，还能通过CC Switch灵活接入GLM等国产模型。文章中详细讲解了启动方式、目录规范，还提供了精简实用的CLAUDE.md模板，可以帮你建立高效的AI协作约束。快来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-20",
-      "title": "冷逸这篇文章精选了日常高频使用的20个实用Skill，专为Claude Code、Codex等AI Agent打造，省去你自行筛选测试的麻烦。安装方式特别简单，只需要复制指令或链接即可一键部署，上手零门槛。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-20",
-      "title": "WaytoAGI三周年联合2050大会，4.24-26在杭州云栖小镇举办线下聚会。硬核技术论坛、OPC实战分享、AI电影展与大型社区特展，更有深夜庆生会、星空畅谈与离谱村音乐会，线上好友线下相聚，沉浸式感受AI共创氛围。一起来见面吧！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-20",
-      "title": "Nikhyl Singhal 曾在 Meta、Google、Credit Karma 做产品高管，也是 The Skip 社群的创始人，长期和一线产品负责人、创业者一起工作。这期最值得读的地方，不是再问一遍“AI 会不会替代 PM”，而是把岗位变化拆得很具体：哪些工作已经开始被吃掉，哪些能力正在被重新定价，为什么很多人明明很焦虑，却还没真正开始转向。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
