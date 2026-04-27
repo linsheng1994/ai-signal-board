@@ -1,30 +1,45 @@
 {
-  "generated_at": "2026-04-27T16:26:41.871624Z",
+  "generated_at": "2026-04-27T17:49:29.622285Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-04-26",
+  "latest_date": "2026-04-27",
   "count_today": 3,
   "updates_today": [
     {
-      "date": "2026-04-26",
-      "title": "随着大模型性能趋近同质化，专属记忆能力已成为AI体验突围的关键。对标OpenAI付费封闭的Chronicle，开源项目OpenChronicle横空出世，以本地优先方案夺回用户记忆所有权。它搭建跨应用统一记忆池，借助MCP协议打通各类AI工具，实现工作行为与项目上下文无缝衔接。跳出单一对话记忆，深耕行为习惯沉淀，为主动式Agent筑牢底层基建，打破大厂生态绑定，给用户自由、连贯、无束缚的AI全新交互体验！",
+      "date": "2026-04-27",
+      "title": "a16z (Andreessen Horowitz) 是一家风险投资公司，以其多元化的投资领域著称，被投资公司包括 Airbnb 、 Meta 和 Twitter 等。本次访谈，20VC with Harry Stebbings和 a16z 围绕风险投资、创业者判断、AI、宏观环境与个人心智展开。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-26",
-      "title": "这篇实用指南面向产品、运营等非技术人群，拆解了Claude Code零门槛落地玩法。本篇文章分享了需求精准描述、项目规范配置、Skill工作流沉淀等核心技巧。无需深厚的编程基础，就能搭建高效AI工作流，将重复繁琐工作自动化，全面提升日常办公与内容产出效率。",
+      "date": "2026-04-27",
+      "title": "YC总裁兼CEO Gary Tan早年在 Palantir 做过工程师、设计师和产品经理，后来联合创办 Posterous，也写过 YC 内部社交平台和知识库 Bookface 的第一版。本期对话试图回答一个更具体的问题：当 Claude Code 这类 agent 已经能写大量代码时，人应该怎样组织它，才不只是得到一堆看起来合理、实际会坏掉的代码？",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-26",
-      "title": "人机交互正在迎来颠覆性转折，传统图形界面不再是软件的核心入口。企业软件正全面向Agent适配升级，依托MCP等协议实现无界面自动化操作。本篇文章结合真实产品案例，拆解了Agent时代的产品设计关键：主动提供规范标准、搭建反馈机制、补齐信息缺口，为产品研发与企业数字化升级提供全新设计逻辑与落地方向。",
+      "date": "2026-04-27",
+      "title": "AI音乐行业正迎来高速变革，本周资讯整合了产业数据、平台政策、工具更新与前沿学术成果，带你快速拆解核心趋势。主流流媒体纷纷出台差异化管控策略，完善AI音乐标注、反刷量与版权监管体系。多款音频大模型、编曲工作站全新升级，降低专业创作门槛，版权方也布局智能维权技术。多篇顶会论文，覆盖音乐生成、音频分离、乐谱识别等技术突破。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 18,
+  "count_7d": 21,
   "updates_7d": [
+    {
+      "date": "2026-04-27",
+      "title": "a16z (Andreessen Horowitz) 是一家风险投资公司，以其多元化的投资领域著称，被投资公司包括 Airbnb 、 Meta 和 Twitter 等。本次访谈，20VC with Harry Stebbings和 a16z 围绕风险投资、创业者判断、AI、宏观环境与个人心智展开。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-27",
+      "title": "YC总裁兼CEO Gary Tan早年在 Palantir 做过工程师、设计师和产品经理，后来联合创办 Posterous，也写过 YC 内部社交平台和知识库 Bookface 的第一版。本期对话试图回答一个更具体的问题：当 Claude Code 这类 agent 已经能写大量代码时，人应该怎样组织它，才不只是得到一堆看起来合理、实际会坏掉的代码？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-27",
+      "title": "AI音乐行业正迎来高速变革，本周资讯整合了产业数据、平台政策、工具更新与前沿学术成果，带你快速拆解核心趋势。主流流媒体纷纷出台差异化管控策略，完善AI音乐标注、反刷量与版权监管体系。多款音频大模型、编曲工作站全新升级，降低专业创作门槛，版权方也布局智能维权技术。多篇顶会论文，覆盖音乐生成、音频分离、乐谱识别等技术突破。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-26",
       "title": "随着大模型性能趋近同质化，专属记忆能力已成为AI体验突围的关键。对标OpenAI付费封闭的Chronicle，开源项目OpenChronicle横空出世，以本地优先方案夺回用户记忆所有权。它搭建跨应用统一记忆池，借助MCP协议打通各类AI工具，实现工作行为与项目上下文无缝衔接。跳出单一对话记忆，深耕行为习惯沉淀，为主动式Agent筑牢底层基建，打破大厂生态绑定，给用户自由、连贯、无束缚的AI全新交互体验！",
