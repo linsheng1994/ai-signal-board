@@ -1,25 +1,55 @@
 {
-  "generated_at": "2026-04-28T15:43:30.281369Z",
+  "generated_at": "2026-04-28T17:46:54.482632Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-28",
-  "count_today": 2,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-04-28",
+      "title": "这篇实测分享给出了低成本高效开发的全新解法。采用高低配工具组合策略，常规任务交由高性价比模型，复杂难题保留高端工具兜底，可以轻松砍掉八成API开销，平衡成本与效率，实现产能升级。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "这份GPT Image2提示词，解锁了视觉化的高阶创作逻辑，告别直白字效与普通插画，为文字视觉设计、艺术海报创作、氛围感视觉产出，提供了一个全新路径！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-28",
       "title": "本期访谈的嘉宾是Allie K. Miller。她长期做 AI 商业教育和咨询，给财富 500 强公司提供 AI 应用建议，也在社交平台上持续多年写 AI。对工程师、产品经理、运营和创业者来说，这期对话的价值不在“又推荐了几个工具”，而在于把 AI 使用方式从零散尝鲜，拉回到每天真实发生的工作流里。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
       "date": "2026-04-28",
+      "title": "今天，Anthropic 公布 Claude for Creative Work，一次性放出 9 个连接器，覆盖 3D、设计、音乐、VJ 四类创作软件。大聪明这篇文章带我们快速吃透全部亮点！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-28",
       "title": "DeepSeek-V4开源发布，以原生百万Token超长上下文能力，登顶当下最强开源大模型，性能直追顶尖闭源产品。本篇文章深度拆解了它的核心突破，为开发者与企业私有化部署、长文本AI应用开发，提供了极具参考价值的前沿实践范本。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "AI智能体长期进化的核心关键，从来不是迭代模型本身，而是搭建独立可迁移的底层记忆架构。作者自研开源Brain系统，以Git为核心存储底座，搭配轻量检索索引，打造了一个类型化、高安全、可自愈的通用记忆层。这套轻量化可落地的方案可以永久留存个人开发决策与经验，为AI工作流搭建可持续积累的专属知识资产。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 26,
+  "count_7d": 25,
   "updates_7d": [
+    {
+      "date": "2026-04-28",
+      "title": "这篇实测分享给出了低成本高效开发的全新解法。采用高低配工具组合策略，常规任务交由高性价比模型，复杂难题保留高端工具兜底，可以轻松砍掉八成API开销，平衡成本与效率，实现产能升级。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "这份GPT Image2提示词，解锁了视觉化的高阶创作逻辑，告别直白字效与普通插画，为文字视觉设计、艺术海报创作、氛围感视觉产出，提供了一个全新路径！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-28",
       "title": "本期访谈的嘉宾是Allie K. Miller。她长期做 AI 商业教育和咨询，给财富 500 强公司提供 AI 应用建议，也在社交平台上持续多年写 AI。对工程师、产品经理、运营和创业者来说，这期对话的价值不在“又推荐了几个工具”，而在于把 AI 使用方式从零散尝鲜，拉回到每天真实发生的工作流里。",
@@ -27,7 +57,17 @@
     },
     {
       "date": "2026-04-28",
+      "title": "今天，Anthropic 公布 Claude for Creative Work，一次性放出 9 个连接器，覆盖 3D、设计、音乐、VJ 四类创作软件。大聪明这篇文章带我们快速吃透全部亮点！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-28",
       "title": "DeepSeek-V4开源发布，以原生百万Token超长上下文能力，登顶当下最强开源大模型，性能直追顶尖闭源产品。本篇文章深度拆解了它的核心突破，为开发者与企业私有化部署、长文本AI应用开发，提供了极具参考价值的前沿实践范本。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "AI智能体长期进化的核心关键，从来不是迭代模型本身，而是搭建独立可迁移的底层记忆架构。作者自研开源Brain系统，以Git为核心存储底座，搭配轻量检索索引，打造了一个类型化、高安全、可自愈的通用记忆层。这套轻量化可落地的方案可以永久留存个人开发决策与经验，为AI工作流搭建可持续积累的专属知识资产。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -123,31 +163,6 @@
     {
       "date": "2026-04-23",
       "title": "GPT-5.5 的核心意义，不是“更会答题”，而是更像一个能把复杂工作真正往前推进的执行型智能体。代码、知识工作、科研分析、网络安全全面进阶，400K 上下文支撑复杂任务，延迟不变、生成效率提升 20%，还助力数学难题取得新突破。今天已经开始向 ChatGPT 的 Plus、Pro、Business、Enterprise 用户滚动开放！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-22",
-      "title": "猫叔这个针对GPT Image 2优化的提示词引擎，可以把你的模糊想法一键转为专业可用的绘图指令。系统自动识别角色、场景、叙事等五大类型，按主体、环境、光影、镜头、风格结构化输出，拒绝空泛描述，可以精准匹配画面逻辑与质感，减少试错成本与token消耗。新手也能稳定生成高质量图像，提升AI生图效率与成品率。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-22",
-      "title": "大羽的这篇万字拆解完整公开了北影节入围AIGC短片《带你去玩球！》的全流程创作，涵盖角色场景资产打造、分镜设计、多模型图生视频与动画剪辑技巧，另外还分享了场景一致性、运镜控制等实战难点的解决方案。大羽用低成本实现了高质感视听效果，为大家个人AIGC影像创作提供了可复用的实战思路，快来一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-22",
-      "title": "乔木博客免费开源，专为内容创作者打造自主可控的知识阵地，可以摆脱平台封号与算法波动风险。系统集成了 AI 全流程辅助，写作与配图一步到位。此外还采用类飞书的所见即所得编辑器，支持多媒体插入与多状态发布，配合浏览器剪藏、Obsidian 一键发布等工具，大大降低了写作成本。快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-22",
-      "title": "GPT Image 2正式全量开放，打开ChatGPT就能用。小歪把能想到的场景全试了一遍，一口气整理了这篇可能是全网最全的Image 2提示词案例合集。合集涵盖写实摄影 、 游戏与娱乐场景、 UI 设计、海报设计与商业视觉、角色设计、知识可视化与信息图表、创意玩法、网页摘要与 知识图谱生成等多个大类，快来看看！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-22",
-      "title": "AI 改变的不仅是界面外观，而是用户角色本身 ——从\"操作员（operator）\"变成\"监督员（supervisor）\"。这使得 UX 从\"命令式交互\"彻底转向\"意图委托式交互\"。本文是 Jakob Nielsen （尼尔森诺曼集团创始人、UX 领域泰斗）写的关于 AI 时代用户体验设计的深度长文，核心是提出 \"Intent by Discovery\"（通过发现来明确意图） 作为 AI 时代 UX 的核心范式。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
