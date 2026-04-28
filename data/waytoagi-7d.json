@@ -1,45 +1,35 @@
 {
-  "generated_at": "2026-04-28T13:12:33.713617Z",
+  "generated_at": "2026-04-28T15:43:30.281369Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-04-27",
-  "count_today": 6,
+  "latest_date": "2026-04-28",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-04-27",
-      "title": "长时间使用 Claude Code 时，上下文会很快变得一团乱。每一次 grep、find、ls 都会留在你的上下文里，占掉大量你之后根本不会再读的空间。Subagents 就是为了解决这个问题：它们会在自己的窗口里完成工作，最后只把结果带回来。这篇文章会直接切入重点：subagents 是什么、如何创建一个、Claude Code 自带了哪些内置 subagents，以及如何通过 CLAUDE_CODE_FORK_SUBAGENT=1 来 fork 上下文。",
+      "date": "2026-04-28",
+      "title": "本期访谈的嘉宾是Allie K. Miller。她长期做 AI 商业教育和咨询，给财富 500 强公司提供 AI 应用建议，也在社交平台上持续多年写 AI。对工程师、产品经理、运营和创业者来说，这期对话的价值不在“又推荐了几个工具”，而在于把 AI 使用方式从零散尝鲜，拉回到每天真实发生的工作流里。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-27",
-      "title": "这是一份非常实用的路线图，告诉你该学什么、按什么顺序学，它基于大约 2000 份真实岗位描述中的需求总结而来。如果你想进入 AI engineering，而不只是停留在 ML 理论层面，这条路径更贴近生产环境中的真实系统构建方式。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-27",
-      "title": "本期AI精选论文速递，集中拆解了十大重磅研究与模型革新。DeepSeek V4凭借原生百万超长上下文架构，以开源成本比肩闭源顶尖模型。自我进化Agent、轻量化模型蒸馏、按需检索等创新方案接连落地，高效解决传统架构高耗能、检索冗余、扩展受限等痛点。同时，研究深挖多智能体同质化、RAG落地短板等关键问题，结合无状态记忆设计、自主知识生成与EDA工具迭代实践，搭配深度学习理论新探索为模型部署、Agent开发、技术优化提供了前沿解法！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-27",
-      "title": "a16z (Andreessen Horowitz) 是一家风险投资公司，以其多元化的投资领域著称，被投资公司包括 Airbnb 、 Meta 和 Twitter 等。本次访谈，20VC with Harry Stebbings和 a16z 围绕风险投资、创业者判断、AI、宏观环境与个人心智展开。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-27",
-      "title": "YC总裁兼CEO Gary Tan早年在 Palantir 做过工程师、设计师和产品经理，后来联合创办 Posterous，也写过 YC 内部社交平台和知识库 Bookface 的第一版。本期对话试图回答一个更具体的问题：当 Claude Code 这类 agent 已经能写大量代码时，人应该怎样组织它，才不只是得到一堆看起来合理、实际会坏掉的代码？",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-27",
-      "title": "AI音乐行业正迎来高速变革，本周资讯整合了产业数据、平台政策、工具更新与前沿学术成果，带你快速拆解核心趋势。主流流媒体纷纷出台差异化管控策略，完善AI音乐标注、反刷量与版权监管体系。多款音频大模型、编曲工作站全新升级，降低专业创作门槛，版权方也布局智能维权技术。多篇顶会论文，覆盖音乐生成、音频分离、乐谱识别等技术突破。",
+      "date": "2026-04-28",
+      "title": "DeepSeek-V4开源发布，以原生百万Token超长上下文能力，登顶当下最强开源大模型，性能直追顶尖闭源产品。本篇文章深度拆解了它的核心突破，为开发者与企业私有化部署、长文本AI应用开发，提供了极具参考价值的前沿实践范本。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 24,
+  "count_7d": 26,
   "updates_7d": [
+    {
+      "date": "2026-04-28",
+      "title": "本期访谈的嘉宾是Allie K. Miller。她长期做 AI 商业教育和咨询，给财富 500 强公司提供 AI 应用建议，也在社交平台上持续多年写 AI。对工程师、产品经理、运营和创业者来说，这期对话的价值不在“又推荐了几个工具”，而在于把 AI 使用方式从零散尝鲜，拉回到每天真实发生的工作流里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "DeepSeek-V4开源发布，以原生百万Token超长上下文能力，登顶当下最强开源大模型，性能直追顶尖闭源产品。本篇文章深度拆解了它的核心突破，为开发者与企业私有化部署、长文本AI应用开发，提供了极具参考价值的前沿实践范本。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-27",
       "title": "长时间使用 Claude Code 时，上下文会很快变得一团乱。每一次 grep、find、ls 都会留在你的上下文里，占掉大量你之后根本不会再读的空间。Subagents 就是为了解决这个问题：它们会在自己的窗口里完成工作，最后只把结果带回来。这篇文章会直接切入重点：subagents 是什么、如何创建一个、Claude Code 自带了哪些内置 subagents，以及如何通过 CLAUDE_CODE_FORK_SUBAGENT=1 来 fork 上下文。",
