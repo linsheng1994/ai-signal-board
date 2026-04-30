@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-04-30T14:33:16.891522Z",
+  "generated_at": "2026-04-30T16:19:38.365755Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-04-29",
-  "count_today": 6,
+  "latest_date": "2026-04-30",
+  "count_today": 3,
   "updates_today": [
     {
-      "date": "2026-04-29",
-      "title": "阿真基于Codex和GPT Image 2打磨出专属技能，突破过往风格迁移杂乱、细节割裂的通病，只需上传参考图或网页链接，就能轻松做出高颜值、风格统一的专业PPT。生成的风格模板可永久复用，一键打包输出全套文件，快来上手试试。",
+      "date": "2026-04-30",
+      "title": "这期 a16z 播客把Box CEO Aaron Levie、前微软 Windows 负责人 Steven Sinofsky 和 a16z 合伙人 Martin Casado 拉到同一张桌上，讨论 Agent 进入企业软件后的真实摩擦。Aaron 的判断很直接：企业不会靠几段 vibe coding 替换 SAP，AI 的扩散会被权限、数据、流程、成本和组织习惯拖住。未来 SaaS 的用户，可能不再是人，而是成千上万个Agent！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-29",
-      "title": "这期访谈里，Silicon Valley Girl把同一个问题抛给了几位创业者、投资人和 AI 公司创始人：如果 2026 年从零开始，没有代码、团队和融资，只剩 AI 和一台电脑，怎样先做到每月 1 万美元收入？让我们一同看看创业者们的答案！",
+      "date": "2026-04-30",
+      "title": "四月AI开源圈迎来爆发，国内各大厂密集上新，覆盖大语言、多模态、语音、具身智能、文生图等全赛道。智谱、阿里、腾讯、百度、Kimi、DeepSeek、小米等接连放出重磅开源模型，既有千亿级超大规模，也有轻量化、端侧适配的实用版本，同时补齐了语音识别、图像编辑、3D世界生成、翻译等细分领域。这份月度盘点帮你一次性收拢全网新品动态，快速掌握最新模型格局与选型方向。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-29",
-      "title": "很多人用AI开发都陷入越用越笨的困境，根源不是模型不行，而是项目文档、约束记忆长期疏于更新。卡兹克开源了他自研洁癖Skill，补齐了官方工具只清理记忆、不维护项目文档的短板，可以帮你把AI协作项目越做越规整、越用越高效。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-29",
-      "title": "Jess Yan 是 Anthropic 的一位 PM。她刚刚做了一个分享，颇为有趣： 在 AI 时代当 PM，我的工作反而更像人了。PM 这个岗位，过去大半时间花在协调上：跨部门会议、汇报、工程团队的工单 backlog，做完决定还得上山下乡说服人、拉资源。真正的手艺（craft）反而是被挤掉的那一块。借助Claude，她现在能把协调那部分压缩，把时间还给手艺本身，一同来看看！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-29",
-      "title": "DeepSeek首款多模态模型开启灰度测试，作者实测显示，该模型在OCR、表格提取、图片释义、猜成语等日常视觉任务中表现稳健，能够满足基础图文处理需求。但在空间推理、逻辑判断、事件排序、图片转HTML等复杂场景仍有明显短板，存在一定幻觉与过拟合问题。作为DeepSeek首次亮相的视觉模型，可以关注开源后在实际场景与Agent系统中的落地效果。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-29",
-      "title": "2050大会暨 WaytoAGI 三周年盛会，无距离感的分享交流、千人航拍大合照、沉浸式环屏音乐会氛围感拉满！大会论坛场场爆满，还有完整演讲稿与复盘资料可以回看。这不仅仅是一场科技聚会，更是 AI 爱好者结识同好、交流成长、链接资源的绝佳契机，来年我们继续奔赴线下相逢！",
+      "date": "2026-04-30",
+      "title": "Karpathy 在 Sequoia Capital 的 AI Ascent 现场接受合伙人 Stephanie Zhan 的访谈。这场 30 分钟的对话覆盖了他对编程范式剧变的亲身感受、Software 3.0 的实质、AI 为什么在某些地方极强而在另一些地方离谱地弱，以及“凭感觉编程”之后更严肃的下一步是什么。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 27,
+  "count_7d": 24,
   "updates_7d": [
+    {
+      "date": "2026-04-30",
+      "title": "这期 a16z 播客把Box CEO Aaron Levie、前微软 Windows 负责人 Steven Sinofsky 和 a16z 合伙人 Martin Casado 拉到同一张桌上，讨论 Agent 进入企业软件后的真实摩擦。Aaron 的判断很直接：企业不会靠几段 vibe coding 替换 SAP，AI 的扩散会被权限、数据、流程、成本和组织习惯拖住。未来 SaaS 的用户，可能不再是人，而是成千上万个Agent！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "四月AI开源圈迎来爆发，国内各大厂密集上新，覆盖大语言、多模态、语音、具身智能、文生图等全赛道。智谱、阿里、腾讯、百度、Kimi、DeepSeek、小米等接连放出重磅开源模型，既有千亿级超大规模，也有轻量化、端侧适配的实用版本，同时补齐了语音识别、图像编辑、3D世界生成、翻译等细分领域。这份月度盘点帮你一次性收拢全网新品动态，快速掌握最新模型格局与选型方向。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "Karpathy 在 Sequoia Capital 的 AI Ascent 现场接受合伙人 Stephanie Zhan 的访谈。这场 30 分钟的对话覆盖了他对编程范式剧变的亲身感受、Software 3.0 的实质、AI 为什么在某些地方极强而在另一些地方离谱地弱，以及“凭感觉编程”之后更严肃的下一步是什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-29",
       "title": "阿真基于Codex和GPT Image 2打磨出专属技能，突破过往风格迁移杂乱、细节割裂的通病，只需上传参考图或网页链接，就能轻松做出高颜值、风格统一的专业PPT。生成的风格模板可永久复用，一键打包输出全套文件，快来上手试试。",
@@ -143,36 +143,6 @@
     {
       "date": "2026-04-26",
       "title": "人机交互正在迎来颠覆性转折，传统图形界面不再是软件的核心入口。企业软件正全面向Agent适配升级，依托MCP等协议实现无界面自动化操作。本篇文章结合真实产品案例，拆解了Agent时代的产品设计关键：主动提供规范标准、搭建反馈机制、补齐信息缺口，为产品研发与企业数字化升级提供全新设计逻辑与落地方向。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-24",
-      "title": "本篇深度对话对话顶尖青年AI学者王子涵，介绍了他的学术成长与DeepSeek实战经历。结合一线研发经验，他拆解了MoE模型优化、强化学习训练缺陷，剖析推理坍塌、环境噪声等行业共性难题，还给出了可落地的过滤优化方案。快来一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-24",
-      "title": "本篇文章带来一套百分百开源、支持本地自托管的深度研究技术栈。整合Onyx检索、CrewAI流程编排与Voxtral语音能力，通过分层隔离、迭代反思、多维度检索规避幻觉。整套方案代码完全开放、可以自由定制搭建，既能保障数据主权与合规性，又能低成本搭建高质量私有化AI研究工作流，快来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-24",
-      "title": "大多数的AI架构设计都存在核心误区，复杂任务盲目堆砌多智能体，反而加剧了协作混乱与信息损耗。本篇文章带你厘清sub-agent与agent teams的底层区别，可以帮助你规避上下文断层、协调成本过高的问题，高效搭建轻量化、高稳定、易维护的智能体系统！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-24",
-      "title": "做 AI / ML 并不需要数学博士学位。你只需要掌握足够的线性代数，这样在打开论文或 PyTorch 文档时，不会总觉得自己在迷雾里打转。这份路线图会按正确顺序告诉你该学什么，以及为什么它重要。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-24",
-      "title": "Anthropic Claude Code和Cowork的产品负责人Cat Wu和Boris Cherny搭档，带着团队把产品功能的交付周期从半年压到了一天 。在Lenny's Podcast最新一期中，Cat 聊了Anthropic内部的速度文化、PM 角色的剧变、源代码泄露的善后，以及那个让开源社区炸锅的OpenClaw封堵决定。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-24",
-      "title": "4月24日，备受期待的DeepSeek全新系列模型——DeepSeek-V4预览版，终于正式上线并同步开源。在业界长达数月的猜测与等待后，DeepSeek没有让大家失望：它带来了1M（百万）超长上下文的普惠标配、Agent能力的全面跃升，以及一次引人瞩目的国产化转身。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
