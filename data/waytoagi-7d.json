@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T16:19:38.365755Z",
+  "generated_at": "2026-04-30T17:50:29.327643Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-30",
-  "count_today": 3,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-04-30",
@@ -21,9 +21,29 @@
       "date": "2026-04-30",
       "title": "Karpathy 在 Sequoia Capital 的 AI Ascent 现场接受合伙人 Stephanie Zhan 的访谈。这场 30 分钟的对话覆盖了他对编程范式剧变的亲身感受、Software 3.0 的实质、AI 为什么在某些地方极强而在另一些地方离谱地弱，以及“凭感觉编程”之后更严肃的下一步是什么。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "DeepSeek最新多模态论文带来突破性技术思路。模型沿用成熟的三段式架构，借助CSA机制实现视觉token超高压缩，依托海量精筛数据集，针对性打磨计数、空间推理、迷宫导航、路径追踪四大核心任务。通过分阶段专家训练、强化学习与模型蒸馏层层优化，大幅提升复杂场景下的视觉逻辑准确度。虽然理论架构极具前瞻价值，但实测空间推理表现并未达到预期。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "Claude 可以成为你的健身教练、语言导师、谈判陪练、财务分析师、编辑、策略顾问。下面这 20 个提示词，覆盖的是一个真实人生活里的真实场景。需要什么就拿什么。不需要的就跳过。把它们当成底座，再长出你自己的版本。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "ChatGPT Image2 可直接生成带完整分层的PSD源文件，还能上传图片反向智能拆解元素、自动图层分组，也支持批量抠出白底视觉素材。对设计师而言，既能快速创作可编辑海报，还能复原丢失的设计源文件，节省了手动分层抠图的时间成本。但现阶段仍存在画风跑偏、图层顺序错乱、边缘细节粗糙、命名乱码等瑕疵，且生成PSD会拉低画面质感，必须开启思考模式才能提升成功率。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "AI Agent赛道的新框架、新基准层出不穷，多数热点生命周期极短，盲目追新只会陷入反复学习、不断重构的内耗。本篇文章给出一套可落地的五维筛选标准，帮你快速辨别真正有价值的技术信号与短期营销噪音，沉淀底层判断力与实战能力。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 24,
+  "count_7d": 28,
   "updates_7d": [
     {
       "date": "2026-04-30",
@@ -38,6 +58,26 @@
     {
       "date": "2026-04-30",
       "title": "Karpathy 在 Sequoia Capital 的 AI Ascent 现场接受合伙人 Stephanie Zhan 的访谈。这场 30 分钟的对话覆盖了他对编程范式剧变的亲身感受、Software 3.0 的实质、AI 为什么在某些地方极强而在另一些地方离谱地弱，以及“凭感觉编程”之后更严肃的下一步是什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "DeepSeek最新多模态论文带来突破性技术思路。模型沿用成熟的三段式架构，借助CSA机制实现视觉token超高压缩，依托海量精筛数据集，针对性打磨计数、空间推理、迷宫导航、路径追踪四大核心任务。通过分阶段专家训练、强化学习与模型蒸馏层层优化，大幅提升复杂场景下的视觉逻辑准确度。虽然理论架构极具前瞻价值，但实测空间推理表现并未达到预期。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "Claude 可以成为你的健身教练、语言导师、谈判陪练、财务分析师、编辑、策略顾问。下面这 20 个提示词，覆盖的是一个真实人生活里的真实场景。需要什么就拿什么。不需要的就跳过。把它们当成底座，再长出你自己的版本。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "ChatGPT Image2 可直接生成带完整分层的PSD源文件，还能上传图片反向智能拆解元素、自动图层分组，也支持批量抠出白底视觉素材。对设计师而言，既能快速创作可编辑海报，还能复原丢失的设计源文件，节省了手动分层抠图的时间成本。但现阶段仍存在画风跑偏、图层顺序错乱、边缘细节粗糙、命名乱码等瑕疵，且生成PSD会拉低画面质感，必须开启思考模式才能提升成功率。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "AI Agent赛道的新框架、新基准层出不穷，多数热点生命周期极短，盲目追新只会陷入反复学习、不断重构的内耗。本篇文章给出一套可落地的五维筛选标准，帮你快速辨别真正有价值的技术信号与短期营销噪音，沉淀底层判断力与实战能力。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
