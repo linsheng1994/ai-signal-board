@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-03T10:55:18.859248Z",
+  "generated_at": "2026-05-03T11:42:46.847578Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 517,
+      "duration_ms": 488,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 491,
+      "duration_ms": 276,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 396,
-      "duration_ms": 10413,
+      "item_count": 398,
+      "duration_ms": 12880,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 918,
+      "duration_ms": 948,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "TopHub",
       "ok": true,
       "item_count": 3005,
-      "duration_ms": 1397,
+      "duration_ms": 1602,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 68,
-      "duration_ms": 539,
+      "item_count": 66,
+      "duration_ms": 446,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 359,
+      "duration_ms": 207,
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1729,
+      "duration_ms": 2188,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 139,
-      "duration_ms": 629,
+      "duration_ms": 351,
       "error": null
     }
   ],
@@ -88,8 +88,8 @@
   ],
   "zero_item_sites": [],
   "fetched_raw_items": 4779,
-  "items_before_topic_filter": 5319,
-  "items_in_24h": 501,
+  "items_before_topic_filter": 5224,
+  "items_in_24h": 491,
   "rss_opml": {
     "enabled": false,
     "path": null,
