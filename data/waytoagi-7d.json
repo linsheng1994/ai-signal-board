@@ -1,15 +1,25 @@
 {
-  "generated_at": "2026-05-06T13:13:05.719173Z",
+  "generated_at": "2026-05-06T15:40:15.913321Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-06",
-  "count_today": 2,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-05-06",
+      "title": "本期精选的十大前沿论文，覆盖工程框架、模型架构、多智能体协作、记忆检索等核心方向。从可审计的Harness工程、低成本MoE工具模型，到世界建模分层体系、隐性空间多智能体通信，再到动态人才市场架构、技能结构化标准化、推理蒸馏降本等创新突破，每项成果都给出了实测数据与落地优势。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-06",
       "title": "OpenAI升级 ChatGPT 默认模型，GPT-5.5 Instant正式取代旧版5.3，免费用户也可以直接体验。核心升级直击日常使用痛点：高危领域幻觉大降 52.5%，数学与多模态推理显著提分，回答精简近三成、更干练。新增记忆联动 Gmail与来源溯源，个性化更强；安全评级升至 Instant 系列首个 “高能力”，网络安全能力突出。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-06",
+      "title": "Emily Glassberg Sands负责 Stripe的数据和AI。Stripe 处理大约全球 2% 的 GDP，能看到 AI 公司如何收钱、谁在付钱、欺诈从哪里来、商家怎样接入新的购买渠道。本期对话带你解锁 Agent 经济下的 AI 商业新逻辑，给AI 创业者、产品及增长从业者提供极具参考价值的实战指引。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -18,11 +28,21 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 9,
+  "count_7d": 11,
   "updates_7d": [
     {
       "date": "2026-05-06",
+      "title": "本期精选的十大前沿论文，覆盖工程框架、模型架构、多智能体协作、记忆检索等核心方向。从可审计的Harness工程、低成本MoE工具模型，到世界建模分层体系、隐性空间多智能体通信，再到动态人才市场架构、技能结构化标准化、推理蒸馏降本等创新突破，每项成果都给出了实测数据与落地优势。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-06",
       "title": "OpenAI升级 ChatGPT 默认模型，GPT-5.5 Instant正式取代旧版5.3，免费用户也可以直接体验。核心升级直击日常使用痛点：高危领域幻觉大降 52.5%，数学与多模态推理显著提分，回答精简近三成、更干练。新增记忆联动 Gmail与来源溯源，个性化更强；安全评级升至 Instant 系列首个 “高能力”，网络安全能力突出。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-06",
+      "title": "Emily Glassberg Sands负责 Stripe的数据和AI。Stripe 处理大约全球 2% 的 GDP，能看到 AI 公司如何收钱、谁在付钱、欺诈从哪里来、商家怎样接入新的购买渠道。本期对话带你解锁 Agent 经济下的 AI 商业新逻辑，给AI 创业者、产品及增长从业者提供极具参考价值的实战指引。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
