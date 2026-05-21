@@ -1,23 +1,73 @@
 {
-  "generated_at": "2026-05-21T15:55:40.016696Z",
+  "generated_at": "2026-05-21T18:00:15.144096Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-21",
-  "count_today": 1,
+  "count_today": 6,
   "updates_today": [
+    {
+      "date": "2026-05-21",
+      "title": "这份字体提示词合集，囊括多样风格创作素材，可以满足各类视觉用字需求。内容涵盖硬笔手写、工业机械、运动竞技、建筑碑刻等常规字体，还包含霓虹、金属、碎裂、水墨等二十余种创意特效字。作者还分享了专业的字体画面反推提示词，来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-21",
+      "title": "现在AI能帮你写掉一大部分代码，但 AI 不会替你做需求分析、不会替你拆任务、不会替你设计上下文架构、不会替你判断哪个工具该接哪个该删、不会替你建立验证标准、不会替你守住架构边界。这些事情的总和就是 Harness Engineering。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-21",
+      "title": "最近不少人纠结Claude Code和Codex两款编码工具到底应该选择哪个？Claude Code适合需求未定、需要实时查看进度、随时调整修改的场景，把控项目改动细节，灵活应对突发问题。Codex则更偏向任务委派，边界清晰、验收标准明确的工作可交由其后台独立完成，可以高效批量处理多项事务。选工具要先匹配自身的需求与工作习惯，才能规避半成品问题，最大化发挥工具价值。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-21",
       "title": "我们在电脑上做的大部分工作，本质上其实都和代码息息相关：执行终端命令、浏览网页、调用应用程序接口、导出文档、响应各种事件，或者是触发自动化流程。当 Codex 开始延伸到这些领域时，它给人的感觉就不再只是一个狭义上的“编程助手”了，而是进化成了一个能帮你搞定各种电脑工作的“全能打工人”。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-21",
+      "title": "下面这 20 个技能覆盖了专业开发者会接触的所有类别。复制你需要的，保存下来，让每次会话开始时 Claude 就已经知道该如何工作。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-21",
+      "title": "AI 真人短剧赛道有大量零散教程、无效提示词让新手屡屡踩坑、难以落地。本篇文章分享了一套可以直接照搬的实操成片流程，解决了AI 短剧画面崩坏、人物变脸、风格混乱等常见问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 35,
   "updates_7d": [
     {
       "date": "2026-05-21",
+      "title": "这份字体提示词合集，囊括多样风格创作素材，可以满足各类视觉用字需求。内容涵盖硬笔手写、工业机械、运动竞技、建筑碑刻等常规字体，还包含霓虹、金属、碎裂、水墨等二十余种创意特效字。作者还分享了专业的字体画面反推提示词，来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-21",
+      "title": "现在AI能帮你写掉一大部分代码，但 AI 不会替你做需求分析、不会替你拆任务、不会替你设计上下文架构、不会替你判断哪个工具该接哪个该删、不会替你建立验证标准、不会替你守住架构边界。这些事情的总和就是 Harness Engineering。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-21",
+      "title": "最近不少人纠结Claude Code和Codex两款编码工具到底应该选择哪个？Claude Code适合需求未定、需要实时查看进度、随时调整修改的场景，把控项目改动细节，灵活应对突发问题。Codex则更偏向任务委派，边界清晰、验收标准明确的工作可交由其后台独立完成，可以高效批量处理多项事务。选工具要先匹配自身的需求与工作习惯，才能规避半成品问题，最大化发挥工具价值。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-21",
       "title": "我们在电脑上做的大部分工作，本质上其实都和代码息息相关：执行终端命令、浏览网页、调用应用程序接口、导出文档、响应各种事件，或者是触发自动化流程。当 Codex 开始延伸到这些领域时，它给人的感觉就不再只是一个狭义上的“编程助手”了，而是进化成了一个能帮你搞定各种电脑工作的“全能打工人”。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-21",
+      "title": "下面这 20 个技能覆盖了专业开发者会接触的所有类别。复制你需要的，保存下来，让每次会话开始时 Claude 就已经知道该如何工作。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-21",
+      "title": "AI 真人短剧赛道有大量零散教程、无效提示词让新手屡屡踩坑、难以落地。本篇文章分享了一套可以直接照搬的实操成片流程，解决了AI 短剧画面崩坏、人物变脸、风格混乱等常见问题。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -163,36 +213,6 @@
     {
       "date": "2026-05-16",
       "title": "99% 教程只教你\"装好登录、随便聊一下\"。 但真正让 Codex 配得上\"百亿超级 Agent\"这个名号的，是 那些藏得很深的进阶功能 。作者整理了12个进阶玩法，快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-15",
-      "title": "这篇文章直击AI记忆底层真相，揭开其区别于人类的存储逻辑。作者结合多款主流AI智能体实战案例，理清系统提示词、全局规则与技能库的使用边界，教你合理划分信息存放位置。吃透这套工程化记忆原理，可以快速排查日常使用中的各类记忆异常。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-15",
-      "title": "这期节目对谈嘉宾是 Every 的增长负责人 Austin Tedesco，聊他们为什么从 Claude Code 转向 Codex。Austin 说，自己现在大约 80% 的工作时间都在 Codex 桌面应用里，里面连着 Gmail、Slack、Notion、Stripe 和公司数据源。他没有以工程师身份坐在 IDE 里写代码，作为增长负责人，他把策略、数据分析、招聘、GTM 计划和自动化都搬进了一个 Agent 管理界面。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-15",
-      "title": "这两天 Claude Code 又更新了一个东西，叫 Agent View。它解决的不是模型会不会写代码的问题。它解决的是当你同时让几个 AI 去干活时，人到底怎么盯、怎么插手、怎么拍板的问题。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-15",
-      "title": "Anthropic 正式推出Claude Code官方课程，帮你快速掌握这款 AI 编程助手。课程共 9 大模块，层层递进：从 Claude Code 定位与安装入手，讲清核心原理；重点拆解 CLAUDE.md 项目规范文件、标准开发工作流（探索→规划→编码→提交）、上下文管理、MCP 协议、Hooks 自动化等关键能力。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-15",
-      "title": "Anthropic 刚刚出了一份 36 页的创始人手册： 创建一家 AI Native 的公司，几个人，做几百人的事儿。手册把创业拆成四个阶段（想法、MVP、上线、规模化），每个阶段讲清楚该做什么、容易踩什么坑、Claude 的三个产品形态（Chat、Cowork、Code）分别在什么时候用。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-15",
-      "title": "AI 行业已从拼模型转向拼落地，FDE 前线部署工程师成为大厂抢人核心。OpenAI、Anthropic、Google 均重兵布局，成立独立部署公司、收购团队、简化面试疯狂扩编。FDE 不做 PPT 咨询，而是驻场写代码、集成调试、帮企业把 AI 落地到真实业务。本篇文章清晰拆解了三大巨头的不同打法、岗位本质、职业价值与风险。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
