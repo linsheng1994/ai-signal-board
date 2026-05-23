@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T15:08:41.184814Z",
+  "generated_at": "2026-05-23T16:30:51.310920Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -33,7 +33,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 29,
   "updates_7d": [
     {
       "date": "2026-05-22",
@@ -178,36 +178,6 @@
     {
       "date": "2026-05-18",
       "title": "AI 音乐行业呈现高供给、低消费态势，海量作品涌现却普遍收听低迷。多款实用创作工具迎来重磅升级，专业编曲与高保真作曲技术持续突破，大幅降低了音乐制作门槛。与此同时行业合规体系正在加速完善，版权申报与商用规范也在逐步落地。头部平台也不断拓宽使用场景，打通车载等多元使用渠道，丰富创作与传播体验。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-17",
-      "title": "本篇文章带你学习如何操作并掌握 Hermes Agent：搭建 Agent 控制室模板，配置专职 Agent，并从一个 Agent 扩展到一整套运行在同一台 VPS 上的营销公司。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-17",
-      "title": "本周精选的10篇AI 顶尖前沿论文成果，覆盖大模型训练提速、长文本优化、智能体记忆、代码检索、多智能体协作等热门赛道。从 Lighthouse Attention 大幅降低长上下文训练成本，到 grep 搜索媲美向量检索，再到 δ‑mem 轻量在线记忆、Token 训练提速 3 倍，每篇都直击行业痛点。不仅有技术原理，更有实测效果与工程价值，为研发优化、项目落地提供全新思路与参考方向。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-17",
-      "title": "很多人搭建完Obsidian知识库便闲置荒废，要么沦为杂乱的信息回收站，要么彻底搁置。本篇文章提出AI信息守门员新思路，可以盘活静态知识库，实现全自动信息流转。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-17",
-      "title": "大模型普遍存在交互失忆问题，难以延续长期协作。本篇文章这套智能体记忆体系可以补齐该短板。文中搭配了完整可落地的实战代码，手把手带你搭建本地记忆存储架构，同时给出记忆衰减、权重评级、定期整合等高效管理策略。吃透这套记忆搭建逻辑，既能解决智能体任务中断、经验无法复用等难题，还能打造具备长期学习能力的智能协作体，大幅提升 Agent 实战稳定性与个性化服务能力。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-17",
-      "title": "作者这套开源Skill可以一键将群聊记录整理成正统A3版式社群报纸。它能根据当日信息量自动增减版面，智能适配图文排版与字体样式，轻松把碎片化社群交流，沉淀成可留存、可传播、有温度的实体内容资产。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-17",
-      "title": "Abhishek Das 是 Yutori的联合创始人兼联合 CEO，团队正在做能替用户在网页上完成任务的AI Agent。他和另外两位联合创始人都出身AI研究，Abhishek 还参与过 Grad-CAM 论文，用可视化方式解释模型到底看了图像的哪一部分。这期对话主要聚焦的话题是：Agent 产品现在最大的问题，并非想象力不够，而是行业正在接受低可靠。 当一个产品说自己能替你做事，第一次试用却跑不通，用户失去的不是耐心，是信任。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
