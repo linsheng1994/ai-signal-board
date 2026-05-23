@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T22:54:44.146803Z",
+  "generated_at": "2026-05-23T23:58:03.639710Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-23",
-  "count_today": 5,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-05-23",
@@ -15,6 +15,16 @@
     {
       "date": "2026-05-23",
       "title": "未来硅世界第16期邀请到一位做出了六款被硅谷 CTO、Pinterest、YC 创始人都在用的开源工具的开发者 Tw93。他的作品均源于解决自身日常痛点，从编辑器、桌面打包工具到清理软件，凭借轻量化设计与精良质感收获大量海外用户。这期对话中他分享了出海变现、AI协作、产品打磨的实战经验，也给出技术学习实用书单。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-23",
+      "title": "作者这篇文章实测演示了借助Codex对接Figma插件，快速将设计稿转化为可交互代码页面的完整流程。针对样式偏差、图标识别错误等常见问题，可以直接圈选批注定点修正，避免改动牵连完整页面。还能按需添加标签切换、滑动动画等交互效果，分步开发降低出错概率。这套方案适合快速产出网页、H5原型，也为设计从业者提供AI辅助落地的高效工作新思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-23",
+      "title": "作者开源了一个文章自动配图技能，可以智能筛选图文点位，批量生成多风格插画。另外通过配置文件可以将文稿润色、标题创作、配图、宣传物料制作等七个技能串联为一体，一键即可启动完整创作流水线。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -33,7 +43,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 36,
   "updates_7d": [
     {
       "date": "2026-05-23",
@@ -43,6 +53,16 @@
     {
       "date": "2026-05-23",
       "title": "未来硅世界第16期邀请到一位做出了六款被硅谷 CTO、Pinterest、YC 创始人都在用的开源工具的开发者 Tw93。他的作品均源于解决自身日常痛点，从编辑器、桌面打包工具到清理软件，凭借轻量化设计与精良质感收获大量海外用户。这期对话中他分享了出海变现、AI协作、产品打磨的实战经验，也给出技术学习实用书单。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-23",
+      "title": "作者这篇文章实测演示了借助Codex对接Figma插件，快速将设计稿转化为可交互代码页面的完整流程。针对样式偏差、图标识别错误等常见问题，可以直接圈选批注定点修正，避免改动牵连完整页面。还能按需添加标签切换、滑动动画等交互效果，分步开发降低出错概率。这套方案适合快速产出网页、H5原型，也为设计从业者提供AI辅助落地的高效工作新思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-23",
+      "title": "作者开源了一个文章自动配图技能，可以智能筛选图文点位，批量生成多风格插画。另外通过配置文件可以将文稿润色、标题创作、配图、宣传物料制作等七个技能串联为一体，一键即可启动完整创作流水线。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
