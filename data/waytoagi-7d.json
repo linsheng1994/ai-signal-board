@@ -1,40 +1,65 @@
 {
-  "generated_at": "2026-05-23T21:55:46.797078Z",
+  "generated_at": "2026-05-23T22:54:44.146803Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-05-22",
+  "latest_date": "2026-05-23",
   "count_today": 5,
   "updates_today": [
     {
-      "date": "2026-05-22",
-      "title": "这套经过作者实测筛选出的Claude Cowork提示词模板，覆盖情报汇总、竞品调研、文档审阅、内容分发等高频工作场景，可以让你实际每周腾出34小时空余时间。",
+      "date": "2026-05-23",
+      "title": "这份深度剖析拆解了Anthropic实现高速增长、估值反超同行的核心逻辑，从战略抉择与组织文化两大维度，对比出它和OpenAI截然不同的发展路径，为科技企业战略规划、团队管理提供极具参考价值的思考。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-05-22",
-      "title": "过去，构建一个生产级 Agent 意味着你要接手大量基础设施工作：自己搭编排循环，自己构建沙箱，让模型能安全地运行代码；还要接工具、管理状态、处理重试，然后祈祷凌晨 3 点不要出故障。真正有意思的工作，也就是 Agent 本身，会被埋在基础设施工作下面。现在，一个带托管沙箱、内置工具和生产级推理循环的完整 Agent，只需要一次 API 调用就能创建。这篇文章会讲三个组成部分，以及它们如何配合。",
+      "date": "2026-05-23",
+      "title": "未来硅世界第16期邀请到一位做出了六款被硅谷 CTO、Pinterest、YC 创始人都在用的开源工具的开发者 Tw93。他的作品均源于解决自身日常痛点，从编辑器、桌面打包工具到清理软件，凭借轻量化设计与精良质感收获大量海外用户。这期对话中他分享了出海变现、AI协作、产品打磨的实战经验，也给出技术学习实用书单。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-05-22",
-      "title": "臧师傅开源的这个Skill，依托磁吸墨水屏打造出动态桌面信息终端。联动各类办公与开发平台，可以同步更新日程任务、项目工单，还能适时提醒作息、天气等日常讯息。感兴趣的朋友，不妨上手体验一番！",
+      "date": "2026-05-23",
+      "title": "人人都在用 AI。但几乎没人真正理解它是怎么工作的。大家随口就会说 transformer、embedding、RAG、agent、RLHF……仿佛所有人本来就懂。其实大多数人并不懂。理解下面这 20 个概念之后，它们都会变得说得通。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-05-22",
-      "title": "成峰的这套Skills自进化模式，跳出了低效手动逐句调试的旧思路，借助多智能体协作实现能力迭代。这个模式可以大幅缩减调试耗时，但同时也要把控规则冗余的问题，人工做好筛选监督，才能让Agent的作答质量稳步提升。",
+      "date": "2026-05-23",
+      "title": "Railway 做的是开发者部署平台：你可以在画布里，或直接对 Claude 说，部署一个 Postgres、部署一个 GitHub 仓库、运行一段代码。如果你负责工程效率、AI 产品或内部平台，这期对话比一次产品介绍更有参考价值，它讲的是下一代软件生产线会压到哪里。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-05-22",
-      "title": "AI 时代，人人都需要一个自己的知识库。AI 本身没有立场、没有经历、没有审美。你想让它替你写一篇文章、做一份方案、整理一段录音——它给你的永远是通用、平均、谁都能写出来的内容。每个人都该拥有一座属于自己的本地知识库。而本地知识库的最佳方案，就是 Obsidian，这篇文章是针对小白用户从0到1的完整入门教程！",
+      "date": "2026-05-23",
+      "title": "OpenAI发了一篇关于在 Codex 中使用Goals的很好的文章。这篇文章讲的是何时使用Goals、Goals激活时会发生哪些变化，以及如何编写Goals，以便为 Codex 提供清晰的结果、约束和验证标准。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 29,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-05-23",
+      "title": "这份深度剖析拆解了Anthropic实现高速增长、估值反超同行的核心逻辑，从战略抉择与组织文化两大维度，对比出它和OpenAI截然不同的发展路径，为科技企业战略规划、团队管理提供极具参考价值的思考。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-23",
+      "title": "未来硅世界第16期邀请到一位做出了六款被硅谷 CTO、Pinterest、YC 创始人都在用的开源工具的开发者 Tw93。他的作品均源于解决自身日常痛点，从编辑器、桌面打包工具到清理软件，凭借轻量化设计与精良质感收获大量海外用户。这期对话中他分享了出海变现、AI协作、产品打磨的实战经验，也给出技术学习实用书单。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-23",
+      "title": "人人都在用 AI。但几乎没人真正理解它是怎么工作的。大家随口就会说 transformer、embedding、RAG、agent、RLHF……仿佛所有人本来就懂。其实大多数人并不懂。理解下面这 20 个概念之后，它们都会变得说得通。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-23",
+      "title": "Railway 做的是开发者部署平台：你可以在画布里，或直接对 Claude 说，部署一个 Postgres、部署一个 GitHub 仓库、运行一段代码。如果你负责工程效率、AI 产品或内部平台，这期对话比一次产品介绍更有参考价值，它讲的是下一代软件生产线会压到哪里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-23",
+      "title": "OpenAI发了一篇关于在 Codex 中使用Goals的很好的文章。这篇文章讲的是何时使用Goals、Goals激活时会发生哪些变化，以及如何编写Goals，以便为 Codex 提供清晰的结果、约束和验证标准。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-22",
       "title": "这套经过作者实测筛选出的Claude Cowork提示词模板，覆盖情报汇总、竞品调研、文档审阅、内容分发等高频工作场景，可以让你实际每周腾出34小时空余时间。",
