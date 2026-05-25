@@ -1,45 +1,35 @@
 {
-  "generated_at": "2026-05-25T04:45:05.405355Z",
+  "generated_at": "2026-05-25T08:56:51.154142Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-05-24",
-  "count_today": 6,
+  "latest_date": "2026-05-25",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-05-24",
-      "title": "本周汇总的十篇AI前沿论文，覆盖智能体架构、数学推理、模型优化等核心研究领域。这些研究打破传统开发思路，证实代码可以作为智能体核心底座，弱模型借助编排策略也能比肩顶尖模型性能。AI 首次独立攻克数十年未解数学难题，刷新大众对模型推理能力的认知。同时涌现模块化记忆、双智能体协作、元认知调度等创新架构，也有测评客观指出当前智能体研发短板。",
+      "date": "2026-05-25",
+      "title": "老金把自己的决策模型，蒸馏成了一个老金决策.skill，并且开源了。如果你想做一个产品，老金决策.skill 不会只说可以先做个最小版本。它会问清楚这个最小版本到底验证什么，你要投入什么，最后拿出什么，做到什么程度算过，什么信号说明该停，下一步是什么，以及这轮测试先不要做什么。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-05-24",
-      "title": "如今全网都在喊\"Skill 改变生产力\"，但大多数人只是听说过,没真正搞懂它跟提示词、跟知识库、跟 MCP、跟智能体到底有什么区别,更没动手做一个出来。很多人听到 Claude Skills 就以为这是 Claude 专属功能，其实完全不是。本文一次讲透。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-24",
-      "title": "大多数 Claude 用户还在用 Anthropic 半年前的默认配置。结果账单慢慢变高，输出慢慢跑偏，然后他们开始怪模型。下面是 18 个真正影响 Claude 运行方式的设置。每一项都会讲：它在哪里、它做什么，以及简单的解决办法。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-24",
-      "title": "Dan 是 Every的创始人兼CEO，他这期对话最有价值的地方，是把焦虑拆回日常动作。PM、设计师、工程师都不必等组织给出标准答案。先把一个真实流程放进 Codex 或 Claude Code，看看哪里省时间，哪里需要人盯，哪里能做出新东西。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-24",
-      "title": "Claude 能做的事，比大多数人想象中多得多。这篇指南会把它们全部讲一遍：每个功能在哪里、怎样打开，以及你可以立刻使用的 prompt。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-24",
-      "title": "2026 年，所有人都在谈 AI agent。但大多数人并不知道它们到底怎么工作。今天这篇会把它讲清楚。无论你是想自动化自己的工作流，还是为公司构建生产级 AI 系统，这都是你的路线图。",
+      "date": "2026-05-25",
+      "title": "本周AI音乐领域发生多重变革，技术迭代、产品创新与版权生态均迎来全新发展态势。多款音频模型性能实现大幅升级，超高压缩、实时伴奏、离线作曲等前沿技术相继落地。国产编曲软件突破发展瓶颈，有效精简音乐创作流程。与此同时，相关学术研究围绕音乐生成、曲目识别、乐曲解构等核心维度持续深耕。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 39,
   "updates_7d": [
+    {
+      "date": "2026-05-25",
+      "title": "老金把自己的决策模型，蒸馏成了一个老金决策.skill，并且开源了。如果你想做一个产品，老金决策.skill 不会只说可以先做个最小版本。它会问清楚这个最小版本到底验证什么，你要投入什么，最后拿出什么，做到什么程度算过，什么信号说明该停，下一步是什么，以及这轮测试先不要做什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-25",
+      "title": "本周AI音乐领域发生多重变革，技术迭代、产品创新与版权生态均迎来全新发展态势。多款音频模型性能实现大幅升级，超高压缩、实时伴奏、离线作曲等前沿技术相继落地。国产编曲软件突破发展瓶颈，有效精简音乐创作流程。与此同时，相关学术研究围绕音乐生成、曲目识别、乐曲解构等核心维度持续深耕。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-24",
       "title": "本周汇总的十篇AI前沿论文，覆盖智能体架构、数学推理、模型优化等核心研究领域。这些研究打破传统开发思路，证实代码可以作为智能体核心底座，弱模型借助编排策略也能比肩顶尖模型性能。AI 首次独立攻克数十年未解数学难题，刷新大众对模型推理能力的认知。同时涌现模块化记忆、双智能体协作、元认知调度等创新架构，也有测评客观指出当前智能体研发短板。",
