@@ -1,25 +1,45 @@
 {
-  "generated_at": "2026-05-25T15:51:04.315954Z",
+  "generated_at": "2026-05-25T17:44:02.572938Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-25",
-  "count_today": 2,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-05-25",
+      "title": "这期对话的主人公是OpenAI负责 ChatGPT、Codex 和 API 的产品负责人 Tibo，主线落在 Agent 接下来怎样进入普通人的工作流。这期最有用的地方，是把“我该怎么开始用 Agent”拆成了资料、权限、责任、工作流和产品边界几个具体问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-25",
       "title": "老金把自己的决策模型，蒸馏成了一个老金决策.skill，并且开源了。如果你想做一个产品，老金决策.skill 不会只说可以先做个最小版本。它会问清楚这个最小版本到底验证什么，你要投入什么，最后拿出什么，做到什么程度算过，什么信号说明该停，下一步是什么，以及这轮测试先不要做什么。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
       "date": "2026-05-25",
       "title": "本周AI音乐领域发生多重变革，技术迭代、产品创新与版权生态均迎来全新发展态势。多款音频模型性能实现大幅升级，超高压缩、实时伴奏、离线作曲等前沿技术相继落地。国产编曲软件突破发展瓶颈，有效精简音乐创作流程。与此同时，相关学术研究围绕音乐生成、曲目识别、乐曲解构等核心维度持续深耕。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-25",
+      "title": "一个小城创作者，一个非科班摄影师，用约 10 天纯制作时间、约 3000 元预算，做出了一条全网爆火的 AI 短片，还被海外好莱坞AI导演抛来橄榄枝。所以这条片子为什么能被记住？我们普通人能从里面学走哪一小块？这篇文章带你逐步拆解！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-25",
+      "title": "AI编程领域的工具会一直更新，概念会不断冒出来。但这本小册子教你的核心方法不会过时——想清楚做什么、说清楚怎么做、判断做得对不对。工具只是手段，判断力才是你的。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 36,
   "updates_7d": [
+    {
+      "date": "2026-05-25",
+      "title": "这期对话的主人公是OpenAI负责 ChatGPT、Codex 和 API 的产品负责人 Tibo，主线落在 Agent 接下来怎样进入普通人的工作流。这期最有用的地方，是把“我该怎么开始用 Agent”拆成了资料、权限、责任、工作流和产品边界几个具体问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-25",
       "title": "老金把自己的决策模型，蒸馏成了一个老金决策.skill，并且开源了。如果你想做一个产品，老金决策.skill 不会只说可以先做个最小版本。它会问清楚这个最小版本到底验证什么，你要投入什么，最后拿出什么，做到什么程度算过，什么信号说明该停，下一步是什么，以及这轮测试先不要做什么。",
@@ -28,6 +48,16 @@
     {
       "date": "2026-05-25",
       "title": "本周AI音乐领域发生多重变革，技术迭代、产品创新与版权生态均迎来全新发展态势。多款音频模型性能实现大幅升级，超高压缩、实时伴奏、离线作曲等前沿技术相继落地。国产编曲软件突破发展瓶颈，有效精简音乐创作流程。与此同时，相关学术研究围绕音乐生成、曲目识别、乐曲解构等核心维度持续深耕。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-25",
+      "title": "一个小城创作者，一个非科班摄影师，用约 10 天纯制作时间、约 3000 元预算，做出了一条全网爆火的 AI 短片，还被海外好莱坞AI导演抛来橄榄枝。所以这条片子为什么能被记住？我们普通人能从里面学走哪一小块？这篇文章带你逐步拆解！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-25",
+      "title": "AI编程领域的工具会一直更新，概念会不断冒出来。但这本小册子教你的核心方法不会过时——想清楚做什么、说清楚怎么做、判断做得对不对。工具只是手段，判断力才是你的。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -183,36 +213,6 @@
     {
       "date": "2026-05-20",
       "title": "FDE 的本质，是复杂企业 AI 公司的一套 客户现场学习与生产部署机制：把有工程能力、产品判断和业务理解的人放到客户最复杂、最高价值、最不清晰的业务现场，完成从问题发现、系统集成、生产上线、效果度量，到产品化反馈的闭环。让我们一同跟着雪梅这篇文章深度探究下FDE！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-19",
-      "title": "这篇文章带你从零开始，把一个能听懂自然语言、能自己写代码、能自动干活的 Claude code装到你电脑里，并用它做出第一个能跑、能用的产品。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-19",
-      "title": "这不是一篇写给程序员炫技的工具手册。这是一篇写给普通人、零基础新手、刚接触 AI 工具的读者的实战入门教学。你不需要先学会编程，也不需要一上来就懂命令行、配置文件、模型参数、MCP、Skill 这些听起来很吓人的词。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-19",
-      "title": "普通人无需懂代码，也能一站式完成品牌视觉设计到网站正式上线。借助GPT Image2依托现成视觉素材，搭配简短指令就能批量产出风格统一的多款网页界面，快速敲定整体设计调性。再将设计图交由Codex自动转换成可交互网页，经过多轮微调优化视觉细节与交互效果，还能一键完成云端部署，快速获取可直接演示的公开网址。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-19",
-      "title": "在 Code with Claude 2026 技术分享里，GitHub 首席产品官 Mario Rodriguez 和 Anthropic Claude Platform 产品负责人 Brad Abrams，讲了一件很容易被普通用户忽略的事：当 Copilot 每天处理海量请求，AI 编程的难点已经从“模型会不会写代码”，推进到“平台能不能用可控成本、稳定延迟和可信评测支撑开发者持续工作”。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-19",
-      "title": "不少人用AI制作中文字体海报屡屡翻车，缺少视觉冲击力，问题根源往往不在模型能力，而是提示词过于笼统空洞。想要产出精致吸睛的字体视觉，必须精准细化各项细节。明确敲定字体样式、笔画粗细、字形结构、文字质感，再搭配适配的场景背景与光影氛围，就可以轻松做出质感出众、适配推文封面、宣传海报的高品质中文创意字体图。这篇文章给出了100个文字提示词，快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-19",
-      "title": "Anthropic 重磅升级Managed Agents，推出自托管沙箱与 MCP 隧道两大核心能力，打破智能体部署与数据安全壁垒。此次更新将执行环境下放至客户侧，支持对接四大云服务商，兼顾灵活部署与极致安全。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
