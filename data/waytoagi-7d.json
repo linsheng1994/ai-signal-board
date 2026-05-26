@@ -1,40 +1,25 @@
 {
-  "generated_at": "2026-05-26T08:31:01.498331Z",
+  "generated_at": "2026-05-26T16:23:52.373409Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-05-25",
-  "count_today": 5,
+  "latest_date": "2026-05-26",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-05-25",
-      "title": "这期对话的主人公是OpenAI负责 ChatGPT、Codex 和 API 的产品负责人 Tibo，主线落在 Agent 接下来怎样进入普通人的工作流。这期最有用的地方，是把“我该怎么开始用 Agent”拆成了资料、权限、责任、工作流和产品边界几个具体问题。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-25",
-      "title": "老金把自己的决策模型，蒸馏成了一个老金决策.skill，并且开源了。如果你想做一个产品，老金决策.skill 不会只说可以先做个最小版本。它会问清楚这个最小版本到底验证什么，你要投入什么，最后拿出什么，做到什么程度算过，什么信号说明该停，下一步是什么，以及这轮测试先不要做什么。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-25",
-      "title": "本周AI音乐领域发生多重变革，技术迭代、产品创新与版权生态均迎来全新发展态势。多款音频模型性能实现大幅升级，超高压缩、实时伴奏、离线作曲等前沿技术相继落地。国产编曲软件突破发展瓶颈，有效精简音乐创作流程。与此同时，相关学术研究围绕音乐生成、曲目识别、乐曲解构等核心维度持续深耕。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-25",
-      "title": "一个小城创作者，一个非科班摄影师，用约 10 天纯制作时间、约 3000 元预算，做出了一条全网爆火的 AI 短片，还被海外好莱坞AI导演抛来橄榄枝。所以这条片子为什么能被记住？我们普通人能从里面学走哪一小块？这篇文章带你逐步拆解！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-25",
-      "title": "AI编程领域的工具会一直更新，概念会不断冒出来。但这本小册子教你的核心方法不会过时——想清楚做什么、说清楚怎么做、判断做得对不对。工具只是手段，判断力才是你的。",
+      "date": "2026-05-26",
+      "title": "Notion CEO Ivan Zhao 上周去 Sequoia Capital 录了一期播客，聊了他经历了两次公司濒死、两次从头重建的经历。如今他以“Refounder”身份在用同一套逻辑”重构“一家千人公司。他认为 AI 让技术能力变成了商品，真正稀缺的是 Taste（品味） 和 Agency（主动性），所以招聘标准要变；信息传递和协调工作正在被 AI 接管，所以组织结构要变；技术变化太快，任何超过几周的规划都可能失效，规划方式也要变。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 30,
   "updates_7d": [
+    {
+      "date": "2026-05-26",
+      "title": "Notion CEO Ivan Zhao 上周去 Sequoia Capital 录了一期播客，聊了他经历了两次公司濒死、两次从头重建的经历。如今他以“Refounder”身份在用同一套逻辑”重构“一家千人公司。他认为 AI 让技术能力变成了商品，真正稀缺的是 Taste（品味） 和 Agency（主动性），所以招聘标准要变；信息传递和协调工作正在被 AI 接管，所以组织结构要变；技术变化太快，任何超过几周的规划都可能失效，规划方式也要变。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-25",
       "title": "这期对话的主人公是OpenAI负责 ChatGPT、Codex 和 API 的产品负责人 Tibo，主线落在 Agent 接下来怎样进入普通人的工作流。这期最有用的地方，是把“我该怎么开始用 Agent”拆成了资料、权限、责任、工作流和产品边界几个具体问题。",
@@ -178,41 +163,6 @@
     {
       "date": "2026-05-21",
       "title": "AI 真人短剧赛道有大量零散教程、无效提示词让新手屡屡踩坑、难以落地。本篇文章分享了一套可以直接照搬的实操成片流程，解决了AI 短剧画面崩坏、人物变脸、风格混乱等常见问题。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-20",
-      "title": "龙虾虽然好玩，但是严肃办公场景下还是coding agent最靠谱！做了个bridge，可以把本地的Claude Code桥接到飞书/Lark里，让Claude Code成为飞书里的一个bot，可以像跟同事交流一样无缝跟Claude Code协作！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-20",
-      "title": "本届 Google I/O 26 大会，Google 正式完成 AI 生态战略重构，以三大核心产品打通全场景落地路径。全新 Gemini 3.5 Flash 打破模型层级壁垒，兼具旗舰性能、极速响应与低成本优势，成为生态通用执行核心，助力企业高效搭建多智能体协作工作流。云端常驻个人AI Agent Gemini Spark 无需本地部署，可全天候自主处理各类日常事务。Gemini Omni 开启对话式视频创作新时代，多模态融合创作门槛大幅降低。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-20",
-      "title": "微信读书正式开放 Skill 接口，普通人也能一键调取个人阅读数据，轻松生成专属阅读画像信息图。只需简单配置 API Key，就能同步阅读时长、书籍数量、笔记、年度趋势、阅读时段与兴趣分类等完整数据。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-20",
-      "title": "作者最近上线了用AI做的《汴京十二时辰》数字博物馆，有很多小伙伴问是怎么做的：涉及到哪些AI工具，具体的工作流是什么。这篇文章就手把手来教大家，如何制作属于自己的数字博物馆。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-20",
-      "title": "今天这篇文章，就是写给所有非技术背景的人。不讲\"分布式版本控制系统\"，不堆术语，就用大白话，把 GitHub 到底是什么给你掰开揉碎讲清楚。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-20",
-      "title": "Pawel 是欧洲很有影响力的 AI PM 作者，LinkedIn 关注者超过 20 万，newsletter 订阅超过 10 万，还做了一个 PM skills marketplace，GitHub 上有 1 万 star。这次他分享的是一套完整 Claude PM 操作系统：Cowork、Claude Code、Dispatch、Skills、MCP connector、自我改进知识库，以及手机上的远程工作流。让我们一同看看PM如何把日常工作拆成可积累、可复用、可验证的系统，并让系统在下一次任务里带着记忆继续工作。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-20",
-      "title": "FDE 的本质，是复杂企业 AI 公司的一套 客户现场学习与生产部署机制：把有工程能力、产品判断和业务理解的人放到客户最复杂、最高价值、最不清晰的业务现场，完成从问题发现、系统集成、生产上线、效果度量，到产品化反馈的闭环。让我们一同跟着雪梅这篇文章深度探究下FDE！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
