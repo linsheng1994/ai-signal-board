@@ -1,45 +1,25 @@
 {
-  "generated_at": "2026-05-27T11:53:07.054815Z",
+  "generated_at": "2026-05-27T15:42:30.340173Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-05-26",
-  "count_today": 6,
+  "latest_date": "2026-05-27",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-05-26",
-      "title": "四月底，产品力领航者大会的闭门会深度剖析了AI浪潮下职场、教育与创业的现实困境与变革方向，并对比了中美AI创业的模式差异。如果你是职场人、教育从业者或者创业者，或许都能从中找到适配当下的成长与发展路径。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-26",
-      "title": "不少人开工先沉迷各类信息流，耗费大量时间却获取不到有效信息，还打乱当日工作计划、徒增压力。本文带来从零搭建一款自动化生成日报的Agent的完整教程，帮你提前自动筛选、整合各类资讯，告别无效信息消耗，只需花五分钟浏览，就能快速掌握新一天的关键动态。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-26",
-      "title": "不少AI智能体看似能存储海量信息，却难以完成复杂的关联推理。向量检索存在信息断层，自由构建的知识图谱又会因为归类模糊丧失查询能力。本篇文章给出了高效解决方案，借助Pydantic预先定义实体、关系与属性，搭建专属本体框架，配合标准化流程来规范信息提取与输出，可以很好地改善Agent记忆！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-26",
-      "title": "Notion CEO Ivan Zhao 上周去 Sequoia Capital 录了一期播客，聊了他经历了两次公司濒死、两次从头重建的经历。如今他以“Refounder”身份在用同一套逻辑”重构“一家千人公司。他认为 AI 让技术能力变成了商品，真正稀缺的是 Taste（品味） 和 Agency（主动性），所以招聘标准要变；信息传递和协调工作正在被 AI 接管，所以组织结构要变；技术变化太快，任何超过几周的规划都可能失效，规划方式也要变。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-26",
-      "title": "Codex搭配Remotion插件可以通过自然语言轻松制作视频。而且它有一个很大的优势，就是你可以反复修改。如果你不满意，可以继续跟它说这个文字大一点、按钮再长一点、背景音乐从开头加进去等等。它会直接改代码，然后再重新生成。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-26",
-      "title": "Codex在模型和产品的更新下，体感和Claude Code五五开，甚至在某些领域更强，但它对Claude Code搭好的完整生态一无所知。这篇文章记录了作者怎么让 Codex 自动适配 Claude Code 生态，轻松打通两大工具，高效复用过往搭建的全部能力。",
+      "date": "2026-05-27",
+      "title": "苍何老师开源了一份《Codex 实战指南》。从第一次上手，到把 Codex 接入真实工作流；帮助不同背景的人用 Codex 完成开发、创作、研究、自动化与团队协作。 如果这个项目帮你节省了摸索时间，欢迎点亮 Star，让更多人看到它。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 36,
   "updates_7d": [
+    {
+      "date": "2026-05-27",
+      "title": "苍何老师开源了一份《Codex 实战指南》。从第一次上手，到把 Codex 接入真实工作流；帮助不同背景的人用 Codex 完成开发、创作、研究、自动化与团队协作。 如果这个项目帮你节省了摸索时间，欢迎点亮 Star，让更多人看到它。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-26",
       "title": "四月底，产品力领航者大会的闭门会深度剖析了AI浪潮下职场、教育与创业的现实困境与变革方向，并对比了中美AI创业的模式差异。如果你是职场人、教育从业者或者创业者，或许都能从中找到适配当下的成长与发展路径。",
