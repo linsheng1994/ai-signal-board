@@ -1,23 +1,53 @@
 {
-  "generated_at": "2026-05-27T15:42:30.340173Z",
+  "generated_at": "2026-05-27T18:26:32.800953Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-27",
-  "count_today": 1,
+  "count_today": 4,
   "updates_today": [
+    {
+      "date": "2026-05-27",
+      "title": "飞书CLI全新上线画板能力，搭配Codex、Claude Code等AI Agent，一句话就能生成架构图、流程图、思维导图等各类图表。生成内容原生就是可编辑的飞书画板，还支持拖拽改节点、增删逻辑、双语改写。配套开源的32款视觉风格库，对产品、运营、开发者来说，大幅提高了办公协作与方案输出效率。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-27",
       "title": "苍何老师开源了一份《Codex 实战指南》。从第一次上手，到把 Codex 接入真实工作流；帮助不同背景的人用 Codex 完成开发、创作、研究、自动化与团队协作。 如果这个项目帮你节省了摸索时间，欢迎点亮 Star，让更多人看到它。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-27",
+      "title": "现在你只需要设定品牌调性，就可以用Lovart快速生成LOGO、专属字体与完整品牌套件，自动统一设计风格。冷逸这篇文章就给大家详细介绍下一整套的民宿视觉物料都有些什么，以及他是怎么做的。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-27",
+      "title": "很多人用AI只会简单发指令、坐等输出，效率极低还总觉得不好用。这篇文章结合总结六套实用进阶用法，带你精准明确需求意图，把知识库从杂物堆变成可复用的知识网络，真正把AI变成高效生产力帮手。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 33,
   "updates_7d": [
     {
       "date": "2026-05-27",
+      "title": "飞书CLI全新上线画板能力，搭配Codex、Claude Code等AI Agent，一句话就能生成架构图、流程图、思维导图等各类图表。生成内容原生就是可编辑的飞书画板，还支持拖拽改节点、增删逻辑、双语改写。配套开源的32款视觉风格库，对产品、运营、开发者来说，大幅提高了办公协作与方案输出效率。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-27",
       "title": "苍何老师开源了一份《Codex 实战指南》。从第一次上手，到把 Codex 接入真实工作流；帮助不同背景的人用 Codex 完成开发、创作、研究、自动化与团队协作。 如果这个项目帮你节省了摸索时间，欢迎点亮 Star，让更多人看到它。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-27",
+      "title": "现在你只需要设定品牌调性，就可以用Lovart快速生成LOGO、专属字体与完整品牌套件，自动统一设计风格。冷逸这篇文章就给大家详细介绍下一整套的民宿视觉物料都有些什么，以及他是怎么做的。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-27",
+      "title": "很多人用AI只会简单发指令、坐等输出，效率极低还总觉得不好用。这篇文章结合总结六套实用进阶用法，带你精准明确需求意图，把知识库从杂物堆变成可复用的知识网络，真正把AI变成高效生产力帮手。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -163,36 +193,6 @@
     {
       "date": "2026-05-22",
       "title": "AI 时代，人人都需要一个自己的知识库。AI 本身没有立场、没有经历、没有审美。你想让它替你写一篇文章、做一份方案、整理一段录音——它给你的永远是通用、平均、谁都能写出来的内容。每个人都该拥有一座属于自己的本地知识库。而本地知识库的最佳方案，就是 Obsidian，这篇文章是针对小白用户从0到1的完整入门教程！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-21",
-      "title": "这份字体提示词合集，囊括多样风格创作素材，可以满足各类视觉用字需求。内容涵盖硬笔手写、工业机械、运动竞技、建筑碑刻等常规字体，还包含霓虹、金属、碎裂、水墨等二十余种创意特效字。作者还分享了专业的字体画面反推提示词，来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-21",
-      "title": "现在AI能帮你写掉一大部分代码，但 AI 不会替你做需求分析、不会替你拆任务、不会替你设计上下文架构、不会替你判断哪个工具该接哪个该删、不会替你建立验证标准、不会替你守住架构边界。这些事情的总和就是 Harness Engineering。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-21",
-      "title": "最近不少人纠结Claude Code和Codex两款编码工具到底应该选择哪个？Claude Code适合需求未定、需要实时查看进度、随时调整修改的场景，把控项目改动细节，灵活应对突发问题。Codex则更偏向任务委派，边界清晰、验收标准明确的工作可交由其后台独立完成，可以高效批量处理多项事务。选工具要先匹配自身的需求与工作习惯，才能规避半成品问题，最大化发挥工具价值。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-21",
-      "title": "我们在电脑上做的大部分工作，本质上其实都和代码息息相关：执行终端命令、浏览网页、调用应用程序接口、导出文档、响应各种事件，或者是触发自动化流程。当 Codex 开始延伸到这些领域时，它给人的感觉就不再只是一个狭义上的“编程助手”了，而是进化成了一个能帮你搞定各种电脑工作的“全能打工人”。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-21",
-      "title": "下面这 20 个技能覆盖了专业开发者会接触的所有类别。复制你需要的，保存下来，让每次会话开始时 Claude 就已经知道该如何工作。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-21",
-      "title": "AI 真人短剧赛道有大量零散教程、无效提示词让新手屡屡踩坑、难以落地。本篇文章分享了一套可以直接照搬的实操成片流程，解决了AI 短剧画面崩坏、人物变脸、风格混乱等常见问题。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
