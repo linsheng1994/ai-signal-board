@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-05-28T16:19:39.186714Z",
+  "generated_at": "2026-05-28T19:11:31.770741Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-28",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
+    {
+      "date": "2026-05-28",
+      "title": "面对各类定制开发需求，只解决当下问题很容易陷入反复改代码的困境。很多看似零散的功能诉求，背后都藏着同一核心痛点。作者结合实战经历拆解了通用抽象与过度设计两大陷阱，结合 DRY 和 YAGNI 开发原则给出了一个平衡思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-28",
       "title": "臧师傅这款图文卡片生成Skill，跳出同质化网页风模板，对标专业杂志版式设计，可以轻松产出高质感配图。如果你也在做图文内容，希望它能帮你省掉那些被排版毁掉的好选题。",
@@ -18,8 +23,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 30,
+  "count_7d": 31,
   "updates_7d": [
+    {
+      "date": "2026-05-28",
+      "title": "面对各类定制开发需求，只解决当下问题很容易陷入反复改代码的困境。很多看似零散的功能诉求，背后都藏着同一核心痛点。作者结合实战经历拆解了通用抽象与过度设计两大陷阱，结合 DRY 和 YAGNI 开发原则给出了一个平衡思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-28",
       "title": "臧师傅这款图文卡片生成Skill，跳出同质化网页风模板，对标专业杂志版式设计，可以轻松产出高质感配图。如果你也在做图文内容，希望它能帮你省掉那些被排版毁掉的好选题。",
