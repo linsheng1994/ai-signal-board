@@ -1,30 +1,65 @@
 {
-  "generated_at": "2026-05-29T13:44:39.346721Z",
+  "generated_at": "2026-05-29T17:33:12.528900Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-05-28",
-  "count_today": 3,
+  "latest_date": "2026-05-29",
+  "count_today": 5,
   "updates_today": [
     {
-      "date": "2026-05-28",
-      "title": "面对各类定制开发需求，只解决当下问题很容易陷入反复改代码的困境。很多看似零散的功能诉求，背后都藏着同一核心痛点。作者结合实战经历拆解了通用抽象与过度设计两大陷阱，结合 DRY 和 YAGNI 开发原则给出了一个平衡思路。",
+      "date": "2026-05-29",
+      "title": "高质量的Skill更像一张工作处方。它要先判断什么症状该用，再告诉Agent做哪几步，最后规定怎样才算完成。对Claude Code、Codex这类智能体来说，Skill的第一价值不是知识量，而是把一件重复任务变成可触发、可执行、可验证的工作流。作者这篇文章就带大家一起探索下如何从0到1写出高质量Skill。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-05-28",
-      "title": "臧师傅这款图文卡片生成Skill，跳出同质化网页风模板，对标专业杂志版式设计，可以轻松产出高质感配图。如果你也在做图文内容，希望它能帮你省掉那些被排版毁掉的好选题。",
+      "date": "2026-05-29",
+      "title": "曾经前端被戏称为\"娱乐圈\"——工具、框架层出不穷，今年火的明年就过时。现在 AI 把这个周期压缩到了以月计：这个月的新概念，下个月可能就是旧闻。这篇文章，就是一个在\"AI 娱乐圈\"摸爬滚打的老开发，试图从月抛式的焦虑中找到不会过期的东西。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-05-28",
-      "title": "如果你本身就是做女装的老板，或者身边有做女装、电商、服装供应链的朋友，或者想尝试 AI 女装带货项目，可以看看这篇文章是否真的有帮助。",
+      "date": "2026-05-29",
+      "title": "很多人耗费大量时间刷教程、看书听课，最终却毫无收获，只是陷入了自我感动式的虚假努力。究其根源，是从一开始就没有明确学习的初衷与目标。读完这篇文章，你会得到一套可以立刻执行的学习框架。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-29",
+      "title": "如果你想入局 AI 出海 SaaS 却无从下手，这篇文章会给你一个可落地的完整打法。全程都是一线实操经验，覆盖选品、产品运营、SEO 引流整个环节，可以帮你精准锁定自己的赛道。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-29",
+      "title": "OpenAI frontier 团队的 Ryan Leopo在这期对话访谈中分享了OpenAI内部是如何让 PM、设计师、工程师一起进入代码生产现场。PM 和设计师会更靠近可执行物，工程师会更像系统设计者和产能调度者。那么他们到底是怎么互相协作的，让我们来一起探究下！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 31,
+  "count_7d": 29,
   "updates_7d": [
+    {
+      "date": "2026-05-29",
+      "title": "高质量的Skill更像一张工作处方。它要先判断什么症状该用，再告诉Agent做哪几步，最后规定怎样才算完成。对Claude Code、Codex这类智能体来说，Skill的第一价值不是知识量，而是把一件重复任务变成可触发、可执行、可验证的工作流。作者这篇文章就带大家一起探索下如何从0到1写出高质量Skill。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-29",
+      "title": "曾经前端被戏称为\"娱乐圈\"——工具、框架层出不穷，今年火的明年就过时。现在 AI 把这个周期压缩到了以月计：这个月的新概念，下个月可能就是旧闻。这篇文章，就是一个在\"AI 娱乐圈\"摸爬滚打的老开发，试图从月抛式的焦虑中找到不会过期的东西。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-29",
+      "title": "很多人耗费大量时间刷教程、看书听课，最终却毫无收获，只是陷入了自我感动式的虚假努力。究其根源，是从一开始就没有明确学习的初衷与目标。读完这篇文章，你会得到一套可以立刻执行的学习框架。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-29",
+      "title": "如果你想入局 AI 出海 SaaS 却无从下手，这篇文章会给你一个可落地的完整打法。全程都是一线实操经验，覆盖选品、产品运营、SEO 引流整个环节，可以帮你精准锁定自己的赛道。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-29",
+      "title": "OpenAI frontier 团队的 Ryan Leopo在这期对话访谈中分享了OpenAI内部是如何让 PM、设计师、工程师一起进入代码生产现场。PM 和设计师会更靠近可执行物，工程师会更像系统设计者和产能调度者。那么他们到底是怎么互相协作的，让我们来一起探究下！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-28",
       "title": "面对各类定制开发需求，只解决当下问题很容易陷入反复改代码的困境。很多看似零散的功能诉求，背后都藏着同一核心痛点。作者结合实战经历拆解了通用抽象与过度设计两大陷阱，结合 DRY 和 YAGNI 开发原则给出了一个平衡思路。",
@@ -143,41 +178,6 @@
     {
       "date": "2026-05-24",
       "title": "2026 年，所有人都在谈 AI agent。但大多数人并不知道它们到底怎么工作。今天这篇会把它讲清楚。无论你是想自动化自己的工作流，还是为公司构建生产级 AI 系统，这都是你的路线图。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-23",
-      "title": "这份深度剖析拆解了Anthropic实现高速增长、估值反超同行的核心逻辑，从战略抉择与组织文化两大维度，对比出它和OpenAI截然不同的发展路径，为科技企业战略规划、团队管理提供极具参考价值的思考。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-23",
-      "title": "未来硅世界第16期邀请到一位做出了六款被硅谷 CTO、Pinterest、YC 创始人都在用的开源工具的开发者 Tw93。他的作品均源于解决自身日常痛点，从编辑器、桌面打包工具到清理软件，凭借轻量化设计与精良质感收获大量海外用户。这期对话中他分享了出海变现、AI协作、产品打磨的实战经验，也给出技术学习实用书单。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-23",
-      "title": "作者这篇文章实测演示了借助Codex对接Figma插件，快速将设计稿转化为可交互代码页面的完整流程。针对样式偏差、图标识别错误等常见问题，可以直接圈选批注定点修正，避免改动牵连完整页面。还能按需添加标签切换、滑动动画等交互效果，分步开发降低出错概率。这套方案适合快速产出网页、H5原型，也为设计从业者提供AI辅助落地的高效工作新思路。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-23",
-      "title": "作者开源了一个文章自动配图技能，可以智能筛选图文点位，批量生成多风格插画。另外通过配置文件可以将文稿润色、标题创作、配图、宣传物料制作等七个技能串联为一体，一键即可启动完整创作流水线。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-23",
-      "title": "人人都在用 AI。但几乎没人真正理解它是怎么工作的。大家随口就会说 transformer、embedding、RAG、agent、RLHF……仿佛所有人本来就懂。其实大多数人并不懂。理解下面这 20 个概念之后，它们都会变得说得通。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-23",
-      "title": "Railway 做的是开发者部署平台：你可以在画布里，或直接对 Claude 说，部署一个 Postgres、部署一个 GitHub 仓库、运行一段代码。如果你负责工程效率、AI 产品或内部平台，这期对话比一次产品介绍更有参考价值，它讲的是下一代软件生产线会压到哪里。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-23",
-      "title": "OpenAI发了一篇关于在 Codex 中使用Goals的很好的文章。这篇文章讲的是何时使用Goals、Goals激活时会发生哪些变化，以及如何编写Goals，以便为 Codex 提供清晰的结果、约束和验证标准。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
