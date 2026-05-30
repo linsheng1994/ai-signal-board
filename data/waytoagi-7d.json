@@ -1,40 +1,55 @@
 {
-  "generated_at": "2026-05-30T18:38:59.631743Z",
+  "generated_at": "2026-05-30T20:08:54.694141Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-05-29",
-  "count_today": 5,
+  "latest_date": "2026-05-30",
+  "count_today": 4,
   "updates_today": [
     {
-      "date": "2026-05-29",
-      "title": "高质量的Skill更像一张工作处方。它要先判断什么症状该用，再告诉Agent做哪几步，最后规定怎样才算完成。对Claude Code、Codex这类智能体来说，Skill的第一价值不是知识量，而是把一件重复任务变成可触发、可执行、可验证的工作流。作者这篇文章就带大家一起探索下如何从0到1写出高质量Skill。",
+      "date": "2026-05-30",
+      "title": "这篇文章分享了一套用Codex学习新知识的全新思路。这篇文章作者分享了为什么大多数人问 Codex 的问题是错的、如何用5 步把Codex从百科全书变成学习教练、如何设计最小的练习，真正教会你东西。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-05-29",
-      "title": "曾经前端被戏称为\"娱乐圈\"——工具、框架层出不穷，今年火的明年就过时。现在 AI 把这个周期压缩到了以月计：这个月的新概念，下个月可能就是旧闻。这篇文章，就是一个在\"AI 娱乐圈\"摸爬滚打的老开发，试图从月抛式的焦虑中找到不会过期的东西。",
+      "date": "2026-05-30",
+      "title": "最近，Anthropic 发布了 Claude Opus 4.8，同时带来了一个很多人还没有意识到其意义的新能力——Claude Code Dynamic Workflows（动态工作流）。也意味着 AI 编程长期存在的几个核心瓶颈——上下文污染、逻辑漂移、复杂任务失控——第一次看到了系统性的解决方案。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-05-29",
-      "title": "很多人耗费大量时间刷教程、看书听课，最终却毫无收获，只是陷入了自我感动式的虚假努力。究其根源，是从一开始就没有明确学习的初衷与目标。读完这篇文章，你会得到一套可以立刻执行的学习框架。",
+      "date": "2026-05-30",
+      "title": "作者在开发QQBot插件的过程中，深度钻研了OpenClaw的源码，也剖析了Hermes存在的串扰、架构等问题。透过种种不完美，作者拆解出两款产品在多通道适配、上下文管控、记忆管理、安全隔离等方面的工程设计思路。这篇文章给Agent 架构设计提供难得的一线参考。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-05-29",
-      "title": "如果你想入局 AI 出海 SaaS 却无从下手，这篇文章会给你一个可落地的完整打法。全程都是一线实操经验，覆盖选品、产品运营、SEO 引流整个环节，可以帮你精准锁定自己的赛道。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-29",
-      "title": "OpenAI frontier 团队的 Ryan Leopo在这期对话访谈中分享了OpenAI内部是如何让 PM、设计师、工程师一起进入代码生产现场。PM 和设计师会更靠近可执行物，工程师会更像系统设计者和产能调度者。那么他们到底是怎么互相协作的，让我们来一起探究下！",
+      "date": "2026-05-30",
+      "title": "Arize AI 的联合创始人兼 CPO Aparna Dhinakaran，带来了一期很适合产品经理看的实操对话。她没有把 AI PM 讲成一个抽象岗位，而是现场用 Claude Code、GitHub issue、Arize Phoenix 和 evals 跑了一条完整链路：从用户反馈里发现痛点，让 agent 生成优先级报告，再用 trace 和评估结果判断这个 agent 有没有胡来。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 23,
+  "count_7d": 27,
   "updates_7d": [
+    {
+      "date": "2026-05-30",
+      "title": "这篇文章分享了一套用Codex学习新知识的全新思路。这篇文章作者分享了为什么大多数人问 Codex 的问题是错的、如何用5 步把Codex从百科全书变成学习教练、如何设计最小的练习，真正教会你东西。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-30",
+      "title": "最近，Anthropic 发布了 Claude Opus 4.8，同时带来了一个很多人还没有意识到其意义的新能力——Claude Code Dynamic Workflows（动态工作流）。也意味着 AI 编程长期存在的几个核心瓶颈——上下文污染、逻辑漂移、复杂任务失控——第一次看到了系统性的解决方案。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-30",
+      "title": "作者在开发QQBot插件的过程中，深度钻研了OpenClaw的源码，也剖析了Hermes存在的串扰、架构等问题。透过种种不完美，作者拆解出两款产品在多通道适配、上下文管控、记忆管理、安全隔离等方面的工程设计思路。这篇文章给Agent 架构设计提供难得的一线参考。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-30",
+      "title": "Arize AI 的联合创始人兼 CPO Aparna Dhinakaran，带来了一期很适合产品经理看的实操对话。她没有把 AI PM 讲成一个抽象岗位，而是现场用 Claude Code、GitHub issue、Arize Phoenix 和 evals 跑了一条完整链路：从用户反馈里发现痛点，让 agent 生成优先级报告，再用 trace 和评估结果判断这个 agent 有没有胡来。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-29",
       "title": "高质量的Skill更像一张工作处方。它要先判断什么症状该用，再告诉Agent做哪几步，最后规定怎样才算完成。对Claude Code、Codex这类智能体来说，Skill的第一价值不是知识量，而是把一件重复任务变成可触发、可执行、可验证的工作流。作者这篇文章就带大家一起探索下如何从0到1写出高质量Skill。",
