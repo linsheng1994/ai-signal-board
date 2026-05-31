@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T15:48:28.594807Z",
+  "generated_at": "2026-05-31T17:06:02.806190Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -28,7 +28,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 27,
+  "count_7d": 22,
   "updates_7d": [
     {
       "date": "2026-05-30",
@@ -138,31 +138,6 @@
     {
       "date": "2026-05-26",
       "title": "Codex在模型和产品的更新下，体感和Claude Code五五开，甚至在某些领域更强，但它对Claude Code搭好的完整生态一无所知。这篇文章记录了作者怎么让 Codex 自动适配 Claude Code 生态，轻松打通两大工具，高效复用过往搭建的全部能力。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-25",
-      "title": "这期对话的主人公是OpenAI负责 ChatGPT、Codex 和 API 的产品负责人 Tibo，主线落在 Agent 接下来怎样进入普通人的工作流。这期最有用的地方，是把“我该怎么开始用 Agent”拆成了资料、权限、责任、工作流和产品边界几个具体问题。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-25",
-      "title": "老金把自己的决策模型，蒸馏成了一个老金决策.skill，并且开源了。如果你想做一个产品，老金决策.skill 不会只说可以先做个最小版本。它会问清楚这个最小版本到底验证什么，你要投入什么，最后拿出什么，做到什么程度算过，什么信号说明该停，下一步是什么，以及这轮测试先不要做什么。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-25",
-      "title": "本周AI音乐领域发生多重变革，技术迭代、产品创新与版权生态均迎来全新发展态势。多款音频模型性能实现大幅升级，超高压缩、实时伴奏、离线作曲等前沿技术相继落地。国产编曲软件突破发展瓶颈，有效精简音乐创作流程。与此同时，相关学术研究围绕音乐生成、曲目识别、乐曲解构等核心维度持续深耕。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-25",
-      "title": "一个小城创作者，一个非科班摄影师，用约 10 天纯制作时间、约 3000 元预算，做出了一条全网爆火的 AI 短片，还被海外好莱坞AI导演抛来橄榄枝。所以这条片子为什么能被记住？我们普通人能从里面学走哪一小块？这篇文章带你逐步拆解！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-25",
-      "title": "AI编程领域的工具会一直更新，概念会不断冒出来。但这本小册子教你的核心方法不会过时——想清楚做什么、说清楚怎么做、判断做得对不对。工具只是手段，判断力才是你的。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
