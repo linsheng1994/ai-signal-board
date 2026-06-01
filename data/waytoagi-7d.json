@@ -1,45 +1,35 @@
 {
-  "generated_at": "2026-06-01T10:37:50.897883Z",
+  "generated_at": "2026-06-01T16:38:11.636507Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-05-31",
-  "count_today": 6,
+  "latest_date": "2026-06-01",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-05-31",
-      "title": "这份深度访谈复盘了一段真实的AI软件创业之路。创始人从入局垂直 Agent 赛道就接连踩坑，遭遇差异化缺失、垂类业务局限、过度迎合专业用户等问题，也看清了不少产品重概念、轻落地的乱象。结合实战经历，文中剖析了两类主流C 端商业模式、产品打造思路，也谈及了模型快速迭代带来的行业焦虑与短期规划难题。",
+      "date": "2026-06-01",
+      "title": "近期AI音乐领域迎来产品、版权、技术多维度变革。文本生歌玩法在海外社交平台爆火，大幅降低音乐创作门槛。行业版权博弈持续升级，平台与工具方纷纷推出合规检测、侵权清理方案。多款AI音乐、音效工具完成功能迭代与降价，实时音频引擎更是实现技术突破。同时多篇前沿论文补齐音乐转录、音频编辑等技术短板。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-05-31",
-      "title": "本周十大顶尖AI论文覆盖智能体优化、模型效率、科研协作、长上下文治理等前沿方向，干货密度极高。从把Skill文档当作可训练外部参数、将智能体工作流编译进小模型权重降本百倍，到去中心化AI团队自主开展科学研究，创新思路层出不穷。还有仿生睡眠机制缓解长上下文成本、通过运行框架修复模型环境适配问题、量化上下文策略降本增效等突破，同时探讨AI科学预测局限、智能体老化成因与框架设计边界。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-31",
-      "title": "当下依赖vibe coding很容易遇上能力瓶颈，而传统CS学习路线要么内容繁杂耗时久，要么偏向求职应试，都难以适配如今的开发场景。本篇文章讲解了AI时代大家该掌握的CS知识到底是哪些？又要怎么学习？怎么能更好地知道AI的边界、更好地应用AI？",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-31",
-      "title": "向阳乔木和姚金刚老师在社区的第一次GEO公开课从前期基线诊断、搭建标准化事实知识库，到内容结构设计、多渠道分发、分层效果评估，还配套30天落地路线图、避坑指南与全套可复用模板。整套体系逻辑完整、实操性极强，能帮助企业打通AI搜索营销链路，统一品牌信息，提升曝光与转化，是布局AI时代内容运营的实用参考。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-31",
-      "title": "五月大模型领域的迭代覆盖端侧部署、多模态、语音、数学推理、自动驾驶等多元方向，在推理速度、长上下文、生成效果等方面各有突破。作者这份月度盘点整合了全品类动态与技术亮点，快来一起一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-31",
-      "title": "Benedict Evan s 是一位独立分析师，曾是a16z的合伙人，担任了多年的内部“思想家”，追踪最重要的技术趋势。过去六年，他发表了大量关于科技发展方向的深度研究报告，最近的研究重点是 AI 对经济的变革。这期对话的主题聚焦于AI带来的变化都有哪些？普通人该怎样在这轮变化里让自己更安全？",
+      "date": "2026-06-01",
+      "title": "扣子3.0全新升级，开启人和 Agent 协作新方式，提供了一支可以被选择、创建、托管、协作，并持续进入真实工作场景的 AI 团队，在这里打造你的新一代 AI 团队。同时扣子带来了全新电脑桌面端、手机 App端，把 Agent 带进更完整的工作现场：你可以在网页端创建和管理任务，在桌面端连接本地文件，也可以在扣子手机 App 继续推进任务。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 28,
+  "count_7d": 24,
   "updates_7d": [
+    {
+      "date": "2026-06-01",
+      "title": "近期AI音乐领域迎来产品、版权、技术多维度变革。文本生歌玩法在海外社交平台爆火，大幅降低音乐创作门槛。行业版权博弈持续升级，平台与工具方纷纷推出合规检测、侵权清理方案。多款AI音乐、音效工具完成功能迭代与降价，实时音频引擎更是实现技术突破。同时多篇前沿论文补齐音乐转录、音频编辑等技术短板。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-01",
+      "title": "扣子3.0全新升级，开启人和 Agent 协作新方式，提供了一支可以被选择、创建、托管、协作，并持续进入真实工作场景的 AI 团队，在这里打造你的新一代 AI 团队。同时扣子带来了全新电脑桌面端、手机 App端，把 Agent 带进更完整的工作现场：你可以在网页端创建和管理任务，在桌面端连接本地文件，也可以在扣子手机 App 继续推进任务。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-31",
       "title": "这份深度访谈复盘了一段真实的AI软件创业之路。创始人从入局垂直 Agent 赛道就接连踩坑，遭遇差异化缺失、垂类业务局限、过度迎合专业用户等问题，也看清了不少产品重概念、轻落地的乱象。结合实战经历，文中剖析了两类主流C 端商业模式、产品打造思路，也谈及了模型快速迭代带来的行业焦虑与短期规划难题。",
@@ -148,36 +138,6 @@
     {
       "date": "2026-05-27",
       "title": "很多人用AI只会简单发指令、坐等输出，效率极低还总觉得不好用。这篇文章结合总结六套实用进阶用法，带你精准明确需求意图，把知识库从杂物堆变成可复用的知识网络，真正把AI变成高效生产力帮手。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-26",
-      "title": "四月底，产品力领航者大会的闭门会深度剖析了AI浪潮下职场、教育与创业的现实困境与变革方向，并对比了中美AI创业的模式差异。如果你是职场人、教育从业者或者创业者，或许都能从中找到适配当下的成长与发展路径。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-26",
-      "title": "不少人开工先沉迷各类信息流，耗费大量时间却获取不到有效信息，还打乱当日工作计划、徒增压力。本文带来从零搭建一款自动化生成日报的Agent的完整教程，帮你提前自动筛选、整合各类资讯，告别无效信息消耗，只需花五分钟浏览，就能快速掌握新一天的关键动态。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-26",
-      "title": "不少AI智能体看似能存储海量信息，却难以完成复杂的关联推理。向量检索存在信息断层，自由构建的知识图谱又会因为归类模糊丧失查询能力。本篇文章给出了高效解决方案，借助Pydantic预先定义实体、关系与属性，搭建专属本体框架，配合标准化流程来规范信息提取与输出，可以很好地改善Agent记忆！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-26",
-      "title": "Notion CEO Ivan Zhao 上周去 Sequoia Capital 录了一期播客，聊了他经历了两次公司濒死、两次从头重建的经历。如今他以“Refounder”身份在用同一套逻辑”重构“一家千人公司。他认为 AI 让技术能力变成了商品，真正稀缺的是 Taste（品味） 和 Agency（主动性），所以招聘标准要变；信息传递和协调工作正在被 AI 接管，所以组织结构要变；技术变化太快，任何超过几周的规划都可能失效，规划方式也要变。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-26",
-      "title": "Codex搭配Remotion插件可以通过自然语言轻松制作视频。而且它有一个很大的优势，就是你可以反复修改。如果你不满意，可以继续跟它说这个文字大一点、按钮再长一点、背景音乐从开头加进去等等。它会直接改代码，然后再重新生成。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-26",
-      "title": "Codex在模型和产品的更新下，体感和Claude Code五五开，甚至在某些领域更强，但它对Claude Code搭好的完整生态一无所知。这篇文章记录了作者怎么让 Codex 自动适配 Claude Code 生态，轻松打通两大工具，高效复用过往搭建的全部能力。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
