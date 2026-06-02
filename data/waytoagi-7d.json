@@ -1,23 +1,73 @@
 {
-  "generated_at": "2026-06-02T15:41:06.102207Z",
+  "generated_at": "2026-06-02T19:41:16.086262Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-02",
-  "count_today": 1,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-06-02",
       "title": "这篇内容只解决一件事：怎么从一个重复任务出发，做出第一个能反复用的 Skill。而这个过程中真正要学的是：怎么判断一个任务值不值得做成 Skill，怎么把自己的流程、审美、样本和验收标准沉淀进去。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "这套面向零基础人群的量化金融教程，适合新手快速上手实操。从真实金融数据接入起步，顺着收益测算、双均线策略搭建再到策略回测校验一步步落地。项目还配套可直接运行的Notebook与直观图表，摒弃繁杂公式堆砌，大幅降低量化学习门槛。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "给一段文字，AI能生成画面。但生成出来的画面每次都不一样，角色脸变了，衣服变了，场景也变了。更麻烦的是，你根本不知道怎么控制画面，不知道怎么分镜，不知道怎么让角色保持一致。作者试了很多方法，最后发现两个板就能解决这个问题。角色板加故事板。文中还给大家分享了完整的提示词，快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "第24期AI切磋大会-Codex造物局已经圆满结束，作者这篇文章来给大家分享一下他在线下活动中的所见所想，也期待大家都能依托Codex快速把日常的灵感落地成产品。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "或许你做出了一个半好不坏的聊天机器人，却处处摸黑踩坑：你不知道它为什么会有幻觉，不知道上下文窗口到底是什么意思，也不知道为什么你的 RAG 系统会返回错误文档。以下十个核心概念，是每位 AI 开发者的必修课。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "市面上的 Dify、n8n，包括各种智能体框架，到底有什么区别？表面上是在问“工具差别”，本质上其实是在问另一件更重要的事：今天大家口中的“智能体”，到底是什么？它和过去那一波 ChatBot、工作流、应用平台之间，边界又在哪里？所以今天这篇文章，作者想做一件对小白真正有帮助的事：把“智能体”这件事的发展脉络，尽可能讲清楚。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 30,
+  "count_7d": 31,
   "updates_7d": [
     {
       "date": "2026-06-02",
       "title": "这篇内容只解决一件事：怎么从一个重复任务出发，做出第一个能反复用的 Skill。而这个过程中真正要学的是：怎么判断一个任务值不值得做成 Skill，怎么把自己的流程、审美、样本和验收标准沉淀进去。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "这套面向零基础人群的量化金融教程，适合新手快速上手实操。从真实金融数据接入起步，顺着收益测算、双均线策略搭建再到策略回测校验一步步落地。项目还配套可直接运行的Notebook与直观图表，摒弃繁杂公式堆砌，大幅降低量化学习门槛。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "给一段文字，AI能生成画面。但生成出来的画面每次都不一样，角色脸变了，衣服变了，场景也变了。更麻烦的是，你根本不知道怎么控制画面，不知道怎么分镜，不知道怎么让角色保持一致。作者试了很多方法，最后发现两个板就能解决这个问题。角色板加故事板。文中还给大家分享了完整的提示词，快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "第24期AI切磋大会-Codex造物局已经圆满结束，作者这篇文章来给大家分享一下他在线下活动中的所见所想，也期待大家都能依托Codex快速把日常的灵感落地成产品。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "或许你做出了一个半好不坏的聊天机器人，却处处摸黑踩坑：你不知道它为什么会有幻觉，不知道上下文窗口到底是什么意思，也不知道为什么你的 RAG 系统会返回错误文档。以下十个核心概念，是每位 AI 开发者的必修课。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "市面上的 Dify、n8n，包括各种智能体框架，到底有什么区别？表面上是在问“工具差别”，本质上其实是在问另一件更重要的事：今天大家口中的“智能体”，到底是什么？它和过去那一波 ChatBot、工作流、应用平台之间，边界又在哪里？所以今天这篇文章，作者想做一件对小白真正有帮助的事：把“智能体”这件事的发展脉络，尽可能讲清楚。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -143,26 +193,6 @@
     {
       "date": "2026-05-28",
       "title": "如果你本身就是做女装的老板，或者身边有做女装、电商、服装供应链的朋友，或者想尝试 AI 女装带货项目，可以看看这篇文章是否真的有帮助。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-27",
-      "title": "飞书CLI全新上线画板能力，搭配Codex、Claude Code等AI Agent，一句话就能生成架构图、流程图、思维导图等各类图表。生成内容原生就是可编辑的飞书画板，还支持拖拽改节点、增删逻辑、双语改写。配套开源的32款视觉风格库，对产品、运营、开发者来说，大幅提高了办公协作与方案输出效率。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-27",
-      "title": "苍何老师开源了一份《Codex 实战指南》。从第一次上手，到把 Codex 接入真实工作流；帮助不同背景的人用 Codex 完成开发、创作、研究、自动化与团队协作。 如果这个项目帮你节省了摸索时间，欢迎点亮 Star，让更多人看到它。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-27",
-      "title": "现在你只需要设定品牌调性，就可以用Lovart快速生成LOGO、专属字体与完整品牌套件，自动统一设计风格。冷逸这篇文章就给大家详细介绍下一整套的民宿视觉物料都有些什么，以及他是怎么做的。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-27",
-      "title": "很多人用AI只会简单发指令、坐等输出，效率极低还总觉得不好用。这篇文章结合总结六套实用进阶用法，带你精准明确需求意图，把知识库从杂物堆变成可复用的知识网络，真正把AI变成高效生产力帮手。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
