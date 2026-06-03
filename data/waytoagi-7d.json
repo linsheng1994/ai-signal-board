@@ -1,45 +1,35 @@
 {
-  "generated_at": "2026-06-03T10:19:56.014193Z",
+  "generated_at": "2026-06-03T15:15:37.599425Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-06-02",
-  "count_today": 6,
+  "latest_date": "2026-06-03",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-06-02",
-      "title": "这篇内容只解决一件事：怎么从一个重复任务出发，做出第一个能反复用的 Skill。而这个过程中真正要学的是：怎么判断一个任务值不值得做成 Skill，怎么把自己的流程、审美、样本和验收标准沉淀进去。",
+      "date": "2026-06-03",
+      "title": "还在长篇堆运镜、光影、分镜提示词？欢迎开启Vibe Creating新范式，让创作回归 「表达」本身。暂时放下繁复的拍摄执行语言、精密的参数控制&分镜脚本，信任模型，放弃过度控制，好画面自然会浮现！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-02",
-      "title": "这套面向零基础人群的量化金融教程，适合新手快速上手实操。从真实金融数据接入起步，顺着收益测算、双均线策略搭建再到策略回测校验一步步落地。项目还配套可直接运行的Notebook与直观图表，摒弃繁杂公式堆砌，大幅降低量化学习门槛。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-02",
-      "title": "给一段文字，AI能生成画面。但生成出来的画面每次都不一样，角色脸变了，衣服变了，场景也变了。更麻烦的是，你根本不知道怎么控制画面，不知道怎么分镜，不知道怎么让角色保持一致。作者试了很多方法，最后发现两个板就能解决这个问题。角色板加故事板。文中还给大家分享了完整的提示词，快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-02",
-      "title": "第24期AI切磋大会-Codex造物局已经圆满结束，作者这篇文章来给大家分享一下他在线下活动中的所见所想，也期待大家都能依托Codex快速把日常的灵感落地成产品。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-02",
-      "title": "或许你做出了一个半好不坏的聊天机器人，却处处摸黑踩坑：你不知道它为什么会有幻觉，不知道上下文窗口到底是什么意思，也不知道为什么你的 RAG 系统会返回错误文档。以下十个核心概念，是每位 AI 开发者的必修课。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-02",
-      "title": "市面上的 Dify、n8n，包括各种智能体框架，到底有什么区别？表面上是在问“工具差别”，本质上其实是在问另一件更重要的事：今天大家口中的“智能体”，到底是什么？它和过去那一波 ChatBot、工作流、应用平台之间，边界又在哪里？所以今天这篇文章，作者想做一件对小白真正有帮助的事：把“智能体”这件事的发展脉络，尽可能讲清楚。",
+      "date": "2026-06-03",
+      "title": "上周，Claude Code 发布了动态工作流。现在，Claude 可以即时为手头任务编写自己的运行框架，并且这个框架是为当前任务定制的。Claude Code核心工程师Thariq的这篇文章会介绍最初使用工作流的体验和一些经验，帮助大家更充分地利用它们。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 31,
+  "count_7d": 33,
   "updates_7d": [
+    {
+      "date": "2026-06-03",
+      "title": "还在长篇堆运镜、光影、分镜提示词？欢迎开启Vibe Creating新范式，让创作回归 「表达」本身。暂时放下繁复的拍摄执行语言、精密的参数控制&分镜脚本，信任模型，放弃过度控制，好画面自然会浮现！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-03",
+      "title": "上周，Claude Code 发布了动态工作流。现在，Claude 可以即时为手头任务编写自己的运行框架，并且这个框架是为当前任务定制的。Claude Code核心工程师Thariq的这篇文章会介绍最初使用工作流的体验和一些经验，帮助大家更充分地利用它们。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-02",
       "title": "这篇内容只解决一件事：怎么从一个重复任务出发，做出第一个能反复用的 Skill。而这个过程中真正要学的是：怎么判断一个任务值不值得做成 Skill，怎么把自己的流程、审美、样本和验收标准沉淀进去。",
