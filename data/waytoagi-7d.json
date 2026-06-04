@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-06-04T16:00:02.408632Z",
+  "generated_at": "2026-06-04T18:26:22.386981Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-04",
-  "count_today": 2,
+  "count_today": 5,
   "updates_today": [
+    {
+      "date": "2026-06-04",
+      "title": "本次对话邀请了 Google DeepMind 联合创始人兼首席执行官、2024 年诺贝尔化学奖得主 Demis Hassabis。对话涵盖了 Hassabis 跨越国际象棋、游戏和神经科学的传奇职业生涯，深入探讨了 DeepMind 从 AlphaGo 到 AlphaFold 的突破历程。Hassabis 提出了 AGI 可能在 2030 年左右实现的预见，并就 AI 的社会责任、地缘政治竞赛、动态监管以及 AI 对人类文明、经济体系和科学发现的深远影响分享了深刻见解。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-04",
+      "title": "本场分享由YC合伙人Charlie Warren带来，聚焦AI原生服务公司的落地打法，跳出传统SaaS与企业Copilot的固有开发思路，以AI重构保险、法务、财税、医疗等行业全链路服务，客户直接采购最终服务成果，由专家搭配AI在后端落地执行。这套 playbook 面向正在考虑创业的人，尤其适合还没锁定方向、正在判断市场和团队组合的创始人。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-04",
+      "title": "大多数 Claude Code 用户仍然在手写自己的工作流程。他们串联 prompt，复制输出，把结果粘到下一个 prompt 里，修掉出错的地方，然后重复。10 个开发者里有 9 个甚至一次都没试过动态工作流，这篇文章列出了Anthropic 工程师实际使用的 6 种模式和 14 个步骤，快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-04",
       "title": "别人从微信、文件 App 或群里发你一份 AI 报告、网页 PPT、Markdown 文档，手机上点开不是空白，就是源码，要么样式全坏，要么根本不知道该用什么打开。.md、.markdown、.html、.htm、.txt，还有打包好的网页 ZIP，都可以直接用臧师傅做的新产品-即览在 iPhone 和 iPad 上打开。本地渲染，本地保存，不需要上传，也不需要注册账号，快来试试！",
@@ -18,8 +33,23 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 35,
   "updates_7d": [
+    {
+      "date": "2026-06-04",
+      "title": "本次对话邀请了 Google DeepMind 联合创始人兼首席执行官、2024 年诺贝尔化学奖得主 Demis Hassabis。对话涵盖了 Hassabis 跨越国际象棋、游戏和神经科学的传奇职业生涯，深入探讨了 DeepMind 从 AlphaGo 到 AlphaFold 的突破历程。Hassabis 提出了 AGI 可能在 2030 年左右实现的预见，并就 AI 的社会责任、地缘政治竞赛、动态监管以及 AI 对人类文明、经济体系和科学发现的深远影响分享了深刻见解。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-04",
+      "title": "本场分享由YC合伙人Charlie Warren带来，聚焦AI原生服务公司的落地打法，跳出传统SaaS与企业Copilot的固有开发思路，以AI重构保险、法务、财税、医疗等行业全链路服务，客户直接采购最终服务成果，由专家搭配AI在后端落地执行。这套 playbook 面向正在考虑创业的人，尤其适合还没锁定方向、正在判断市场和团队组合的创始人。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-04",
+      "title": "大多数 Claude Code 用户仍然在手写自己的工作流程。他们串联 prompt，复制输出，把结果粘到下一个 prompt 里，修掉出错的地方，然后重复。10 个开发者里有 9 个甚至一次都没试过动态工作流，这篇文章列出了Anthropic 工程师实际使用的 6 种模式和 14 个步骤，快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-04",
       "title": "别人从微信、文件 App 或群里发你一份 AI 报告、网页 PPT、Markdown 文档，手机上点开不是空白，就是源码，要么样式全坏，要么根本不知道该用什么打开。.md、.markdown、.html、.htm、.txt，还有打包好的网页 ZIP，都可以直接用臧师傅做的新产品-即览在 iPhone 和 iPad 上打开。本地渲染，本地保存，不需要上传，也不需要注册账号，快来试试！",
