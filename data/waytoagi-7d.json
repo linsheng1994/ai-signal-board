@@ -1,40 +1,35 @@
 {
-  "generated_at": "2026-06-05T03:50:26.452860Z",
+  "generated_at": "2026-06-05T08:07:20.568190Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-06-04",
-  "count_today": 5,
+  "latest_date": "2026-06-05",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-06-04",
-      "title": "本次对话邀请了 Google DeepMind 联合创始人兼首席执行官、2024 年诺贝尔化学奖得主 Demis Hassabis。对话涵盖了 Hassabis 跨越国际象棋、游戏和神经科学的传奇职业生涯，深入探讨了 DeepMind 从 AlphaGo 到 AlphaFold 的突破历程。Hassabis 提出了 AGI 可能在 2030 年左右实现的预见，并就 AI 的社会责任、地缘政治竞赛、动态监管以及 AI 对人类文明、经济体系和科学发现的深远影响分享了深刻见解。",
+      "date": "2026-06-05",
+      "title": "还在靠碎片化闲聊指挥AI敲代码的Vibe Coding模式已然落伍，随着Codex、Claude Code上线/goal指令，Goal Coding成为了新趋势。只需要写明落地的收尾标准，AI就能自主规划开发、自测改错，实现无人值守的长时间迭代。未来的核心不再是精妙提示词，而是精准定义项目收尾标准来帮开发者节省盯工耗时。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-04",
-      "title": "本场分享由YC合伙人Charlie Warren带来，聚焦AI原生服务公司的落地打法，跳出传统SaaS与企业Copilot的固有开发思路，以AI重构保险、法务、财税、医疗等行业全链路服务，客户直接采购最终服务成果，由专家搭配AI在后端落地执行。这套 playbook 面向正在考虑创业的人，尤其适合还没锁定方向、正在判断市场和团队组合的创始人。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-04",
-      "title": "大多数 Claude Code 用户仍然在手写自己的工作流程。他们串联 prompt，复制输出，把结果粘到下一个 prompt 里，修掉出错的地方，然后重复。10 个开发者里有 9 个甚至一次都没试过动态工作流，这篇文章列出了Anthropic 工程师实际使用的 6 种模式和 14 个步骤，快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-04",
-      "title": "别人从微信、文件 App 或群里发你一份 AI 报告、网页 PPT、Markdown 文档，手机上点开不是空白，就是源码，要么样式全坏，要么根本不知道该用什么打开。.md、.markdown、.html、.htm、.txt，还有打包好的网页 ZIP，都可以直接用臧师傅做的新产品-即览在 iPhone 和 iPad 上打开。本地渲染，本地保存，不需要上传，也不需要注册账号，快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-04",
-      "title": "AGI Builder 第一轮报名结果出来了：1700 份问卷，覆盖 10 个国家和地区；992 位 Founder 带着 Idea、Demo、MVP、用户反馈甚至收入/融资，708 位 Builder 带着技术、产品、设计、增长、内容、销售等能力加入。这不仅仅是一份名单，而是一张正在长出来的 AI 共创地图。第一轮报名虽然已经截止，但共创还在继续，想把 AI 带进真实世界的朋友可以看看。",
+      "date": "2026-06-05",
+      "title": "扣子3.0升级以来，作为全新的 AI Agent 平台，越来越多的用户正在用扣子完成真实工作任务，也有很多人用来辅助投资理财、提供决策参考，让 Agent 来整理信息、追踪变化，并在一次次复盘中不断优化。 有一个用户把扣子接进了自己的日常 A 股交易辅助流程里， 盘前整理市场信息，盘中监控持仓变化，盘后复盘交易策略，再把每天的执行结果继续带回系统中迭代，收益获得大幅提升。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 37,
   "updates_7d": [
+    {
+      "date": "2026-06-05",
+      "title": "还在靠碎片化闲聊指挥AI敲代码的Vibe Coding模式已然落伍，随着Codex、Claude Code上线/goal指令，Goal Coding成为了新趋势。只需要写明落地的收尾标准，AI就能自主规划开发、自测改错，实现无人值守的长时间迭代。未来的核心不再是精妙提示词，而是精准定义项目收尾标准来帮开发者节省盯工耗时。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "扣子3.0升级以来，作为全新的 AI Agent 平台，越来越多的用户正在用扣子完成真实工作任务，也有很多人用来辅助投资理财、提供决策参考，让 Agent 来整理信息、追踪变化，并在一次次复盘中不断优化。 有一个用户把扣子接进了自己的日常 A 股交易辅助流程里， 盘前整理市场信息，盘中监控持仓变化，盘后复盘交易策略，再把每天的执行结果继续带回系统中迭代，收益获得大幅提升。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-04",
       "title": "本次对话邀请了 Google DeepMind 联合创始人兼首席执行官、2024 年诺贝尔化学奖得主 Demis Hassabis。对话涵盖了 Hassabis 跨越国际象棋、游戏和神经科学的传奇职业生涯，深入探讨了 DeepMind 从 AlphaGo 到 AlphaFold 的突破历程。Hassabis 提出了 AGI 可能在 2030 年左右实现的预见，并就 AI 的社会责任、地缘政治竞赛、动态监管以及 AI 对人类文明、经济体系和科学发现的深远影响分享了深刻见解。",
