@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T15:16:15.275394Z",
+  "generated_at": "2026-06-06T16:38:45.071535Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -43,7 +43,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 32,
   "updates_7d": [
     {
       "date": "2026-06-05",
@@ -203,36 +203,6 @@
     {
       "date": "2026-06-01",
       "title": "从印度头部支付平台创始人的实战访谈切入，本篇文章戳破了当下创业者的普遍误区：AI极速压缩开发周期，靠代码搭建构筑的壁垒早已不复存在。作者拆解出监管准入、客户信任、创始人对行业的深度洞察这三大 AI 无法复刻的核心壁垒，还以企业早期逆势押注 UPI 的真实案例，诠释了小公司非对称布局的独特优势。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-31",
-      "title": "这份深度访谈复盘了一段真实的AI软件创业之路。创始人从入局垂直 Agent 赛道就接连踩坑，遭遇差异化缺失、垂类业务局限、过度迎合专业用户等问题，也看清了不少产品重概念、轻落地的乱象。结合实战经历，文中剖析了两类主流C 端商业模式、产品打造思路，也谈及了模型快速迭代带来的行业焦虑与短期规划难题。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-31",
-      "title": "本周十大顶尖AI论文覆盖智能体优化、模型效率、科研协作、长上下文治理等前沿方向，干货密度极高。从把Skill文档当作可训练外部参数、将智能体工作流编译进小模型权重降本百倍，到去中心化AI团队自主开展科学研究，创新思路层出不穷。还有仿生睡眠机制缓解长上下文成本、通过运行框架修复模型环境适配问题、量化上下文策略降本增效等突破，同时探讨AI科学预测局限、智能体老化成因与框架设计边界。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-31",
-      "title": "当下依赖vibe coding很容易遇上能力瓶颈，而传统CS学习路线要么内容繁杂耗时久，要么偏向求职应试，都难以适配如今的开发场景。本篇文章讲解了AI时代大家该掌握的CS知识到底是哪些？又要怎么学习？怎么能更好地知道AI的边界、更好地应用AI？",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-31",
-      "title": "向阳乔木和姚金刚老师在社区的第一次GEO公开课从前期基线诊断、搭建标准化事实知识库，到内容结构设计、多渠道分发、分层效果评估，还配套30天落地路线图、避坑指南与全套可复用模板。整套体系逻辑完整、实操性极强，能帮助企业打通AI搜索营销链路，统一品牌信息，提升曝光与转化，是布局AI时代内容运营的实用参考。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-31",
-      "title": "五月大模型领域的迭代覆盖端侧部署、多模态、语音、数学推理、自动驾驶等多元方向，在推理速度、长上下文、生成效果等方面各有突破。作者这份月度盘点整合了全品类动态与技术亮点，快来一起一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-31",
-      "title": "Benedict Evan s 是一位独立分析师，曾是a16z的合伙人，担任了多年的内部“思想家”，追踪最重要的技术趋势。过去六年，他发表了大量关于科技发展方向的深度研究报告，最近的研究重点是 AI 对经济的变革。这期对话的主题聚焦于AI带来的变化都有哪些？普通人该怎样在这轮变化里让自己更安全？",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
