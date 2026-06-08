@@ -1,45 +1,85 @@
 {
-  "generated_at": "2026-06-08T14:33:31.728318Z",
+  "generated_at": "2026-06-08T17:53:53.237941Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-06-07",
-  "count_today": 6,
+  "latest_date": "2026-06-08",
+  "count_today": 7,
   "updates_today": [
     {
-      "date": "2026-06-07",
-      "title": "这篇文章作者把写 Skill 踩过的坑、总结出的经验，再加上 Anthropic 官方的一些好做法，整理到了一起。希望能帮你少走弯路，把团队积累的知识真正\"喂\"给 AI，让它干活更靠谱。 本文示例以 Go 语言为主，兼顾 Python、Java 等语言，所有原则和技巧适用于任何编程语言。",
+      "date": "2026-06-08",
+      "title": "阿真开源了自制的卡通IP桌宠工具，普通用户只需要替换对应状态的视频素材，就能快速打造专属的IP桌宠。有开发兴趣的玩家，也能基于现有框架深度二次开发。大家可以随心动手，打造独一无二的桌宠！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-07",
-      "title": "这一期采访的是 Tony Fadell，他参与创造了 iPod、iPhone 和 Nest 恒温器，拥有 300 多项专利，也写过一本面向产品人的书《Build》。这次对话横跨 iPhone 虚拟键盘、Nest 烟雾报警器、AI 硬件、深科技投资和产品伦理。对正在用 AI 做产品的人来说，本期对话最有价值的主线很锋利：AI 让构建变得便宜，产品人的品味、判断力、故事能力和责任感反而更贵。",
+      "date": "2026-06-08",
+      "title": "这份周刊汇总了近期AI音乐圈一些热门动态、工具更新和前沿学术成果。Suno完成巨额融资并规划合规新模型，多款平台推出音色克隆、超低延迟实时演奏等实用功能，Ableton也开放了SDK降低音频工具二次开发门槛。腾讯联合业界推出音频编辑评测基准，直指当前模型精细操控的短板。此外多篇论文在歌声合成、视频配乐、实时伴奏等方向实现技术突破，还完成了多款开源模型横向对比。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-07",
-      "title": "本周汇总的十篇顶尖AI论文，聚焦智能体、模型训练、科学推理等热门领域，刷新了不少行业的固有认知。多项研究证明，AI能力突破的关键是框架设计、反馈优化与系统交互策略，而非一味增加大模型、堆叠智能体数量。文中还有上下文治理、状态外置、新型表征学习等实用技术方案，配套专业基准测试与推理数据体系梳理。",
+      "date": "2026-06-08",
+      "title": "想要发挥Hermes Agent这款工具的效能，专属提示词与配置才是核心。作者分享了17套可直接套用的实战配置，还梳理出三类典型的使用误区，来帮大家轻松提高生产力！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-07",
-      "title": "如果你在做设计、写内容、做课件、搭建网页主题，常常需要一套稳妥、好看、能直接使用的中国色参考，这个仓库就是为这件事整理的。这里收录 742 张中华传统色高清色卡，已按原始 742 色清单完整覆盖。每张色卡包含色名、HEX、RGB、CMYK、配色推荐和气质关键词。你可以在线浏览，也可以下载 ZIP，把它当作自己的传统色素材库。",
+      "date": "2026-06-08",
+      "title": "当下主流AI编程工具普遍存在任务假完成、分工混乱、成果难以验收等问题。老金的开源项目Meta_Kim以此为突破口，为各类AI编程工具叠加了一层任务治理能力。它会拆解复杂工作、明确权责边界，全程生成可追溯的报告与交付包，还能区分临时任务与长期能力，避免项目冗余膨胀。如果是需要长期维护项目、跨文件开发以及成果需要交接审核的开发者，可以上手试试。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-07",
-      "title": "今年 4 月作者组装了一台小机器狗，从买零件、装结构，到最后它能听懂指令、走两步、还能对话几句。这篇文章写了这台机器狗的创造过程以及作者基于公开论文、官方博客、开源项目和第三方资料整理的学习笔记，希望能给在 AI 之外、也想了解具身智能的朋友，多一个工程师视角。",
+      "date": "2026-06-08",
+      "title": "市面上字幕翻译工具普遍存在译文生硬、出错率高的问题。小互这款打磨半年的翻译工具针对性解决了这一痛点，翻译质量与稳定性也更有保障。输入视频链接即可自动完成下载、语音转写、翻译润色、内嵌字幕、导出文稿等全套操作。对于经常转载海外视频、制作字幕内容的创作者而言，是提升效率、保障内容质量的实用利器。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-07",
-      "title": "一个好的system prompt，会把 Claude 从通用聊天机器人变成专门领域的专家，在你开口之前就知道你真正需要什么。过去几个月，作者一直在构建、测试、精炼 system prompt。下面是他经常使用的 30 个。每一个都对应一个具体使用场景。把适合你workflow的拿走即可。",
+      "date": "2026-06-08",
+      "title": "内容创作者想必都深有体会，跨平台二次分发格外耗费精力，反复改写文案、调整风格十分繁琐。为此作者把自己\"博客转推文\"蒸馏成 Agent Skill。只需要导入原文，就能自动生成适配不同社交平台的文案，同时还会提炼传播亮点、匹配热点思路，并输出配图方案。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "Ryan Nystrom是Notion AI和Custom Agents的核心建设者之一，他直接摊开一条已经在Notion团队跑起来的工程工作流：会议prep交给agent，需求先沉淀成spec，再让Codex进仓库提PR、自测、回传截图，人把精力放回判断、验证和取舍。对很多还停在“让 AI 帮我补几行代码”的团队来说，这套流程已经更接近下一阶段的日常。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 39,
   "updates_7d": [
+    {
+      "date": "2026-06-08",
+      "title": "阿真开源了自制的卡通IP桌宠工具，普通用户只需要替换对应状态的视频素材，就能快速打造专属的IP桌宠。有开发兴趣的玩家，也能基于现有框架深度二次开发。大家可以随心动手，打造独一无二的桌宠！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "这份周刊汇总了近期AI音乐圈一些热门动态、工具更新和前沿学术成果。Suno完成巨额融资并规划合规新模型，多款平台推出音色克隆、超低延迟实时演奏等实用功能，Ableton也开放了SDK降低音频工具二次开发门槛。腾讯联合业界推出音频编辑评测基准，直指当前模型精细操控的短板。此外多篇论文在歌声合成、视频配乐、实时伴奏等方向实现技术突破，还完成了多款开源模型横向对比。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "想要发挥Hermes Agent这款工具的效能，专属提示词与配置才是核心。作者分享了17套可直接套用的实战配置，还梳理出三类典型的使用误区，来帮大家轻松提高生产力！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "当下主流AI编程工具普遍存在任务假完成、分工混乱、成果难以验收等问题。老金的开源项目Meta_Kim以此为突破口，为各类AI编程工具叠加了一层任务治理能力。它会拆解复杂工作、明确权责边界，全程生成可追溯的报告与交付包，还能区分临时任务与长期能力，避免项目冗余膨胀。如果是需要长期维护项目、跨文件开发以及成果需要交接审核的开发者，可以上手试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "市面上字幕翻译工具普遍存在译文生硬、出错率高的问题。小互这款打磨半年的翻译工具针对性解决了这一痛点，翻译质量与稳定性也更有保障。输入视频链接即可自动完成下载、语音转写、翻译润色、内嵌字幕、导出文稿等全套操作。对于经常转载海外视频、制作字幕内容的创作者而言，是提升效率、保障内容质量的实用利器。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "内容创作者想必都深有体会，跨平台二次分发格外耗费精力，反复改写文案、调整风格十分繁琐。为此作者把自己\"博客转推文\"蒸馏成 Agent Skill。只需要导入原文，就能自动生成适配不同社交平台的文案，同时还会提炼传播亮点、匹配热点思路，并输出配图方案。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "Ryan Nystrom是Notion AI和Custom Agents的核心建设者之一，他直接摊开一条已经在Notion团队跑起来的工程工作流：会议prep交给agent，需求先沉淀成spec，再让Codex进仓库提PR、自测、回传截图，人把精力放回判断、验证和取舍。对很多还停在“让 AI 帮我补几行代码”的团队来说，这套流程已经更接近下一阶段的日常。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-07",
       "title": "这篇文章作者把写 Skill 踩过的坑、总结出的经验，再加上 Anthropic 官方的一些好做法，整理到了一起。希望能帮你少走弯路，把团队积累的知识真正\"喂\"给 AI，让它干活更靠谱。 本文示例以 Go 语言为主，兼顾 Python、Java 等语言，所有原则和技巧适用于任何编程语言。",
@@ -198,36 +238,6 @@
     {
       "date": "2026-06-03",
       "title": "AI 会让变化很快，也会制造更多噪音。小团队真正能握住的，仍然是具体场景、具体用户和更好的产品体验。先把手里的问题看透，把用户的一天看细，再决定 AI 放在哪个步骤里，这比追逐每周的新概念更有胜算，也更能留下复利。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-02",
-      "title": "这篇内容只解决一件事：怎么从一个重复任务出发，做出第一个能反复用的 Skill。而这个过程中真正要学的是：怎么判断一个任务值不值得做成 Skill，怎么把自己的流程、审美、样本和验收标准沉淀进去。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-02",
-      "title": "这套面向零基础人群的量化金融教程，适合新手快速上手实操。从真实金融数据接入起步，顺着收益测算、双均线策略搭建再到策略回测校验一步步落地。项目还配套可直接运行的Notebook与直观图表，摒弃繁杂公式堆砌，大幅降低量化学习门槛。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-02",
-      "title": "给一段文字，AI能生成画面。但生成出来的画面每次都不一样，角色脸变了，衣服变了，场景也变了。更麻烦的是，你根本不知道怎么控制画面，不知道怎么分镜，不知道怎么让角色保持一致。作者试了很多方法，最后发现两个板就能解决这个问题。角色板加故事板。文中还给大家分享了完整的提示词，快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-02",
-      "title": "第24期AI切磋大会-Codex造物局已经圆满结束，作者这篇文章来给大家分享一下他在线下活动中的所见所想，也期待大家都能依托Codex快速把日常的灵感落地成产品。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-02",
-      "title": "或许你做出了一个半好不坏的聊天机器人，却处处摸黑踩坑：你不知道它为什么会有幻觉，不知道上下文窗口到底是什么意思，也不知道为什么你的 RAG 系统会返回错误文档。以下十个核心概念，是每位 AI 开发者的必修课。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-02",
-      "title": "市面上的 Dify、n8n，包括各种智能体框架，到底有什么区别？表面上是在问“工具差别”，本质上其实是在问另一件更重要的事：今天大家口中的“智能体”，到底是什么？它和过去那一波 ChatBot、工作流、应用平台之间，边界又在哪里？所以今天这篇文章，作者想做一件对小白真正有帮助的事：把“智能体”这件事的发展脉络，尽可能讲清楚。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
