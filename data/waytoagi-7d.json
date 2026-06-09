@@ -1,23 +1,53 @@
 {
-  "generated_at": "2026-06-09T13:58:58.581364Z",
+  "generated_at": "2026-06-09T16:35:40.915374Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-09",
-  "count_today": 1,
+  "count_today": 4,
   "updates_today": [
+    {
+      "date": "2026-06-09",
+      "title": "这半年作者一线测过的产品多到说不清，发布会看到一半就关掉的也多到数不清。这篇文章不是流水账，是他从一堆事里挑了 10 件，自己亲手用过、踩过坑、形成判断的，串成一条线。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "苹果在 WWDC 2026 上发布了全新的 Apple Intelligence（苹果智能）和独立的 Siri AI。本次更新背后，都是由它的一整套自研基础模型驱动。小互这篇文章一次讲清楚：五个模型分别是谁、各管什么；手机装不下大模型这个老难题，苹果这次怎么绕过去的；这些模型到底能让你用上哪些新功能；苹果公布的评测数据该怎么看等等。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-09",
       "title": "编程智能体的协作模式正在迎来变革，循环工程正成为新趋势。它不再需要人工反复编写、下发提示词，而是搭建自动化循环系统，由其自主调度、校验任务并持续迭代，直至目标完成。目前主流的Claude Code、Codex均已配齐核心组件。这种思路跳出了单一工具选择的局限，转向通用流程设计，或将成为人与AI编程协作的主流方向。不过这一模式尚处早期，需要警惕Token成本飙升、输出质量下滑等问题。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "Floatboat带来了全新的 AI 协作玩法，以日历为载体实现趣味十足的“时间编程”。只需要订阅或创建日程，AI便会自动跟进任务，结合你的工作习惯与个人定位，联动全网热点搜集素材、核验信息、产出完整内容方案。它能千人千面打造差异化创作思路，自动规避老旧选题，全程操作透明，而且还支持随时调整优化。快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 40,
+  "count_7d": 36,
   "updates_7d": [
     {
       "date": "2026-06-09",
+      "title": "这半年作者一线测过的产品多到说不清，发布会看到一半就关掉的也多到数不清。这篇文章不是流水账，是他从一堆事里挑了 10 件，自己亲手用过、踩过坑、形成判断的，串成一条线。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "苹果在 WWDC 2026 上发布了全新的 Apple Intelligence（苹果智能）和独立的 Siri AI。本次更新背后，都是由它的一整套自研基础模型驱动。小互这篇文章一次讲清楚：五个模型分别是谁、各管什么；手机装不下大模型这个老难题，苹果这次怎么绕过去的；这些模型到底能让你用上哪些新功能；苹果公布的评测数据该怎么看等等。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-09",
       "title": "编程智能体的协作模式正在迎来变革，循环工程正成为新趋势。它不再需要人工反复编写、下发提示词，而是搭建自动化循环系统，由其自主调度、校验任务并持续迭代，直至目标完成。目前主流的Claude Code、Codex均已配齐核心组件。这种思路跳出了单一工具选择的局限，转向通用流程设计，或将成为人与AI编程协作的主流方向。不过这一模式尚处早期，需要警惕Token成本飙升、输出质量下滑等问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "Floatboat带来了全新的 AI 协作玩法，以日历为载体实现趣味十足的“时间编程”。只需要订阅或创建日程，AI便会自动跟进任务，结合你的工作习惯与个人定位，联动全网热点搜集素材、核验信息、产出完整内容方案。它能千人千面打造差异化创作思路，自动规避老旧选题，全程操作透明，而且还支持随时调整优化。快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -178,41 +208,6 @@
     {
       "date": "2026-06-04",
       "title": "AGI Builder 第一轮报名结果出来了：1700 份问卷，覆盖 10 个国家和地区；992 位 Founder 带着 Idea、Demo、MVP、用户反馈甚至收入/融资，708 位 Builder 带着技术、产品、设计、增长、内容、销售等能力加入。这不仅仅是一份名单，而是一张正在长出来的 AI 共创地图。第一轮报名虽然已经截止，但共创还在继续，想把 AI 带进真实世界的朋友可以看看。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-03",
-      "title": "这款面向跨境电商卖家的评论分析Skill迎来2.0升级。新版本摆脱单一 Agent 绑定，主流 AI Agent全都兼容使用。而且还打通了 Sorftime 接口，填入 ASIN 就能自动抓取评论，告别繁琐的手动导出文件。分析报告扩充至 14 个模块，更深层次地挖掘用户画像、真假好评、产品痛点。最终的结果还可一键存入飞书，搭配六种配色的 HTML 可视化看板，更加便于查看。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-03",
-      "title": "还在长篇堆运镜、光影、分镜提示词？欢迎开启Vibe Creating新范式，让创作回归 「表达」本身。暂时放下繁复的拍摄执行语言、精密的参数控制&分镜脚本，信任模型，放弃过度控制，好画面自然会浮现！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-03",
-      "title": "智能体运行框架，是 AI 软件真正运行的地方。越来越多时候，真正交付软件的产品不是模型本身，而是运行框架。记忆，是运行框架设计中最难的部分。它应该放在哪里？一次会话结束后，哪些内容应该保留下来？这仍然是一个很大程度上未解决的问题，而且每个主要运行框架都在用不同方式解决它。这篇文章会梳理每个运行框架已经发布了什么、各自短板在哪里，以及这些缺口说明记忆基础设施必须承担什么。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-03",
-      "title": "上周，我们在大理做了一场出海 Hacker House。活动虽然已经结束，但这 7 天留下了非常多精彩的回忆，很多人返程后还在不断怀念大理的这几天。这次活动总结一句话来说，就是Vibe Coding Everywhere.",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-03",
-      "title": "上周，Claude Code 发布了动态工作流。现在，Claude 可以即时为手头任务编写自己的运行框架，并且这个框架是为当前任务定制的。Claude Code核心工程师Thariq的这篇文章会介绍最初使用工作流的体验和一些经验，帮助大家更充分地利用它们。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-03",
-      "title": "OpenAI 今天给 Codex 来了一次大改版：六个角色专属插件，捆绑 62 个应用和 110 个自动化技能，覆盖数据分析、创意制作、销售、产品设计、公共股权投资、投行。同时上线 Sites 功能，能直接将任何内容生成可分享的交互式网页应用。再加一个 Annotations 精准标注编辑功能：圈哪改哪。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-03",
-      "title": "AI 会让变化很快，也会制造更多噪音。小团队真正能握住的，仍然是具体场景、具体用户和更好的产品体验。先把手里的问题看透，把用户的一天看细，再决定 AI 放在哪个步骤里，这比追逐每周的新概念更有胜算，也更能留下复利。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
