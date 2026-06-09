@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T16:35:40.915374Z",
+  "generated_at": "2026-06-09T19:13:39.997715Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-09",
-  "count_today": 4,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-06-09",
@@ -26,9 +26,19 @@
       "date": "2026-06-09",
       "title": "Floatboat带来了全新的 AI 协作玩法，以日历为载体实现趣味十足的“时间编程”。只需要订阅或创建日程，AI便会自动跟进任务，结合你的工作习惯与个人定位，联动全网热点搜集素材、核验信息、产出完整内容方案。它能千人千面打造差异化创作思路，自动规避老旧选题，全程操作透明，而且还支持随时调整优化。快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "Benedict Evans是前 a16z 合伙人，也是硅谷长期追踪平台迁移的分析师。他这次与a16z 合伙人Erik Torenberg对话，回看自己一年多前那份《AI Eats the World》之后，AI 行业真正发生了什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "Anthropic 于 2026-06-09 发布 Claude Fable 5 与 Claude Mythos 5。Fable 5 是面向公众开放的 Mythos-class 模型，Mythos 5 使用同一底层模型，面向 Project Glasswing 与受信访问项目。Fable 5 在网络安全、生物化学、模型蒸馏等高风险场景触发安全分类器，并自动回退到 Claude Opus 4.8。文档已开放编辑权限，欢迎展示你的测试案例！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 38,
   "updates_7d": [
     {
       "date": "2026-06-09",
@@ -48,6 +58,16 @@
     {
       "date": "2026-06-09",
       "title": "Floatboat带来了全新的 AI 协作玩法，以日历为载体实现趣味十足的“时间编程”。只需要订阅或创建日程，AI便会自动跟进任务，结合你的工作习惯与个人定位，联动全网热点搜集素材、核验信息、产出完整内容方案。它能千人千面打造差异化创作思路，自动规避老旧选题，全程操作透明，而且还支持随时调整优化。快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "Benedict Evans是前 a16z 合伙人，也是硅谷长期追踪平台迁移的分析师。他这次与a16z 合伙人Erik Torenberg对话，回看自己一年多前那份《AI Eats the World》之后，AI 行业真正发生了什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "Anthropic 于 2026-06-09 发布 Claude Fable 5 与 Claude Mythos 5。Fable 5 是面向公众开放的 Mythos-class 模型，Mythos 5 使用同一底层模型，面向 Project Glasswing 与受信访问项目。Fable 5 在网络安全、生物化学、模型蒸馏等高风险场景触发安全分类器，并自动回退到 Claude Opus 4.8。文档已开放编辑权限，欢迎展示你的测试案例！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
