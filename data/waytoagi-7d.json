@@ -1,23 +1,43 @@
 {
-  "generated_at": "2026-06-11T11:54:14.142355Z",
+  "generated_at": "2026-06-11T16:02:35.287225Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-11",
-  "count_today": 1,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-06-11",
       "title": "热门记忆插件claude-mem可以给Claude Code加持永久记忆。作者深挖了背后的运行逻辑后，搭建出一个独立的共享记忆底座，成功打通Claude Code、Hermes、Codex三端数据。借助统一数据库采集操作日志，通过多层过滤剔除无效信息，再结合分级审核沉淀长效知识，搭配检索功能快速调取内容。文中附有完整架构、代码与分步落地流程。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "Claude Fable 5 正限时免费开放，作者借助这款强力模型，打造出专属鲁班 Skill，一个专门升级Skill的Skill。它会核验核心价值、对标同行竞品、精准排查现有的短板，每一处改动都会经过验证把关。完成打磨后，你能拿到详尽的分析报告以及可复用的测试脚本与项目规范。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "Arno 是Anthropic Applied AI 团队的架构师，他用一个真实 repo 演示了Anthropic 工程师怎样配置 Claude Code，怎样让它问问题、生成 HTML 规格稿、再把验证流程做进 React 组件和浏览器。但这不像是一篇“Claude Code 小技巧”合集，更像一份内部工作习惯的公开样本。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 40,
+  "count_7d": 35,
   "updates_7d": [
     {
       "date": "2026-06-11",
       "title": "热门记忆插件claude-mem可以给Claude Code加持永久记忆。作者深挖了背后的运行逻辑后，搭建出一个独立的共享记忆底座，成功打通Claude Code、Hermes、Codex三端数据。借助统一数据库采集操作日志，通过多层过滤剔除无效信息，再结合分级审核沉淀长效知识，搭配检索功能快速调取内容。文中附有完整架构、代码与分步落地流程。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "Claude Fable 5 正限时免费开放，作者借助这款强力模型，打造出专属鲁班 Skill，一个专门升级Skill的Skill。它会核验核心价值、对标同行竞品、精准排查现有的短板，每一处改动都会经过验证把关。完成打磨后，你能拿到详尽的分析报告以及可复用的测试脚本与项目规范。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "Arno 是Anthropic Applied AI 团队的架构师，他用一个真实 repo 演示了Anthropic 工程师怎样配置 Claude Code，怎样让它问问题、生成 HTML 规格稿、再把验证流程做进 React 组件和浏览器。但这不像是一篇“Claude Code 小技巧”合集，更像一份内部工作习惯的公开样本。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -178,41 +198,6 @@
     {
       "date": "2026-06-06",
       "title": "一个月，接近 60K GitHub Star，全球30多个国家用户，340名贡献者，这个项目叫Open Design。这个数字放在Github开源历史上，20 天达到 50k Star + 的项目中，能排进全球前十。这次「未来硅世界 」 第17期直播邀请到Open Design 的创始人Tom聊了产品本身、技术路线、开源哲学，以及一些很少被公开讨论的实践细节。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-05",
-      "title": "还在靠碎片化闲聊指挥AI敲代码的Vibe Coding模式已然落伍，随着Codex、Claude Code上线/goal指令，Goal Coding成为了新趋势。只需要写明落地的收尾标准，AI就能自主规划开发、自测改错，实现无人值守的长时间迭代。未来的核心不再是精妙提示词，而是精准定义项目收尾标准来帮开发者节省盯工耗时。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-05",
-      "title": "最近，模型圈的节奏又加快了。 Opus 4.8、GPT-5.5、Qwen3.7-Plus、MiniMax M3 ，四款重量级模型几乎同时登场，想认真跟一遍都很难。冷逸用同一套任务、同一条提示词、同一个评分标准，全部接API走Claude Code/Codex测了一遍。覆盖了3D编程、视觉编程、游戏开发、Agent长程任务四大场景，来看看横评结果！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-05",
-      "title": "扣子3.0升级以来，作为全新的 AI Agent 平台，越来越多的用户正在用扣子完成真实工作任务，也有很多人用来辅助投资理财、提供决策参考，让 Agent 来整理信息、追踪变化，并在一次次复盘中不断优化。 有一个用户把扣子接进了自己的日常 A 股交易辅助流程里， 盘前整理市场信息，盘中监控持仓变化，盘后复盘交易策略，再把每天的执行结果继续带回系统中迭代，收益获得大幅提升。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-05",
-      "title": "很多人装完 Claude Code后，会经历一种很熟悉的落差。别人的分享里，它像一个高级工程师：读项目、拆任务、改代码、跑测试、做总结，一路顺滑。轮到自己这里，它却像一个刚入职但没人带的新人。Claude Code的很多差体验，根源不在模型本身，而在你没有给它搭 harness。所以别急着装更多Skill，也别急着换模型。先检查一件事：你的项目里，有没有一套让Claude Code稳定工作的四层约束。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-05",
-      "title": "大多数人打开 Codex，看到聊天窗口，就把它当成一个界面更华丽的 ChatGPT。结果， 90%的用户 都错过了它真正强大的功能。他们 不会构建技能（Skills） ， 不会部署到线上 ， 不会让自动化任务在后台运行 。本文将用14个步骤，在30分钟内带你从空白文件夹搭建出完整可用的 AI 工作流。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-05",
-      "title": "不少开发者被零散的Skill困扰，工具过多会造成无用的Token损耗，依托OpenSquilla的MetaSkill思路就能高效破局。将Superpowers套件打包成定制工作流后，实测Token用量降至原先的67%，搭配小模型前置任务分级、子Agent精简上下文，在长会话里既能保全历史信息，还可以精细化核算各项开销。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-05",
-      "title": "Claude Code 本身已经挺好用了，但装对插件之后，它可以给开发者一个完整的开发环境：思考、测试、review、部署，一条龙下来不用切换工具。裸装的 Claude Code 有几个明显的问题：跨 session 没有记忆、不能实时访问网络、没法做浏览器测试、也缺一道安全门槛挡住危险代码。插件就是来补这些洞的。下面 10 个作者实际用下来觉得有帮助的，每个解决一个具体痛点。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
