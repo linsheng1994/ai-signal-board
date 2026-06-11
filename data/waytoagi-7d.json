@@ -1,45 +1,25 @@
 {
-  "generated_at": "2026-06-11T07:13:48.359352Z",
+  "generated_at": "2026-06-11T11:54:14.142355Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-06-10",
-  "count_today": 6,
+  "latest_date": "2026-06-11",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-06-10",
-      "title": "这期视频来自 Claude 官方频道，主讲人 Daisy Holman 是 Claude Code 团队工程师。她这次没有讲“怎么让 Claude Code 写一个小功能”，而是分享了几百、几千甚至上万名工程师共用一个代码库时，Agent 怎样才能进入真实工程系统：CLAUDE.md 如何做好、MCP 怎样接入、团队知识怎样包装成 skills、auto mode 如何安全使用。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-10",
-      "title": "最近大家都在讨论的循环工程让不少人一头雾水，这篇内容抛开专业黑话，用通俗思路带你拆解核心逻辑。值得收藏慢慢研究，或许也会改变你理解AI的方式。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-10",
-      "title": "如果你同时用Claude Code、Cursor、Codex、Hermes等等，你一定经历过：Claude刚帮你定好\"文档要口语化\"，切到Cursor又要说一遍；Codex跑完重构，回Claude问\"刚才改了啥\"，它一脸懵。每个AI都很聪明，但它们互相不认识你。现在用一行命令，所有Agent都可以共享同一个大脑。快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-10",
-      "title": "不少人用AI编程时习惯直接下达笼统指令，这样很容易造成项目失控。老金这套工作流给出了解法：由ChatGPT担任架构与项目管理，负责规划方向、拆分微型任务并制定项目规则；Codex专注执行单次任务、编写代码。通过规范多类项目文档，把任务拆解为5-10分钟即可验收的最小单元，严格控制改动范围。每轮执行后输出完整报告，同步项目状态。这样可以有效规避AI擅自新增功能、过度重构的问题，尤其适合中长期迭代项目。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-10",
-      "title": "Google 今天发布了其实时语音翻译模型： Gemini 3.5 Live Translate ，能在70多种语言之间做到边听边译，同时保留说话人的语调、节奏和音高。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-10",
-      "title": "Claude重磅推出的Fable 5模型在代码开发、专业办公、法律医疗、数理推演等领域优势显著。小歪收集了一些测评案例，让我们一起来看看！",
+      "date": "2026-06-11",
+      "title": "热门记忆插件claude-mem可以给Claude Code加持永久记忆。作者深挖了背后的运行逻辑后，搭建出一个独立的共享记忆底座，成功打通Claude Code、Hermes、Codex三端数据。借助统一数据库采集操作日志，通过多层过滤剔除无效信息，再结合分级审核沉淀长效知识，搭配检索功能快速调取内容。文中附有完整架构、代码与分步落地流程。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 40,
   "updates_7d": [
+    {
+      "date": "2026-06-11",
+      "title": "热门记忆插件claude-mem可以给Claude Code加持永久记忆。作者深挖了背后的运行逻辑后，搭建出一个独立的共享记忆底座，成功打通Claude Code、Hermes、Codex三端数据。借助统一数据库采集操作日志，通过多层过滤剔除无效信息，再结合分级审核沉淀长效知识，搭配检索功能快速调取内容。文中附有完整架构、代码与分步落地流程。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-10",
       "title": "这期视频来自 Claude 官方频道，主讲人 Daisy Holman 是 Claude Code 团队工程师。她这次没有讲“怎么让 Claude Code 写一个小功能”，而是分享了几百、几千甚至上万名工程师共用一个代码库时，Agent 怎样才能进入真实工程系统：CLAUDE.md 如何做好、MCP 怎样接入、团队知识怎样包装成 skills、auto mode 如何安全使用。",
