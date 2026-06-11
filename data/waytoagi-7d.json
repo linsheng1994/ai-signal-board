@@ -1,15 +1,25 @@
 {
-  "generated_at": "2026-06-11T16:02:35.287225Z",
+  "generated_at": "2026-06-11T19:18:02.922771Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-11",
-  "count_today": 3,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-06-11",
       "title": "热门记忆插件claude-mem可以给Claude Code加持永久记忆。作者深挖了背后的运行逻辑后，搭建出一个独立的共享记忆底座，成功打通Claude Code、Hermes、Codex三端数据。借助统一数据库采集操作日志，通过多层过滤剔除无效信息，再结合分级审核沉淀长效知识，搭配检索功能快速调取内容。文中附有完整架构、代码与分步落地流程。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "模型越强，很多人反而更懵：到底该怎么写Prompt，才能把它用满？结合一份社区整理的 Fable 5 系统提示词，以及 Anthropic 官方文档的指引，作者这篇文章带大家一起探究下普通人怎么改 Prompt，让 Claude Code/Claude 聊天都更听话。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "最近作者在 GitHub 上刷到一个很有意思的开源项目。让 Agent 学会自己组织技能这个项目叫 OpenSquilla，目前已经拿了 3700 多 Star。它的核心方向是 Harness 层优化，通过智能模型路由来降低 token 成本。最新推出的 MetaSkill 3.0，更是把 Agent 从「会调用工具」推进到了「会自组织技能、稳定交付工作流」。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -23,11 +33,21 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-06-11",
       "title": "热门记忆插件claude-mem可以给Claude Code加持永久记忆。作者深挖了背后的运行逻辑后，搭建出一个独立的共享记忆底座，成功打通Claude Code、Hermes、Codex三端数据。借助统一数据库采集操作日志，通过多层过滤剔除无效信息，再结合分级审核沉淀长效知识，搭配检索功能快速调取内容。文中附有完整架构、代码与分步落地流程。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "模型越强，很多人反而更懵：到底该怎么写Prompt，才能把它用满？结合一份社区整理的 Fable 5 系统提示词，以及 Anthropic 官方文档的指引，作者这篇文章带大家一起探究下普通人怎么改 Prompt，让 Claude Code/Claude 聊天都更听话。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "最近作者在 GitHub 上刷到一个很有意思的开源项目。让 Agent 学会自己组织技能这个项目叫 OpenSquilla，目前已经拿了 3700 多 Star。它的核心方向是 Harness 层优化，通过智能模型路由来降低 token 成本。最新推出的 MetaSkill 3.0，更是把 Agent 从「会调用工具」推进到了「会自组织技能、稳定交付工作流」。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
