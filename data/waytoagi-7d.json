@@ -1,45 +1,35 @@
 {
-  "generated_at": "2026-06-13T15:16:38.100817Z",
+  "generated_at": "2026-06-13T16:55:28.760940Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-06-12",
-  "count_today": 6,
+  "latest_date": "2026-06-13",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-06-12",
-      "title": "还在手动刷海外账号追踪SEO动态？作者这套自动化方案可以帮你轻松打破行业信息差。不仅可以自动抓取十余位海外SEO大咖与官方账号的内容，完成去重、筛除基础内容，还能每天以邮件形式推送精选干货。文中还附有可直接套用的指令、完整设置步骤，并梳理了各个账号的擅长领域。",
+      "date": "2026-06-13",
+      "title": "遇到Codex 反复重连别的情况，多数人会盲目重装、换账号。本篇文章给出一套完整的排查流程，以及相关的终端命令，教你一步步核查真实代理端口、验证网络链路、配置专属环境文件。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-12",
-      "title": "臧师傅做了些爆款Skills以后，有一个越来越明确的判断：大家现在都在说Agent，但大多数人其实还没有真正理解Agent。大众理解里的Agent，往往还是一个聊天框。你输入一句话，它回答一段文字；你再输入一句，它继续回答。这篇万字长文，臧师傅就来聊聊他对Skills的看法。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-12",
-      "title": "在这一年里，作者发现了使用Claude的几十个技巧、快捷方式和方法。下面是他一直在用的 40 个技巧。按照节省时间的效果排序，从最能省时间的，到较小但能明显改善体验的。每一个都会立刻帮你省时间，快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-12",
-      "title": "创作能力是YouMind的立身之本。YouMind的创作能力覆盖写作、生图、音视频、幻灯片、网页、学习六大方向。YouMind在这六个创作能力中，都沉淀了这个领域的审美标准和创作 know-how，让用户在YouMind里产出的作品，比通用AI的水准更高。在 1.0 版本中，又对这六大能力都做了进一步的优化。这篇文章就和大家聊聊YouMind 1.0 具体做了什么、为什么这样做。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-12",
-      "title": "以前用AI，大家都是收藏Prompt，作者也存过不少。真正要用的时候，经常想不起来。Skill就解决这点，Agent需要的时候自己会调。但网上下载的Skill，经常跟你的实际情况差那么一点点。想自己做，又不知道怎么下手。这次不讲复杂概念，也不研究文件结构。作者只讲一个自己验证过的，最简单的，零基础创建Skill的方法。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-12",
-      "title": "Claude Code正式发布一周年，Claude Code 负责人Boris Cherny和产品负责人Cat Wu复盘这一年，讨论了工程团队的工作方式怎么变化：当 Agent 能运行、能验证、能写回经验，人的工作会从亲手执行，转向设计循环、挑选想法和守住边界。",
+      "date": "2026-06-13",
+      "title": "由郎瀚威 Will整理的2026年5月生成式AI产品数据榜单已发布，涵盖全球总榜Top100，出海总榜Top50，国内总榜Top80，美国大公司Top30，中国大公司Top30。让我们一起来看看相关数据！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 32,
   "updates_7d": [
+    {
+      "date": "2026-06-13",
+      "title": "遇到Codex 反复重连别的情况，多数人会盲目重装、换账号。本篇文章给出一套完整的排查流程，以及相关的终端命令，教你一步步核查真实代理端口、验证网络链路、配置专属环境文件。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-13",
+      "title": "由郎瀚威 Will整理的2026年5月生成式AI产品数据榜单已发布，涵盖全球总榜Top100，出海总榜Top50，国内总榜Top80，美国大公司Top30，中国大公司Top30。让我们一起来看看相关数据！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-12",
       "title": "还在手动刷海外账号追踪SEO动态？作者这套自动化方案可以帮你轻松打破行业信息差。不仅可以自动抓取十余位海外SEO大咖与官方账号的内容，完成去重、筛除基础内容，还能每天以邮件形式推送精选干货。文中还附有可直接套用的指令、完整设置步骤，并梳理了各个账号的擅长领域。",
@@ -188,36 +178,6 @@
     {
       "date": "2026-06-08",
       "title": "Ryan Nystrom是Notion AI和Custom Agents的核心建设者之一，他直接摊开一条已经在Notion团队跑起来的工程工作流：会议prep交给agent，需求先沉淀成spec，再让Codex进仓库提PR、自测、回传截图，人把精力放回判断、验证和取舍。对很多还停在“让 AI 帮我补几行代码”的团队来说，这套流程已经更接近下一阶段的日常。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-07",
-      "title": "这篇文章作者把写 Skill 踩过的坑、总结出的经验，再加上 Anthropic 官方的一些好做法，整理到了一起。希望能帮你少走弯路，把团队积累的知识真正\"喂\"给 AI，让它干活更靠谱。 本文示例以 Go 语言为主，兼顾 Python、Java 等语言，所有原则和技巧适用于任何编程语言。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-07",
-      "title": "这一期采访的是 Tony Fadell，他参与创造了 iPod、iPhone 和 Nest 恒温器，拥有 300 多项专利，也写过一本面向产品人的书《Build》。这次对话横跨 iPhone 虚拟键盘、Nest 烟雾报警器、AI 硬件、深科技投资和产品伦理。对正在用 AI 做产品的人来说，本期对话最有价值的主线很锋利：AI 让构建变得便宜，产品人的品味、判断力、故事能力和责任感反而更贵。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-07",
-      "title": "本周汇总的十篇顶尖AI论文，聚焦智能体、模型训练、科学推理等热门领域，刷新了不少行业的固有认知。多项研究证明，AI能力突破的关键是框架设计、反馈优化与系统交互策略，而非一味增加大模型、堆叠智能体数量。文中还有上下文治理、状态外置、新型表征学习等实用技术方案，配套专业基准测试与推理数据体系梳理。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-07",
-      "title": "如果你在做设计、写内容、做课件、搭建网页主题，常常需要一套稳妥、好看、能直接使用的中国色参考，这个仓库就是为这件事整理的。这里收录 742 张中华传统色高清色卡，已按原始 742 色清单完整覆盖。每张色卡包含色名、HEX、RGB、CMYK、配色推荐和气质关键词。你可以在线浏览，也可以下载 ZIP，把它当作自己的传统色素材库。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-07",
-      "title": "今年 4 月作者组装了一台小机器狗，从买零件、装结构，到最后它能听懂指令、走两步、还能对话几句。这篇文章写了这台机器狗的创造过程以及作者基于公开论文、官方博客、开源项目和第三方资料整理的学习笔记，希望能给在 AI 之外、也想了解具身智能的朋友，多一个工程师视角。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-07",
-      "title": "一个好的system prompt，会把 Claude 从通用聊天机器人变成专门领域的专家，在你开口之前就知道你真正需要什么。过去几个月，作者一直在构建、测试、精炼 system prompt。下面是他经常使用的 30 个。每一个都对应一个具体使用场景。把适合你workflow的拿走即可。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
