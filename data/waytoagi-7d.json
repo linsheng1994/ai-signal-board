@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T16:21:58.061214Z",
+  "generated_at": "2026-06-14T17:56:54.215313Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-14",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-06-14",
@@ -24,6 +24,11 @@
     },
     {
       "date": "2026-06-14",
+      "title": "当下还在古法手搓代码的开发者都是在奔着非遗传承人的目标去了，绝大多数都已经用上了 Claude Code、Cursor 这类 Coding Agent。方向对了，但场景不同，解法也不同 —— 开发者自己在本地装个 AI 助手提效，和在组织内部搭起一套 AI 驱动的研发协作体系，是完全两个维度的事情。本文聊的就是如何构建组织级研发体系。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-14",
       "title": "Mark Pincus 是Zynga创始人，做出过 FarmVille、Words With Friends、Zynga Poker 等消费级产品。他最近把过去五年整理成新书《Life at the Speed of Play》，这期访谈拆解了一套给产品经理、创始人和增长团队用的朴素方法：先找到用户已经理解的东西，再把它做得明显更好，最后只在最小的创新区下注。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
@@ -33,7 +38,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 36,
   "updates_7d": [
     {
       "date": "2026-06-14",
@@ -48,6 +53,11 @@
     {
       "date": "2026-06-14",
       "title": "本周TOP10顶尖AI论文覆盖大模型注意力优化、智能体革新、行业实测研究等核心前沿。多款稀疏注意力算法攻克超长上下文算力、缓存成本难题，落地提速效果拉满；Self-Harness实现智能体架构自主迭代，大幅提升模型任务准确率。全新ALE基准贴合真实职场工作评测，摒弃无效学术跑分；还有智能体社会模拟、模型蒸馏、奖励体系革新等突破性研究。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-14",
+      "title": "当下还在古法手搓代码的开发者都是在奔着非遗传承人的目标去了，绝大多数都已经用上了 Claude Code、Cursor 这类 Coding Agent。方向对了，但场景不同，解法也不同 —— 开发者自己在本地装个 AI 助手提效，和在组织内部搭起一套 AI 驱动的研发协作体系，是完全两个维度的事情。本文聊的就是如何构建组织级研发体系。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
