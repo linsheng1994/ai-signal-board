@@ -1,45 +1,35 @@
 {
-  "generated_at": "2026-06-15T12:14:49.216767Z",
+  "generated_at": "2026-06-15T17:30:20.326316Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-06-14",
-  "count_today": 6,
+  "latest_date": "2026-06-15",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-06-14",
-      "title": "还在让各类干货在收藏夹里白白吃灰？这篇文章要讲的，就是怎么用一个开源工具，加上 Obsidian，把本地 AI 知识库彻底补齐。它还支持B站、YouTube视频自动转录文字，借助大模型产出高质量摘要、智能打标签并生成知识图谱，轻松把零散的内容沉淀为能高效复用的个人知识资产。",
+      "date": "2026-06-15",
+      "title": "本周AI音乐行业动态与前沿论文覆盖版权博弈、创作工具、平台治理多条主线。谷歌凭借平台用户条款抗辩音乐AI侵权，华纳收购指纹企业抢占AI版税分配标准；Fender、Suno、Loudly等更新分轨、AI母带功能，索尼推出本地实时即兴伴奏，Deezer上线检测工具整治泛滥AI曲目。文中还收录了多篇音频生成、乐谱建模相关论文。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-14",
-      "title": "自主编码正在从“写出更好的提示词”，转向“设计更好的控制系统”。关键变化在于，工程师正在学习如何用目标、评测器、循环和产物把智能体包裹起来，让它们在人类停止输入之后仍能继续工作。本文基于一场 DAIR.AI Academy 关于自主长时间运行编码智能体的课程进行了全面解析。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-14",
-      "title": "本周TOP10顶尖AI论文覆盖大模型注意力优化、智能体革新、行业实测研究等核心前沿。多款稀疏注意力算法攻克超长上下文算力、缓存成本难题，落地提速效果拉满；Self-Harness实现智能体架构自主迭代，大幅提升模型任务准确率。全新ALE基准贴合真实职场工作评测，摒弃无效学术跑分；还有智能体社会模拟、模型蒸馏、奖励体系革新等突破性研究。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-14",
-      "title": "当下还在古法手搓代码的开发者都是在奔着非遗传承人的目标去了，绝大多数都已经用上了 Claude Code、Cursor 这类 Coding Agent。方向对了，但场景不同，解法也不同 —— 开发者自己在本地装个 AI 助手提效，和在组织内部搭起一套 AI 驱动的研发协作体系，是完全两个维度的事情。本文聊的就是如何构建组织级研发体系。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-14",
-      "title": "Mark Pincus 是Zynga创始人，做出过 FarmVille、Words With Friends、Zynga Poker 等消费级产品。他最近把过去五年整理成新书《Life at the Speed of Play》，这期访谈拆解了一套给产品经理、创始人和增长团队用的朴素方法：先找到用户已经理解的东西，再把它做得明显更好，最后只在最小的创新区下注。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-14",
-      "title": "AI Coding 让软件的边际成本越来越小，小到几乎不存在。那护城河还有什么？是增长。如今流量红利消退，增长不再是单一岗位的职责，而是产品、技术、运营等全员必备的底层能力。文章中拆解了新旧增长玩法，并分享了洞察、试错、分析、复盘、放大的完整增长闭环。",
+      "date": "2026-06-15",
+      "title": "想要做好AI工具站海外的引流，SEO是必不可少的底层根基。本文直击十大高频SEO错误，结合测试子域名重复收录、多语言站点配置、URL规范、抓取异常、页面性能等真实场景，给出了可相对应的解决方案。不管是独立开发者还是运营团队，都能借助这份指南优化站点基建，为谷歌排名与自然流量增长铺路。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 32,
   "updates_7d": [
+    {
+      "date": "2026-06-15",
+      "title": "本周AI音乐行业动态与前沿论文覆盖版权博弈、创作工具、平台治理多条主线。谷歌凭借平台用户条款抗辩音乐AI侵权，华纳收购指纹企业抢占AI版税分配标准；Fender、Suno、Loudly等更新分轨、AI母带功能，索尼推出本地实时即兴伴奏，Deezer上线检测工具整治泛滥AI曲目。文中还收录了多篇音频生成、乐谱建模相关论文。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-15",
+      "title": "想要做好AI工具站海外的引流，SEO是必不可少的底层根基。本文直击十大高频SEO错误，结合测试子域名重复收录、多语言站点配置、URL规范、抓取异常、页面性能等真实场景，给出了可相对应的解决方案。不管是独立开发者还是运营团队，都能借助这份指南优化站点基建，为谷歌排名与自然流量增长铺路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-14",
       "title": "还在让各类干货在收藏夹里白白吃灰？这篇文章要讲的，就是怎么用一个开源工具，加上 Obsidian，把本地 AI 知识库彻底补齐。它还支持B站、YouTube视频自动转录文字，借助大模型产出高质量摘要、智能打标签并生成知识图谱，轻松把零散的内容沉淀为能高效复用的个人知识资产。",
@@ -188,36 +178,6 @@
     {
       "date": "2026-06-10",
       "title": "Claude重磅推出的Fable 5模型在代码开发、专业办公、法律医疗、数理推演等领域优势显著。小歪收集了一些测评案例，让我们一起来看看！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-09",
-      "title": "这半年作者一线测过的产品多到说不清，发布会看到一半就关掉的也多到数不清。这篇文章不是流水账，是他从一堆事里挑了 10 件，自己亲手用过、踩过坑、形成判断的，串成一条线。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-09",
-      "title": "苹果在 WWDC 2026 上发布了全新的 Apple Intelligence（苹果智能）和独立的 Siri AI。本次更新背后，都是由它的一整套自研基础模型驱动。小互这篇文章一次讲清楚：五个模型分别是谁、各管什么；手机装不下大模型这个老难题，苹果这次怎么绕过去的；这些模型到底能让你用上哪些新功能；苹果公布的评测数据该怎么看等等。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-09",
-      "title": "编程智能体的协作模式正在迎来变革，循环工程正成为新趋势。它不再需要人工反复编写、下发提示词，而是搭建自动化循环系统，由其自主调度、校验任务并持续迭代，直至目标完成。目前主流的Claude Code、Codex均已配齐核心组件。这种思路跳出了单一工具选择的局限，转向通用流程设计，或将成为人与AI编程协作的主流方向。不过这一模式尚处早期，需要警惕Token成本飙升、输出质量下滑等问题。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-09",
-      "title": "Floatboat带来了全新的 AI 协作玩法，以日历为载体实现趣味十足的“时间编程”。只需要订阅或创建日程，AI便会自动跟进任务，结合你的工作习惯与个人定位，联动全网热点搜集素材、核验信息、产出完整内容方案。它能千人千面打造差异化创作思路，自动规避老旧选题，全程操作透明，而且还支持随时调整优化。快来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-09",
-      "title": "Benedict Evans是前 a16z 合伙人，也是硅谷长期追踪平台迁移的分析师。他这次与a16z 合伙人Erik Torenberg对话，回看自己一年多前那份《AI Eats the World》之后，AI 行业真正发生了什么。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-09",
-      "title": "Anthropic 于 2026-06-09 发布 Claude Fable 5 与 Claude Mythos 5。Fable 5 是面向公众开放的 Mythos-class 模型，Mythos 5 使用同一底层模型，面向 Project Glasswing 与受信访问项目。Fable 5 在网络安全、生物化学、模型蒸馏等高风险场景触发安全分类器，并自动回退到 Claude Opus 4.8。文档已开放编辑权限，欢迎展示你的测试案例！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
