@@ -1,35 +1,85 @@
 {
-  "generated_at": "2026-06-16T13:12:24.004277Z",
+  "generated_at": "2026-06-16T18:15:29.181804Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-06-15",
-  "count_today": 4,
+  "latest_date": "2026-06-16",
+  "count_today": 7,
   "updates_today": [
     {
-      "date": "2026-06-15",
-      "title": "这篇访谈带大家厘清了当下火热的Agent循环误区，把 human-in-the-loop 、 agentic loop 和 代码评审 loop 拆成三种不同工作法。工程师、PM、独立开发者看完以后，能立刻判断自己该在哪一步把手伸回方向盘。",
+      "date": "2026-06-16",
+      "title": "这篇播客拆解了Anthropic 推出的Claude Code全新Routines主动智能体能力，打破 AI 工具仅能被动等待指令的局限，依托托管后台实现定时、代码库事件、Webhook 多类触发自动执行任务。仅需四组基础配置即可搭建自动化流程，所有运行会话全程可视化，支持中途暂停、调整方向，还能设置Agent互审降低失误。如果你是工程师或者产品负责人，也可以借鉴这套思路把重复流程转化为团队可复用的自动化机制。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-15",
-      "title": "本周AI音乐行业动态与前沿论文覆盖版权博弈、创作工具、平台治理多条主线。谷歌凭借平台用户条款抗辩音乐AI侵权，华纳收购指纹企业抢占AI版税分配标准；Fender、Suno、Loudly等更新分轨、AI母带功能，索尼推出本地实时即兴伴奏，Deezer上线检测工具整治泛滥AI曲目。文中还收录了多篇音频生成、乐谱建模相关论文。",
+      "date": "2026-06-16",
+      "title": "很多人尝试让Agent帮忙搭n8n工作流，遇到最费劲的环节就是把目标说清楚。作者为此专门为n8n做了一个Goal生成skill。使用这个 Skill，你可以轻而易举地把一个n8n工作流开发需求，转译成可直接复制的 /goal 指令，从而驱动Agent完成完整的「构建 → 验证 → 部署 → 分层测试 → 迭代」闭环。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-15",
-      "title": "想要做好AI工具站海外的引流，SEO是必不可少的底层根基。本文直击十大高频SEO错误，结合测试子域名重复收录、多语言站点配置、URL规范、抓取异常、页面性能等真实场景，给出了可相对应的解决方案。不管是独立开发者还是运营团队，都能借助这份指南优化站点基建，为谷歌排名与自然流量增长铺路。",
+      "date": "2026-06-16",
+      "title": "宝玉这篇文章完整拆解了AI编程工具Cursor的崛起与危机：天才创始人打造出年收入数十亿、覆盖多数五百强的爆款产品，却因深度依赖Anthropic，在对方推出同类竞品后遭遇生存冲击。公司紧急自研Composer模型降低外部钳制，又为补足算力绑定SpaceX，曝光价值600亿美金潜在收购协议。让我们一起来看看这背后有什么内幕？",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-15",
-      "title": "当下行业通用AI记忆方案仅仅是靠向量化切片检索实现记忆调取，模式简单但是却存在很多短板。默认记忆是无分层、持续堆叠的扁平索引，长期使用极易出现失效问题。猫叔设计了一个架构：Nemos，通过三个独立维度规整记忆，搭配稀疏激活机制管控存储体量，更适配长期稳定运行的AI底层记忆基础设施。",
+      "date": "2026-06-16",
+      "title": "作者整理了GitHub 上 Star 数最高的十大Agent Skill，快来看看有没有适合你的Skill。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "作者使用Loop Engineering 架构，搭建了一个可自主运转的知识库自动化循环。文中还给出了可直接套用的规则模板与简易脚本，快跟着一起实操试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "不少AI Agent只停留在演示层面，落地接单、合规验收始终无解。卡尔深度拆解了赏金平台ClawHunt，它打造 AI 赏金任务市场，通过标准化交付清单、指定验收脚本、划定输入输出等规则，建立完整核验体系，从而解决成果难复现、效果难校验的难题。平台虽然还尚未成熟，但是已经完整串联了任务发布、竞标、验收全链路，给想做 AI 接单、自动化交付的开发者提供了一套标准化核验思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "AI Agent 想要落地生产，标准化测评是绕不开的关键环节。本文介绍了 TEG云架构平台部 网关测试团队 在 AI Agent 测评领域的体系化实践，面对 Agent 非确定性、黑盒化、错误级联放大三大难题，建立了一套 \"确定性评分器 + Rubric 评分器 + 人工评分器\"三类组合的完整测评框架 ，覆盖功能正确性、过程质量、效率成本、鲁棒性安全、体验对齐五大维度，并已在 TPerf 性能平台智能分析 Agent 项目中落地验证。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 35,
   "updates_7d": [
+    {
+      "date": "2026-06-16",
+      "title": "这篇播客拆解了Anthropic 推出的Claude Code全新Routines主动智能体能力，打破 AI 工具仅能被动等待指令的局限，依托托管后台实现定时、代码库事件、Webhook 多类触发自动执行任务。仅需四组基础配置即可搭建自动化流程，所有运行会话全程可视化，支持中途暂停、调整方向，还能设置Agent互审降低失误。如果你是工程师或者产品负责人，也可以借鉴这套思路把重复流程转化为团队可复用的自动化机制。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "很多人尝试让Agent帮忙搭n8n工作流，遇到最费劲的环节就是把目标说清楚。作者为此专门为n8n做了一个Goal生成skill。使用这个 Skill，你可以轻而易举地把一个n8n工作流开发需求，转译成可直接复制的 /goal 指令，从而驱动Agent完成完整的「构建 → 验证 → 部署 → 分层测试 → 迭代」闭环。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "宝玉这篇文章完整拆解了AI编程工具Cursor的崛起与危机：天才创始人打造出年收入数十亿、覆盖多数五百强的爆款产品，却因深度依赖Anthropic，在对方推出同类竞品后遭遇生存冲击。公司紧急自研Composer模型降低外部钳制，又为补足算力绑定SpaceX，曝光价值600亿美金潜在收购协议。让我们一起来看看这背后有什么内幕？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "作者整理了GitHub 上 Star 数最高的十大Agent Skill，快来看看有没有适合你的Skill。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "作者使用Loop Engineering 架构，搭建了一个可自主运转的知识库自动化循环。文中还给出了可直接套用的规则模板与简易脚本，快跟着一起实操试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "不少AI Agent只停留在演示层面，落地接单、合规验收始终无解。卡尔深度拆解了赏金平台ClawHunt，它打造 AI 赏金任务市场，通过标准化交付清单、指定验收脚本、划定输入输出等规则，建立完整核验体系，从而解决成果难复现、效果难校验的难题。平台虽然还尚未成熟，但是已经完整串联了任务发布、竞标、验收全链路，给想做 AI 接单、自动化交付的开发者提供了一套标准化核验思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "AI Agent 想要落地生产，标准化测评是绕不开的关键环节。本文介绍了 TEG云架构平台部 网关测试团队 在 AI Agent 测评领域的体系化实践，面对 Agent 非确定性、黑盒化、错误级联放大三大难题，建立了一套 \"确定性评分器 + Rubric 评分器 + 人工评分器\"三类组合的完整测评框架 ，覆盖功能正确性、过程质量、效率成本、鲁棒性安全、体验对齐五大维度，并已在 TPerf 性能平台智能分析 Agent 项目中落地验证。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-15",
       "title": "这篇访谈带大家厘清了当下火热的Agent循环误区，把 human-in-the-loop 、 agentic loop 和 代码评审 loop 拆成三种不同工作法。工程师、PM、独立开发者看完以后，能立刻判断自己该在哪一步把手伸回方向盘。",
@@ -168,36 +218,6 @@
     {
       "date": "2026-06-11",
       "title": "Arno 是Anthropic Applied AI 团队的架构师，他用一个真实 repo 演示了Anthropic 工程师怎样配置 Claude Code，怎样让它问问题、生成 HTML 规格稿、再把验证流程做进 React 组件和浏览器。但这不像是一篇“Claude Code 小技巧”合集，更像一份内部工作习惯的公开样本。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-10",
-      "title": "这期视频来自 Claude 官方频道，主讲人 Daisy Holman 是 Claude Code 团队工程师。她这次没有讲“怎么让 Claude Code 写一个小功能”，而是分享了几百、几千甚至上万名工程师共用一个代码库时，Agent 怎样才能进入真实工程系统：CLAUDE.md 如何做好、MCP 怎样接入、团队知识怎样包装成 skills、auto mode 如何安全使用。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-10",
-      "title": "最近大家都在讨论的循环工程让不少人一头雾水，这篇内容抛开专业黑话，用通俗思路带你拆解核心逻辑。值得收藏慢慢研究，或许也会改变你理解AI的方式。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-10",
-      "title": "如果你同时用Claude Code、Cursor、Codex、Hermes等等，你一定经历过：Claude刚帮你定好\"文档要口语化\"，切到Cursor又要说一遍；Codex跑完重构，回Claude问\"刚才改了啥\"，它一脸懵。每个AI都很聪明，但它们互相不认识你。现在用一行命令，所有Agent都可以共享同一个大脑。快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-10",
-      "title": "不少人用AI编程时习惯直接下达笼统指令，这样很容易造成项目失控。老金这套工作流给出了解法：由ChatGPT担任架构与项目管理，负责规划方向、拆分微型任务并制定项目规则；Codex专注执行单次任务、编写代码。通过规范多类项目文档，把任务拆解为5-10分钟即可验收的最小单元，严格控制改动范围。每轮执行后输出完整报告，同步项目状态。这样可以有效规避AI擅自新增功能、过度重构的问题，尤其适合中长期迭代项目。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-10",
-      "title": "Google 今天发布了其实时语音翻译模型： Gemini 3.5 Live Translate ，能在70多种语言之间做到边听边译，同时保留说话人的语调、节奏和音高。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-10",
-      "title": "Claude重磅推出的Fable 5模型在代码开发、专业办公、法律医疗、数理推演等领域优势显著。小歪收集了一些测评案例，让我们一起来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
