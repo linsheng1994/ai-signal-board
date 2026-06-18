@@ -1,45 +1,25 @@
 {
-  "generated_at": "2026-06-18T12:52:21.012225Z",
+  "generated_at": "2026-06-18T16:32:58.838992Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-06-17",
-  "count_today": 6,
+  "latest_date": "2026-06-18",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-06-17",
-      "title": "最近大家对用“循环”驱动智能体讨论很多，同时也伴随着一点疑问：“循环到底是什么？”作者这篇文章展示了一种实际做法：用 Skill 和云端智能体，构建一种特别强大的循环，也就是自我改进循环。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "智能体之所以有用，是因为它们能通过在真实世界中采取行动，帮我们自动化完成工作。但要让智能体稳定地做出有价值的工作，只靠好模型还不够：还需要一个精心设计、适配一组任务的harness。本篇文章来自 LangChain 开发者 Sydney Runkle 的完整分享，详解了循环工程。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "大家都在聊循环。几乎没人认真讨论循环到底跑在什么之上。10 个开发者里有 9 个直接用 Claude Code 的默认harness：没有规则，没有子智能体，没有钩子，也没有记忆。本篇文章是一条 14 步路线图，讲的是如何搭好这层harness，从一个智能体，走到一个能自我改进的系统。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "国产大模型GLM-5.2正式开源，采用744B MoE架构、支持百万级上下文，基于MIT协议可以自由商用部署。它在代码评测中跻身第一梯队，长程工程任务综合表现位居开源模型榜首，相比前代版本能力实现了大幅跨越。模型通过IndexShare、KVShare等多项架构优化，解决了超长上下文的算力与内存瓶颈，还配套专用训练框架与反作弊模块强化智能体编码能力。快来看看！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "Peter Yang 在 Reddit、Meta、Roblox 做了十年产品，现在一个人经营 14 万订阅者的 newsletter，身边只有视频剪辑和零散 contractor，没有全职团队。过去一年，他把内容生产、分发、复盘、业务判断一项项接进 Codex 和 Claude Code。产品、增长、内容团队能从这期对话里看到一条很实在的迁移路线。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "Codex 使用电脑有三种方式：Computer Use、Chrome 扩展，以及应用内浏览器。它们的功能有足够的重叠，容易让人混淆。读完这篇文章后，你会知道如何安装和触发这三者，什么时候该用哪一种，Appshots 和开发者模式如何把它们连接起来，以及应该在 AGENTS.md 里加入什么，让 Codex 能自己选择合适的界面。",
+      "date": "2026-06-18",
+      "title": "本篇文章用写文章、规划副业、搭建AI助手三组实例对比模糊需求与可验收目标的差距，拆解了合格目标的五大核心要素。使用老金的这套思路可以大幅减少无效迭代，提升 AI 协作效率。快来试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 31,
   "updates_7d": [
+    {
+      "date": "2026-06-18",
+      "title": "本篇文章用写文章、规划副业、搭建AI助手三组实例对比模糊需求与可验收目标的差距，拆解了合格目标的五大核心要素。使用老金的这套思路可以大幅减少无效迭代，提升 AI 协作效率。快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-17",
       "title": "最近大家对用“循环”驱动智能体讨论很多，同时也伴随着一点疑问：“循环到底是什么？”作者这篇文章展示了一种实际做法：用 Skill 和云端智能体，构建一种特别强大的循环，也就是自我改进循环。",
@@ -188,36 +168,6 @@
     {
       "date": "2026-06-13",
       "title": "2026世界杯Skills，一个程序员决定用自己的方式看世界杯，让我们来看看他都做了些什么？",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-12",
-      "title": "还在手动刷海外账号追踪SEO动态？作者这套自动化方案可以帮你轻松打破行业信息差。不仅可以自动抓取十余位海外SEO大咖与官方账号的内容，完成去重、筛除基础内容，还能每天以邮件形式推送精选干货。文中还附有可直接套用的指令、完整设置步骤，并梳理了各个账号的擅长领域。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-12",
-      "title": "臧师傅做了些爆款Skills以后，有一个越来越明确的判断：大家现在都在说Agent，但大多数人其实还没有真正理解Agent。大众理解里的Agent，往往还是一个聊天框。你输入一句话，它回答一段文字；你再输入一句，它继续回答。这篇万字长文，臧师傅就来聊聊他对Skills的看法。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-12",
-      "title": "在这一年里，作者发现了使用Claude的几十个技巧、快捷方式和方法。下面是他一直在用的 40 个技巧。按照节省时间的效果排序，从最能省时间的，到较小但能明显改善体验的。每一个都会立刻帮你省时间，快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-12",
-      "title": "创作能力是YouMind的立身之本。YouMind的创作能力覆盖写作、生图、音视频、幻灯片、网页、学习六大方向。YouMind在这六个创作能力中，都沉淀了这个领域的审美标准和创作 know-how，让用户在YouMind里产出的作品，比通用AI的水准更高。在 1.0 版本中，又对这六大能力都做了进一步的优化。这篇文章就和大家聊聊YouMind 1.0 具体做了什么、为什么这样做。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-12",
-      "title": "以前用AI，大家都是收藏Prompt，作者也存过不少。真正要用的时候，经常想不起来。Skill就解决这点，Agent需要的时候自己会调。但网上下载的Skill，经常跟你的实际情况差那么一点点。想自己做，又不知道怎么下手。这次不讲复杂概念，也不研究文件结构。作者只讲一个自己验证过的，最简单的，零基础创建Skill的方法。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-12",
-      "title": "Claude Code正式发布一周年，Claude Code 负责人Boris Cherny和产品负责人Cat Wu复盘这一年，讨论了工程团队的工作方式怎么变化：当 Agent 能运行、能验证、能写回经验，人的工作会从亲手执行，转向设计循环、挑选想法和守住边界。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
