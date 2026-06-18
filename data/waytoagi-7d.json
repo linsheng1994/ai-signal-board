@@ -1,23 +1,53 @@
 {
-  "generated_at": "2026-06-18T16:32:58.838992Z",
+  "generated_at": "2026-06-18T19:28:37.637430Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-18",
-  "count_today": 1,
+  "count_today": 4,
   "updates_today": [
+    {
+      "date": "2026-06-18",
+      "title": "面对老板一句模糊的“简单分析一下”却无从下手？作者开源一个专用Agent Skill，用于拆解边界模糊的职场临时需求。它会自动反向确认分析目标、核验信息完整度、匹配适配分析模型，最终输出结论与适配领导沟通的精简话术。作者结合数据下滑归因、爆款内容拆解、新项目可行性评估三大高频场景进行实操演示，完整展示了使用流程。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-18",
       "title": "本篇文章用写文章、规划副业、搭建AI助手三组实例对比模糊需求与可验收目标的差距，拆解了合格目标的五大核心要素。使用老金的这套思路可以大幅减少无效迭代，提升 AI 协作效率。快来试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-18",
+      "title": "如果你跟作者一样，代码看得懂但写不出来，数据结构是什么早就还给大学老师了， Git 只会 clone 和 push ，遇到 merge 冲突就原地投降。但你不怕麻烦，愿意对着报错信息一点点磨，愿意花一个下午搞明白一个配置项是什么意思。那么今天这篇文章，就是写给你的，作者会把如何做一个能上线、能赚钱、能商业化的软件的全过程摊开聊聊。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-18",
+      "title": "Anthropic CEO Dario Amodei的深度访谈横跨他离开 OpenAI、Claude 的企业路线、SaaS 冲击、白领岗位、国防合作和 AI 治理。这场访谈最有价值的地方在于把AI 的真实影响放回组织现场：商业模式、客户流程、岗位迁移、政府边界都会一起变化。让我们一起来看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 31,
+  "count_7d": 34,
   "updates_7d": [
     {
       "date": "2026-06-18",
+      "title": "面对老板一句模糊的“简单分析一下”却无从下手？作者开源一个专用Agent Skill，用于拆解边界模糊的职场临时需求。它会自动反向确认分析目标、核验信息完整度、匹配适配分析模型，最终输出结论与适配领导沟通的精简话术。作者结合数据下滑归因、爆款内容拆解、新项目可行性评估三大高频场景进行实操演示，完整展示了使用流程。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-18",
       "title": "本篇文章用写文章、规划副业、搭建AI助手三组实例对比模糊需求与可验收目标的差距，拆解了合格目标的五大核心要素。使用老金的这套思路可以大幅减少无效迭代，提升 AI 协作效率。快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-18",
+      "title": "如果你跟作者一样，代码看得懂但写不出来，数据结构是什么早就还给大学老师了， Git 只会 clone 和 push ，遇到 merge 冲突就原地投降。但你不怕麻烦，愿意对着报错信息一点点磨，愿意花一个下午搞明白一个配置项是什么意思。那么今天这篇文章，就是写给你的，作者会把如何做一个能上线、能赚钱、能商业化的软件的全过程摊开聊聊。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-18",
+      "title": "Anthropic CEO Dario Amodei的深度访谈横跨他离开 OpenAI、Claude 的企业路线、SaaS 冲击、白领岗位、国防合作和 AI 治理。这场访谈最有价值的地方在于把AI 的真实影响放回组织现场：商业模式、客户流程、岗位迁移、政府边界都会一起变化。让我们一起来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
