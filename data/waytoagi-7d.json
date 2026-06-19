@@ -1,35 +1,65 @@
 {
-  "generated_at": "2026-06-19T12:58:34.408787Z",
+  "generated_at": "2026-06-19T16:11:00.848634Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-06-18",
-  "count_today": 4,
+  "latest_date": "2026-06-19",
+  "count_today": 5,
   "updates_today": [
     {
-      "date": "2026-06-18",
-      "title": "面对老板一句模糊的“简单分析一下”却无从下手？作者开源一个专用Agent Skill，用于拆解边界模糊的职场临时需求。它会自动反向确认分析目标、核验信息完整度、匹配适配分析模型，最终输出结论与适配领导沟通的精简话术。作者结合数据下滑归因、爆款内容拆解、新项目可行性评估三大高频场景进行实操演示，完整展示了使用流程。",
+      "date": "2026-06-19",
+      "title": "很多人只把Claude当成问答工具，白白浪费了它深度梳理知识的核心能力。斯坦福研发的STORM系统能产出逻辑更完整的长文，仅凭四句提示词就能在 Claude 复刻同等效果。全程无需下载软件、拉取代码、调试配置，复制粘贴就能直接使用。短短五分钟就能完成对某个主题的深度调研，梳理出的知识框架也条理清晰。快来试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-18",
-      "title": "本篇文章用写文章、规划副业、搭建AI助手三组实例对比模糊需求与可验收目标的差距，拆解了合格目标的五大核心要素。使用老金的这套思路可以大幅减少无效迭代，提升 AI 协作效率。快来试试！",
+      "date": "2026-06-19",
+      "title": "作者打造的这款工具专治视频拉片、扒脚本、拆分镜、研究爆款创作逻辑，解决了很多视频创作者手动拉片费时费力的问题。上传任意视频就能一键拆解，自动输出带时间戳的完整文字剧本与分镜表格。除此之外还能同步解析镜头语言、叙事风格与拍摄手法，并输出专属创作建议。快来上手试试吧！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-18",
-      "title": "如果你跟作者一样，代码看得懂但写不出来，数据结构是什么早就还给大学老师了， Git 只会 clone 和 push ，遇到 merge 冲突就原地投降。但你不怕麻烦，愿意对着报错信息一点点磨，愿意花一个下午搞明白一个配置项是什么意思。那么今天这篇文章，就是写给你的，作者会把如何做一个能上线、能赚钱、能商业化的软件的全过程摊开聊聊。",
+      "date": "2026-06-19",
+      "title": "不少入门者学习AI工程只会照搬教程安装依赖、调用API，项目报错后仅凭直觉乱改参数碰运气，没有标准化的排查逻辑。本篇文章提炼了六大核心底层概念，帮学习者们摆脱低效试错，建立标准化、可复盘的开发思维。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-18",
-      "title": "Anthropic CEO Dario Amodei的深度访谈横跨他离开 OpenAI、Claude 的企业路线、SaaS 冲击、白领岗位、国防合作和 AI 治理。这场访谈最有价值的地方在于把AI 的真实影响放回组织现场：商业模式、客户流程、岗位迁移、政府边界都会一起变化。让我们一起来看看！",
+      "date": "2026-06-19",
+      "title": "不少HTML PPT常常会出现信息分配失衡、排版遮挡文字、页面无讲述逻辑等等问题。卡尔推出了Humanize PPT v0.9版的Skill一口气全解决了。不是单纯堆砌精美模板，而是以现场表达为核心，解决AI生成PPT好看却无从开口讲解的核心难题，非常适合线下演讲、路演人群。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "Agent、Codex、Claude Code等产品的快速发展，让 AI 工程领域出现了一批新的术语：Prompt Engineering、Context Engineering、Loop Engineering、Harness Engineering。新名词越来越多，边界越来越模糊。这篇文章就带大家梳理下从Prompt Engineering到Harness Engineering：AI 工程体系的四次演进。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 32,
   "updates_7d": [
+    {
+      "date": "2026-06-19",
+      "title": "很多人只把Claude当成问答工具，白白浪费了它深度梳理知识的核心能力。斯坦福研发的STORM系统能产出逻辑更完整的长文，仅凭四句提示词就能在 Claude 复刻同等效果。全程无需下载软件、拉取代码、调试配置，复制粘贴就能直接使用。短短五分钟就能完成对某个主题的深度调研，梳理出的知识框架也条理清晰。快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "作者打造的这款工具专治视频拉片、扒脚本、拆分镜、研究爆款创作逻辑，解决了很多视频创作者手动拉片费时费力的问题。上传任意视频就能一键拆解，自动输出带时间戳的完整文字剧本与分镜表格。除此之外还能同步解析镜头语言、叙事风格与拍摄手法，并输出专属创作建议。快来上手试试吧！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "不少入门者学习AI工程只会照搬教程安装依赖、调用API，项目报错后仅凭直觉乱改参数碰运气，没有标准化的排查逻辑。本篇文章提炼了六大核心底层概念，帮学习者们摆脱低效试错，建立标准化、可复盘的开发思维。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "不少HTML PPT常常会出现信息分配失衡、排版遮挡文字、页面无讲述逻辑等等问题。卡尔推出了Humanize PPT v0.9版的Skill一口气全解决了。不是单纯堆砌精美模板，而是以现场表达为核心，解决AI生成PPT好看却无从开口讲解的核心难题，非常适合线下演讲、路演人群。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "Agent、Codex、Claude Code等产品的快速发展，让 AI 工程领域出现了一批新的术语：Prompt Engineering、Context Engineering、Loop Engineering、Harness Engineering。新名词越来越多，边界越来越模糊。这篇文章就带大家梳理下从Prompt Engineering到Harness Engineering：AI 工程体系的四次演进。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-18",
       "title": "面对老板一句模糊的“简单分析一下”却无从下手？作者开源一个专用Agent Skill，用于拆解边界模糊的职场临时需求。它会自动反向确认分析目标、核验信息完整度、匹配适配分析模型，最终输出结论与适配领导沟通的精简话术。作者结合数据下滑归因、爆款内容拆解、新项目可行性评估三大高频场景进行实操演示，完整展示了使用流程。",
@@ -163,41 +193,6 @@
     {
       "date": "2026-06-14",
       "title": "AI Coding 让软件的边际成本越来越小，小到几乎不存在。那护城河还有什么？是增长。如今流量红利消退，增长不再是单一岗位的职责，而是产品、技术、运营等全员必备的底层能力。文章中拆解了新旧增长玩法，并分享了洞察、试错、分析、复盘、放大的完整增长闭环。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-13",
-      "title": "遇到Codex 反复重连别的情况，多数人会盲目重装、换账号。本篇文章给出一套完整的排查流程，以及相关的终端命令，教你一步步核查真实代理端口、验证网络链路、配置专属环境文件。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-13",
-      "title": "由郎瀚威 Will整理的2026年5月生成式AI产品数据榜单已发布，涵盖全球总榜Top100，出海总榜Top50，国内总榜Top80，美国大公司Top30，中国大公司Top30。让我们一起来看看相关数据！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-13",
-      "title": "有三个命令：/goal、/loop、/workflows。很多人把它们混为一谈，觉得都是\"让 Claude自己多干会儿\"。这是个误解。它们解决的根本不是同一个问题。/goal 回答的是\" 什么时候算干完 \"，/loop 回答的是\" 隔多久干一次 \"，/workflows 回答的是\" 一次铺开多少个 Claude 一起干 \"。一个管终点，一个管节奏，一个管规模。搞清楚这三个维度，你才知道手上的活该交给谁。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-13",
-      "title": "很多人第一次写 Skill，会下意识地写成一个更长的 Prompt。把背景、规则、注意事项、示例、参考资料，全都塞进一个 SKILL.md。看起来很完整，但实际并不好用。这篇文章就带大家拆解一下如何写出工业级的Skill。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-13",
-      "title": "作者拆解了大型语言模型到底是怎么构建出来的：ChatGPT、Claude 和 Gemini 背后的完整流程，并把它压缩成一张路线图。收藏这篇，保存下来。 读完之后，你会理解从原始互联网文本到一个能像助手一样回答问题的模型，中间精确经历的五阶段路径。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-13",
-      "title": "AI 进入公司后，最先被推翻的，常常是CEO的工作方式、公司的成本结构和整套组织边界。这期对话，让我们一起探究下背后的原因！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-13",
-      "title": "2026世界杯Skills，一个程序员决定用自己的方式看世界杯，让我们来看看他都做了些什么？",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
