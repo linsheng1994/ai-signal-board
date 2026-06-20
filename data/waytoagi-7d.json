@@ -1,40 +1,75 @@
 {
-  "generated_at": "2026-06-20T21:47:04.555617Z",
+  "generated_at": "2026-06-20T23:09:20.746247Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-06-19",
-  "count_today": 5,
+  "latest_date": "2026-06-20",
+  "count_today": 6,
   "updates_today": [
     {
-      "date": "2026-06-19",
-      "title": "很多人只把Claude当成问答工具，白白浪费了它深度梳理知识的核心能力。斯坦福研发的STORM系统能产出逻辑更完整的长文，仅凭四句提示词就能在 Claude 复刻同等效果。全程无需下载软件、拉取代码、调试配置，复制粘贴就能直接使用。短短五分钟就能完成对某个主题的深度调研，梳理出的知识框架也条理清晰。快来试试！",
+      "date": "2026-06-20",
+      "title": "本文拆解了李继刚19个连贯配套Agent Skill。十款理解类工具从多维度拆解概念、深度研读文献、提炼知识底层逻辑，四款工具负责观点推演、成文创作与辩证校验，还有一些是用于实现内容可视化、演讲排版、仓库同步等对外交付。快来看看有没有适合你的！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-19",
-      "title": "作者打造的这款工具专治视频拉片、扒脚本、拆分镜、研究爆款创作逻辑，解决了很多视频创作者手动拉片费时费力的问题。上传任意视频就能一键拆解，自动输出带时间戳的完整文字剧本与分镜表格。除此之外还能同步解析镜头语言、叙事风格与拍摄手法，并输出专属创作建议。快来上手试试吧！",
+      "date": "2026-06-20",
+      "title": "很多人热衷于收藏各类AI学习资料，最后囤积很多教程却从不落地实操。文中整理了Claude的10门官方课程和14篇实操指南，全部免费，并且搭建了一套条理清晰、可直接跟进的完整学习路线。这份学习地图适合刚入门、找不到系统学习方向，总在盲目收集资料却毫无进步的AI学习者。快来试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-19",
-      "title": "不少入门者学习AI工程只会照搬教程安装依赖、调用API，项目报错后仅凭直觉乱改参数碰运气，没有标准化的排查逻辑。本篇文章提炼了六大核心底层概念，帮学习者们摆脱低效试错，建立标准化、可复盘的开发思维。",
+      "date": "2026-06-20",
+      "title": "大聪明这篇文章拆解了Claude Code 七类上下文注入方案，带你清晰区分 CLAUDE.md、Rules、Skills、Subagents、Hooks 等适用场景，理清技能与隔离子Agent的分工差异。除此之外还拆解了事件驱动 Hooks 如何实现无偏差自动化，以及Dynamic Workflows的新能力。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-19",
-      "title": "不少HTML PPT常常会出现信息分配失衡、排版遮挡文字、页面无讲述逻辑等等问题。卡尔推出了Humanize PPT v0.9版的Skill一口气全解决了。不是单纯堆砌精美模板，而是以现场表达为核心，解决AI生成PPT好看却无从开口讲解的核心难题，非常适合线下演讲、路演人群。",
+      "date": "2026-06-20",
+      "title": "今天学习任何东西，既容易，又让人迷糊。容易，是因为 AI 几秒钟就能解释几乎任何内容。迷糊，是因为大多数人只是随意提问获取碎片化解答，只会短暂看懂内容，无法形成长效记忆。下面这 6 条提示词，可以把 Claude 变成你的私人老师、考官、资源筛选器和学习伙伴，帮助你深度吃透知识点、巩固长期记忆！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-19",
-      "title": "Agent、Codex、Claude Code等产品的快速发展，让 AI 工程领域出现了一批新的术语：Prompt Engineering、Context Engineering、Loop Engineering、Harness Engineering。新名词越来越多，边界越来越模糊。这篇文章就带大家梳理下从Prompt Engineering到Harness Engineering：AI 工程体系的四次演进。",
+      "date": "2026-06-20",
+      "title": "Vibe Coding圈里最近流传着一个说法：不要再给你的编码智能体写提示词了，开始设计能替你提示它们的循环。和所有新东西一样，这句话被反复转述，却很少被讲清楚。这篇文章讲解了什么是智能体循环，为什么它重要，以及它在生产环境里长什么样。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-20",
+      "title": "Silicon Valley Girl 这期对话真正有用的地方，不在于预测AI抢走多少工作，而在于把未来职场拆成两个很具体的问题：谁还在等流程喂任务，谁已经能带着 AI 改写自己的工作边界。AI 不会把每个人立刻推到同一个终点，但会放大主动学习者和旁观者之间的差距。今天最小的开始，可以只是把一个重复任务交给 AI，亲手跑通，再问自己：我的工作里，还有哪一步可以被重新设计。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 26,
+  "count_7d": 32,
   "updates_7d": [
+    {
+      "date": "2026-06-20",
+      "title": "本文拆解了李继刚19个连贯配套Agent Skill。十款理解类工具从多维度拆解概念、深度研读文献、提炼知识底层逻辑，四款工具负责观点推演、成文创作与辩证校验，还有一些是用于实现内容可视化、演讲排版、仓库同步等对外交付。快来看看有没有适合你的！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-20",
+      "title": "很多人热衷于收藏各类AI学习资料，最后囤积很多教程却从不落地实操。文中整理了Claude的10门官方课程和14篇实操指南，全部免费，并且搭建了一套条理清晰、可直接跟进的完整学习路线。这份学习地图适合刚入门、找不到系统学习方向，总在盲目收集资料却毫无进步的AI学习者。快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-20",
+      "title": "大聪明这篇文章拆解了Claude Code 七类上下文注入方案，带你清晰区分 CLAUDE.md、Rules、Skills、Subagents、Hooks 等适用场景，理清技能与隔离子Agent的分工差异。除此之外还拆解了事件驱动 Hooks 如何实现无偏差自动化，以及Dynamic Workflows的新能力。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-20",
+      "title": "今天学习任何东西，既容易，又让人迷糊。容易，是因为 AI 几秒钟就能解释几乎任何内容。迷糊，是因为大多数人只是随意提问获取碎片化解答，只会短暂看懂内容，无法形成长效记忆。下面这 6 条提示词，可以把 Claude 变成你的私人老师、考官、资源筛选器和学习伙伴，帮助你深度吃透知识点、巩固长期记忆！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-20",
+      "title": "Vibe Coding圈里最近流传着一个说法：不要再给你的编码智能体写提示词了，开始设计能替你提示它们的循环。和所有新东西一样，这句话被反复转述，却很少被讲清楚。这篇文章讲解了什么是智能体循环，为什么它重要，以及它在生产环境里长什么样。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-20",
+      "title": "Silicon Valley Girl 这期对话真正有用的地方，不在于预测AI抢走多少工作，而在于把未来职场拆成两个很具体的问题：谁还在等流程喂任务，谁已经能带着 AI 改写自己的工作边界。AI 不会把每个人立刻推到同一个终点，但会放大主动学习者和旁观者之间的差距。今天最小的开始，可以只是把一个重复任务交给 AI，亲手跑通，再问自己：我的工作里，还有哪一步可以被重新设计。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-19",
       "title": "很多人只把Claude当成问答工具，白白浪费了它深度梳理知识的核心能力。斯坦福研发的STORM系统能产出逻辑更完整的长文，仅凭四句提示词就能在 Claude 复刻同等效果。全程无需下载软件、拉取代码、调试配置，复制粘贴就能直接使用。短短五分钟就能完成对某个主题的深度调研，梳理出的知识框架也条理清晰。快来试试！",
