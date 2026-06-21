@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T17:04:53.482575Z",
+  "generated_at": "2026-06-21T19:00:41.349495Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-21",
-  "count_today": 3,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-06-21",
@@ -19,11 +19,21 @@
     },
     {
       "date": "2026-06-21",
+      "title": "在目前主流的Agent Harness中，更多使用的还是SubAgent的方式，或者说Agent As Tool，而不是古典Multi Agent的那种对等Agent范式。本篇文章梳理了主流Agent Harness的实现对比，给搭建Agent系统的开发者提供了清晰的选型参考。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "产品经理接下来要掌握的能力，不是提示词工程，而是循环工程（Loop Engineering）。仅仅优化单次指令只能解决临时需求，真正的目标应该是搭建一套持续自我优化的自动化体系来让你的工作更加高效精准！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-21",
       "title": "Fiona Fung 现在带着 Anthropic里Claude Code和Cowork背后的工程、产品团队，也就是Boris Cherny和Cat Wu所在的组织。她能同时看到工程师、PM、设计师、数据科学家和小企业用户怎么被AI改变。让我们一同看看最AI化的产品团队是如何工作的？",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 31,
+  "count_7d": 33,
   "updates_7d": [
     {
       "date": "2026-06-21",
@@ -33,6 +43,16 @@
     {
       "date": "2026-06-21",
       "title": "本周精选的十篇顶级论文，覆盖空间视觉推理、技能调度、电脑操作智能体、强化学习、长期记忆、网页自动化与金融数据集多个关键方向。文中提炼了每项工作的核心创新、实测性能提升与落地意义，带你一站式梳理前沿突破。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "在目前主流的Agent Harness中，更多使用的还是SubAgent的方式，或者说Agent As Tool，而不是古典Multi Agent的那种对等Agent范式。本篇文章梳理了主流Agent Harness的实现对比，给搭建Agent系统的开发者提供了清晰的选型参考。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "产品经理接下来要掌握的能力，不是提示词工程，而是循环工程（Loop Engineering）。仅仅优化单次指令只能解决临时需求，真正的目标应该是搭建一套持续自我优化的自动化体系来让你的工作更加高效精准！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
