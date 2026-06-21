@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-06-21T15:25:32.322790Z",
+  "generated_at": "2026-06-21T17:04:53.482575Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-06-20",
-  "count_today": 6,
+  "latest_date": "2026-06-21",
+  "count_today": 3,
   "updates_today": [
     {
-      "date": "2026-06-20",
-      "title": "本文拆解了李继刚19个连贯配套Agent Skill。十款理解类工具从多维度拆解概念、深度研读文献、提炼知识底层逻辑，四款工具负责观点推演、成文创作与辩证校验，还有一些是用于实现内容可视化、演讲排版、仓库同步等对外交付。快来看看有没有适合你的！",
+      "date": "2026-06-21",
+      "title": "阿真分享了一套可定制专属卡通IP信息图的Codex专用Skill，可以解决自媒体配图形象不统一、辨识度弱的问题。只用粘贴文章或者飞书文档链接，即可一键批量产出适配多平台、可调长宽比例的系列信息图。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-20",
-      "title": "很多人热衷于收藏各类AI学习资料，最后囤积很多教程却从不落地实操。文中整理了Claude的10门官方课程和14篇实操指南，全部免费，并且搭建了一套条理清晰、可直接跟进的完整学习路线。这份学习地图适合刚入门、找不到系统学习方向，总在盲目收集资料却毫无进步的AI学习者。快来试试！",
+      "date": "2026-06-21",
+      "title": "本周精选的十篇顶级论文，覆盖空间视觉推理、技能调度、电脑操作智能体、强化学习、长期记忆、网页自动化与金融数据集多个关键方向。文中提炼了每项工作的核心创新、实测性能提升与落地意义，带你一站式梳理前沿突破。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-20",
-      "title": "大聪明这篇文章拆解了Claude Code 七类上下文注入方案，带你清晰区分 CLAUDE.md、Rules、Skills、Subagents、Hooks 等适用场景，理清技能与隔离子Agent的分工差异。除此之外还拆解了事件驱动 Hooks 如何实现无偏差自动化，以及Dynamic Workflows的新能力。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-20",
-      "title": "今天学习任何东西，既容易，又让人迷糊。容易，是因为 AI 几秒钟就能解释几乎任何内容。迷糊，是因为大多数人只是随意提问获取碎片化解答，只会短暂看懂内容，无法形成长效记忆。下面这 6 条提示词，可以把 Claude 变成你的私人老师、考官、资源筛选器和学习伙伴，帮助你深度吃透知识点、巩固长期记忆！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-20",
-      "title": "Vibe Coding圈里最近流传着一个说法：不要再给你的编码智能体写提示词了，开始设计能替你提示它们的循环。和所有新东西一样，这句话被反复转述，却很少被讲清楚。这篇文章讲解了什么是智能体循环，为什么它重要，以及它在生产环境里长什么样。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-20",
-      "title": "Silicon Valley Girl 这期对话真正有用的地方，不在于预测AI抢走多少工作，而在于把未来职场拆成两个很具体的问题：谁还在等流程喂任务，谁已经能带着 AI 改写自己的工作边界。AI 不会把每个人立刻推到同一个终点，但会放大主动学习者和旁观者之间的差距。今天最小的开始，可以只是把一个重复任务交给 AI，亲手跑通，再问自己：我的工作里，还有哪一步可以被重新设计。",
+      "date": "2026-06-21",
+      "title": "Fiona Fung 现在带着 Anthropic里Claude Code和Cowork背后的工程、产品团队，也就是Boris Cherny和Cat Wu所在的组织。她能同时看到工程师、PM、设计师、数据科学家和小企业用户怎么被AI改变。让我们一同看看最AI化的产品团队是如何工作的？",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 31,
   "updates_7d": [
+    {
+      "date": "2026-06-21",
+      "title": "阿真分享了一套可定制专属卡通IP信息图的Codex专用Skill，可以解决自媒体配图形象不统一、辨识度弱的问题。只用粘贴文章或者飞书文档链接，即可一键批量产出适配多平台、可调长宽比例的系列信息图。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "本周精选的十篇顶级论文，覆盖空间视觉推理、技能调度、电脑操作智能体、强化学习、长期记忆、网页自动化与金融数据集多个关键方向。文中提炼了每项工作的核心创新、实测性能提升与落地意义，带你一站式梳理前沿突破。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "Fiona Fung 现在带着 Anthropic里Claude Code和Cowork背后的工程、产品团队，也就是Boris Cherny和Cat Wu所在的组织。她能同时看到工程师、PM、设计师、数据科学家和小企业用户怎么被AI改变。让我们一同看看最AI化的产品团队是如何工作的？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-20",
       "title": "本文拆解了李继刚19个连贯配套Agent Skill。十款理解类工具从多维度拆解概念、深度研读文献、提炼知识底层逻辑，四款工具负责观点推演、成文创作与辩证校验，还有一些是用于实现内容可视化、演讲排版、仓库同步等对外交付。快来看看有没有适合你的！",
@@ -178,26 +178,6 @@
     {
       "date": "2026-06-16",
       "title": "AI Agent 想要落地生产，标准化测评是绕不开的关键环节。本文介绍了 TEG云架构平台部 网关测试团队 在 AI Agent 测评领域的体系化实践，面对 Agent 非确定性、黑盒化、错误级联放大三大难题，建立了一套 \"确定性评分器 + Rubric 评分器 + 人工评分器\"三类组合的完整测评框架 ，覆盖功能正确性、过程质量、效率成本、鲁棒性安全、体验对齐五大维度，并已在 TPerf 性能平台智能分析 Agent 项目中落地验证。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-15",
-      "title": "这篇访谈带大家厘清了当下火热的Agent循环误区，把 human-in-the-loop 、 agentic loop 和 代码评审 loop 拆成三种不同工作法。工程师、PM、独立开发者看完以后，能立刻判断自己该在哪一步把手伸回方向盘。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-15",
-      "title": "本周AI音乐行业动态与前沿论文覆盖版权博弈、创作工具、平台治理多条主线。谷歌凭借平台用户条款抗辩音乐AI侵权，华纳收购指纹企业抢占AI版税分配标准；Fender、Suno、Loudly等更新分轨、AI母带功能，索尼推出本地实时即兴伴奏，Deezer上线检测工具整治泛滥AI曲目。文中还收录了多篇音频生成、乐谱建模相关论文。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-15",
-      "title": "想要做好AI工具站海外的引流，SEO是必不可少的底层根基。本文直击十大高频SEO错误，结合测试子域名重复收录、多语言站点配置、URL规范、抓取异常、页面性能等真实场景，给出了可相对应的解决方案。不管是独立开发者还是运营团队，都能借助这份指南优化站点基建，为谷歌排名与自然流量增长铺路。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-15",
-      "title": "当下行业通用AI记忆方案仅仅是靠向量化切片检索实现记忆调取，模式简单但是却存在很多短板。默认记忆是无分层、持续堆叠的扁平索引，长期使用极易出现失效问题。猫叔设计了一个架构：Nemos，通过三个独立维度规整记忆，搭配稀疏激活机制管控存储体量，更适配长期稳定运行的AI底层记忆基础设施。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
