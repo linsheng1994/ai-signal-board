@@ -1,23 +1,53 @@
 {
-  "generated_at": "2026-06-22T10:21:06.882227Z",
+  "generated_at": "2026-06-22T15:35:01.787592Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-22",
-  "count_today": 1,
+  "count_today": 4,
   "updates_today": [
+    {
+      "date": "2026-06-22",
+      "title": "本周AI音乐资讯合集覆盖工具更新、前沿模型、版权维权与前沿论文四大板块。ElevenLabs、阿里通义等推出长曲生成、说唱人声无缝切换能力，多款创作平台上线分轨混音、多角色MV、视频智能配乐等实用功能，大幅降低了二创的门槛。大西洋月刊还上线侵权音乐检索库，缓解了从业者对版权的顾虑。还有六篇顶级论文，围绕模型遗忘、AI 音乐检测、歌声精细控制等方向给出了一些创新方案。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "成峰这款剪辑 Skill又升级啦！只需上传素材与文稿，AI就可以自动精剪口播、清理瑕疵、生成对齐字幕，还能智能匹配镜头、生成手绘风动态动画。全程支持可视化校对、片段精细化修改，最后一键合成高清成片。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-22",
       "title": "不少人给Claude Code、Codex设置Goal时经常会堆砌特别长的提示词，导致AI擅自拓展任务、严重偏离需求。老金的开源工具GoalPro针对性地解决了这一问题。它内置了五层校验闸门，逐层理清真实需求、划定操作边界、明确验收依据、设置高危暂停机制，输出标准化可复核的目标合约，把任务决策权留在使用者手中。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "Claude Code 上线满一年，Boris Cherny 和 Cat Wu 以主创身份复盘了团队内部的真实工作流。他们谈论的不是某个具体功能，而是人和agent到底该怎么分工。 让我们来一起探究一下！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-06-22",
+      "title": "本周AI音乐资讯合集覆盖工具更新、前沿模型、版权维权与前沿论文四大板块。ElevenLabs、阿里通义等推出长曲生成、说唱人声无缝切换能力，多款创作平台上线分轨混音、多角色MV、视频智能配乐等实用功能，大幅降低了二创的门槛。大西洋月刊还上线侵权音乐检索库，缓解了从业者对版权的顾虑。还有六篇顶级论文，围绕模型遗忘、AI 音乐检测、歌声精细控制等方向给出了一些创新方案。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "成峰这款剪辑 Skill又升级啦！只需上传素材与文稿，AI就可以自动精剪口播、清理瑕疵、生成对齐字幕，还能智能匹配镜头、生成手绘风动态动画。全程支持可视化校对、片段精细化修改，最后一键合成高清成片。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-22",
       "title": "不少人给Claude Code、Codex设置Goal时经常会堆砌特别长的提示词，导致AI擅自拓展任务、严重偏离需求。老金的开源工具GoalPro针对性地解决了这一问题。它内置了五层校验闸门，逐层理清真实需求、划定操作边界、明确验收依据、设置高危暂停机制，输出标准化可复核的目标合约，把任务决策权留在使用者手中。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "Claude Code 上线满一年，Boris Cherny 和 Cat Wu 以主创身份复盘了团队内部的真实工作流。他们谈论的不是某个具体功能，而是人和agent到底该怎么分工。 让我们来一起探究一下！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
