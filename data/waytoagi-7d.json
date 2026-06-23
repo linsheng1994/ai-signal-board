@@ -1,50 +1,35 @@
 {
-  "generated_at": "2026-06-23T01:30:14.062912Z",
+  "generated_at": "2026-06-23T05:48:37.629329Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-06-22",
-  "count_today": 7,
+  "latest_date": "2026-06-23",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-06-22",
-      "title": "本周AI音乐资讯合集覆盖工具更新、前沿模型、版权维权与前沿论文四大板块。ElevenLabs、阿里通义等推出长曲生成、说唱人声无缝切换能力，多款创作平台上线分轨混音、多角色MV、视频智能配乐等实用功能，大幅降低了二创的门槛。大西洋月刊还上线侵权音乐检索库，缓解了从业者对版权的顾虑。还有六篇顶级论文，围绕模型遗忘、AI 音乐检测、歌声精细控制等方向给出了一些创新方案。",
+      "date": "2026-06-23",
+      "title": "很多开发者习惯开启多个Claude Code、Codex会话模块来提升开发效率，但人工只能逐个审核校验，频繁切屏查看各会话进度很容易漏掉关键节点，打断AI持续运行的节奏。云舒分享了一套轻量化解决方案，借助蓝牙音箱的灯光、语音提醒实时同步每个任务的推进阶段。不用反复切换窗口紧盯界面，就能全程掌握所有会话状态，最大化多线程协同开发的整体效率。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-22",
-      "title": "成峰这款剪辑 Skill又升级啦！只需上传素材与文稿，AI就可以自动精剪口播、清理瑕疵、生成对齐字幕，还能智能匹配镜头、生成手绘风动态动画。全程支持可视化校对、片段精细化修改，最后一键合成高清成片。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-22",
-      "title": "在深耕一年Agent基础设施、服务五百余名用户后，作者发现分层可独立的迭代才是优质智能体架构的核心。于是做了一个更好的 Agent 框架：FastClaw，面向云原生多租户场景设计，更快、更轻量、更好用。这篇文章记录了他对 OpenClaw 架构的理解，以及对 FastClaw 架构设计的经验总结。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-22",
-      "title": "不少人给Claude Code、Codex设置Goal时经常会堆砌特别长的提示词，导致AI擅自拓展任务、严重偏离需求。老金的开源工具GoalPro针对性地解决了这一问题。它内置了五层校验闸门，逐层理清真实需求、划定操作边界、明确验收依据、设置高危暂停机制，输出标准化可复核的目标合约，把任务决策权留在使用者手中。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-22",
-      "title": "YC合伙人Tom Blomfield 在这期对话中带我们揭秘公司如何把自己改造成一个会学习的系统：如果 AI 能读取公司的知识、调用工具、观察结果、改写流程，一家公司还需要像过去那样靠层级、会议和中层管理来传递信息吗？",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-22",
-      "title": "Codex最近更新了一个录制回放的插件：Record & Replay 。简单来说，你在电脑上先手动把一个工作流程走一遍，Codex会观察并记录你的操作，随后转成一份可复用、可迭代的Agent Skill。这个插件到底怎么用、和传统 RPA是不是一回事，这篇文章带你拆清楚。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-22",
-      "title": "Claude Code 上线满一年，Boris Cherny 和 Cat Wu 以主创身份复盘了团队内部的真实工作流。他们谈论的不是某个具体功能，而是人和agent到底该怎么分工。 让我们来一起探究一下！",
+      "date": "2026-06-23",
+      "title": "字节Seed 2.1系列模型正式发布 ，以解决日常生活、专业工作和前沿探索中的复杂需求为目标来进行迭代。模型三大核心能力全面升级，既能跨工具完成多步骤高价值办公与生活任务，也能独立走完企业开发全流程实现稳定的代码交付，更强的多模态、推理底层能力全程作为支撑。目前该模型已接入豆包、TRAE，火山引擎同步开放 API，快来上手体验下！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 35,
   "updates_7d": [
+    {
+      "date": "2026-06-23",
+      "title": "很多开发者习惯开启多个Claude Code、Codex会话模块来提升开发效率，但人工只能逐个审核校验，频繁切屏查看各会话进度很容易漏掉关键节点，打断AI持续运行的节奏。云舒分享了一套轻量化解决方案，借助蓝牙音箱的灯光、语音提醒实时同步每个任务的推进阶段。不用反复切换窗口紧盯界面，就能全程掌握所有会话状态，最大化多线程协同开发的整体效率。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "字节Seed 2.1系列模型正式发布 ，以解决日常生活、专业工作和前沿探索中的复杂需求为目标来进行迭代。模型三大核心能力全面升级，既能跨工具完成多步骤高价值办公与生活任务，也能独立走完企业开发全流程实现稳定的代码交付，更强的多模态、推理底层能力全程作为支撑。目前该模型已接入豆包、TRAE，火山引擎同步开放 API，快来上手体验下！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-22",
       "title": "本周AI音乐资讯合集覆盖工具更新、前沿模型、版权维权与前沿论文四大板块。ElevenLabs、阿里通义等推出长曲生成、说唱人声无缝切换能力，多款创作平台上线分轨混音、多角色MV、视频智能配乐等实用功能，大幅降低了二创的门槛。大西洋月刊还上线侵权音乐检索库，缓解了从业者对版权的顾虑。还有六篇顶级论文，围绕模型遗忘、AI 音乐检测、歌声精细控制等方向给出了一些创新方案。",
