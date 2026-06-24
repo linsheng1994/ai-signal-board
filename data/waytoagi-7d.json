@@ -1,23 +1,33 @@
 {
-  "generated_at": "2026-06-24T15:18:18.816220Z",
+  "generated_at": "2026-06-24T17:27:11.598936Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-24",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
     {
       "date": "2026-06-24",
       "title": "想知道Seedance 2.0原生4K画质值不值得投入高额成本？小歪消耗大量积分完成720P与4K画质五组场景的对照测试，涵盖产品广告、古装、灾难短片等商用常用题材。4K成片细节质感提升显著，但成本门槛很高，15秒短片折算成本近百元，普通用户很难高频使用。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Airtable的CEO Howie Liu在Silicon Valley Girl的对话里，把重点落在一个更贴近管理者和产品人的变化：当 Agent 开始能跑几个小时的任务，人的工作会从亲手执行，转向设计任务、喂给上下文、判断结果。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 32,
   "updates_7d": [
     {
       "date": "2026-06-24",
       "title": "想知道Seedance 2.0原生4K画质值不值得投入高额成本？小歪消耗大量积分完成720P与4K画质五组场景的对照测试，涵盖产品广告、古装、灾难短片等商用常用题材。4K成片细节质感提升显著，但成本门槛很高，15秒短片折算成本近百元，普通用户很难高频使用。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Airtable的CEO Howie Liu在Silicon Valley Girl的对话里，把重点落在一个更贴近管理者和产品人的变化：当 Agent 开始能跑几个小时的任务，人的工作会从亲手执行，转向设计任务、喂给上下文、判断结果。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -168,26 +178,6 @@
     {
       "date": "2026-06-19",
       "title": "Agent、Codex、Claude Code等产品的快速发展，让 AI 工程领域出现了一批新的术语：Prompt Engineering、Context Engineering、Loop Engineering、Harness Engineering。新名词越来越多，边界越来越模糊。这篇文章就带大家梳理下从Prompt Engineering到Harness Engineering：AI 工程体系的四次演进。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-18",
-      "title": "面对老板一句模糊的“简单分析一下”却无从下手？作者开源一个专用Agent Skill，用于拆解边界模糊的职场临时需求。它会自动反向确认分析目标、核验信息完整度、匹配适配分析模型，最终输出结论与适配领导沟通的精简话术。作者结合数据下滑归因、爆款内容拆解、新项目可行性评估三大高频场景进行实操演示，完整展示了使用流程。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-18",
-      "title": "本篇文章用写文章、规划副业、搭建AI助手三组实例对比模糊需求与可验收目标的差距，拆解了合格目标的五大核心要素。使用老金的这套思路可以大幅减少无效迭代，提升 AI 协作效率。快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-18",
-      "title": "如果你跟作者一样，代码看得懂但写不出来，数据结构是什么早就还给大学老师了， Git 只会 clone 和 push ，遇到 merge 冲突就原地投降。但你不怕麻烦，愿意对着报错信息一点点磨，愿意花一个下午搞明白一个配置项是什么意思。那么今天这篇文章，就是写给你的，作者会把如何做一个能上线、能赚钱、能商业化的软件的全过程摊开聊聊。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-18",
-      "title": "Anthropic CEO Dario Amodei的深度访谈横跨他离开 OpenAI、Claude 的企业路线、SaaS 冲击、白领岗位、国防合作和 AI 治理。这场访谈最有价值的地方在于把AI 的真实影响放回组织现场：商业模式、客户流程、岗位迁移、政府边界都会一起变化。让我们一起来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
