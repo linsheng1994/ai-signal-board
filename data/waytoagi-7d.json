@@ -1,25 +1,50 @@
 {
-  "generated_at": "2026-06-24T17:27:11.598936Z",
+  "generated_at": "2026-06-24T19:13:04.285194Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-24",
-  "count_today": 2,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-06-24",
+      "title": "真正理解AI 智能体如何工作的开发者，只占其中很小一部分。每周都会出现一个新的智能体框架。一个新工具。一次新的“这会改变一切”的发布。大多数开发者因此觉得自己落后了。但让你落后的，不是错过了某个新工具。而是没有理解这个工具背后的理念。这篇文章的30个概念，会出现在几乎所有智能体框架里，可以帮助你理解以后出现的每一个新工具。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-24",
       "title": "想知道Seedance 2.0原生4K画质值不值得投入高额成本？小歪消耗大量积分完成720P与4K画质五组场景的对照测试，涵盖产品广告、古装、灾难短片等商用常用题材。4K成片细节质感提升显著，但成本门槛很高，15秒短片折算成本近百元，普通用户很难高频使用。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
       "date": "2026-06-24",
+      "title": "定时任务经常静默失效、无效重复执行？Loop Engineering可以解决传统静态定时Agent的痛点，将单次提示词升级为可以自主判断、自检迭代的智能循环体系。有一个开源项目提供了五大核心模块、七套成熟生产模板，搭配三条CLI工具完成初始化、成本预估与环境检测，还设计了L1-L3分级放权机制，循序渐进放开自动化权限规避风险。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "你读完一本很棒的书。两周后，却连一个章节都想不起来。不是因为你笨，而是因为从来没人教过你如何真正学习。你可以在Claude里用20分钟跑完本文中的4个提示词，20分钟，让知识真正留在脑子里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-24",
       "title": "Airtable的CEO Howie Liu在Silicon Valley Girl的对话里，把重点落在一个更贴近管理者和产品人的变化：当 Agent 开始能跑几个小时的任务，人的工作会从亲手执行，转向设计任务、喂给上下文、判断结果。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Agent Memory 其实已经从“存聊天记录”分化成了一整套架构。规则、画像、历史、证据、反思和技能沉淀，各有各的存储方式、加载时机和治理难题。这篇文章想完整讲清楚的，就是截至 2026 年中，这套架构到底长什么样。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 36,
   "updates_7d": [
+    {
+      "date": "2026-06-24",
+      "title": "真正理解AI 智能体如何工作的开发者，只占其中很小一部分。每周都会出现一个新的智能体框架。一个新工具。一次新的“这会改变一切”的发布。大多数开发者因此觉得自己落后了。但让你落后的，不是错过了某个新工具。而是没有理解这个工具背后的理念。这篇文章的30个概念，会出现在几乎所有智能体框架里，可以帮助你理解以后出现的每一个新工具。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-24",
       "title": "想知道Seedance 2.0原生4K画质值不值得投入高额成本？小歪消耗大量积分完成720P与4K画质五组场景的对照测试，涵盖产品广告、古装、灾难短片等商用常用题材。4K成片细节质感提升显著，但成本门槛很高，15秒短片折算成本近百元，普通用户很难高频使用。",
@@ -27,7 +52,22 @@
     },
     {
       "date": "2026-06-24",
+      "title": "定时任务经常静默失效、无效重复执行？Loop Engineering可以解决传统静态定时Agent的痛点，将单次提示词升级为可以自主判断、自检迭代的智能循环体系。有一个开源项目提供了五大核心模块、七套成熟生产模板，搭配三条CLI工具完成初始化、成本预估与环境检测，还设计了L1-L3分级放权机制，循序渐进放开自动化权限规避风险。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "你读完一本很棒的书。两周后，却连一个章节都想不起来。不是因为你笨，而是因为从来没人教过你如何真正学习。你可以在Claude里用20分钟跑完本文中的4个提示词，20分钟，让知识真正留在脑子里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-24",
       "title": "Airtable的CEO Howie Liu在Silicon Valley Girl的对话里，把重点落在一个更贴近管理者和产品人的变化：当 Agent 开始能跑几个小时的任务，人的工作会从亲手执行，转向设计任务、喂给上下文、判断结果。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Agent Memory 其实已经从“存聊天记录”分化成了一整套架构。规则、画像、历史、证据、反思和技能沉淀，各有各的存储方式、加载时机和治理难题。这篇文章想完整讲清楚的，就是截至 2026 年中，这套架构到底长什么样。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
