@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T18:17:21.527332Z",
+  "generated_at": "2026-07-06T20:24:00.062431Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-06",
-  "count_today": 5,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-07-06",
@@ -19,6 +19,11 @@
     },
     {
       "date": "2026-07-06",
+      "title": "在WaytoAGI (社区) 和红杉中国联合举办的AGI Builder Camp里，邀请了来自Linkloud联创高宁老师分享。本文在还原高宁老师的讲述之外, yee以产品视角, 根据每个例子真实试用, 向下挖掘, 包含页面截图, 官方网站, 传播路径, 大家可以更加直观的感受到产品力, 也欢迎大家在yee的调研下延伸!",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-06",
       "title": "倒计时 1 天！Claude Fable 5 免费试用即将结束，精选了一些优质提示词，文档已开放编辑权限，欢迎补充你的独家Prompt！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
@@ -31,9 +36,14 @@
       "date": "2026-07-06",
       "title": "不少朋友或许也有类似感受： 概念听了很多，但还没真正从0到1搭过一个智能体，哪怕只是个 demo。所以这篇文章不先追求一个完美定义，先把Agent和工作流的边界讲清楚，再用一个案例实际跑一遍。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "GPT-5.6 Sol 是 OpenAI 在6月26日公开预览的 GPT-5.6 系列旗舰模型，定位为该系列中能力最强的一档。整理了一些用户的实测案例，快来看看效果如何！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 31,
+  "count_7d": 33,
   "updates_7d": [
     {
       "date": "2026-07-06",
@@ -47,6 +57,11 @@
     },
     {
       "date": "2026-07-06",
+      "title": "在WaytoAGI (社区) 和红杉中国联合举办的AGI Builder Camp里，邀请了来自Linkloud联创高宁老师分享。本文在还原高宁老师的讲述之外, yee以产品视角, 根据每个例子真实试用, 向下挖掘, 包含页面截图, 官方网站, 传播路径, 大家可以更加直观的感受到产品力, 也欢迎大家在yee的调研下延伸!",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-06",
       "title": "倒计时 1 天！Claude Fable 5 免费试用即将结束，精选了一些优质提示词，文档已开放编辑权限，欢迎补充你的独家Prompt！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
@@ -58,6 +73,11 @@
     {
       "date": "2026-07-06",
       "title": "不少朋友或许也有类似感受： 概念听了很多，但还没真正从0到1搭过一个智能体，哪怕只是个 demo。所以这篇文章不先追求一个完美定义，先把Agent和工作流的边界讲清楚，再用一个案例实际跑一遍。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "GPT-5.6 Sol 是 OpenAI 在6月26日公开预览的 GPT-5.6 系列旗舰模型，定位为该系列中能力最强的一档。整理了一些用户的实测案例，快来看看效果如何！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
