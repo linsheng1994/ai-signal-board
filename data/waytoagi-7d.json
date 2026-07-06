@@ -1,15 +1,30 @@
 {
-  "generated_at": "2026-07-06T15:59:47.485425Z",
+  "generated_at": "2026-07-06T18:17:21.527332Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-06",
-  "count_today": 2,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-07-06",
+      "title": "这期Augmented U的嘉宾是 Masha Sharma，Groupon的VP。她做过工程、产品、CTO和创始人，也曾在Avenue One帮公司做到超过10亿美元估值。现在，她的任务是把Groupon的商家体验改造成AI-first growth engine。整场访谈绕着一个问题展开：组织里的工作到底由谁来做。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-06",
       "title": "本周热门AI论文合集覆盖自我迭代、MCP 架构、记忆管理、机器人与硬件设计全赛道前沿突破。多篇研究破解了固定评测机制造成的性能增长停滞、技能检索冗余、模型幻觉置信度失调、长时序记忆难管控等普遍难题，给出评估器协同演化、元记忆自主学习、技能联合生成等创新解法，给Agent 开发、模型优化提供了完整新思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "倒计时 1 天！Claude Fable 5 免费试用即将结束，精选了一些优质提示词，文档已开放编辑权限，欢迎补充你的独家Prompt！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "不知道该学什么技能？AI、编程、营销、做自媒体……学什么都怕两年后过时。知名独立创作者 Dan Koe点明读懂人性是最保值的技能。学会之后，你再学任何别的技能，威力都会跟着涨。因为不管你做产品、找工作还是搞创作，掏钱的、给机会的、给资源的，都是人。小互这篇文章做了完整拆解，一起来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -18,11 +33,26 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 31,
   "updates_7d": [
     {
       "date": "2026-07-06",
+      "title": "这期Augmented U的嘉宾是 Masha Sharma，Groupon的VP。她做过工程、产品、CTO和创始人，也曾在Avenue One帮公司做到超过10亿美元估值。现在，她的任务是把Groupon的商家体验改造成AI-first growth engine。整场访谈绕着一个问题展开：组织里的工作到底由谁来做。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-06",
       "title": "本周热门AI论文合集覆盖自我迭代、MCP 架构、记忆管理、机器人与硬件设计全赛道前沿突破。多篇研究破解了固定评测机制造成的性能增长停滞、技能检索冗余、模型幻觉置信度失调、长时序记忆难管控等普遍难题，给出评估器协同演化、元记忆自主学习、技能联合生成等创新解法，给Agent 开发、模型优化提供了完整新思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "倒计时 1 天！Claude Fable 5 免费试用即将结束，精选了一些优质提示词，文档已开放编辑权限，欢迎补充你的独家Prompt！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "不知道该学什么技能？AI、编程、营销、做自媒体……学什么都怕两年后过时。知名独立创作者 Dan Koe点明读懂人性是最保值的技能。学会之后，你再学任何别的技能，威力都会跟着涨。因为不管你做产品、找工作还是搞创作，掏钱的、给机会的、给资源的，都是人。小互这篇文章做了完整拆解，一起来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -158,36 +188,6 @@
     {
       "date": "2026-07-01",
       "title": "Product Hunt 是一个海外新产品集中亮相的地方：AI 工具、SaaS、浏览器插件、开源项目每天上新，用户现场投票、提问、挑刺。读完这篇，你会知道第一次打开该点哪里，看到一个产品怎么判断靠不靠谱，评论区怎么挖真实问题；如果你也想发布产品，哪些规则和坑要先绕开。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "随着模型和Harness逐步趋同，真正决定Agent能力边界的，会越来越是Context。未来，模型能力会不断提升，Harness会越来越趋同。谁拥有更高质量、更完整、更实时更新的Context，谁就能形成复利，并取得更多价值。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "很多人用AI做PPT都会踩坑：文字模糊、不能加动画，反复修改还容易耗尽模型上下文。作者小水借助Codex打造了一个专属PPT技能库，收纳了12套完整HTML演示模板，覆盖学生作业、职场汇报、政企宣讲、个人作品集等常见场景。跳出单纯生成静态图片的局限，产出的PPT可以自由编辑、添加动态效果。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "很多人一听到 GitHub，第一反应是： 程序员才用的东西，全是代码和英文。 我又不会编程，看它干嘛？但很多工具、产品、创业方向、AI 应用，在变成大众产品之前，往往会先在 GitHub 上出现。这篇就是写给纯小白的。只讲一件事： 普通人怎么用 GitHub 获取有价值的信息。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "卡尔的开源AI热点工具ai-news-radar迎来重磅更新。普通用户无需配置即可直接在线阅览，开发者还可以建立专属的资讯站。卡尔内置了两个Skill分工筛选、聚合全网信源，还新增了小红书、抖音短视频热点专区；同时收录了大厂官方一手公告与开源更新内容，省去了跨平台搜集、甄别信息的成本。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "DevSpace自托管MCP工具可以解决 ChatGPT 网页Pro额度闲置、Codex额度紧缺的问题。通过隧道工具搭建云端与本地代码的通路，让网页端Pro模型直接读写本地项目、执行测试、读取项目配置，发挥顶尖推理能力。文中提供了一键部署指令，覆盖环境校验、目录权限管控、公网隧道搭建、ChatGPT网页绑定全流程。如果你是Codex重度用户，不妨试试。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "6月海内外重磅开源各类大模型，覆盖代码、多模态、视频、语音、科学、手机智能体等全赛道。智谱GLM-5.2、Kimi-K2.7-Code等国产编码模型实力突出，谷歌、字节、百度、小米等大厂接连放出音视频、OCR、终端智能体新品，还有面向生物、材料的专业科研模型落地。一起来看看具体都有哪些！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
