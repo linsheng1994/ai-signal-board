@@ -1,45 +1,75 @@
 {
-  "generated_at": "2026-07-08T09:06:02.557867Z",
+  "generated_at": "2026-07-09T07:00:37.006918Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-07-07",
+  "latest_date": "2026-07-08",
   "count_today": 6,
   "updates_today": [
     {
-      "date": "2026-07-07",
-      "title": "排版问题怎么解决？每次发完文章之后都有很多朋友问公众号是怎么排版的，这次甲木和小李直接封装成Skill开源，兼容所有国内Agent和相关模型，希望每个人都能把自己的颜色、比例、审美偏好，生成一套专属公众号排版风格。欢迎fork、star和提issue。",
+      "date": "2026-07-08",
+      "title": "这篇文章要解决的就是一件事： 让 AI 拿到你的上下文，开始基于你的资料干活。看完之后，你可以获得：一个最小知识库目录结构，一套从安全任务开始跑通的流程，两段可以复制的提示词，以及一个选工具的判断标准。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-07",
-      "title": "前几天，我们在京都参加了 IVS 2026。这次活动非常热闹，7月1日-3日共3天时间里，一共来了13,000多人，这里面有非常多创业者、开发者、投资人和企业家。今年我们是第一次以参展商的身份来到 IVS，还组了现场逛展群，邀请熟悉当地市场的开发者带大家逛，并且在会后整理了非常丰富的日本AI市场信息。一起来看看！",
+      "date": "2026-07-08",
+      "title": "藏师傅这款开源绘图 Skill 可以一次性解决 AI 配图信息模糊、文字错乱、图表粗糙等高频问题。而且它还自带高级的3D 材质视觉体系，可以自动区分流程图、数据图表、教学原理图等场景；遇到小众专业概念会先检索参考素材，重构图表时会提取语义进行重绘。快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-07",
-      "title": "Greg Isenberg 在这期 Startup Ideas Podcast 里，把 Agent SaaS 讲得很直白：过去 SaaS 公司卖一套软件，让团队自己进去点按钮；现在 Agent 产品要卖掉的是一份原本由人完成的工作。餐厅接电话、维修公司排工单、客服处理退款、物业分派供应商，原来都是工资、外包或低效协作成本。Greg 的判断很适合今天还在想 AI 产品方向的人：先别急着做一个很大的平台，先找到一个每天重复、老板愿意付钱、结果能验收的小工作。",
+      "date": "2026-07-08",
+      "title": "本周AI音乐周报覆盖版权博弈、大厂整合、轻量化创作工具与前沿学术论文四大核心动态。大厂正加速生态洗牌：谷歌关停实验项目，转向一站式全链路音乐平台Flow Music；音频名厂iZotope并入视觉巨头Boris FX，打造音画一体流。Suno内测移动端声音克隆并探索API，ElevenMusic推出短视频工具包。还有六篇关于歌声编辑、音乐生成、音频评估方向的学术论文带来全新研究进展！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-07",
-      "title": "Claude官方发布了一篇关于循环工程的文章，将带你了解几种主要的循环类型、适用场景，以及如何在控制token消耗的同时，保证产出的代码质量。并不是所有任务都需要复杂的循环；建议从最简单的方案开始上手，然后根据实际情况灵活挑选这些模式。",
+      "date": "2026-07-08",
+      "title": "多模态 图像创作模型——Seedream 5.0 Pro今天正式发布，全方位补齐了图像创作的各类短板。模型在图文匹配、结构合理性、文字渲染与画面美感等基础能力上都有全面提升，既能把密集文字、复杂数据转化为规整专业的可视化图纸，也支持圈选、图层拆分、多图融合等精细化交互式修改，同时还可以高度还原真实人像的光影肌理，一站式满足高密度图文、写实人像、多语言创作需求。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-07",
-      "title": "BrowserAct 近期在 AI Agent 圈子彻底爆火。作者这篇文章拆解了它的核心亮点以及安装步骤。如果你也想让Agent真正跑进真实网页，而不是只停留在在一个干净的 demo页，可以用这个Skill跑一下试试。",
+      "date": "2026-07-08",
+      "title": "作者整理了 12种运镜 + 8种转场 + 4套组合连招 + 5条心法 ，每种都配了通用模板和具体示例，可以直接套用到你自己的AI视频提示词里。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-07",
-      "title": "AI 视频「没有真人感」的问题，根本原因不在于模型，用最强的 Seedance 2.0 跑出来的假人比比皆是，而是要在提示词里有没有写「不完美」。饼干哥哥把这套「写不完美」的方法拆成了八个维度，每一个都配了能直接抄的提示词公式。快上手试试效果！",
+      "date": "2026-07-08",
+      "title": "Loop 这个东西，最近经常被提到。本文是大聪明结合Claude的文档做了详细拆解。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 35,
   "updates_7d": [
+    {
+      "date": "2026-07-08",
+      "title": "这篇文章要解决的就是一件事： 让 AI 拿到你的上下文，开始基于你的资料干活。看完之后，你可以获得：一个最小知识库目录结构，一套从安全任务开始跑通的流程，两段可以复制的提示词，以及一个选工具的判断标准。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "藏师傅这款开源绘图 Skill 可以一次性解决 AI 配图信息模糊、文字错乱、图表粗糙等高频问题。而且它还自带高级的3D 材质视觉体系，可以自动区分流程图、数据图表、教学原理图等场景；遇到小众专业概念会先检索参考素材，重构图表时会提取语义进行重绘。快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "本周AI音乐周报覆盖版权博弈、大厂整合、轻量化创作工具与前沿学术论文四大核心动态。大厂正加速生态洗牌：谷歌关停实验项目，转向一站式全链路音乐平台Flow Music；音频名厂iZotope并入视觉巨头Boris FX，打造音画一体流。Suno内测移动端声音克隆并探索API，ElevenMusic推出短视频工具包。还有六篇关于歌声编辑、音乐生成、音频评估方向的学术论文带来全新研究进展！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "多模态 图像创作模型——Seedream 5.0 Pro今天正式发布，全方位补齐了图像创作的各类短板。模型在图文匹配、结构合理性、文字渲染与画面美感等基础能力上都有全面提升，既能把密集文字、复杂数据转化为规整专业的可视化图纸，也支持圈选、图层拆分、多图融合等精细化交互式修改，同时还可以高度还原真实人像的光影肌理，一站式满足高密度图文、写实人像、多语言创作需求。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "作者整理了 12种运镜 + 8种转场 + 4套组合连招 + 5条心法 ，每种都配了通用模板和具体示例，可以直接套用到你自己的AI视频提示词里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "Loop 这个东西，最近经常被提到。本文是大聪明结合Claude的文档做了详细拆解。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-07",
       "title": "排版问题怎么解决？每次发完文章之后都有很多朋友问公众号是怎么排版的，这次甲木和小李直接封装成Skill开源，兼容所有国内Agent和相关模型，希望每个人都能把自己的颜色、比例、审美偏好，生成一套专属公众号排版风格。欢迎fork、star和提issue。",
@@ -183,31 +213,6 @@
     {
       "date": "2026-07-03",
       "title": "作者单人运营账号，两个月时间内拿到了抖音8k多粉丝，小红书2k粉丝的结果，总结了这套用codex做视频的方法论。创作者只需要输出核心观点与调整需求。Codex 搭建标准化复用工作流，Remotion 稳定渲染成片，就可以轻松保持高频更新节奏。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-02",
-      "title": "还在频繁切换翻译、PDF、聊天窗口来读技术论文？成峰这款开源的论文Skill能直接砍掉一半的阅读耗时。依托模型理解、一体化交互、浏览器操控三层能力，搭建了单屏共读体系，上传论文链接或者PDF即可生成专属中文解读页面。遇到专业术语、难懂段落还可以直接标记提问，解释内容实时回填到原文，读完还能一键整合全篇。快来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-02",
-      "title": "如果你现在正在学 Agent 开发，我知道那种迷茫感。每周都有新工具、新框架、新模型、新发布，过一段时间之后，你根本搞不清到底该学什么。学工具？学框架？等下一个更好的？读完这篇文章之后，你会用简单的语言理解 agentic engineering 概念。下次你再读到 Agent 文章、看演示、或者看到 AI 新闻时，你能认识背后的原理。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-02",
-      "title": "做小红书、公众号图文的创作者不用再陷入静态图单薄、短视频制作繁琐的纠结啦！藏师傅这款社交卡片全新上线 Live Photo 动态制作功能。它可以基于录屏、游戏、生活等短视频素材产出单图、多宫格、并列三连动态图文。内置多重校验逻辑，可以自动筛选适配片段、优化首帧画面、区分各个平台的适配时长，快来上手试试。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-02",
-      "title": "作者实测Claude Fable5模型，它的规划审核能力远超Codex，适合用于复杂系统的迭代。另外依托Fable5还优化落地了一套基于Obsidian搭建的Agent 记忆系统，文末开源了配套的Skill，可以直接部署或者二次改造搭建专属工作流。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-02",
-      "title": "企业里的 AI 项目很容易先变成一个长长的工具清单：接邮箱、接表格、接 Figma、接 Salesforce，再把权限、数据、日志和审批塞进同一个大 Agent。那么IT 团队开始盯着环境变量、运行时、观测日志和权限边界发愁。未来的企业 Agent 可能不会沿着“一个大模型吃下所有工具”的路线长大，而会拆成一组更小、更专、更容易控制的 domain-specific agents。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
