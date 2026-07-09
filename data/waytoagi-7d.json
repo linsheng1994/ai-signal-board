@@ -1,23 +1,73 @@
 {
-  "generated_at": "2026-07-09T16:27:16.816030Z",
+  "generated_at": "2026-07-09T18:18:02.788720Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-09",
-  "count_today": 1,
+  "count_today": 6,
   "updates_today": [
+    {
+      "date": "2026-07-09",
+      "title": "家里有中小学孩子、常常要做教辅可视化的家长与老师，这套开源教学Skill可以帮到你们。输入知识点即可自动匹配年级学科，一键生成静态知识图解，覆盖文理多学科；配套动画生成工具还可以生成带配音讲解的教学短片。除此之外，其中还内置了勘误机制来修正知识漏洞，快来上手试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "作者最近又在GitHub翻到几个挺有意思的AI项目，汇总到了这篇文章里。每个项目都简单介绍了一下它是干嘛的、适合谁、值得看的一点。感兴趣的小伙伴可以先收藏，后面真用到的时候再慢慢折腾。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "WaytoAGI 社区成立三年多，这中间我们见过非常多的AI创业者，也有很多惊艳的产品。很多产品达到一定阶段，最头疼的问题其实是「增长」。AI 产品要走向全球，需要一套从「品牌定位」到「市场触达」的 GTM 增长系统。WaytoAGI 孵化的新项目：WaytoGrowth，专门服务 AI 品牌和有出海需求的创新公司，让产品更容易被发现、更值得信任，并持续获得全球需求。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Seedream5.0 Pro 发布了，作者用60多组提示词拿它跟目前最强的gpt image 2图像模型进行了对比，看看在相同的提示词下，会有什么不同的效果。都是高频常见场景，包括课程海报、公众号封面、课程卡片、电商详情页、人物海报、角色设定、国风文化海报。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-09",
       "title": "OpenAI 于 2026 年7月8日发布新一代语音模型 GPT-Live，并把它作为 ChatGPT Voice 的新一代底层模型，今天起面向全球用户上线。本文是 OpenAI 官方发布博客的解读。文中的评测结果、偏好数据和安全测试结论均为 OpenAI 自评与内部测试口径，尚无第三方独立验证。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Instagram负责人Mosseri在接手Instagram前，他做过 Facebook News Feed，也带过 Facebook 的排序算法团队。这期 Mosseri 聊了Instagram怎么处理AI内容，AI 能写代码、拉数据、生成内容、解释推荐系统以后，人还负责什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-07-09",
+      "title": "家里有中小学孩子、常常要做教辅可视化的家长与老师，这套开源教学Skill可以帮到你们。输入知识点即可自动匹配年级学科，一键生成静态知识图解，覆盖文理多学科；配套动画生成工具还可以生成带配音讲解的教学短片。除此之外，其中还内置了勘误机制来修正知识漏洞，快来上手试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "作者最近又在GitHub翻到几个挺有意思的AI项目，汇总到了这篇文章里。每个项目都简单介绍了一下它是干嘛的、适合谁、值得看的一点。感兴趣的小伙伴可以先收藏，后面真用到的时候再慢慢折腾。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "WaytoAGI 社区成立三年多，这中间我们见过非常多的AI创业者，也有很多惊艳的产品。很多产品达到一定阶段，最头疼的问题其实是「增长」。AI 产品要走向全球，需要一套从「品牌定位」到「市场触达」的 GTM 增长系统。WaytoAGI 孵化的新项目：WaytoGrowth，专门服务 AI 品牌和有出海需求的创新公司，让产品更容易被发现、更值得信任，并持续获得全球需求。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Seedream5.0 Pro 发布了，作者用60多组提示词拿它跟目前最强的gpt image 2图像模型进行了对比，看看在相同的提示词下，会有什么不同的效果。都是高频常见场景，包括课程海报、公众号封面、课程卡片、电商详情页、人物海报、角色设定、国风文化海报。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-09",
       "title": "OpenAI 于 2026 年7月8日发布新一代语音模型 GPT-Live，并把它作为 ChatGPT Voice 的新一代底层模型，今天起面向全球用户上线。本文是 OpenAI 官方发布博客的解读。文中的评测结果、偏好数据和安全测试结论均为 OpenAI 自评与内部测试口径，尚无第三方独立验证。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Instagram负责人Mosseri在接手Instagram前，他做过 Facebook News Feed，也带过 Facebook 的排序算法团队。这期 Mosseri 聊了Instagram怎么处理AI内容，AI 能写代码、拉数据、生成内容、解释推荐系统以后，人还负责什么。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
