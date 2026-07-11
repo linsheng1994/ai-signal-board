@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T17:59:06.305246Z",
+  "generated_at": "2026-07-11T19:17:33.002006Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-11",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-07-11",
@@ -26,9 +26,14 @@
       "date": "2026-07-11",
       "title": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "作者这套开源Skill包含12个可以独立使用的科研 Skill，包括确定研究问题、检索文献、提取论文、整理证据、设计研究、检查偏倚、写论文和准备投稿，需要的材料和判断并不相同。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-07-11",
@@ -48,6 +53,11 @@
     {
       "date": "2026-07-11",
       "title": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "作者这套开源Skill包含12个可以独立使用的科研 Skill，包括确定研究问题、检索文献、提取论文、整理证据、设计研究、检查偏倚、写论文和准备投稿，需要的材料和判断并不相同。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
