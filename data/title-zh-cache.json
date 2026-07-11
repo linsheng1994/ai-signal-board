@@ -17711,5 +17711,6 @@
   "Prefer Strict Tables in SQLite": "更喜欢 SQLite 中的严格表",
   "Earendel (Astronomical Object)": "Earendel（天文物体）",
   "Ofcom Wants American Police to Collect Its Speech Fine": "Ofcom 希望美国警方对其言论进行罚款收集",
-  "pgrust passes 100% of the Postgres regression tests": "prust 通过了 100% 的 Postgres 回归测试"
+  "pgrust passes 100% of the Postgres regression tests": "prust 通过了 100% 的 Postgres 回归测试",
+  "UPI: Anatomy of a Payment Transaction": "UPI：支付交易剖析"
 }
