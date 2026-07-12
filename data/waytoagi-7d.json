@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-07-12T15:33:11.707170Z",
+  "generated_at": "2026-07-12T16:58:24.701664Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-12",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
+    {
+      "date": "2026-07-12",
+      "title": "飞书CLI接入各类AI编程工具后可一键读写文档、多维表格、日历、群聊、云空间与会议纪要，还能联动网页抓取、视频拆解、绘图生成、PPT 制作工具。这篇文章分享了一些创意玩法，覆盖知识库归档、短视频脚本解析、电商素材产出、产品商机分析等多元场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-12",
       "title": "如果你也是长期使用Seedance做视频的创作者，海辛阿文这份踩坑心得能帮你避开海量无效网红提示词，省去大量试错成本。他们提炼了极简的四段式提示词模板，依托参考图固定主体与场景，规避人物比例失调问题，仅生成音效方便后期配乐，简洁文字标注镜头信息即可出片。除此之外，还纠正了一些营销号传播的不实技巧，快来看看都有哪些！",
@@ -23,8 +28,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 40,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-07-12",
+      "title": "飞书CLI接入各类AI编程工具后可一键读写文档、多维表格、日历、群聊、云空间与会议纪要，还能联动网页抓取、视频拆解、绘图生成、PPT 制作工具。这篇文章分享了一些创意玩法，覆盖知识库归档、短视频脚本解析、电商素材产出、产品商机分析等多元场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-12",
       "title": "如果你也是长期使用Seedance做视频的创作者，海辛阿文这份踩坑心得能帮你避开海量无效网红提示词，省去大量试错成本。他们提炼了极简的四段式提示词模板，依托参考图固定主体与场景，规避人物比例失调问题，仅生成音效方便后期配乐，简洁文字标注镜头信息即可出片。除此之外，还纠正了一些营销号传播的不实技巧，快来看看都有哪些！",
@@ -188,41 +198,6 @@
     {
       "date": "2026-07-07",
       "title": "AI 视频「没有真人感」的问题，根本原因不在于模型，用最强的 Seedance 2.0 跑出来的假人比比皆是，而是要在提示词里有没有写「不完美」。饼干哥哥把这套「写不完美」的方法拆成了八个维度，每一个都配了能直接抄的提示词公式。快上手试试效果！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "这期Augmented U的嘉宾是 Masha Sharma，Groupon的VP。她做过工程、产品、CTO和创始人，也曾在Avenue One帮公司做到超过10亿美元估值。现在，她的任务是把Groupon的商家体验改造成AI-first growth engine。整场访谈绕着一个问题展开：组织里的工作到底由谁来做。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "本周热门AI论文合集覆盖自我迭代、MCP 架构、记忆管理、机器人与硬件设计全赛道前沿突破。多篇研究破解了固定评测机制造成的性能增长停滞、技能检索冗余、模型幻觉置信度失调、长时序记忆难管控等普遍难题，给出评估器协同演化、元记忆自主学习、技能联合生成等创新解法，给Agent 开发、模型优化提供了完整新思路。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "在WaytoAGI (社区) 和红杉中国联合举办的AGI Builder Camp里，邀请了来自Linkloud联创高宁老师分享。本文在还原高宁老师的讲述之外, yee以产品视角, 根据每个例子真实试用, 向下挖掘, 包含页面截图, 官方网站, 传播路径, 大家可以更加直观的感受到产品力, 也欢迎大家在yee的调研下延伸!",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "倒计时 1 天！Claude Fable 5 免费试用即将结束，精选了一些优质提示词，文档已开放编辑权限，欢迎补充你的独家Prompt！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "不知道该学什么技能？AI、编程、营销、做自媒体……学什么都怕两年后过时。知名独立创作者 Dan Koe点明读懂人性是最保值的技能。学会之后，你再学任何别的技能，威力都会跟着涨。因为不管你做产品、找工作还是搞创作，掏钱的、给机会的、给资源的，都是人。小互这篇文章做了完整拆解，一起来看看！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "不少朋友或许也有类似感受： 概念听了很多，但还没真正从0到1搭过一个智能体，哪怕只是个 demo。所以这篇文章不先追求一个完美定义，先把Agent和工作流的边界讲清楚，再用一个案例实际跑一遍。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "GPT-5.6 Sol 是 OpenAI 在6月26日公开预览的 GPT-5.6 系列旗舰模型，定位为该系列中能力最强的一档。整理了一些用户的实测案例，快来看看效果如何！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
