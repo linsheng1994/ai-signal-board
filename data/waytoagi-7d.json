@@ -1,15 +1,30 @@
 {
-  "generated_at": "2026-07-12T16:58:24.701664Z",
+  "generated_at": "2026-07-12T18:03:05.057833Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-12",
-  "count_today": 4,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-07-12",
       "title": "飞书CLI接入各类AI编程工具后可一键读写文档、多维表格、日历、群聊、云空间与会议纪要，还能联动网页抓取、视频拆解、绘图生成、PPT 制作工具。这篇文章分享了一些创意玩法，覆盖知识库归档、短视频脚本解析、电商素材产出、产品商机分析等多元场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "本周十篇顶尖前沿论文补齐了智能体生产落地全链路技术方案。内容包含无训练连续验证奖励、长记忆架构 HOLA、MoE 模型轻量化压缩、编排框架效率增益、长文本证据复用 ReContext 等创新方案，同时还给出智能体通用故障分类、超大文本检索、RLVR 风格坍缩修复、AI 复现学术论文等落地方法论。全部成果都经过多基准实测，可直接用于推理提速、智能体安全治理、长上下文性能优化，大幅降低生产环境部署成本与风险。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "常年批量制作淘宝、亚马逊商品图的手工艺商家，这套子母二段式提示词体系可以帮你处理AI篡改产品造型的低效难题。整套框架划分为产品变量、锁定实物细节的母提示词、定义画面用途的子提示词三层结构。 图片一换，变量只改一点点，整套电商视觉就能跟着跑。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "如果你最近也在用 Codex、Claude Code 搭建网站，这套DESIGN.md工具方案能帮你摆脱千篇一律的廉价模板感。文中按不同使用场景推荐了对应工具，从找品牌设计灵感、抓取站点规范、浏览器实时提取样式、一站式落地页面全流程全覆盖，带你拆解成熟产品的底层设计规则。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -28,11 +43,26 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-07-12",
       "title": "飞书CLI接入各类AI编程工具后可一键读写文档、多维表格、日历、群聊、云空间与会议纪要，还能联动网页抓取、视频拆解、绘图生成、PPT 制作工具。这篇文章分享了一些创意玩法，覆盖知识库归档、短视频脚本解析、电商素材产出、产品商机分析等多元场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "本周十篇顶尖前沿论文补齐了智能体生产落地全链路技术方案。内容包含无训练连续验证奖励、长记忆架构 HOLA、MoE 模型轻量化压缩、编排框架效率增益、长文本证据复用 ReContext 等创新方案，同时还给出智能体通用故障分类、超大文本检索、RLVR 风格坍缩修复、AI 复现学术论文等落地方法论。全部成果都经过多基准实测，可直接用于推理提速、智能体安全治理、长上下文性能优化，大幅降低生产环境部署成本与风险。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "常年批量制作淘宝、亚马逊商品图的手工艺商家，这套子母二段式提示词体系可以帮你处理AI篡改产品造型的低效难题。整套框架划分为产品变量、锁定实物细节的母提示词、定义画面用途的子提示词三层结构。 图片一换，变量只改一点点，整套电商视觉就能跟着跑。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "如果你最近也在用 Codex、Claude Code 搭建网站，这套DESIGN.md工具方案能帮你摆脱千篇一律的廉价模板感。文中按不同使用场景推荐了对应工具，从找品牌设计灵感、抓取站点规范、浏览器实时提取样式、一站式落地页面全流程全覆盖，带你拆解成熟产品的底层设计规则。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
