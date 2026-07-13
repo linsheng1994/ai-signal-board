@@ -1,50 +1,35 @@
 {
-  "generated_at": "2026-07-13T02:49:03.023078Z",
+  "generated_at": "2026-07-13T06:19:14.917460Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-07-12",
-  "count_today": 7,
+  "latest_date": "2026-07-13",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-07-12",
-      "title": "飞书CLI接入各类AI编程工具后可一键读写文档、多维表格、日历、群聊、云空间与会议纪要，还能联动网页抓取、视频拆解、绘图生成、PPT 制作工具。这篇文章分享了一些创意玩法，覆盖知识库归档、短视频脚本解析、电商素材产出、产品商机分析等多元场景。",
+      "date": "2026-07-13",
+      "title": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-12",
-      "title": "本周十篇顶尖前沿论文补齐了智能体生产落地全链路技术方案。内容包含无训练连续验证奖励、长记忆架构 HOLA、MoE 模型轻量化压缩、编排框架效率增益、长文本证据复用 ReContext 等创新方案，同时还给出智能体通用故障分类、超大文本检索、RLVR 风格坍缩修复、AI 复现学术论文等落地方法论。全部成果都经过多基准实测，可直接用于推理提速、智能体安全治理、长上下文性能优化，大幅降低生产环境部署成本与风险。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-12",
-      "title": "常年批量制作淘宝、亚马逊商品图的手工艺商家，这套子母二段式提示词体系可以帮你处理AI篡改产品造型的低效难题。整套框架划分为产品变量、锁定实物细节的母提示词、定义画面用途的子提示词三层结构。 图片一换，变量只改一点点，整套电商视觉就能跟着跑。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-12",
-      "title": "如果你最近也在用 Codex、Claude Code 搭建网站，这套DESIGN.md工具方案能帮你摆脱千篇一律的廉价模板感。文中按不同使用场景推荐了对应工具，从找品牌设计灵感、抓取站点规范、浏览器实时提取样式、一站式落地页面全流程全覆盖，带你拆解成熟产品的底层设计规则。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-12",
-      "title": "如果你也是长期使用Seedance做视频的创作者，海辛阿文这份踩坑心得能帮你避开海量无效网红提示词，省去大量试错成本。他们提炼了极简的四段式提示词模板，依托参考图固定主体与场景，规避人物比例失调问题，仅生成音效方便后期配乐，简洁文字标注镜头信息即可出片。除此之外，还纠正了一些营销号传播的不实技巧，快来看看都有哪些！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-12",
-      "title": "AJ受邀参加了D20峰会 AI 云智能分论坛 Go! Vibe Designing，做了一场「AI时代的设计流程重组」的分享，还和播客主理人刘飞、B 站 UP 主抽象仔一起，把圆桌聊成了一场现场播客。下面就和线上的朋友们一起回顾下AJ的分享内容！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-12",
-      "title": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
+      "date": "2026-07-13",
+      "title": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 39,
   "updates_7d": [
+    {
+      "date": "2026-07-13",
+      "title": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-12",
       "title": "飞书CLI接入各类AI编程工具后可一键读写文档、多维表格、日历、群聊、云空间与会议纪要，还能联动网页抓取、视频拆解、绘图生成、PPT 制作工具。这篇文章分享了一些创意玩法，覆盖知识库归档、短视频脚本解析、电商素材产出、产品商机分析等多元场景。",
