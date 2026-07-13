@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T12:31:31.878654Z",
+  "generated_at": "2026-07-13T15:44:08.993934Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-13",
-  "count_today": 2,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-07-13",
@@ -14,15 +14,35 @@
     },
     {
       "date": "2026-07-13",
+      "title": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-13",
       "title": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 41,
   "updates_7d": [
     {
       "date": "2026-07-13",
       "title": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
