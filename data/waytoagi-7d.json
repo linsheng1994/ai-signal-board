@@ -1,45 +1,35 @@
 {
-  "generated_at": "2026-07-14T13:43:22.413985Z",
+  "generated_at": "2026-07-14T16:44:46.154821Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-07-13",
-  "count_today": 6,
+  "latest_date": "2026-07-14",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-07-13",
-      "title": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
+      "date": "2026-07-14",
+      "title": "姚金刚这篇个人复盘记录了105天的完整成长轨迹，用实打实的数据展现了 AI 赋能下的内容与开源成果。从入驻 X、组织 GEO 大会，到连续开源 GEOFlow、TokHub、Meta Skill 等项目，他把想法验证、产品开发、发布反馈的周期大幅压缩。这篇文章记录的，就是这三个半月里，他做了什么、为什么做，以及在这个过程中得到的一些判断。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-13",
-      "title": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-13",
-      "title": "最近大家对WorkBuddy的兴趣越来越高，但教程散落、新用户想系统学一遍，得自己到处翻。于是甲木和刘聪、苍何、袋鼠帝、摸鱼小李一起把真实任务、实战案例和踩坑经验整理成了一份WorkBuddy开源蓝皮书，希望大家也能真正照着用起来。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-13",
-      "title": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-13",
-      "title": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-13",
-      "title": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
+      "date": "2026-07-14",
+      "title": "上周末，400 多位朋友聚到杭州，参加了飞书的 「AI 绝活大会」 。这次活动非常丰富， 第一天是创作者小聚，人人都来动手 vibe coding，现场诞生了 23 个绝活；第二天将近300人分组动手， 90 分钟搓出来了 35 个作品。我们整理了AJ、飞书开放平台产品经理-牛晶泾、张咋啦三场分享的完整内容，快来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 33,
   "updates_7d": [
+    {
+      "date": "2026-07-14",
+      "title": "姚金刚这篇个人复盘记录了105天的完整成长轨迹，用实打实的数据展现了 AI 赋能下的内容与开源成果。从入驻 X、组织 GEO 大会，到连续开源 GEOFlow、TokHub、Meta Skill 等项目，他把想法验证、产品开发、发布反馈的周期大幅压缩。这篇文章记录的，就是这三个半月里，他做了什么、为什么做，以及在这个过程中得到的一些判断。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "上周末，400 多位朋友聚到杭州，参加了飞书的 「AI 绝活大会」 。这次活动非常丰富， 第一天是创作者小聚，人人都来动手 vibe coding，现场诞生了 23 个绝活；第二天将近300人分组动手， 90 分钟搓出来了 35 个作品。我们整理了AJ、飞书开放平台产品经理-牛晶泾、张咋啦三场分享的完整内容，快来看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-13",
       "title": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
@@ -193,36 +183,6 @@
     {
       "date": "2026-07-09",
       "title": "Instagram负责人Mosseri在接手Instagram前，他做过 Facebook News Feed，也带过 Facebook 的排序算法团队。这期 Mosseri 聊了Instagram怎么处理AI内容，AI 能写代码、拉数据、生成内容、解释推荐系统以后，人还负责什么。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "这篇文章要解决的就是一件事： 让 AI 拿到你的上下文，开始基于你的资料干活。看完之后，你可以获得：一个最小知识库目录结构，一套从安全任务开始跑通的流程，两段可以复制的提示词，以及一个选工具的判断标准。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "藏师傅这款开源绘图 Skill 可以一次性解决 AI 配图信息模糊、文字错乱、图表粗糙等高频问题。而且它还自带高级的3D 材质视觉体系，可以自动区分流程图、数据图表、教学原理图等场景；遇到小众专业概念会先检索参考素材，重构图表时会提取语义进行重绘。快来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "本周AI音乐周报覆盖版权博弈、大厂整合、轻量化创作工具与前沿学术论文四大核心动态。大厂正加速生态洗牌：谷歌关停实验项目，转向一站式全链路音乐平台Flow Music；音频名厂iZotope并入视觉巨头Boris FX，打造音画一体流。Suno内测移动端声音克隆并探索API，ElevenMusic推出短视频工具包。还有六篇关于歌声编辑、音乐生成、音频评估方向的学术论文带来全新研究进展！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "多模态 图像创作模型——Seedream 5.0 Pro今天正式发布，全方位补齐了图像创作的各类短板。模型在图文匹配、结构合理性、文字渲染与画面美感等基础能力上都有全面提升，既能把密集文字、复杂数据转化为规整专业的可视化图纸，也支持圈选、图层拆分、多图融合等精细化交互式修改，同时还可以高度还原真实人像的光影肌理，一站式满足高密度图文、写实人像、多语言创作需求。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "作者整理了 12种运镜 + 8种转场 + 4套组合连招 + 5条心法 ，每种都配了通用模板和具体示例，可以直接套用到你自己的AI视频提示词里。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "Loop 这个东西，最近经常被提到。本文是大聪明结合Claude的文档做了详细拆解。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
