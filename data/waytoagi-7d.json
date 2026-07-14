@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-07-14T16:44:46.154821Z",
+  "generated_at": "2026-07-14T19:51:10.375272Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-14",
-  "count_today": 2,
+  "count_today": 5,
   "updates_today": [
+    {
+      "date": "2026-07-14",
+      "title": "这篇文章把RAG从头到尾讲透。它从哪儿来，这几年怎么一步步变的，技术上到底怎么转起来，怎么自己动手搭一个最小的，怎么判断它好不好，以及在2026年这个上下文窗口动辄上百万、智能体满天飞的时候，它还值不值得你投入。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "很多人每天都在和AI对话，却仍然觉得它不懂自己。新会话一开，项目背景、沟通偏好、过去做过的决定又要重讲一遍。Dan Martell在这期视频里拆解了自己用于管理多家公司和日常事务的AI大脑：把个人资料放进AI能长期读取的文件系统，再用固定结构持续整理。对普通使用者来说，这套方法的价值是：少写重复提示词，让AI获得足够上下文，逐步接手会议整理、信息检索和日常执行。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "很多人做“纸片风视频”，只是把一张完整图片放大、缩小，再加一点镜头移动。这样能动，但没有层次。真正的纸片分层动画，核心不是生成一张漂亮的图，而是把背景、建筑、主角、配角和前景分别做成独立素材，再让每一层按照不同节奏运动。这篇教程作者以自己做的唐朝视频为例，把完整操作流程拆开讲清楚。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-14",
       "title": "姚金刚这篇个人复盘记录了105天的完整成长轨迹，用实打实的数据展现了 AI 赋能下的内容与开源成果。从入驻 X、组织 GEO 大会，到连续开源 GEOFlow、TokHub、Meta Skill 等项目，他把想法验证、产品开发、发布反馈的周期大幅压缩。这篇文章记录的，就是这三个半月里，他做了什么、为什么做，以及在这个过程中得到的一些判断。",
@@ -18,8 +33,23 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 36,
   "updates_7d": [
+    {
+      "date": "2026-07-14",
+      "title": "这篇文章把RAG从头到尾讲透。它从哪儿来，这几年怎么一步步变的，技术上到底怎么转起来，怎么自己动手搭一个最小的，怎么判断它好不好，以及在2026年这个上下文窗口动辄上百万、智能体满天飞的时候，它还值不值得你投入。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "很多人每天都在和AI对话，却仍然觉得它不懂自己。新会话一开，项目背景、沟通偏好、过去做过的决定又要重讲一遍。Dan Martell在这期视频里拆解了自己用于管理多家公司和日常事务的AI大脑：把个人资料放进AI能长期读取的文件系统，再用固定结构持续整理。对普通使用者来说，这套方法的价值是：少写重复提示词，让AI获得足够上下文，逐步接手会议整理、信息检索和日常执行。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "很多人做“纸片风视频”，只是把一张完整图片放大、缩小，再加一点镜头移动。这样能动，但没有层次。真正的纸片分层动画，核心不是生成一张漂亮的图，而是把背景、建筑、主角、配角和前景分别做成独立素材，再让每一层按照不同节奏运动。这篇教程作者以自己做的唐朝视频为例，把完整操作流程拆开讲清楚。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-14",
       "title": "姚金刚这篇个人复盘记录了105天的完整成长轨迹，用实打实的数据展现了 AI 赋能下的内容与开源成果。从入驻 X、组织 GEO 大会，到连续开源 GEOFlow、TokHub、Meta Skill 等项目，他把想法验证、产品开发、发布反馈的周期大幅压缩。这篇文章记录的，就是这三个半月里，他做了什么、为什么做，以及在这个过程中得到的一些判断。",
