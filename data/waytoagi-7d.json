@@ -1,25 +1,50 @@
 {
-  "generated_at": "2026-07-16T16:48:30.613533Z",
+  "generated_at": "2026-07-16T23:24:55.151955Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-16",
-  "count_today": 2,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-07-16",
+      "title": "这一期访谈的嘉宾是Granola联合创始人兼 CEO Chris Pedregal，Granola 因AI会议记录出圈，公司估值也已到15亿美元量级。这场对话最有价值的是Chris如何看待下一代工作软件：当会议、邮件、Slack 和代理都变成上下文的一部分，产品真正要争的，可能不再是“帮你记笔记”，而是成为人和 AI 协作时最可靠的工作入口。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-16",
       "title": "期待已久的 WAIC 明天就要正式开幕了！前两天，我们发布了为 逛WAIC 整理的两个网站：参访指南： waic-guide.waytoagi.com、Side Events 聚合站： waic.waytoagi.com。为了更方便大家用， 我们的WAIC Side Events小程序也正式上线了！不用记链接，打开一次后，就会自动进入「微信小程序-最近使用」。和网址功能类似，你可以查看活动详情 （包括主题、时间、地址等）、一键复制报名链接，也可以查看票券、通知 。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
       "date": "2026-07-16",
       "title": "很多团队做用户访谈，问了一堆“你觉得怎么样”“你愿意付费吗”，最后得到的却只是礼貌性答案。这篇文章把200+次访谈里真正有用的方法拎了出来：别问用户未来会不会用，要追问他上一次怎么解决、哪里最痛、花了多少时间或钱，最好直接看他现场操作。对做产品、出海、增长的人来说，这可以帮你让每一场用户对话都能落地指导产品迭代与定价。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "写公众号最头疼的，往往不是正文，而是标题：太平没人点，太猛又像标题党。刘聪开源了一个“公众号标题 Skill”，用645篇历史文章蒸馏出不同内容类型的标题套路，能按稳健准确、网感点击、专业权威、长期价值等方向生成候选标题，还会顺手标出标题党、术语堆砌、证据不足等等风险。很适合在发布文章之前帮你打开思路，少一点标题焦虑。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "你是不是也在 Claude、ChatGPT、Gemini之间来回横跳，每换一个工具就要重新解释一遍背景？这篇文章聊的就是这个高频痛点：AI 工具越来越强，但记忆还是割裂的，最后人变成了“搬运上下文的 API”。文章分享了一个跨模型记忆工具：Unibase Memory，可以把有价值的对话、网页和项目上下文保存成可搜索、可注入的记忆，让不同AI接着彼此的工作继续干活。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Kimi K3 正式发布，它是一个2.8万亿参数模型，原生支持视觉理解，并拥有100万token上下文窗口。它主要面向长程编程、知识工作和推理等前沿智能场景而设计。 即日起，可通过kimi.com 、最新版Kimi 手机App 、最新版Kimi Work桌面客户端、Kimi Code和 Kimi API 来使用。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 30,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-07-16",
+      "title": "这一期访谈的嘉宾是Granola联合创始人兼 CEO Chris Pedregal，Granola 因AI会议记录出圈，公司估值也已到15亿美元量级。这场对话最有价值的是Chris如何看待下一代工作软件：当会议、邮件、Slack 和代理都变成上下文的一部分，产品真正要争的，可能不再是“帮你记笔记”，而是成为人和 AI 协作时最可靠的工作入口。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-16",
       "title": "期待已久的 WAIC 明天就要正式开幕了！前两天，我们发布了为 逛WAIC 整理的两个网站：参访指南： waic-guide.waytoagi.com、Side Events 聚合站： waic.waytoagi.com。为了更方便大家用， 我们的WAIC Side Events小程序也正式上线了！不用记链接，打开一次后，就会自动进入「微信小程序-最近使用」。和网址功能类似，你可以查看活动详情 （包括主题、时间、地址等）、一键复制报名链接，也可以查看票券、通知 。",
@@ -28,6 +53,21 @@
     {
       "date": "2026-07-16",
       "title": "很多团队做用户访谈，问了一堆“你觉得怎么样”“你愿意付费吗”，最后得到的却只是礼貌性答案。这篇文章把200+次访谈里真正有用的方法拎了出来：别问用户未来会不会用，要追问他上一次怎么解决、哪里最痛、花了多少时间或钱，最好直接看他现场操作。对做产品、出海、增长的人来说，这可以帮你让每一场用户对话都能落地指导产品迭代与定价。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "写公众号最头疼的，往往不是正文，而是标题：太平没人点，太猛又像标题党。刘聪开源了一个“公众号标题 Skill”，用645篇历史文章蒸馏出不同内容类型的标题套路，能按稳健准确、网感点击、专业权威、长期价值等方向生成候选标题，还会顺手标出标题党、术语堆砌、证据不足等等风险。很适合在发布文章之前帮你打开思路，少一点标题焦虑。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "你是不是也在 Claude、ChatGPT、Gemini之间来回横跳，每换一个工具就要重新解释一遍背景？这篇文章聊的就是这个高频痛点：AI 工具越来越强，但记忆还是割裂的，最后人变成了“搬运上下文的 API”。文章分享了一个跨模型记忆工具：Unibase Memory，可以把有价值的对话、网页和项目上下文保存成可搜索、可注入的记忆，让不同AI接着彼此的工作继续干活。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Kimi K3 正式发布，它是一个2.8万亿参数模型，原生支持视觉理解，并拥有100万token上下文窗口。它主要面向长程编程、知识工作和推理等前沿智能场景而设计。 即日起，可通过kimi.com 、最新版Kimi 手机App 、最新版Kimi Work桌面客户端、Kimi Code和 Kimi API 来使用。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
