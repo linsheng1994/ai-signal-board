@@ -1,40 +1,35 @@
 {
-  "generated_at": "2026-07-16T12:59:11.079159Z",
+  "generated_at": "2026-07-16T16:48:30.613533Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-07-15",
-  "count_today": 5,
+  "latest_date": "2026-07-16",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-07-15",
-      "title": "长期囤积素材、苦于选题杂乱排期的内容创作者，卡尔这套开源待办工具不容错过！它可以完美解决素材堆积、重复选题、日程同步等等难题。仅仅设置三类文件夹即可运行，还可以进行个性化改造，快来上手试试。",
+      "date": "2026-07-16",
+      "title": "期待已久的 WAIC 明天就要正式开幕了！前两天，我们发布了为 逛WAIC 整理的两个网站：参访指南： waic-guide.waytoagi.com、Side Events 聚合站： waic.waytoagi.com。为了更方便大家用， 我们的WAIC Side Events小程序也正式上线了！不用记链接，打开一次后，就会自动进入「微信小程序-最近使用」。和网址功能类似，你可以查看活动详情 （包括主题、时间、地址等）、一键复制报名链接，也可以查看票券、通知 。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-15",
-      "title": "最近刷到不少教 Codex + Remotion 做视频的教程，然后你照着做，发现做出来的东西根本没法发。只有画面没有声音，或者配了音但音画对不上，画面就是一页一页的 PPT 在翻，满屏都是字。关键环节还是整体框架：每一步该做什么、该盯什么、坑在哪。框架对了，剩下的交给AI就行。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-15",
-      "title": "宝玉最近做了一个字幕转录翻译剪辑 Skill —— BaoCut（仅支持 Mac）。借助这个Agent Skill，可以转录视频、对转录结果识别Speaker、润色（纠正错别字口癖等）、也可以根据转录结果对视频进行简单的剪辑，比如删除口癖、重复等。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-15",
-      "title": "今天这篇文章小歪整理了12种AI人像图片创意玩法，做头像、朋友圈配图、旅行记录、表情包都能用。每种都附了完整提示词，可以适用于GPT Image 2、谷歌Nano banana、即梦、豆包、小云雀 等，直接复制抄作业就行。每个案例都只放了效果图，大家使用的时候是需要根据不同场景，上传自己的真人照片的，才能对人像进行魔改。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-15",
-      "title": "Y Combinator的设计负责人在这期对话里展示了自己最近做的三个项目：用Paxel观察人们如何与编码Agent协作，用Sodazine记录旧金山的城市故事，再用一套新的设计工具为Startup School制作视觉资产。对设计师、产品经理和工程师来说，这里面最值得关注的并不是某个工具的功能，而是设计师开始拥有了一种新的工作姿势：把想法说清楚，把上下文准备好，再为自己造出一组随时可以丢弃的工具。",
+      "date": "2026-07-16",
+      "title": "很多团队做用户访谈，问了一堆“你觉得怎么样”“你愿意付费吗”，最后得到的却只是礼貌性答案。这篇文章把200+次访谈里真正有用的方法拎了出来：别问用户未来会不会用，要追问他上一次怎么解决、哪里最痛、花了多少时间或钱，最好直接看他现场操作。对做产品、出海、增长的人来说，这可以帮你让每一场用户对话都能落地指导产品迭代与定价。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 30,
   "updates_7d": [
+    {
+      "date": "2026-07-16",
+      "title": "期待已久的 WAIC 明天就要正式开幕了！前两天，我们发布了为 逛WAIC 整理的两个网站：参访指南： waic-guide.waytoagi.com、Side Events 聚合站： waic.waytoagi.com。为了更方便大家用， 我们的WAIC Side Events小程序也正式上线了！不用记链接，打开一次后，就会自动进入「微信小程序-最近使用」。和网址功能类似，你可以查看活动详情 （包括主题、时间、地址等）、一键复制报名链接，也可以查看票券、通知 。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "很多团队做用户访谈，问了一堆“你觉得怎么样”“你愿意付费吗”，最后得到的却只是礼貌性答案。这篇文章把200+次访谈里真正有用的方法拎了出来：别问用户未来会不会用，要追问他上一次怎么解决、哪里最痛、花了多少时间或钱，最好直接看他现场操作。对做产品、出海、增长的人来说，这可以帮你让每一场用户对话都能落地指导产品迭代与定价。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-15",
       "title": "长期囤积素材、苦于选题杂乱排期的内容创作者，卡尔这套开源待办工具不容错过！它可以完美解决素材堆积、重复选题、日程同步等等难题。仅仅设置三类文件夹即可运行，还可以进行个性化改造，快来上手试试。",
@@ -173,41 +168,6 @@
     {
       "date": "2026-07-11",
       "title": "作者这套开源Skill包含12个可以独立使用的科研 Skill，包括确定研究问题、检索文献、提取论文、整理证据、设计研究、检查偏倚、写论文和准备投稿，需要的材料和判断并不相同。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-10",
-      "title": "这里是Codex史诗级更新的最全面解读，你所产生的疑问和你必须知道的最新玩法都在这里面。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-10",
-      "title": "这期内容对于产品经理和创始人来说不容错过：它把“看数据”从一个汇报动作拉回到产品动作，可以知道哪个用户需要被访谈，哪个功能真的在形成习惯，哪个看似成功的渠道只带来一次性试用。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-10",
-      "title": "如果你是产品经理、项目经理、运营，或者任何经常要把别人一句话变成可执行事项的人， 这个Skill就是写给你的 。它会帮你把这句话反问拆解成一份需求沟通清单 。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-10",
-      "title": "卡尔这篇文章完整拆解了 GPT 5.6 全系列更新的亮点。而且还整理了3个高阶提示词，涵盖产品黑盒自测、项目风险审查、多模型协同编排实操方案，快来上手试试。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-10",
-      "title": "关于Seedream 5.0 Pro，小歪做了8个维度的案例测试。而且，为了看看同一套提示词下，不同模型的效果，甚至同样都是Seedream 5.0 Pro，不同工具是不是会有差异。她把 即梦的Seedream 5.0 Pro 、 豆包的Seedream 5.0 Pro 、 GPT的Image 2 和 Gemini的Nano banana Pro 四个效果放在一起，给大家看看对比。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-10",
-      "title": "为什么 AI 总不按照我们的思路生成图片？为什么老是有些离谱操作？为什么用 AI 工具写提示词也会翻车？为什么明显错误的动作，抽卡很多次也无法避免？今天就和阿真一起来看看，相信你看完以后生图翻车情况会少很多，翻车了也会立马知道问题出在哪里。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-10",
-      "title": "一个完全不熟 Reddit 的人，怎么先活下来，再用它看需求、找选题、做产品调研，并避开那些一上来就会踩的规则和账号坑。这篇文章带你看懂！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
