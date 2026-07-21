@@ -1,20 +1,30 @@
 {
-  "generated_at": "2026-07-21T07:07:12.238895Z",
+  "generated_at": "2026-07-21T10:01:19.465454Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-21",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
+    {
+      "date": "2026-07-21",
+      "title": "很多人做AI 工作流，一上来就想选工具、搭知识库、跑Agent，结果越做越散。作者这篇文章把一个公众号内容运营的案例完整拆开，展示了它怎样从一个小 Skill 起步，经过小样 MVP 验证，再扩展到历史资料批处理、未来资料增量处理，最后形成一组能重复使用的Agent工作流。很适合开发者、运营、内容创作者一起看，尤其是想把真实业务交给AI，但还不知道怎么起步的人。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-21",
       "title": "AI 辅助做科研最吓人的一刻，可能就是导师一查：你引用的论文根本不存在。卡尔这篇文章把GitHub上一批科研向Codex / Claude Skills实测了一遍，从防假引用、批量读文献、跑实验数据、社科实证、英文润色，到无人值守改稿，给出一份能抄作业的工具清单。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
+    {
+      "date": "2026-07-21",
+      "title": "很多人做AI 工作流，一上来就想选工具、搭知识库、跑Agent，结果越做越散。作者这篇文章把一个公众号内容运营的案例完整拆开，展示了它怎样从一个小 Skill 起步，经过小样 MVP 验证，再扩展到历史资料批处理、未来资料增量处理，最后形成一组能重复使用的Agent工作流。很适合开发者、运营、内容创作者一起看，尤其是想把真实业务交给AI，但还不知道怎么起步的人。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-21",
       "title": "AI 辅助做科研最吓人的一刻，可能就是导师一查：你引用的论文根本不存在。卡尔这篇文章把GitHub上一批科研向Codex / Claude Skills实测了一遍，从防假引用、批量读文献、跑实验数据、社科实证、英文润色，到无人值守改稿，给出一份能抄作业的工具清单。",
