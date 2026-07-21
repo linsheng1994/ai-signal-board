@@ -1,15 +1,35 @@
 {
-  "generated_at": "2026-07-21T16:22:35.282650Z",
+  "generated_at": "2026-07-21T17:52:54.588530Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-21",
-  "count_today": 2,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-07-21",
+      "title": "很多人选Agent模型，最容易踩的坑就是只看谁最强，结果高难任务用错模型、日常任务烧爆 token，扛不住成本。一泽把最近发布的这些新模型：Fable 5、GPT 5.6 Sol、Deepseek V4、Kimi K3、Qwen3.8-Max 放到真实产品的开发里跑了一遍发现Fable 适合高难新项目和架构判断，GPT 适合日常复杂开发，Deepseek 更适合 To C Agent 默认模型，Kimi 强在高视觉前端但消耗太快，Qwen 长程任务进步很明显。想少花冤枉 token，这篇值得打开对照一下。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "很多人看Kimi K3，第一反应还是盯榜单：参数多大、排第几、打赢了谁。真正容易错过的是，它到底能帮我们做出哪些东西。作者整理了20种玩法：浏览器游戏、3D 产品、物理模拟、落地页、全栈脚手架、数据看板、代码迁移、多模态截图/视频转代码等等。快来挑几个prompt跑一遍试试效果！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "很多人用AI写小红书，一上来就丢一句“帮我写爆款”，结果热词、表情、标题都有了，读起来却像硬广，三秒就被划走。老金这个Skill或许会帮到你：先逼你想明白内容类型、目标读者、真实素材、视觉路线和哪些地方必须人人为同意，再生成标题、封面、6到8张内页、正文、标签和发布前自检。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-21",
       "title": "很多人做AI 工作流，一上来就想选工具、搭知识库、跑Agent，结果越做越散。作者这篇文章把一个公众号内容运营的案例完整拆开，展示了它怎样从一个小 Skill 起步，经过小样 MVP 验证，再扩展到历史资料批处理、未来资料增量处理，最后形成一组能重复使用的Agent工作流。很适合开发者、运营、内容创作者一起看，尤其是想把真实业务交给AI，但还不知道怎么起步的人。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "作者开源了一个能把任意 n8n 工作流，解构后重写成 Agent skill 的元 skill的工具：n8n-to-skill。如果你也想把之前已经搭好、跑了很久的 n8n 工作流变成 Agent 能直接调用的原生 skill，这篇文章或许会帮助到你！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -18,11 +38,31 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 36,
   "updates_7d": [
     {
       "date": "2026-07-21",
+      "title": "很多人选Agent模型，最容易踩的坑就是只看谁最强，结果高难任务用错模型、日常任务烧爆 token，扛不住成本。一泽把最近发布的这些新模型：Fable 5、GPT 5.6 Sol、Deepseek V4、Kimi K3、Qwen3.8-Max 放到真实产品的开发里跑了一遍发现Fable 适合高难新项目和架构判断，GPT 适合日常复杂开发，Deepseek 更适合 To C Agent 默认模型，Kimi 强在高视觉前端但消耗太快，Qwen 长程任务进步很明显。想少花冤枉 token，这篇值得打开对照一下。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "很多人看Kimi K3，第一反应还是盯榜单：参数多大、排第几、打赢了谁。真正容易错过的是，它到底能帮我们做出哪些东西。作者整理了20种玩法：浏览器游戏、3D 产品、物理模拟、落地页、全栈脚手架、数据看板、代码迁移、多模态截图/视频转代码等等。快来挑几个prompt跑一遍试试效果！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "很多人用AI写小红书，一上来就丢一句“帮我写爆款”，结果热词、表情、标题都有了，读起来却像硬广，三秒就被划走。老金这个Skill或许会帮到你：先逼你想明白内容类型、目标读者、真实素材、视觉路线和哪些地方必须人人为同意，再生成标题、封面、6到8张内页、正文、标签和发布前自检。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-21",
       "title": "很多人做AI 工作流，一上来就想选工具、搭知识库、跑Agent，结果越做越散。作者这篇文章把一个公众号内容运营的案例完整拆开，展示了它怎样从一个小 Skill 起步，经过小样 MVP 验证，再扩展到历史资料批处理、未来资料增量处理，最后形成一组能重复使用的Agent工作流。很适合开发者、运营、内容创作者一起看，尤其是想把真实业务交给AI，但还不知道怎么起步的人。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "作者开源了一个能把任意 n8n 工作流，解构后重写成 Agent skill 的元 skill的工具：n8n-to-skill。如果你也想把之前已经搭好、跑了很久的 n8n 工作流变成 Agent 能直接调用的原生 skill，这篇文章或许会帮助到你！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
