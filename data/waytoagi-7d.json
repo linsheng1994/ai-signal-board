@@ -1,45 +1,65 @@
 {
-  "generated_at": "2026-07-22T15:45:09.865979Z",
+  "generated_at": "2026-07-22T18:41:34.399188Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-07-21",
-  "count_today": 6,
+  "latest_date": "2026-07-22",
+  "count_today": 5,
   "updates_today": [
     {
-      "date": "2026-07-21",
-      "title": "很多人选Agent模型，最容易踩的坑就是只看谁最强，结果高难任务用错模型、日常任务烧爆 token，扛不住成本。一泽把最近发布的这些新模型：Fable 5、GPT 5.6 Sol、Deepseek V4、Kimi K3、Qwen3.8-Max 放到真实产品的开发里跑了一遍发现Fable 适合高难新项目和架构判断，GPT 适合日常复杂开发，Deepseek 更适合 To C Agent 默认模型，Kimi 强在高视觉前端但消耗太快，Qwen 长程任务进步很明显。想少花冤枉 token，这篇值得打开对照一下。",
+      "date": "2026-07-22",
+      "title": "最近ChatCut很火，黄叔研究了一下它的整个迭代历程：从PaperCut把文字变成剪辑对象，到对话剪辑、AI生成MG，再到通用剪辑Agent，最后接入Codex / ChatGPT，变成背后的专业执行层。发现真正值得琢磨的是专业软件的新护城河：可调用、可观察、可编辑、可接管。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-21",
-      "title": "很多人看Kimi K3，第一反应还是盯榜单：参数多大、排第几、打赢了谁。真正容易错过的是，它到底能帮我们做出哪些东西。作者整理了20种玩法：浏览器游戏、3D 产品、物理模拟、落地页、全栈脚手架、数据看板、代码迁移、多模态截图/视频转代码等等。快来挑几个prompt跑一遍试试效果！",
+      "date": "2026-07-22",
+      "title": "很多创业复盘最容易变成“成功学清单”，看完很燃，但是最后还是不知道该抓什么。Founders播客主理人David Senra的这期访谈适合创始人、AI 产品人、开发者和长期做内容/项目的人看。一起来看看他在研究了400多位创始人后学到了什么！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-21",
-      "title": "很多人用AI写小红书，一上来就丢一句“帮我写爆款”，结果热词、表情、标题都有了，读起来却像硬广，三秒就被划走。老金这个Skill或许会帮到你：先逼你想明白内容类型、目标读者、真实素材、视觉路线和哪些地方必须人人为同意，再生成标题、封面、6到8张内页、正文、标签和发布前自检。",
+      "date": "2026-07-22",
+      "title": "很多人做知识库，最容易高估PDF：文件上传了、链接存好了，就以为Agent能用了。结果真要搜索、双链、改写、整理时，PDF 还是一个“沉默附件”。那么一份PDF怎样才能发挥最大价值？一起来看看作者给出的详细路线！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-21",
-      "title": "很多人做AI 工作流，一上来就想选工具、搭知识库、跑Agent，结果越做越散。作者这篇文章把一个公众号内容运营的案例完整拆开，展示了它怎样从一个小 Skill 起步，经过小样 MVP 验证，再扩展到历史资料批处理、未来资料增量处理，最后形成一组能重复使用的Agent工作流。很适合开发者、运营、内容创作者一起看，尤其是想把真实业务交给AI，但还不知道怎么起步的人。",
+      "date": "2026-07-22",
+      "title": "多数人做产品，一上来就想原创、想颠覆，最后用 AI 把一个没人要的想法做得很完整。刘小排借硅谷游戏公司 Zynga 的创始人 Mark Pincus 的Proven、Better、New框架，拆解了下绝大多数成功产品的实现路径：先研究同平台、同用户、同场景里已经验证过的模式；再做一个十个用户都会觉得明显更好的改进；再给用户一个尝试理由，并快速测试多个变化。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-21",
-      "title": "作者开源了一个能把任意 n8n 工作流，解构后重写成 Agent skill 的元 skill的工具：n8n-to-skill。如果你也想把之前已经搭好、跑了很久的 n8n 工作流变成 Agent 能直接调用的原生 skill，这篇文章或许会帮助到你！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-21",
-      "title": "AI 辅助做科研最吓人的一刻，可能就是导师一查：你引用的论文根本不存在。卡尔这篇文章把GitHub上一批科研向Codex / Claude Skills实测了一遍，从防假引用、批量读文献、跑实验数据、社科实证、英文润色，到无人值守改稿，给出一份能抄作业的工具清单。",
+      "date": "2026-07-22",
+      "title": "做内容最头疼的往往不是写长文，而是写完后的分发：拆观点、改各个平台的语气、想Hook、配图、加 CTA，一套流程反复做，真的很耗人。作者把100次内容分发经验做成一个Agent Skill：先把长文拆成Claims、Data、Insights 等9类“内容原子”，再生成3条分别负责吸引注意力、增加互动、提高转化的社媒帖子，还能做ICP推断、Hook评分和配图建议。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 35,
   "updates_7d": [
+    {
+      "date": "2026-07-22",
+      "title": "最近ChatCut很火，黄叔研究了一下它的整个迭代历程：从PaperCut把文字变成剪辑对象，到对话剪辑、AI生成MG，再到通用剪辑Agent，最后接入Codex / ChatGPT，变成背后的专业执行层。发现真正值得琢磨的是专业软件的新护城河：可调用、可观察、可编辑、可接管。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "很多创业复盘最容易变成“成功学清单”，看完很燃，但是最后还是不知道该抓什么。Founders播客主理人David Senra的这期访谈适合创始人、AI 产品人、开发者和长期做内容/项目的人看。一起来看看他在研究了400多位创始人后学到了什么！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "很多人做知识库，最容易高估PDF：文件上传了、链接存好了，就以为Agent能用了。结果真要搜索、双链、改写、整理时，PDF 还是一个“沉默附件”。那么一份PDF怎样才能发挥最大价值？一起来看看作者给出的详细路线！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "多数人做产品，一上来就想原创、想颠覆，最后用 AI 把一个没人要的想法做得很完整。刘小排借硅谷游戏公司 Zynga 的创始人 Mark Pincus 的Proven、Better、New框架，拆解了下绝大多数成功产品的实现路径：先研究同平台、同用户、同场景里已经验证过的模式；再做一个十个用户都会觉得明显更好的改进；再给用户一个尝试理由，并快速测试多个变化。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "做内容最头疼的往往不是写长文，而是写完后的分发：拆观点、改各个平台的语气、想Hook、配图、加 CTA，一套流程反复做，真的很耗人。作者把100次内容分发经验做成一个Agent Skill：先把长文拆成Claims、Data、Insights 等9类“内容原子”，再生成3条分别负责吸引注意力、增加互动、提高转化的社媒帖子，还能做ICP推断、Hook评分和配图建议。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-21",
       "title": "很多人选Agent模型，最容易踩的坑就是只看谁最强，结果高难任务用错模型、日常任务烧爆 token，扛不住成本。一泽把最近发布的这些新模型：Fable 5、GPT 5.6 Sol、Deepseek V4、Kimi K3、Qwen3.8-Max 放到真实产品的开发里跑了一遍发现Fable 适合高难新项目和架构判断，GPT 适合日常复杂开发，Deepseek 更适合 To C Agent 默认模型，Kimi 强在高视觉前端但消耗太快，Qwen 长程任务进步很明显。想少花冤枉 token，这篇值得打开对照一下。",
@@ -188,36 +208,6 @@
     {
       "date": "2026-07-17",
       "title": "Claude Code 的设计负责人Meaghan Choi在 Dive Club 的这次对话里谈到的，不只是按钮、页面或视觉风格，而是一套正在成形的新工作方法：怎样设计没有传统界面的产品，怎样让 AI 从执行工具变成组织成员，以及当做东西越来越容易时，设计师该把判断力用在哪里。 Claude Code 的设计过程，也许正提前揭示了下一代设计工作的边界。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "这一期访谈的嘉宾是Granola联合创始人兼 CEO Chris Pedregal，Granola 因AI会议记录出圈，公司估值也已到15亿美元量级。这场对话最有价值的是Chris如何看待下一代工作软件：当会议、邮件、Slack 和代理都变成上下文的一部分，产品真正要争的，可能不再是“帮你记笔记”，而是成为人和 AI 协作时最可靠的工作入口。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "期待已久的 WAIC 明天就要正式开幕了！前两天，我们发布了为 逛WAIC 整理的两个网站：参访指南： waic-guide.waytoagi.com、Side Events 聚合站： waic.waytoagi.com。为了更方便大家用， 我们的WAIC Side Events小程序也正式上线了！不用记链接，打开一次后，就会自动进入「微信小程序-最近使用」。和网址功能类似，你可以查看活动详情 （包括主题、时间、地址等）、一键复制报名链接，也可以查看票券、通知 。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "很多团队做用户访谈，问了一堆“你觉得怎么样”“你愿意付费吗”，最后得到的却只是礼貌性答案。这篇文章把200+次访谈里真正有用的方法拎了出来：别问用户未来会不会用，要追问他上一次怎么解决、哪里最痛、花了多少时间或钱，最好直接看他现场操作。对做产品、出海、增长的人来说，这可以帮你让每一场用户对话都能落地指导产品迭代与定价。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "写公众号最头疼的，往往不是正文，而是标题：太平没人点，太猛又像标题党。刘聪开源了一个“公众号标题 Skill”，用645篇历史文章蒸馏出不同内容类型的标题套路，能按稳健准确、网感点击、专业权威、长期价值等方向生成候选标题，还会顺手标出标题党、术语堆砌、证据不足等等风险。很适合在发布文章之前帮你打开思路，少一点标题焦虑。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "你是不是也在 Claude、ChatGPT、Gemini之间来回横跳，每换一个工具就要重新解释一遍背景？这篇文章聊的就是这个高频痛点：AI 工具越来越强，但记忆还是割裂的，最后人变成了“搬运上下文的 API”。文章分享了一个跨模型记忆工具：Unibase Memory，可以把有价值的对话、网页和项目上下文保存成可搜索、可注入的记忆，让不同AI接着彼此的工作继续干活。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "Kimi K3 正式发布，它是一个2.8万亿参数模型，原生支持视觉理解，并拥有100万token上下文窗口。它主要面向长程编程、知识工作和推理等前沿智能场景而设计。 即日起，可通过kimi.com 、最新版Kimi 手机App 、最新版Kimi Work桌面客户端、Kimi Code和 Kimi API 来使用。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
