@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T16:45:59.919009Z",
+  "generated_at": "2026-07-28T18:14:09.754457Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-28",
-  "count_today": 6,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-07-28",
@@ -29,6 +29,11 @@
     },
     {
       "date": "2026-07-28",
+      "title": "Midjourney V8.2来了，结果发现一个比较明显的变化：V8.2最大的提升，是提示词的理解，参考逻辑的优化以及出图的整体稳定性上都有显著的提升。于是乎作者又做了一个系统的测试，对MJ有了久违的的惊喜。我们一起来看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-28",
       "title": "Agent 技术现在太多了：Harness框架、MCP、Skills、浏览器、桌面宿主、一眼看过去很容易乱。如果你也有这个烦恼，这篇文章或许会帮助到你。作者讲清了Prompt、Context、Loop、Graph、Skill、Harness的边界，也拆解了 Goal、Memory、Subagent、Handoff这些关键模块该怎么设计。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
@@ -38,7 +43,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 39,
   "updates_7d": [
     {
       "date": "2026-07-28",
@@ -58,6 +63,11 @@
     {
       "date": "2026-07-28",
       "title": "今日资本创始人 徐新 做客《高能量》播客：《Vol.227 具身新贵与投资女王：创新、热潮、泡沫和周期 》，输出了大量与具身、AI、投资相关的观点。快来一起看看一线投资人怎么判断 AI 大机会。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Midjourney V8.2来了，结果发现一个比较明显的变化：V8.2最大的提升，是提示词的理解，参考逻辑的优化以及出图的整体稳定性上都有显著的提升。于是乎作者又做了一个系统的测试，对MJ有了久违的的惊喜。我们一起来看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
