@@ -1,50 +1,55 @@
 {
-  "generated_at": "2026-07-29T14:40:55.068218Z",
+  "generated_at": "2026-07-29T16:21:26.112250Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-07-28",
-  "count_today": 7,
+  "latest_date": "2026-07-29",
+  "count_today": 4,
   "updates_today": [
     {
-      "date": "2026-07-28",
-      "title": "这篇内容将以亚马逊电商日常运营中的 ASIN 销量监控为案例，拆解一个跑在实际业务里的监控 Agent——从赋能效果、框架剖析，到完整的实现流程。案例来自电商场景，但真正想分享的是背后那个可迁移的 Agent 框架：换掉数据源和同步端，它可以搬到任何“定期看数据、重复做分析、只需要重要结论”的业务场景。",
+      "date": "2026-07-29",
+      "title": "现在聊大模型，很多人一头扎进参数、架构和算力。但这篇文章有个很妙的观察：AI核心圈越来越像一份“物理系就业报告”。文章从 Anthropic、Scaling Laws、ImageNet、扩散模型、grokking 等例子切入，拆解了物理训练为什么在今天变得值钱：会把复杂系统压成少数关键变量，会用实验和测量逼出现象，也敢承认理论边界。读完你或许会更理解，大模型正在变成一门研究“人造自然”的实验科学。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-28",
-      "title": "猫叔整理了 500 个可拆分、可组合、可本地化改写的欧美短剧情节模板。一半保持强情感商业性，另一半用于拓展更符合欧美长线审美的类型混合与人物复杂度。如果你也在做海外短剧，没灵感时可以借鉴下！",
+      "date": "2026-07-29",
+      "title": "晚点今天发了篇对 陈冕 的专访，作者围绕 LibTV、Lovart、融资、抄袭争议和 AI 应用竞争的高能表达整理成 66 条。来一起看看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-28",
-      "title": "很多人用编程Agent卡在一个尴尬点：AI 会写代码，但谁来喂上下文、检查安全、跑测试、判断结果真的过关？作者把Codex 当产品经理、Tech Lead和QA，让它在内置浏览器里指挥ChatGPT Pro：先读仓库、打包源码并排除密钥，再把复杂需求拆成多个Pro对话；Codex 负责本地落地、跑测试、反复修Bug。而且用Codex指挥ChatGPT Pro，会大大降低Codex的Token消耗。",
+      "date": "2026-07-29",
+      "title": "做Coding Agent，很多人盯着“哪个模型最强”，但OpenCode的增长提醒我们：选择权本身也能变成产品。OpenCode 不押单一模型，而是把70+模型、价格、上下文和供应商接入整理成可用能力，凭借多模型自由选择的差异化优势快速抢占市场，半年月活从65万冲到1300万。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-28",
-      "title": "今日资本创始人 徐新 做客《高能量》播客：《Vol.227 具身新贵与投资女王：创新、热潮、泡沫和周期 》，输出了大量与具身、AI、投资相关的观点。快来一起看看一线投资人怎么判断 AI 大机会。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Midjourney V8.2来了，结果发现一个比较明显的变化：V8.2最大的提升，是提示词的理解，参考逻辑的优化以及出图的整体稳定性上都有显著的提升。于是乎作者又做了一个系统的测试，对MJ有了久违的的惊喜。我们一起来看！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Agent 技术现在太多了：Harness框架、MCP、Skills、浏览器、桌面宿主、一眼看过去很容易乱。如果你也有这个烦恼，这篇文章或许会帮助到你。作者讲清了Prompt、Context、Loop、Graph、Skill、Harness的边界，也拆解了 Goal、Memory、Subagent、Handoff这些关键模块该怎么设计。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "22,580，这是 2019 年的 GPT-2 能装进 2026 年 Kimi K3 的数量。七年间，模型规模放大了 22,580 倍。但这段演进真的只是“堆参数”吗？这篇文章沿着 GPT-2、线性注意力、DeltaNet、Gated Delta Net、Kimi Linear 到 Kimi K3 的路径，看看模型架构到底改变了什么，又有哪些核心问题始终没有消失。",
+      "date": "2026-07-29",
+      "title": "作者从光年之外裸辞后，两个月写了30万行代码，复盘了长程Agent的真实落地链路：上下文怎么控、Skill/Tool/Memory 怎么服务任务、为什么要用文档协同、为什么评测和真实 user case 比概念更重要。后面还聊到垂直/通用 Agent、一级市场降温、大厂裁员和出海投流。想看一线 AI 创业者怎么自己下场找方向，这篇会带给你启发。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 37,
   "updates_7d": [
+    {
+      "date": "2026-07-29",
+      "title": "现在聊大模型，很多人一头扎进参数、架构和算力。但这篇文章有个很妙的观察：AI核心圈越来越像一份“物理系就业报告”。文章从 Anthropic、Scaling Laws、ImageNet、扩散模型、grokking 等例子切入，拆解了物理训练为什么在今天变得值钱：会把复杂系统压成少数关键变量，会用实验和测量逼出现象，也敢承认理论边界。读完你或许会更理解，大模型正在变成一门研究“人造自然”的实验科学。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "晚点今天发了篇对 陈冕 的专访，作者围绕 LibTV、Lovart、融资、抄袭争议和 AI 应用竞争的高能表达整理成 66 条。来一起看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "做Coding Agent，很多人盯着“哪个模型最强”，但OpenCode的增长提醒我们：选择权本身也能变成产品。OpenCode 不押单一模型，而是把70+模型、价格、上下文和供应商接入整理成可用能力，凭借多模型自由选择的差异化优势快速抢占市场，半年月活从65万冲到1300万。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "作者从光年之外裸辞后，两个月写了30万行代码，复盘了长程Agent的真实落地链路：上下文怎么控、Skill/Tool/Memory 怎么服务任务、为什么要用文档协同、为什么评测和真实 user case 比概念更重要。后面还聊到垂直/通用 Agent、一级市场降温、大厂裁员和出海投流。想看一线 AI 创业者怎么自己下场找方向，这篇会带给你启发。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-28",
       "title": "这篇内容将以亚马逊电商日常运营中的 ASIN 销量监控为案例，拆解一个跑在实际业务里的监控 Agent——从赋能效果、框架剖析，到完整的实现流程。案例来自电商场景，但真正想分享的是背后那个可迁移的 Agent 框架：换掉数据源和同步端，它可以搬到任何“定期看数据、重复做分析、只需要重要结论”的业务场景。",
@@ -208,36 +213,6 @@
     {
       "date": "2026-07-24",
       "title": "3000 多名学员、78 个搭子团，小鱿鱼翻完70多个群聊，重新拆解了下什么样的团长真的能带动一个学习团队。有群因为目标不清慢慢沉默，也有团长用一句具体建议把小白从挫败里拉回来；有人先做作业样板，让大家知道怎么开始；有人用数据看板让进度可见，同时保留人的温度；还有作品墙、私聊提醒、结营后的继续协作，把普通学员的完成感认真托住。如果你在做训练营、社群运营、AI学习小组，这篇文章不容错过：好的组织感，很多时候就藏在一次及时回应、一份样板、一次被看见里。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "最近ChatCut很火，下面是完整的操作指南，从安装到导出，每一步都配了截图。不管你用WorkBuddy还是 Codex，操作路径完全一致。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "千问昨天发布了生图模型： Qwen Image 3。小歪用50+ 组案例，把Qwen Image 3和GPT Image 2放在真人写实、高密度信息图、复杂中文、商业海报、UI、光影细节等场景里做了同题对比。GPT Image 2综合稳定性更强，尤其复杂文字更靠谱；Qwen Image 3 在海报、社媒配图、品牌概念稿上很能打，现在有免费额度，值得顺手试试。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "Hiro Analytics 用19个月做到百万美元 ARR，他专门服务邮件/短信营销代理商。为什么代理商是更省力的获客入口，什么样的工作值得被做成软件，小团队怎样在大平台旁边找到一块足以养活自己的市场。这期访谈会为你一一揭晓。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "Deepseek创始人梁文锋在近期一场近4小时的投资人闭门会议上，系统阐述了DeepSeek的核心战略。里面高频出现的是AGI、成本、开源、团队稳定和克制：产品是通往AGI的台阶，Coding Agent 是现阶段重点，持续学习是下一代模型的关键；商业化、C 端流量、超级App 都不急着抢，低价和开源则可以用来换更大的生态势能。这篇文章是收集到的52条言语。部分词句在保留原意的基础上，与原文可能略有出入。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "Black Forest Labs 发布全新多模态基础模型：FLUX 3。它既能基于文本提示词，也能结合图像、视频等输入参考来生成图像、视频加音频：单次生成最长20 秒带原生音频的视频，也支持关键帧、多语言对话、动态图文设计和多镜头串联；后续还会开放 FLUX 3 Video、Image、Action、Dev等能力。不过目前需要申请早期访问，如果感兴趣可以来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "Agent Skill 越做越多，最头疼的其实是维护。每个客户、每个场景都单独维护一套Skill，后面很容易变成“能力孤岛”。子木这套多租户Agent应用架构把Agent拆成共享核心能力、租户业务外壳、租户上下文和反馈闭环。通用能力统一升级，业务逻辑独立演进，再用真实反馈持续优化，来把Agent Skill变成能长期进化的产品架构。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
