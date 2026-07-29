@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T16:21:26.112250Z",
+  "generated_at": "2026-07-29T19:16:06.696788Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-29",
-  "count_today": 4,
+  "count_today": 8,
   "updates_today": [
     {
       "date": "2026-07-29",
@@ -14,7 +14,27 @@
     },
     {
       "date": "2026-07-29",
+      "title": "每天在X上刷 AI 信息，最烦的不是看不到好东西，而是刷完就散了：论文、工具、工作流都收藏一堆，回头想找又像大海捞针。作者开源了一个 x-scan Skill，可以让Agent打开独立 Chrome 浏览器扫描X信息流或关键词搜索，按AI相关词初筛，再用Tweet ID去重，最后把作者、正文、数据和链接保存成Markdown，丢进 Obsidian或其他知识库应用。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-29",
       "title": "晚点今天发了篇对 陈冕 的专访，作者围绕 LibTV、Lovart、融资、抄袭争议和 AI 应用竞争的高能表达整理成 66 条。来一起看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "怎么让不同模型各干最适合自己的活呢？卡尔把之前的 partner-skill 升级到2.0，拆成了deep_reasoner、fast_worker、arbiter三种身份：一个做深度规划，一个快速执行，一个独立仲裁。不同项目还能分别绑定Fable5、Opus5、GPT 5.6等模型，并用均衡、质量优先、省钱优先三套策略控制成本，把每个Token都花在刀刃上。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "很多人做个人主页、产品首页都会存在一个问题：信息都有，但没记忆点，动效也只是装饰。成峰复刻了一条 4000赞的动态博客首页，核心方法很清晰：先用首图锁住构图，左侧留给标题、按钮和导航，右侧放主体画面；再把首图变成轻微运动的视频；最后用代码把可编辑的网页内容叠上去。最后还把整个流程封装成一个Skill并开源。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "冷逸这篇文章适合刚开始学AI的普通用户，尤其是想用AI写方案、做图、做页面、整理资料的人。Markdown 用来把需求写清楚；SVG用来做可修改的图；HTML用来生成网页、演示页和小工具；GitHub 用来找资源、存作品；Skill 用来把重复流程整理成AI能执行的说明书。小白可以从这里开始补基础。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -28,7 +48,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 41,
   "updates_7d": [
     {
       "date": "2026-07-29",
@@ -37,7 +57,27 @@
     },
     {
       "date": "2026-07-29",
+      "title": "每天在X上刷 AI 信息，最烦的不是看不到好东西，而是刷完就散了：论文、工具、工作流都收藏一堆，回头想找又像大海捞针。作者开源了一个 x-scan Skill，可以让Agent打开独立 Chrome 浏览器扫描X信息流或关键词搜索，按AI相关词初筛，再用Tweet ID去重，最后把作者、正文、数据和链接保存成Markdown，丢进 Obsidian或其他知识库应用。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-29",
       "title": "晚点今天发了篇对 陈冕 的专访，作者围绕 LibTV、Lovart、融资、抄袭争议和 AI 应用竞争的高能表达整理成 66 条。来一起看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "怎么让不同模型各干最适合自己的活呢？卡尔把之前的 partner-skill 升级到2.0，拆成了deep_reasoner、fast_worker、arbiter三种身份：一个做深度规划，一个快速执行，一个独立仲裁。不同项目还能分别绑定Fable5、Opus5、GPT 5.6等模型，并用均衡、质量优先、省钱优先三套策略控制成本，把每个Token都花在刀刃上。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "很多人做个人主页、产品首页都会存在一个问题：信息都有，但没记忆点，动效也只是装饰。成峰复刻了一条 4000赞的动态博客首页，核心方法很清晰：先用首图锁住构图，左侧留给标题、按钮和导航，右侧放主体画面；再把首图变成轻微运动的视频；最后用代码把可编辑的网页内容叠上去。最后还把整个流程封装成一个Skill并开源。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "冷逸这篇文章适合刚开始学AI的普通用户，尤其是想用AI写方案、做图、做页面、整理资料的人。Markdown 用来把需求写清楚；SVG用来做可修改的图；HTML用来生成网页、演示页和小工具；GitHub 用来找资源、存作品；Skill 用来把重复流程整理成AI能执行的说明书。小白可以从这里开始补基础。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
