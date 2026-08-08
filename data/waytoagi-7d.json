@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-08-08T19:29:27.261038Z",
+  "generated_at": "2026-08-08T19:56:17.545270Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-08",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
+    {
+      "date": "2026-08-08",
+      "title": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-08-08",
       "title": "老金分享了一套跨平台通用的审计提示词，可以自动挖掘近30天的高频重复操作，输出频次、时间损耗、风险预判与落地建议。然后后台会自动生成审计报告与可复用的指令。",
@@ -18,8 +23,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 33,
   "updates_7d": [
+    {
+      "date": "2026-08-08",
+      "title": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-08-08",
       "title": "老金分享了一套跨平台通用的审计提示词，可以自动挖掘近30天的高频重复操作，输出频次、时间损耗、风险预判与落地建议。然后后台会自动生成审计报告与可复用的指令。",
