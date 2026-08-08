@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T19:56:17.545270Z",
+  "generated_at": "2026-08-08T20:32:34.162206Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-08",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-08-08",
@@ -21,9 +21,14 @@
       "date": "2026-08-08",
       "title": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 34,
   "updates_7d": [
     {
       "date": "2026-08-08",
@@ -38,6 +43,11 @@
     {
       "date": "2026-08-08",
       "title": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
