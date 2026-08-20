@@ -23149,5 +23149,7 @@
   "URL shortener links stored in your ATProto PDS": "存储在 ATProto PDS 中的 URL 缩短链接",
   "Hacking with Claude on a $27 smart watch": "与 Claude 一起在 27 美元的智能手表上进行黑客攻击",
   "Canonical backs new project to translate large C codebases into safe Rust": "Canonical 支持将大型 C 代码库转换为安全 Rust 的新项目",
-  "FCC abolishes gigabit speed goal": "FCC 废除千兆速度目标"
+  "FCC abolishes gigabit speed goal": "FCC 废除千兆速度目标",
+  "Vomit: Clean up Claude 5's token output with a separate LLM": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出",
+  "I am morally opposed to updating my Claude.md": "我在道德上反对更新我的 Claude.md"
 }
