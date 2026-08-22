@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T16:50:04.033176Z",
+  "generated_at": "2026-08-22T17:19:50.555083Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-22",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-08-22",
@@ -26,9 +26,14 @@
       "date": "2026-08-22",
       "title": "DeepSeek开源了 DeepSeek Harness（DSH），很多人会以为 DeepSeek 又做了一个AI模型，或者Claude Code、Codex 之外又多了一个同类工具。作者实操了一遍，尽可能的在这篇文章里用通俗的语言来讲明白DSH到底是什么。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Agent会反思、会写 Skill、会改Harness，好像越来越强。但经验到底有没有被写进长期生效的Prompt、Memory、Tool、Workflow、Harness 或模型参数？有没有在没见过的任务上变好？有没有通过回归、安全、成本和可恢复性检查？这篇文章拆解了Agent自进化的边界和一些未解问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 36,
   "updates_7d": [
     {
       "date": "2026-08-22",
@@ -48,6 +53,11 @@
     {
       "date": "2026-08-22",
       "title": "DeepSeek开源了 DeepSeek Harness（DSH），很多人会以为 DeepSeek 又做了一个AI模型，或者Claude Code、Codex 之外又多了一个同类工具。作者实操了一遍，尽可能的在这篇文章里用通俗的语言来讲明白DSH到底是什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Agent会反思、会写 Skill、会改Harness，好像越来越强。但经验到底有没有被写进长期生效的Prompt、Memory、Tool、Workflow、Harness 或模型参数？有没有在没见过的任务上变好？有没有通过回归、安全、成本和可恢复性检查？这篇文章拆解了Agent自进化的边界和一些未解问题。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
