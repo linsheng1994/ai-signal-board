@@ -1,35 +1,95 @@
 {
-  "generated_at": "2026-09-08T16:06:43.744143Z",
+  "generated_at": "2026-09-08T19:30:08.659524Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-09-07",
-  "count_today": 4,
+  "latest_date": "2026-09-08",
+  "count_today": 8,
   "updates_today": [
     {
-      "date": "2026-09-07",
-      "title": "最近GPT-6 Astra + 3D的玩法疯狂刷屏。如果你还不太清楚怎么玩儿，作者这篇文章可以带你入门GPT-6 Astra：怎么交代要求，怎么给材料，怎么看截图，答案不对时怎么改，最后拿到什么结果才算做完。",
+      "date": "2026-09-08",
+      "title": "这篇教程从下载安装、认识界面和基本操作，到九大核心能力，再到跑通你的第一个任务，一步步带你从 0 到 1，把千问办公真正用起来。无论你是第一次接触，还是已经用过一段时间、想解锁更多玩法，都能在这里找到答案。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-07",
-      "title": "很多人升级 GPT-6 Astra 后，最容易犯的错就是把旧的 AGENTS.md、超长的Skill继续塞进去，结果模型变强了，提示词反而拖后腿。作者把 Astra需要重新控制的点讲得很清楚：自主性、指令优先级、写作风格、子Agent委派、验证尺度。然后又用8个模块拆出了提示词框架——目标、上下文、优先级、自主边界、工具、输出、验证、停止条件。",
+      "date": "2026-09-08",
+      "title": "这份路线图适合想做模型部署和性能优化的开发者。作者不仅分解了 AI 推理工程中所需的核心数学知识，而且还分享了帮助过他的具体路线图和资源。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-07",
-      "title": "做SEO/GEO，最容易一上来盯着热词和流量：内容越写越散，AI 反而搞不清你的网站究竟解决什么问题，还可能引来一堆无效访问。在作者看来，核心是先做好网站 Entity 实体定义。先把身份定稳，后续SEO/GEO 才不会跑偏，收获真正有转化价值的流量。",
+      "date": "2026-09-08",
+      "title": "这份Codex实战案例适合想做短视频、却不会剪辑的内容创作者。作者把文章/主题→口播→配音→时间轴→分镜→HyperFrames出片拆成了可对话完成的步骤。想把长文变成视频的话，这套流程可以试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-07",
-      "title": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？读懂这套层层堆砌的演化逻辑，能帮你看透Agent各类组件的存在意义，避开架构设计误区，更理性地做智能体方案选型与搭建。",
+      "date": "2026-09-08",
+      "title": "作者最近拿EasyInput 键盘做了一次尝试：从一份已有的 3D 结构文件出发，让 AI 操作 Blender，调整产品的外观表达、布置灯光和镜头，再把按键、旋钮和软件功能编排进动画。经过多轮修改，最终做出了一支 62 秒的产品展示视频，也留下了可以继续编辑的 3D 工程。一起来看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "作者利用 Grok Bot 的长期角色、共享文件和群聊协作功能，搭出了一个“情报→选题 Brief→写稿→事实审校→人工发布→数据复盘”的完整创作链路。如果你也想做自媒体，可以试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "《关于上下文工程的 100 个问题》从作者的真实异常切入，拆解了窗口堆满为何变笨、CLAUDE.md 为什么被忽略、低价跑法为何可能更费 token等关键问题。想把 Agent 从“偶尔好用”调到稳定协作，可以先把上下文这层看明白。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "GPT-6 玩转 macOS 上的Blender前需要哪些最基础的知识？作者这篇文章以金门大桥3D模型带你简单入门！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "GPT-6 Astra已经可以直接接管电脑、操控各类软件，一系列实测案例极具冲击力。它能独立通关解谜游戏、搭建虚幻引擎中的曼哈顿城市，破解验证码小游戏；还能操作 Blender 完成三维建模、预演视频镜头，甚至在 PS 中临摹经典画作。一起上手玩玩看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 27,
+  "count_7d": 35,
   "updates_7d": [
+    {
+      "date": "2026-09-08",
+      "title": "这篇教程从下载安装、认识界面和基本操作，到九大核心能力，再到跑通你的第一个任务，一步步带你从 0 到 1，把千问办公真正用起来。无论你是第一次接触，还是已经用过一段时间、想解锁更多玩法，都能在这里找到答案。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "这份路线图适合想做模型部署和性能优化的开发者。作者不仅分解了 AI 推理工程中所需的核心数学知识，而且还分享了帮助过他的具体路线图和资源。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "这份Codex实战案例适合想做短视频、却不会剪辑的内容创作者。作者把文章/主题→口播→配音→时间轴→分镜→HyperFrames出片拆成了可对话完成的步骤。想把长文变成视频的话，这套流程可以试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "作者最近拿EasyInput 键盘做了一次尝试：从一份已有的 3D 结构文件出发，让 AI 操作 Blender，调整产品的外观表达、布置灯光和镜头，再把按键、旋钮和软件功能编排进动画。经过多轮修改，最终做出了一支 62 秒的产品展示视频，也留下了可以继续编辑的 3D 工程。一起来看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "作者利用 Grok Bot 的长期角色、共享文件和群聊协作功能，搭出了一个“情报→选题 Brief→写稿→事实审校→人工发布→数据复盘”的完整创作链路。如果你也想做自媒体，可以试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "《关于上下文工程的 100 个问题》从作者的真实异常切入，拆解了窗口堆满为何变笨、CLAUDE.md 为什么被忽略、低价跑法为何可能更费 token等关键问题。想把 Agent 从“偶尔好用”调到稳定协作，可以先把上下文这层看明白。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "GPT-6 玩转 macOS 上的Blender前需要哪些最基础的知识？作者这篇文章以金门大桥3D模型带你简单入门！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "GPT-6 Astra已经可以直接接管电脑、操控各类软件，一系列实测案例极具冲击力。它能独立通关解谜游戏、搭建虚幻引擎中的曼哈顿城市，破解验证码小游戏；还能操作 Blender 完成三维建模、预演视频镜头，甚至在 PS 中临摹经典画作。一起上手玩玩看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-09-07",
       "title": "最近GPT-6 Astra + 3D的玩法疯狂刷屏。如果你还不太清楚怎么玩儿，作者这篇文章可以带你入门GPT-6 Astra：怎么交代要求，怎么给材料，怎么看截图，答案不对时怎么改，最后拿到什么结果才算做完。",
