@@ -1,12 +1,227 @@
 {
-  "generated_at": "2026-09-14T06:46:29.284655Z",
+  "generated_at": "2026-09-14T13:41:27.239128Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-  "history_url": null,
+  "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "count_7d": 0,
-  "updates_7d": [],
-  "warning": "WaytoAGI 近7日更新抓取失败",
-  "has_error": true,
-  "error": "Cannot locate Feishu clientVars marker"
+  "latest_date": "2026-09-13",
+  "count_today": 8,
+  "updates_today": [
+    {
+      "date": "2026-09-13",
+      "title": "这篇文章是作者关于 Harness Coding 的现场分享文稿，拆解了 AI 编码落地的四大核心难题，并给出了完整的工程闭环方案。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "这份系统设计入门指南专为零基础开发者打造，清晰区分了高层 HLD 架构与底层 LLD 代码设计两大模块。覆盖负载均衡、缓存、数据库选型、CAP 定理等核心概念，搭配 SOLID 原则、常用设计模式与 UML 类图，附带完整练习框架。可以帮你循序渐进地建立完整系统设计思维。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "这份指南给出了Grok Bot的五种独立用法：整理商品上架资料、制作六张知识图卡、筛选工具做简报、制作教学工具并录成配音视频、把收藏转成选题素材。每个案例都附有提示词和成品展示，也讲清了要提供哪些材料、拿到什么文件。运营和内容创作者们可以挑一个手头任务，跟着试一试。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "作者整理了《关于豆包工作的 100 个问题》，主要聚焦一些用户的真实疑问：豆包工作和 Kimi 会员哪个划算？额度消耗能不能查账单？面对千问办公、WorkBuddy 竞品，豆包工作表现如何。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "KV 缓存让模型保留了一部分已经完成的计算。 但它为什么保留 K 和 V？同样参与 attention 的 Q，为什么通常可以用完就放下？这篇就来讨论这个问题，帮你理解 KV缓存。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "DeepSeek V1 到 V4.1-Flash，单 token 的 global KV 如何从 389,000 B 压缩到 890 B的？这篇文章对于 Agent 的使用者、本地模型部署者、模型开发者都有一定帮助。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Agent 做长任务容易跑偏，读长文漏掉关键证据，多开几个助手又越来越费钱——本周精选的10篇 AI 论文，集中回应了这些实际难题。用程序图帮助 Agent 安排步骤，利用文档目录提高检索准确率，通过并行阅读和精简协作方式提升效率；还有只改设计文档、让 AI 重新生成代码的尝试，以及智能体群体作弊的案例。在做Agent、知识库或 AI 产品的，可以从自己遇到的问题切入，找找下一步值得尝试的方法。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "AI 能快速生成网页，但常常会忽略信息层级，导致用户难以抓取重点、找不到操作路径。作者基于自身的前端实践，整理出了一套页面信息组织指南，还配套开源了覆盖 19 种页面形态的Demo。这份指南还可以直接交给 AI，用来评审、迭代前端页面，帮你产出逻辑清晰、贴合业务的后台界面。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    }
+  ],
+  "count_7d": 34,
+  "updates_7d": [
+    {
+      "date": "2026-09-13",
+      "title": "这篇文章是作者关于 Harness Coding 的现场分享文稿，拆解了 AI 编码落地的四大核心难题，并给出了完整的工程闭环方案。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "这份系统设计入门指南专为零基础开发者打造，清晰区分了高层 HLD 架构与底层 LLD 代码设计两大模块。覆盖负载均衡、缓存、数据库选型、CAP 定理等核心概念，搭配 SOLID 原则、常用设计模式与 UML 类图，附带完整练习框架。可以帮你循序渐进地建立完整系统设计思维。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "这份指南给出了Grok Bot的五种独立用法：整理商品上架资料、制作六张知识图卡、筛选工具做简报、制作教学工具并录成配音视频、把收藏转成选题素材。每个案例都附有提示词和成品展示，也讲清了要提供哪些材料、拿到什么文件。运营和内容创作者们可以挑一个手头任务，跟着试一试。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "作者整理了《关于豆包工作的 100 个问题》，主要聚焦一些用户的真实疑问：豆包工作和 Kimi 会员哪个划算？额度消耗能不能查账单？面对千问办公、WorkBuddy 竞品，豆包工作表现如何。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "KV 缓存让模型保留了一部分已经完成的计算。 但它为什么保留 K 和 V？同样参与 attention 的 Q，为什么通常可以用完就放下？这篇就来讨论这个问题，帮你理解 KV缓存。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "DeepSeek V1 到 V4.1-Flash，单 token 的 global KV 如何从 389,000 B 压缩到 890 B的？这篇文章对于 Agent 的使用者、本地模型部署者、模型开发者都有一定帮助。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Agent 做长任务容易跑偏，读长文漏掉关键证据，多开几个助手又越来越费钱——本周精选的10篇 AI 论文，集中回应了这些实际难题。用程序图帮助 Agent 安排步骤，利用文档目录提高检索准确率，通过并行阅读和精简协作方式提升效率；还有只改设计文档、让 AI 重新生成代码的尝试，以及智能体群体作弊的案例。在做Agent、知识库或 AI 产品的，可以从自己遇到的问题切入，找找下一步值得尝试的方法。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "AI 能快速生成网页，但常常会忽略信息层级，导致用户难以抓取重点、找不到操作路径。作者基于自身的前端实践，整理出了一套页面信息组织指南，还配套开源了覆盖 19 种页面形态的Demo。这份指南还可以直接交给 AI，用来评审、迭代前端页面，帮你产出逻辑清晰、贴合业务的后台界面。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "还在为上传 GitHub 项目该选什么开源协议发愁？这篇文章拆解了MIT、Apache、GPL 等主流许可证的规则，以及开源、免费、源码可见三者的区别。不管是开发小工具、制作Skill，都能快速匹配合适的协议，守住知识产权边界。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "最近 OpenAI 和 Anthropic 相继把上下文窗口干到了1M，但上下文窗口是不是越大越好？作者这篇文章就从底层原理出发，以 Claude Code 为例，彻底揭开大模型的上下文管理的神秘面纱。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "大家给 Agent 配规则，核心都在防止它把任务跑偏。可GPT-6 Astra的问题恰好翻转了——它更容易因为边界不够清楚而提前停下，旧配置里的“刹车”反而成了完成任务的障碍。作者从 AGENTS.md 入手，详解了关于GPT-6 Astra，哪些规则该删、怎样把模糊限制改成明确的完成标准和审批边界，再配合验证机制，少打断Agent。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "关于GPT-6 Astra，OpenAI 发布了来自其社区的一些开发者案例合集，一起来看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "作者结合 OpenAI 的最新指南，拆解了“少写提示词”的具体做法：删掉无用的 Skill，让描述只保留精确触发条件，主文件做路由、按需加载细节；任务里少规定每一步，多写清完成标准、可自主操作和必须询问的边界。作者还给了一段提示词，能让 Astra 盘点机器级和项目级配置。一起上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "AI 让软件开发发生了根本性变化，但在充满炒作和噪音的环境中，开发者很难判断哪些技能真正值得投入学习，团队同样难以判断该招聘什么样的人。吴恩达这套技能地图很适合想补齐 AI 工程能力的开发者，也适合带团队的人做学习和招聘参考。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "黄叔这篇 Grok Bot 蓝皮书带你上手这套自带云端电脑的 AI 协作系统。你只需要下达目标，搭建的 AI 员工便能自主分工、交接任务，24 小时在云端持续运行。文中还有大量实操案例，如果你不懂代码，也能跟着一起搭建自动化工作流，把自己从繁杂事务中解放出来。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "你是不是也还在为方案架构图反复调整方框、连线而耗费大量时间？作者用Codex搭配Draw.io MCP的工作流，能自动生成可编辑的图表，就算是多层、数十个模块的复杂大图也能搞定。文中还附带了完整配置教程、多种实战案例与绘图编辑技巧，做PPT、项目方案的大家可以直接上手实操。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "苹果发布了首款折叠屏 iPhone，也更新了耳机和手表。借着这场发布会，我们一起来探索下：做 AI 硬件，我们能向苹果偷师什么？从功能放在哪台设备上，到用户怎么检查 AI 的结果，这些具体设计里，有不少值得拆开看的产品思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "小互这份文章拆解了 GPT Image 2.5 全套官方实操指南，附带 API 参数规范、8大提示词心法与 22 个实战案例。而且还提供了可直接参考的工程级提示词模板与落地工具包。快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "作者把散落在Grok Bot官方企业版博客、指南库、开发文档里的案例全拼到了一起，包含招聘、销售、市场、财务、再加设计，共同整理成今天这篇文章——「非工程师到底怎么用好 Grok Bot」",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Grok Bot 产品负责人复盘了几人团队如何在一个月做出内部原型，以及如何靠两百多位真实用户的陪跑、界面删减和底层改进，把它推向公开发布的。产品人快来一起学习下！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "阿真这份关于 Image 2.5 的超全实测覆盖：局部改图、8 帧动效、照片精修、参考图保真、多轮编辑、风格迁移、草图锁构图、透明 PNG、信息图与品牌物料。最后发现它的局部修改、透明底和批量延展进步明显；复杂材质会有噪点，多人脸、多轮改图、文字与版式仍可能失手。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "这篇适合准备参加安克首届黑客松挑战赛的开发者，也适合想做 AI 硬件的人。作者结合自己做过的三个项目，来跟大家聊聊AI硬件进入家庭以后，可能会怎样改变我们的生活习惯。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "想降低 GPT-6 Astra 的调用成本，这篇文章整理了官方全套 Token 优化策略，覆盖模型推理、上下文管理、工具调用等多个维度。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "小歪用 30 组题目，把GPT Image 2.5和即梦 5.0 Pro放到同一套测试里：人物保真、局部与多轮编辑、动作序列、12 镜分镜、拆解图、包装和多语导览。到底谁的效果更好呢？一起来看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "GPT-6到底怎么用，才能更顺手，发挥出来它最大的能力？OpenAI 发布的《Using GPT-6 Astra》把模型能力、工具使用、工作方式和接入设置放在了一份指南里。这篇文章带你逐项读懂它：每项变化是什么意思、能起什么作用，以及使用时有哪些条件。涉及接口的术语，也会一起解释。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "这篇教程从下载安装、认识界面和基本操作，到九大核心能力，再到跑通你的第一个任务，一步步带你从 0 到 1，把千问办公真正用起来。无论你是第一次接触，还是已经用过一段时间、想解锁更多玩法，都能在这里找到答案。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "这份路线图适合想做模型部署和性能优化的开发者。作者不仅分解了 AI 推理工程中所需的核心数学知识，而且还分享了帮助过他的具体路线图和资源。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "这份Codex实战案例适合想做短视频、却不会剪辑的内容创作者。作者把文章/主题→口播→配音→时间轴→分镜→HyperFrames出片拆成了可对话完成的步骤。想把长文变成视频的话，这套流程可以试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "作者最近拿EasyInput 键盘做了一次尝试：从一份已有的 3D 结构文件出发，让 AI 操作 Blender，调整产品的外观表达、布置灯光和镜头，再把按键、旋钮和软件功能编排进动画。经过多轮修改，最终做出了一支 62 秒的产品展示视频，也留下了可以继续编辑的 3D 工程。一起来看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "作者利用 Grok Bot 的长期角色、共享文件和群聊协作功能，搭出了一个“情报→选题 Brief→写稿→事实审校→人工发布→数据复盘”的完整创作链路。如果你也想做自媒体，可以试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "《关于上下文工程的 100 个问题》从作者的真实异常切入，拆解了窗口堆满为何变笨、CLAUDE.md 为什么被忽略、低价跑法为何可能更费 token等关键问题。想把 Agent 从“偶尔好用”调到稳定协作，可以先把上下文这层看明白。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "GPT-6 玩转 macOS 上的Blender前需要哪些最基础的知识？作者这篇文章以金门大桥3D模型带你简单入门！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "GPT-6 Astra已经可以直接接管电脑、操控各类软件，一系列实测案例极具冲击力。它能独立通关解谜游戏、搭建虚幻引擎中的曼哈顿城市，破解验证码小游戏；还能操作 Blender 完成三维建模、预演视频镜头，甚至在 PS 中临摹经典画作。一起上手玩玩看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    }
+  ],
+  "warning": null,
+  "has_error": false,
+  "error": null
 }
