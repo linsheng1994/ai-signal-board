@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T12:02:36.826365Z",
+  "generated_at": "2026-09-20T16:22:34.318868Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -38,7 +38,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 30,
   "updates_7d": [
     {
       "date": "2026-09-19",
@@ -188,26 +188,6 @@
     {
       "date": "2026-09-15",
       "title": "AI 生成的歌越来越好听，但能不能精细修改、怎样发行、收益如何分配，同样关系到创作者能否真正用起来。这期《AI 音乐周刊》把技术与产业变化放在一起：Suno v6 等模型升级、ElevenMusic 拆分人声与乐器的新功能，以及音乐分发合作、创作者扶持和版权分成争议。还有5篇研究，涵盖 MV 生成、实时伴奏与可控作曲。一起来看看！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Vibe coding 做动效，最容易卡在表达上。你脑中能看到效果，却叫不出它的名字；只会说“丝滑一点”“高级一点”“像苹果官网那样”，AI 只能根据自己的理解发挥。读完作者这篇文章以后，你会知道鼠标悬停、滚动、点击和状态变化该怎样描述，也会分清淡入（Fade）、滑入（Slide）、交错出现（Stagger）、模糊显现（Blur reveal）和按行显现（Line reveal）。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Grok Bot工程师分享了自己关于Grok Bot的常用玩法。正在尝试多 Agent 协作的开发者和技术负责人，可以参考这套流程上手试试，或许可以节省很多时间！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Agent 被关闭或意外中断以后，如何恢复之前的工作？一起来检查下自己的会话恢复设计是否漏了一些关键环节！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "AI 让做产品更容易了，创业的难题也随之转向：客户从哪里来，代码人人能写，生意又靠什么留住人？Stripe CEO 与 Replit 创始人从溜冰场软件、教师工具和乡村瑜伽项目聊起，指出了普通人的机会：熟悉行业里的具体麻烦，服务被大公司忽略的小需求。产品可以快速做出来，客户关系、使用体验和持续经营仍要自己积累。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
