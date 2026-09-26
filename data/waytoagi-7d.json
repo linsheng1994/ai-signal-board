@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T12:19:53.660210Z",
+  "generated_at": "2026-09-26T16:34:51.178825Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -13,7 +13,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 21,
+  "count_7d": 14,
   "updates_7d": [
     {
       "date": "2026-09-25",
@@ -83,41 +83,6 @@
     {
       "date": "2026-09-21",
       "title": "上手GPT-6 Astra踩坑不断？蓝衣剑客这篇文章从真实使用痛点出发，拆解了适配这款模型的全套提示词方案。文中附带可直接复制的指令，既能消除AI腔、写出自然文本，也能管控编码时的测试粒度，避免小改动触发全量测试。帮你最大化发挥模型性能。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "这篇访谈把 Discord 产品负责人 Peter Sellis 的产品观讲得很实在：PM的价值在于接住创始人原本要亲自做的判断，讲清楚产品战略如何影响功能取舍，把决策权交清楚，同时敢于为了核心用户体验砍掉好点子。做产品、创业或带团队的，可以拿它检查下：你的产品计划是在堆功能，还是在让用户更频繁地完成真正重要的事。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "这篇文章带你复现Jev风格的LLM决策能力，不用训练，借助SGLang的打分接口，就能在本地开源模型上实现选项概率输出。它区分了打分机制与结构化输出的本质差异，给出完整可跑Python代码，还做了基准对比。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "许多工作，都需要先理解信息，再做出选择。CY这篇文章就和大家聊聊，Jev是怎么来做判断这个事的。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "本周精选的10篇论文，覆盖了几个很值得关注的方向：字节级模型重新挑战分词器，Agent Harness 开始自动优化成本，LLM Judge 评估暴露偏差，Bash 工具接口反而赢过复杂类型化工具，还有企业模型训练、安全攻击、多智能体选型和实时评测方法。做 Agent、模型应用和 AI 基础设施的，可以快速扫到本周最值得深挖的研究线索。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "宝玉用 GPT 6 Astra 做了 3D 版《桃花源记》，把原文拆成 20 幕，从坐船入桃林到进村做客、辞别离开，都做成可交互网页体验。更值得看的是完整流程：用提示词约束文学理解、空间连通和叙事镜头，再用真人朗诵＋SRT 做时间同步，最后交给 Codex 拆资源、换环境音、压缩文件。你也可以直接复用这套思路，把文本变成能“循文入境”的作品。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "你有没有去网上找所谓的“万能提示词”？把角色、背景、步骤、格式、禁词一层层加进去。提示词从两句话长到上千字，可能确实提高了任务效率，但细节上还是不尽人意。作者这篇最新提示词工程教程或许会对你有所帮助！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
