@@ -1,23 +1,43 @@
 {
-  "generated_at": "2026-09-29T08:53:30.268131Z",
+  "generated_at": "2026-09-29T15:24:11.920307Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-09-29",
-  "count_today": 1,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-09-29",
       "title": "云舒这篇收集了大量Opus 5.5的实测案例：一句话生成动效片、旅行照变丙烯画、论文变 MV、口播自动剪成成片、宜家手册变 3D 教学、草图变投石机、网页 Splatoon、Godot 开放世界雏形，甚至还能跑几小时做出多个 App 交互版本。快来一起感受 Opus 5.5 真正打开的想象空间！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "OpenAI 公开了 GPT-6 Astra 的提示词写法：怎么让它别过早停下来、主动把任务做完；怎么处理用户指令和 Skill 之间的优先级；怎么减少套话和过度 Markdown；什么时候该用子代理并行；以及如何让测试范围和代码改动匹配。或许对你有所帮助！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "DeepSeek Harness 桌面端正式发布，自带完整运行环境，依托插件化的内核，不用复杂配置就能完成 PPT 生成、数据分析、代码调试等办公开发任务，还支持定时任务、多智能体并行协作。新用户登录还能领取限时体验赠金，感兴趣的话快来上手体验下！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 19,
+  "count_7d": 21,
   "updates_7d": [
     {
       "date": "2026-09-29",
       "title": "云舒这篇收集了大量Opus 5.5的实测案例：一句话生成动效片、旅行照变丙烯画、论文变 MV、口播自动剪成成片、宜家手册变 3D 教学、草图变投石机、网页 Splatoon、Godot 开放世界雏形，甚至还能跑几小时做出多个 App 交互版本。快来一起感受 Opus 5.5 真正打开的想象空间！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "OpenAI 公开了 GPT-6 Astra 的提示词写法：怎么让它别过早停下来、主动把任务做完；怎么处理用户指令和 Skill 之间的优先级；怎么减少套话和过度 Markdown；什么时候该用子代理并行；以及如何让测试范围和代码改动匹配。或许对你有所帮助！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "DeepSeek Harness 桌面端正式发布，自带完整运行环境，依托插件化的内核，不用复杂配置就能完成 PPT 生成、数据分析、代码调试等办公开发任务，还支持定时任务、多智能体并行协作。新用户登录还能领取限时体验赠金，感兴趣的话快来上手体验下！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
