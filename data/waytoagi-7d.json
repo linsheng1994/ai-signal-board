@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:15:02.338752Z",
+  "generated_at": "2026-10-01T19:41:55.661981Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -48,7 +48,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 32,
   "updates_7d": [
     {
       "date": "2026-09-30",
@@ -208,11 +208,6 @@
     {
       "date": "2026-09-26",
       "title": "GEO最难的环节，已经从“怎么让 AI 提到我”，转到“线索怎么算、ROI 怎么证明”。乔木老师和姚老师的第五次GEO公开课把GEO效果如何归因拆得很系统：围绕直接转化、延迟效应、渠道协同、间接转化，给出了专属电话、口令、页面、表单、销售追问、词根级 A/B 测试等方法。适合做GEO服务、品牌增长、AI营销的人收藏，读完你会更清楚预算该怎么投、效果该怎么证明。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "Opus 5.5 刷屏后，光看成片很容易只感叹“审美强”，但更关键的是它怎么把画面一步步做出来。梦飞这篇文章拆解了 10 个实测案例，讲清 Claude 用代码逐帧“画”视频的思路：生成画面、渲染截图、自己检查、继续修改。他还把玩法分成 2D 动画、three.js 3D 场景、多模型混合三类，并复盘了中秋短片《咬了一口月亮》的分镜、角色设定、音效和成本。一起来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
