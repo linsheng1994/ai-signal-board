@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-10-17T09:01:33.921980Z",
+  "generated_at": "2026-10-17T13:05:29.861751Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-10-16",
-  "count_today": 4,
+  "count_today": 6,
   "updates_today": [
+    {
+      "date": "2026-10-16",
+      "title": "很多人用 Agent 做产品，习惯把调研、选题、写代码和发布全塞给一个机器人，最后结论互相打架，流程也无法复用。作者用Grok Bot把产品开发拆成了 9 个常驻角色：找趋势、挖痛点、看竞品、定策略、淘汰弱想法，再写规格、构建产品和准备发布视频。适合独立开发者和小团队搭建可持续运行的 Agent 产品流水线。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-10-16",
       "title": "小歪对谷歌全新旗舰模型Gemini 4 Argon进行了实测，发现它在榜单上和Opus 5.5实力接近，长文本写作、3D场景构建、交互式网页生成表现亮眼。",
@@ -15,6 +20,11 @@
     {
       "date": "2026-10-16",
       "title": "作者带来一套适配飞书文档的 AI 绘图实操方案，区分了 Mermaid 和 HTML 两种绘图方式。Mermaid 快速生成流程图、架构图等可编辑结构图表，方便团队评审修改；HTML 用来制作高颜值、可交互的汇报可视化图表。这套方法能省去手动拖拽排版的繁琐工作，让你把精力聚焦在梳理业务逻辑上。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "DeepSeek V4.1-Flash 新版发布，这次把重点放在“更强也更省”：11 项基准全部提升，软件任务 max 档通过率 77%，单任务约 1.3 元，low 档不到 8 毛。作者梳理了三项实用变化：Harness、CodeBuddy 与 WorkBuddy 完成适配；少量提示即可从零搭游戏和 3D 项目；API 新增 Search 与 Fetch，可直接搜索并抓取网页。模型权重同步 MIT 开源，支持图文输入与 1M 上下文。想评估是否升级或接入 DeepSeek 的开发者，可以先看这篇。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -28,8 +38,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 36,
   "updates_7d": [
+    {
+      "date": "2026-10-16",
+      "title": "很多人用 Agent 做产品，习惯把调研、选题、写代码和发布全塞给一个机器人，最后结论互相打架，流程也无法复用。作者用Grok Bot把产品开发拆成了 9 个常驻角色：找趋势、挖痛点、看竞品、定策略、淘汰弱想法，再写规格、构建产品和准备发布视频。适合独立开发者和小团队搭建可持续运行的 Agent 产品流水线。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-10-16",
       "title": "小歪对谷歌全新旗舰模型Gemini 4 Argon进行了实测，发现它在榜单上和Opus 5.5实力接近，长文本写作、3D场景构建、交互式网页生成表现亮眼。",
@@ -38,6 +53,11 @@
     {
       "date": "2026-10-16",
       "title": "作者带来一套适配飞书文档的 AI 绘图实操方案，区分了 Mermaid 和 HTML 两种绘图方式。Mermaid 快速生成流程图、架构图等可编辑结构图表，方便团队评审修改；HTML 用来制作高颜值、可交互的汇报可视化图表。这套方法能省去手动拖拽排版的繁琐工作，让你把精力聚焦在梳理业务逻辑上。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "DeepSeek V4.1-Flash 新版发布，这次把重点放在“更强也更省”：11 项基准全部提升，软件任务 max 档通过率 77%，单任务约 1.3 元，low 档不到 8 毛。作者梳理了三项实用变化：Harness、CodeBuddy 与 WorkBuddy 完成适配；少量提示即可从零搭游戏和 3D 项目；API 新增 Search 与 Fetch，可直接搜索并抓取网页。模型权重同步 MIT 开源，支持图文输入与 1M 上下文。想评估是否升级或接入 DeepSeek 的开发者，可以先看这篇。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
