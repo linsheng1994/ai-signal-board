@@ -1,45 +1,85 @@
 {
-  "generated_at": "2026-10-26T12:22:05.254089Z",
+  "generated_at": "2026-10-26T18:48:10.640692Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-10-25",
-  "count_today": 6,
+  "latest_date": "2026-10-26",
+  "count_today": 7,
   "updates_today": [
     {
-      "date": "2026-10-25",
-      "title": "读完这篇文章，你应该能掌握关于 harness 是什么以及它们如何工作的一切所需知识。",
+      "date": "2026-10-26",
+      "title": "阿真这篇文章完整展示了豆包工作无限画布在商业设计上的一些实战玩法，从万圣节全套活动物料、品牌 VI、电商详情，到角色设定、场景原画、短片分镜都有落地案例。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-10-25",
-      "title": "很多开发者一上来就堆砌多智能体架构，很容易造成过度设计。LangChain这篇文章给出一套落地选型思路，建议优先用单智能体，仅在上下文受限、跨团队维护时才转向多智能体。文中还拆解了四类主流模式，对照并行能力、状态流转、Token开销做场景和性能对比。读完你也可以快速匹配业务需求，选对协调方案，在可控延迟与成本下搭建稳定的智能体工作流。",
+      "date": "2026-10-26",
+      "title": "知乎与魔搭 ModelScope 再次联合发布《AI 时代开发者生态白皮书 2026》。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-10-25",
-      "title": "大家都在做 Personal Agent，可不少产品一打开还是一排功能、一次会话、一份长报告。用户得反复交代背景、盯着执行，最后它只是偶尔会打开的工具。本篇文章从真实使用体验出发，给出了一个很值得参考的产品、组织与技术框架。",
+      "date": "2026-10-26",
+      "title": "本周AI音乐资讯浓缩了最核心的博弈与新机会。Suno深陷版权纠纷，Spotify、Deezer陆续上线AI音乐治理功能，网易云的音乐评价模型拿下国际赛事第一。苹果收购音频技术团队，多个流媒体、游戏音乐新合作落地。还有5篇论文，包含真实场景旋律检索、符号控制翻唱生成、音乐分析推理缺陷、智能体音乐后期制作、音乐驱动群舞编舞等。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-10-25",
-      "title": "多 Agent 做久了，常见的情况是每个团队各养一个子 Agent：上下文被反复摘要、提示词互相打架、评估碎成小块，用户还得为延迟买单。Anthropic 官方给出了一条收敛路径，读完你会知道哪些该留、哪些该合并。",
+      "date": "2026-10-26",
+      "title": "最近卡尔在琢磨怎么用DeepSeek做出类Claude Opus 5.5的代码动画。这篇文章就分享了6个新提示语去掉DeepSeek新模型的AI味。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-10-25",
-      "title": "不少企业搭建多智能体时顺着组织架构拆分大量子智能体，会引发延迟高、信息损耗、体验不一致等问题。Anthropic 分享了他们的落地思路，倡导把大部分子智能体收拢进主智能体循环，依靠渐进式披露技能、工具管控上下文。",
+      "date": "2026-10-26",
+      "title": "作者在两三个月的时间里用 Hypit 产出了万余条 AI 带货的短视频，拿下 9000 + 订单、百万 GMV，单条成本仅数元。区别于普通 AI 剪辑工具，它能拆解爆款视频的注意力逻辑与叙事节奏，像剪辑师一样编排素材、适配转场。搭配 TikHub 筛选验证爆款，可搭建批量内容流水线。如果你在做跨境AI 短视频矩阵，或许会有收获。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-10-25",
-      "title": "AI Agent 的进步，已经不只能单看模型榜单了：同一个模型怎么分工、控成本、管记忆、接工具，正在把“能演示”转向“能长期跑”。本周论文精选把十个方向串了起来：给不同任务配专属 Harness，让小模型接管高频工具选择，直接管理 KV 缓存压低长任务成本，从经验中进化操作界面；也提醒大家，自我改进会遗忘，记忆系统未必更省钱。",
+      "date": "2026-10-26",
+      "title": "10月26日晚20:00邀请了安克首届黑客松挑战赛四大赛道的冠军队伍和金点子奖队伍返场直播，一起来看看24小时极限开发过程中有哪些有趣的幕后故事！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "1024程序员节，知乎联合魔搭发布了2026开发者生态白皮书。这份白皮书给出了真实的行业数据，可以帮开发者看清人机分工的变化，在模型快速迭代的浪潮里找准自身价值、理清风险边界，锚定长期的成长方向。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
   "count_7d": 35,
   "updates_7d": [
+    {
+      "date": "2026-10-26",
+      "title": "阿真这篇文章完整展示了豆包工作无限画布在商业设计上的一些实战玩法，从万圣节全套活动物料、品牌 VI、电商详情，到角色设定、场景原画、短片分镜都有落地案例。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "知乎与魔搭 ModelScope 再次联合发布《AI 时代开发者生态白皮书 2026》。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "本周AI音乐资讯浓缩了最核心的博弈与新机会。Suno深陷版权纠纷，Spotify、Deezer陆续上线AI音乐治理功能，网易云的音乐评价模型拿下国际赛事第一。苹果收购音频技术团队，多个流媒体、游戏音乐新合作落地。还有5篇论文，包含真实场景旋律检索、符号控制翻唱生成、音乐分析推理缺陷、智能体音乐后期制作、音乐驱动群舞编舞等。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "最近卡尔在琢磨怎么用DeepSeek做出类Claude Opus 5.5的代码动画。这篇文章就分享了6个新提示语去掉DeepSeek新模型的AI味。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "作者在两三个月的时间里用 Hypit 产出了万余条 AI 带货的短视频，拿下 9000 + 订单、百万 GMV，单条成本仅数元。区别于普通 AI 剪辑工具，它能拆解爆款视频的注意力逻辑与叙事节奏，像剪辑师一样编排素材、适配转场。搭配 TikHub 筛选验证爆款，可搭建批量内容流水线。如果你在做跨境AI 短视频矩阵，或许会有收获。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "10月26日晚20:00邀请了安克首届黑客松挑战赛四大赛道的冠军队伍和金点子奖队伍返场直播，一起来看看24小时极限开发过程中有哪些有趣的幕后故事！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "1024程序员节，知乎联合魔搭发布了2026开发者生态白皮书。这份白皮书给出了真实的行业数据，可以帮开发者看清人机分工的变化，在模型快速迭代的浪潮里找准自身价值、理清风险边界，锚定长期的成长方向。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-10-25",
       "title": "读完这篇文章，你应该能掌握关于 harness 是什么以及它们如何工作的一切所需知识。",
@@ -178,41 +218,6 @@
     {
       "date": "2026-10-21",
       "title": "为什么模型读了海量资料，却连“给 6 岁孩子讲登月”都可能答非所问？关键在于，预训练只会让它学会预测下一个词，离真正会听指令、完成复杂推理，还差一次“岗前培训”。这篇文章解释了 RLHF、DPO、奖励模型等概念，读完你也能理顺预训练与后训练的分工。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "还在苦恼AI生成的官网模板化太严重、没有辨识度？Taste Skill 这套网页设计Skill，会帮你优先挖掘项目独有的故事细节，再匹配风格素材，还能跨设备自检页面问题。文中附上了多组对照案例，同时还给出了可直接复制的部署命令与任务提示词。快来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "想玩 ESP32，很多人还没动手就被 S3、C6、N16R8 和几百块开发板绕晕。这份新手指南给出了一个清晰的思路：先锁定想要实现的项目，再根据项目需求挑选开发板。文中还梳理了各个芯片的定位、多条硬件的搭建路线，以及高频踩坑点，帮你低成本给 Agent 装上实体硬件。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "你是不是也收藏了一大堆优质提示词，用时却总想不起来？作者借鉴了智能路由的思路，打造出名为“老爷爷”的Skill，内置25条原版未改动的思考类提示词。你只需描述当下难题，它就能自动匹配最合适的思考工具，全程保留原文约束，不会削弱提示效果。而且工具之间互不冲突、不会覆盖已有插件，可以帮你告别提示词吃灰！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "作者这篇文章拆解了代码渲染动画的底层逻辑，盘点了 HyperFrames、Remotion、rough.js、Manim、three.js、Blender 等 9 种方案，覆盖网页动效、手绘水彩、数学板书、地图路线和 3D 视频，而且还附上了原理、开源项目与选型建议。想用 AI 做视频起号、科普内容或宣传片，可以先从这篇找到适合自己的技术路线。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "作者分享了用 Claude Code+Opus 5.5 快速跑通 AI 资讯竖屏短视频生产的完整实战链路，而且还对比了使用 DeepSeek 的效果差异，开源包含 18 套竖屏样式的视频风格 Skill，看完这些你也可以上手试试，做出有辨识度的科普资讯短视频。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "从捏起一张薄纸、转动一枚硬币这类日常动作切入，CY这篇文章拆解了灵巧手背后的感知、传动与控制逻辑，帮你看懂演示视频、横向对比方案，快速判断一款灵巧手是否适配真实业务场景。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "DeepSeek 最新开源推理框架 DeepInfer 与编解码组件 deepseek-recipe，揭秘了 V4.1 Flash 高性能推理背后的整套工程方案。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
