@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-11-02T22:24:41.318023Z",
+  "generated_at": "2026-11-03T03:36:38.439433Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-11-01",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
+    {
+      "date": "2026-11-01",
+      "title": "阿真两个月的GrokBot落地实战，给想搭建个人Agent系统的人提供了一套可复用的方案。另外还点明了GrokBot的短板与额度避坑技巧，还对比了 Muse，适合想搭建自动化个人 Agent 体系的人参考。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-11-01",
       "title": "这一周的精选 AI论文有个很明显的信号：AI 系统开始从“把更强模型塞进更多 Agent”，转向让检索、验证、记忆和模型协作各自做更确定的事。想把 Agent 做稳的人，这批研究比单纯看模型榜单更有参考价值。",
@@ -23,8 +28,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 25,
+  "count_7d": 26,
   "updates_7d": [
+    {
+      "date": "2026-11-01",
+      "title": "阿真两个月的GrokBot落地实战，给想搭建个人Agent系统的人提供了一套可复用的方案。另外还点明了GrokBot的短板与额度避坑技巧，还对比了 Muse，适合想搭建自动化个人 Agent 体系的人参考。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-11-01",
       "title": "这一周的精选 AI论文有个很明显的信号：AI 系统开始从“把更强模型塞进更多 Agent”，转向让检索、验证、记忆和模型协作各自做更确定的事。想把 Agent 做稳的人，这批研究比单纯看模型榜单更有参考价值。",
