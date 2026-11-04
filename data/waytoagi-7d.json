@@ -1,45 +1,55 @@
 {
-  "generated_at": "2026-11-04T15:09:06.150046Z",
+  "generated_at": "2026-11-04T21:24:48.637487Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-11-03",
-  "count_today": 6,
+  "latest_date": "2026-11-04",
+  "count_today": 4,
   "updates_today": [
     {
-      "date": "2026-11-03",
-      "title": "最近最火的应该是DeepSeek Harness产品团队发布的Super Agent了。很多人说没看懂，也有很多人说，这就是自己工作的日常。作者这篇文章就是想跟大家聊一下，过去这一年观察到的Agent产品工具的演进逻辑。可能从这个过程回顾，有机会帮助我们更好理解，发生了什么？为什么走到了现在。",
+      "date": "2026-11-04",
+      "title": "让 Codex 修个小问题，它却“改—全量测—再改”。跑上半天，额度和耐心一起见底；更糟的是，一堆测试通过，真正点运行还是报错。作者给出一套可直接塞进 AGENTS.md 的收口办法。常用Codex、Claude Code却总被“自我循环”拖慢的人，可以照着改一次规则试一试。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-11-03",
-      "title": "卡兹克将自用的Agent自动化系统重构后，开源了Agent-Autoloop。整套架构采用插件化设计，事件、模型、通知通道均可自由接入，适配绝大多数主流Agent。文中还展示了大量可直接复用的自动化场景，个人和团队都能快速搭建自主流转、按需人工审批的智能工作流。",
+      "date": "2026-11-04",
+      "title": "作者这篇文章带你用 Grok Bot，从0到1跑通整个网站的完整开发流程，全程在手机上跟云端的 Bot 对话就能完成，并且对新手非常友好。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-11-03",
-      "title": "作者这篇笔记梳理了快手企业 AI 落地经验，给出了一个可落地的解法：先沉淀员工经验为共享能力，再重构分工；以小团队模式压缩交付链路，搭配需求风险分级的智能质检体系，同时搭建统一底座与积分机制管控成本。这套兼顾试点试错和企业治理的思路，可以帮大小团队避开 Agent 孤岛、空转、质量失控等问题。",
+      "date": "2026-11-04",
+      "title": "仓颉Skill 3.0重磅升级，补齐了过往视频蒸馏只识别音频、丢失画面图表信息的短板。而且还支持B站、视频号等多源视频解析，自动对齐画面、字幕与时间戳，输出可直接挂载给Agent的结构化Skill。文中还有多场景实测的案例、一键部署步骤，可以帮你把收藏夹里没时间看完的干货视频，沉淀成随时调用的知识能力。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-11-03",
-      "title": "作者这套豆包工作 + Remotion 组合依托代码来渲染生成动画，可以根据孩子年龄定制脚本、字幕与配音，讲解科学原理、历史典故，还能固化成专属技能反复调用。文中还有多套可直接复用的提示词，只需人工校验内容准确性，就能轻松做出专属启蒙动画。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "作者用 LobeHub 复盘了自己从堆角色到让任务持续滚动的实践过程，适合搭 Agent 团队的开发者做参考！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "DeepSeek 刚提出的 SuperAgent 主要是在代码领域实现 Agent 的自动化。但是这套东西很难在内容创作领域运行，代码是有衡量标准的，内容没有，每个人有自己的内容风格，每天的想法灵感都在变。所以怎么样把内容也实现自动化运行，实现内容创作领域的 SuperAgent 呢？",
+      "date": "2026-11-04",
+      "title": "AI 能批量写内容，很多账号却越发越像：有曝光，没信任；有选题，没客户。问题常常出在只顾发帖，却没想清楚“这个人为什么值得被长期关注”。Doe Koe这篇最新文章适合创作者细读。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 32,
   "updates_7d": [
+    {
+      "date": "2026-11-04",
+      "title": "让 Codex 修个小问题，它却“改—全量测—再改”。跑上半天，额度和耐心一起见底；更糟的是，一堆测试通过，真正点运行还是报错。作者给出一套可直接塞进 AGENTS.md 的收口办法。常用Codex、Claude Code却总被“自我循环”拖慢的人，可以照着改一次规则试一试。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "作者这篇文章带你用 Grok Bot，从0到1跑通整个网站的完整开发流程，全程在手机上跟云端的 Bot 对话就能完成，并且对新手非常友好。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "仓颉Skill 3.0重磅升级，补齐了过往视频蒸馏只识别音频、丢失画面图表信息的短板。而且还支持B站、视频号等多源视频解析，自动对齐画面、字幕与时间戳，输出可直接挂载给Agent的结构化Skill。文中还有多场景实测的案例、一键部署步骤，可以帮你把收藏夹里没时间看完的干货视频，沉淀成随时调用的知识能力。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "AI 能批量写内容，很多账号却越发越像：有曝光，没信任；有选题，没客户。问题常常出在只顾发帖，却没想清楚“这个人为什么值得被长期关注”。Doe Koe这篇最新文章适合创作者细读。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-11-03",
       "title": "最近最火的应该是DeepSeek Harness产品团队发布的Super Agent了。很多人说没看懂，也有很多人说，这就是自己工作的日常。作者这篇文章就是想跟大家聊一下，过去这一年观察到的Agent产品工具的演进逻辑。可能从这个过程回顾，有机会帮助我们更好理解，发生了什么？为什么走到了现在。",
@@ -178,31 +188,6 @@
     {
       "date": "2026-10-30",
       "title": "Suno 开放了 MCP 内测，无需 API Key，授权后就能在 Claude、Cursor 等主流AI工具里直接调用作曲能力，彻底告别跨窗口复制文案的割裂创作流程。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-29",
-      "title": "这篇文章深度拆解了线性注意力从 DeltaNet、GDN 到 KDA 的演进脉络，同时落地到 vLLM 里 Hybrid 混合模型的缓存工程实现，帮你看懂模型架构和推理调度之间的软硬件取舍。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-29",
-      "title": "这是面向工程师、QA 和产品经理的评估与追踪指南的第二部分，旨在帮助您测试 AI 应用的每一项变更。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-29",
-      "title": "这套七层可复用的 Claude Code 工作流，可以帮你把Opus 5.5任务做成可断点续跑、自带证据留存的可靠体系。它把项目规范、技能脚本、MCP数据源、权限钩子、独立审查子智能体、推理强度和验收目标拆解开，用固定目录结构和校验表格沉淀成果。不管是写稿还是资料核验，都不用反复重建对话，很适合长期稳定的AI工程化工作。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-29",
-      "title": "作者用同一套任务测了 Grok Bot、Muse、Dots、Instinct。实测覆盖四类共 8 个通用场景：信息与沟通（邮件、日程）、主动与定时（金融行情监控、定时买咖啡）、消费与出行闭环（订酒店、买火车票、打车）和找活动（筛选近期 AI 活动）。一起来看看他们的效果如何！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-29",
-      "title": "Skill 从去年A 社提出至今，已经成为基础配置随处可见了，但真正能用到企业办公场景下的还是屈指可数。作者根据自身的企业实用经验，汇总一下企业里不同部门最常用的几个 Skills。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
