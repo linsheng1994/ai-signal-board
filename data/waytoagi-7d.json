@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T11:31:48.813776Z",
+  "generated_at": "2026-11-07T17:29:36.120205Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -43,7 +43,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 31,
   "updates_7d": [
     {
       "date": "2026-11-06",
@@ -198,31 +198,6 @@
     {
       "date": "2026-11-02",
       "title": "Kimi 全新推出面向游戏团队的创意开发方案，依托 K3.1 Pro、Kimi Code 与 Kimi Work 智能体，打通了 Godot、Unity、UE、Blender 等主流工具。它可以快速搭建可试玩原型、自动排查美术模型问题、直接迭代引擎工程，同时覆盖投放素材制作、玩家反馈归集、本地化与 UGC 审核等运营环节。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-01",
-      "title": "阿真两个月的GrokBot落地实战，给想搭建个人Agent系统的人提供了一套可复用的方案。另外还点明了GrokBot的短板与额度避坑技巧，还对比了 Muse，适合想搭建自动化个人 Agent 体系的人参考。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-01",
-      "title": "这一周的精选 AI论文有个很明显的信号：AI 系统开始从“把更强模型塞进更多 Agent”，转向让检索、验证、记忆和模型协作各自做更确定的事。想把 Agent 做稳的人，这批研究比单纯看模型榜单更有参考价值。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-01",
-      "title": "姚金刚和向阳乔木老师今年在WaytoAGI的第六场GEO公开课。这次公开课，主要的分享主题，是海外GEO，直播公开课涉及到的PPT、开源系统、GEO原理演示工具链接及白皮书获取方式，已附在了文末。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-01",
-      "title": "OpenAI 在12月份的额度新规牵动了不少重度用户：ChatGPT高级对话与Codex将共用Token池，仅Instant快速对话不计入额度。作者的真实体验帮你提前看清订阅成本变化，看懂和Claude体系一样的计费逻辑，避免后续想用强推理模型时束手束脚。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-01",
-      "title": "DeepSeek 最近的一篇文章提出一个非常基础但又很重要的问题：当模型已经能够独立完成复杂任务，为什么人还需要亲自管理一堆 Session？这个问题背后，涉及 Agent 系统架构、人与 Agent 的协作方式，以及未来 Personal Agent 的产品形态。来看看作者的一些看法。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
