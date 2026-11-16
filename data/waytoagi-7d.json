@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T07:03:36.670674Z",
+  "generated_at": "2026-11-16T17:17:18.210144Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -28,7 +28,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 30,
   "updates_7d": [
     {
       "date": "2026-11-15",
@@ -178,41 +178,6 @@
     {
       "date": "2026-11-11",
       "title": "Google正式开放Gemini 4 Carbon，主打深度推理与长周期Agent任务，拥有百万token统一上下文窗口，还支持三档推理深度调节。它适合Bug审查、架构设计、科学推导等高难度场景，可搭配Argon、Flash组成多智能体分工流水线。文中附带定价、迁移要点与五条落地实战技巧，可以上手试试。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "当 Agent 一句话就能写出能跑的代码，工程师还该练什么？斯坦福 CS146S 的老师一边教学生，一边在真实团队部署 Agent，把这个问题带进了开源贡献、维护者审阅和团队协作。一起看看下一代工程师的竞争力到底在哪里！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "作者这篇文章把 AI 短剧和电影短片的写法区别细细拆解了下：短剧要让观众想追下一集，短片则要把故事和情绪完整收住。作者从一句话判断选题，到拆分集、排镜头、写台词，用一部 69 集短剧和一部 4 分钟短片带着你完整走一遍，还给到了审稿清单、提示词和剧本 Skill。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "作者用豆包里的 Seedream 5.5，给 LLM 推理和后训练画了三张原理图。第一张定稿之后，又在同一个对话里对它连续提了 30 轮修改，每轮改一两处。看看最终生成的效果如何！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "作者在灰度到 GPT-6.2 Sol 后，连跑了代码动画、交互式 3D、网站设计和 AI 剪辑等案例，还放出了成片供大家对照。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "Seedream 5.5 到底能解决多少？这份测评用 20 张同题实测，结合第三方盲测，把多轮改图、写实质感、文字排版和透明素材逐项摊开看，也没藏着限色设计、像素风容易翻车的问题。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "MiniMax 开源 H3-Image 图像模型，10秒就能产出4096×4096的4K高清图，兼顾细节真实感、出色指令理解，最多支持16张参考图，而且还是同档位主流工具的5至7折。不管是二次微调的开发者，还是追求高效出图的创作者，都能拿到高性价比的视觉生成方案。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "C 盘又红了，明明没装多少东西，AI 工具留下的模型、临时文件和开发缓存却越攒越多。自己删怕把环境搞坏，装清理软件又不放心。作者把系统盘排查、AI 缓存清理和装模型前的配置检查，做成了一个豆包工作 Skill。有需要可以试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
