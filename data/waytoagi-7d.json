@@ -1,65 +1,75 @@
 {
-  "generated_at": "2026-11-20T04:09:38.080978Z",
+  "generated_at": "2026-11-20T21:25:51.300165Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-11-19",
-  "count_today": 10,
+  "latest_date": "2026-11-20",
+  "count_today": 6,
   "updates_today": [
     {
-      "date": "2026-11-19",
-      "title": "这篇文章用一条约48秒的短片，从人物定妆讲到最后一击。Claude/Codex写分镜，Seedance生成动态，每一步都附图片和可复制的提示词。",
+      "date": "2026-11-20",
+      "title": "想要摸清AI会不会主动推荐你的产品，这套可复用的AI可见性测试方法值得参考。作者以Notta Memo出海测试为案例，依托NIST、IAB行业标准，讲解了提示词设计、变量固定、结果判定、基线留存与复测逻辑，附带日志记录模板。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-11-19",
-      "title": "这篇文章按怎么安装、怎么部署、怎么使用、怎么控制四个维度，把可落地的长视频数字人完整方案拆解的很细。",
+      "date": "2026-11-20",
+      "title": "想搭建自动化资讯短视频流水线的朋友别错过阿真这套Skill。她在多款主流大模型上实测对比之后发现，只要输入文稿即可自动生成配套画面，而且还有稳定的排版与灵活的动效，不用每次反复调试。可以上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-11-19",
-      "title": "越来越多的开发者使用编码智能体来编写代码、运行检查和开启 PR。随着更多开发团队朝着 “软件工厂” 的方向发展，审批成为下一个瓶颈。跨多个仓库的常规修复和依赖更新可能会让工程师面对不断增加的待审批 PR 队列。",
+      "date": "2026-11-20",
+      "title": "想低成本用 Agent 复刻 App 的开发者可以参考这套落地方案。作者依托 DeepSeek Harness，采用净室复刻思路，通过 ADB 真机采集解析界面，完整复刻了 Gemini Flow，花费了7个小时仅21元就跑通了全部功能。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-11-19",
-      "title": "谷歌 Gemini 4 Neon 重磅上线，与氩、碳、氢模型各司其职，定位是 Agent 集群调度中枢，对标 Opus、Sol。它可以调度子代理协同攻坚，独立搭建复杂 3D 场景、前端工程，在多项基准测试中都胜过竞品。开发者们可以上手试试！",
+      "date": "2026-11-20",
+      "title": "做漫剧，大家都盯着人物，场景往往是最后才想起来的。看了这篇文章，做漫剧你再也不会为了场景而苦恼。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-11-19",
-      "title": "斯坦福新课CS329Z聚焦AI Agent工程落地，围绕Harness、编排框架、记忆机制、多智能体、评测与安全搭建了一套完整体系，适合有基础的开发者系统学习。",
+      "date": "2026-11-20",
+      "title": "GPT-6.2 Astra的表现两极分化，作者这篇文章拆解了其中四类典型问题，同时还对比了它的成本优势与适配场景。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-11-19",
-      "title": "可灵的新图像模型 Kling Image 4.0 来了，可以直接出原生8K图了。而且它的组图功能，也让我们不用一张一张反复交代同样的要求。老金这篇文章教你 有了清晰的大图，怎么把它做成你真正要用的广告、穿搭组图和商品长图？",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-19",
-      "title": "元子在搭建了18个AI助手后，却被源源不断的消息与待办裹挟，后来幡然醒悟：AI可以近乎零成本完成执行，却替代不了人的在场成本，注意力才是人机协作的核心。还给出了可直接复用的注意力保护方案：任务分层归档、沉淀个人偏好准则、严格控制每日高专注时长。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-19",
-      "title": "作者的开源项目 lemo-animi，是一个Codex和Claude都可以使用的定格动画插件。感兴趣可以下载试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-19",
-      "title": "作者分享了独立制作AI商业广告片的全流程，或许可以帮你避开堆砌特效、叙事空洞的坑，做出贴合产品价值的商业短片。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-19",
-      "title": "《 。》作者开源了基于DeepSeek Harness搭建的公众号成稿台，把原本散落在各处的AI能力整合到了一个统一的工作台。不仅支持定向分段改稿、AI内容质检、自定义IP封面、智能配图与SVG动画生成，一站式完成排版，还附带排期和数据复盘，沉淀经验复用为Skill。插件可灵活替换技能与画风，适配个人创作习惯。快来上手试试！",
+      "date": "2026-11-20",
+      "title": "AI记忆带来便捷的同时，也暗藏困住人的风险。作者因写入“小白讲师”标签，导致AI持续把机会局限在培训赛道，不断强化刻板印象，甚至让自己慢慢认同这个单一身份。这篇思考给高频使用 Agent 的人也敲了警钟，提醒我们在人机共生中，别让 AI 的记忆框住自己更多潜在方向。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
   "count_7d": 42,
   "updates_7d": [
+    {
+      "date": "2026-11-20",
+      "title": "想要摸清AI会不会主动推荐你的产品，这套可复用的AI可见性测试方法值得参考。作者以Notta Memo出海测试为案例，依托NIST、IAB行业标准，讲解了提示词设计、变量固定、结果判定、基线留存与复测逻辑，附带日志记录模板。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "想搭建自动化资讯短视频流水线的朋友别错过阿真这套Skill。她在多款主流大模型上实测对比之后发现，只要输入文稿即可自动生成配套画面，而且还有稳定的排版与灵活的动效，不用每次反复调试。可以上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "想低成本用 Agent 复刻 App 的开发者可以参考这套落地方案。作者依托 DeepSeek Harness，采用净室复刻思路，通过 ADB 真机采集解析界面，完整复刻了 Gemini Flow，花费了7个小时仅21元就跑通了全部功能。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "做漫剧，大家都盯着人物，场景往往是最后才想起来的。看了这篇文章，做漫剧你再也不会为了场景而苦恼。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "GPT-6.2 Astra的表现两极分化，作者这篇文章拆解了其中四类典型问题，同时还对比了它的成本优势与适配场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "AI记忆带来便捷的同时，也暗藏困住人的风险。作者因写入“小白讲师”标签，导致AI持续把机会局限在培训赛道，不断强化刻板印象，甚至让自己慢慢认同这个单一身份。这篇思考给高频使用 Agent 的人也敲了警钟，提醒我们在人机共生中，别让 AI 的记忆框住自己更多潜在方向。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-11-19",
       "title": "这篇文章用一条约48秒的短片，从人物定妆讲到最后一击。Claude/Codex写分镜，Seedance生成动态，每一步都附图片和可复制的提示词。",
@@ -238,36 +248,6 @@
     {
       "date": "2026-11-15",
       "title": "AI 明明答错了，为什么还能说得头头是道？作者从 token入手，用出生年份、数学判断和虚构论文等例子，解释了模型如何逐步生成回答，以及一个错误细节怎样带出一整段看似合理的解释。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-14",
-      "title": "让AI把页面“做得高级一点”，改了几轮还是不满意？很多时候，我们缺的是具体的参考，以及说清“哪里好看”的能力。作者整理了 100 个设计网站，按视频、UI、前端交互、字体配色等 9 类划分，标明了用途和付费情况，方便按项目找灵感。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-14",
-      "title": "老金从卖出第一套提示词的经历讲起，分享了普通人用 AI 变现的一条实际路径：从哪里找客户、哪些需求值得接、怎样把事情聊清楚并做好交付。如果你也想迈出第一步，不妨看看他的经验，找到自己能做、也有人愿意付钱的小生意。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-14",
-      "title": "用 AI 写了不少内容，客户和合作机会却没增加？作者用 Grok Bot 搜集行业动态、潜在客户、赞助商和招聘线索，再用 Claude 整理内容策略、合作提案与服务方案，轻松实现在线月入一万美元。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-14",
-      "title": "你是不是也想用 AI 做科普动画，但装好Skill才发现输出的是网页。作者整理了 11 个项目，从讲解配图、交互演示到成片制作，逐一说明了能交付什么、需要哪些环境，以及费用可能花在哪。可以看看哪些适合你！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-14",
-      "title": "作者分享了团队用 Hermes 连续实践 4 个月、每天处理 200 多项自动化任务的经验。希望大家在 Personal AI Agent 之外，也会对企业级 Agent OS 的设计、架构以及应用层有一些常规的认识。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-14",
-      "title": "Anthropic发布了可落地的在线Agent架构最佳实践，打破了“7×24运行=持续耗Token”的误区。文中给出了队列去重、记忆精简、凭证隔离等实操准则，适合需要处理长周期任务的开发团队做参考。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
